@@ -1,1 +1,1 @@
-# JSON GeoBlacklight Schema Metadata Records for Index Maps
+# GeoBlacklight Schema Metadata JSON Files for Index Maps
