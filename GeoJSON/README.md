@@ -1,1 +1,1 @@
-# GBLIndexMaps
+# Finished GeoJSON Index Map Files

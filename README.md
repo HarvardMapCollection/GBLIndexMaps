@@ -1,1 +1,1 @@
-# GBLIndexMaps
+# Files and documenation related to the Harvard Map Collection S.T. Lee grant/GeoBlacklight Series Index Maps project

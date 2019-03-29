@@ -1,1 +1,1 @@
-# GBLIndexMaps
+# Local documentation for GeoBlacklight Index Maps project

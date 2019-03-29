@@ -1,1 +1,1 @@
-# GBLIndexMaps
+# Source Index Map Images

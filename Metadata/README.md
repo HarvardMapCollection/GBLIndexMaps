@@ -1,1 +1,1 @@
-# GBLIndexMaps
+# JSON GeoBlacklight Schema Metadata Records for Index Maps
