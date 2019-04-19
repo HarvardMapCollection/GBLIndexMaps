@@ -1,6 +1,6 @@
 {
   "dc_identifier_s": "HARVARD.G7620_S253_U5_INDEX_GR",
-  "dc_title_s": "[Iraq and Iran 1:253,440, Map Series Index, 1940-",
+  "dc_title_s": "Iraq and Iran 1:253,440, Map Series Index, 1940-",
   "dc_description_s": "This polygon is an index to 1:253,440 scale maps of Iraq and Iran (GSGS Series 3919), titled [Iraq and Iran 1:253,440]. This map series was originally produced by the United States Army Map Service, 1940-.  Some sheets in this series also published by the Great Britain. War Office. General Staff. Geographical Section. This series is part of a large collection of paper series maps held by the Harvard Map Collection and is part of an S.T. Lee grant pilot project to create digital georeferenced indexes for a portion of the paper map collection. To create this index, footprints were generated using the fishnet tool, and metadata were supplied for the individual paper maps by the Harvard Map Collection. After the footprints were created, the shapefile was trimmed and labeled according to the sources. This layer provides an index map that can be used to locate individual sheets and scanned map images when available.",
   "dc_rights_s": "Public",
   "dct_provenance_s": "Harvard",
