@@ -1,9 +1,0 @@
-1) Projected shapefile to WGS 84 G5831_R3_s20_F7_prj.shp
-2) Deleted extraneous fields, including "scale" 
-3) selected those with images, wrote to new shapefile G5831_R3_s20_F7_images.shp
-4) exported to geojson images.geojson
-5) refactored to test boolean transformation and rename attributes refactored.geojson
-	a)boolean transform failed, calculated available=true
-	b)even after calculating, the boolean field remained empty after save.  
-	c) need to keep it as a string then edit plain text.
-6) edited to remove /\ and change multipoly to polygon
