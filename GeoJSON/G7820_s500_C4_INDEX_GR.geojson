@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "G7820_s500_C4refactored",
+"name": "G7820_s500_C4",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "available": false, "recordIdentifier": "G7820 s500 .C4", "title": "Zhongguo we shi wan fen zhi yi tu", "year": "1916", "websiteUrl": "http:\/\/id.lib.harvard.edu\/alma\/990139209380203941\/catalog", "downloadUrl": "", "iiifUrl": "", "label": "W14-S11", "thumbnailUrl": "", "note": "View in Library: https:\/\/aeon.hul.harvard.edu\/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139209380203941&sublib=MAP&collection=LC&callnum=G7820+s500+C4&title=Zhongguo+we+shi+wan+fen+zhi+yi+tu&description=sheet+W14-S11" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 73.0, 16.0 ], [ 76.0, 16.0 ], [ 76.0, 18.0 ], [ 73.0, 18.0 ], [ 73.0, 16.0 ] ] ] } },

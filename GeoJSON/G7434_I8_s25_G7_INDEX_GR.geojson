@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "G7434_I8_s25_G7REFACTORED",
+"name": "G7434_I8_s25_G7",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "available": false, "recordIdentifier": " G7434.I8 s25 .G7", "title":"1:25,000 Istanbul", "year": "1943-1944", "websiteUrl": "http:\/\/id.lib.harvard.edu\/alma\/990143319280203941\/catalog", "downloadUrl": "", "iiifUrl": "", "label": "43", "thumbnailUrl": "", "note": "View in Library: https:\/\/aeon.hul.harvard.edu\/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143319280203941&sublib=MAP&collection=LC&callnum=+G7434I8+s25+G7&title=1:25,000+Istanbul&description=sheet+43" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 28.867994426856267, 40.865617034403947 ], [ 28.880394426856267, 40.958017034403944 ], [ 28.762494426856264, 40.957817034403945 ], [ 28.724694426856267, 40.957617034403945 ], [ 28.712894426856266, 40.866017034403946 ], [ 28.867994426856267, 40.865617034403947 ] ] ] } },
