@@ -1,0 +1,881 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 0,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -16.496949868467834,
+              13.992086971273563
+            ],
+            [
+              -16.497434846431851,
+              14.247003661155857
+            ],
+            [
+              -16.880725705884618,
+              14.245541049366693
+            ],
+            [
+              -16.880820492520154,
+              14.238681192700717
+            ],
+            [
+              -16.884929861838501,
+              14.235814998728831
+            ],
+            [
+              -16.885906777015023,
+              13.992086971273563
+            ],
+            [
+              -16.496949868467834,
+              13.992086971273563
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 0,
+        "Shape_Leng" : 144555.78644900001,
+        "Shape_Area" : 1260414255.9100001,
+        "available" : false,
+        "recordIdentifier" : "G8810_s100_G4",
+        "title" : "Senegal 1:100000",
+        "year" : "1941",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143831140203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Joal",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -16.128091010891378,
+              13.745420587522409
+            ],
+            [
+              -16.496484065941853,
+              13.746983214650509
+            ],
+            [
+              -16.49600487043335,
+              13.494563887250971
+            ],
+            [
+              -16.128599830143031,
+              13.49124049900518
+            ],
+            [
+              -16.128091010891378,
+              13.745420587522409
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 1,
+        "Shape_Leng" : 139937.02645,
+        "Shape_Area" : 1188210462.54,
+        "available" : true,
+        "recordIdentifier" : "G8810_s100_G4",
+        "title" : "Senegal 1:100000",
+        "year" : "1941",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143831140203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Coular",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143831140203941&sublib=MAP&collection=LC&callnum=G8810_s100_G4&description=sheet+Coular"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -17.251633494860037,
+              14.502093304932812
+            ],
+            [
+              -17.249664524301146,
+              14.502111379774249
+            ],
+            [
+              -17.249686312938376,
+              14.498631226800363
+            ],
+            [
+              -16.8772562855949,
+              14.496484969512942
+            ],
+            [
+              -16.873756804980804,
+              14.749315556935594
+            ],
+            [
+              -17.248101942593671,
+              14.751550175495764
+            ],
+            [
+              -17.248196134544461,
+              14.751548939327158
+            ],
+            [
+              -17.251633494860037,
+              14.502102209725475
+            ],
+            [
+              -17.251633494860037,
+              14.502093304932812
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 2,
+        "Shape_Leng" : 141553.75934700001,
+        "Shape_Area" : 1212601905.74,
+        "available" : false,
+        "recordIdentifier" : "G8810_s100_G4",
+        "title" : "Senegal 1:100000",
+        "year" : "1941",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143831140203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Bandia",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -16.498868945697499,
+              14.999101433016671
+            ],
+            [
+              -16.87022583572109,
+              15.000667823553783
+            ],
+            [
+              -16.87022583572109,
+              14.997301278617758
+            ],
+            [
+              -16.87032041933735,
+              14.997302140260631
+            ],
+            [
+              -16.873756804980804,
+              14.749315556935594
+            ],
+            [
+              -16.498387832285825,
+              14.747074803089975
+            ],
+            [
+              -16.498868945697499,
+              14.999101433016671
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 3,
+        "Shape_Leng" : 141118.22693500001,
+        "Shape_Area" : 1204982329.1400001,
+        "available" : false,
+        "recordIdentifier" : "G8810_s100_G4",
+        "title" : "Senegal 1:100000",
+        "year" : "1941",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143831140203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Tiuaouane",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -16.125576257203534,
+              14.997526865798658
+            ],
+            [
+              -16.125068277876665,
+              15.249584840660921
+            ],
+            [
+              -16.499350947542968,
+              15.251296226118688
+            ],
+            [
+              -16.498868945697499,
+              14.999101433016671
+            ],
+            [
+              -16.125576257203534,
+              14.997526865798658
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 4,
+        "Shape_Leng" : 141368.014631,
+        "Shape_Area" : 1209751395.03,
+        "available" : false,
+        "recordIdentifier" : "G8810_s100_G4",
+        "title" : "Senegal 1:100000",
+        "year" : "1941",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143831140203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Tilmakha",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -16.8772562855949,
+              14.496484969512942
+            ],
+            [
+              -17.249686312938376,
+              14.498631226800363
+            ],
+            [
+              -17.251282191600165,
+              14.243583075392962
+            ],
+            [
+              -16.884928894352928,
+              14.236056261244293
+            ],
+            [
+              -16.884929861838501,
+              14.235814998728831
+            ],
+            [
+              -16.880820492520154,
+              14.238681192700717
+            ],
+            [
+              -16.8772562855949,
+              14.496484969512942
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 5,
+        "Shape_Leng" : 141779.517047,
+        "Shape_Area" : 1224906605.72,
+        "available" : true,
+        "recordIdentifier" : "G8810_s100_G4",
+        "title" : "Senegal 1:100000",
+        "year" : "1941",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143831140203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Mbour",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143831140203941&sublib=MAP&collection=LC&callnum=G8810_s100_G4&description=sheet+Mbour"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -16.497434846431851,
+              14.247003661155857
+            ],
+            [
+              -16.497905848406663,
+              14.494298810238874
+            ],
+            [
+              -16.8772562855949,
+              14.496484969512942
+            ],
+            [
+              -16.880725705884618,
+              14.245541049366693
+            ],
+            [
+              -16.497434846431851,
+              14.247003661155857
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 6,
+        "Shape_Leng" : 142155.86267999999,
+        "Shape_Area" : 1215205662.52,
+        "available" : false,
+        "recordIdentifier" : "G8810_s100_G4",
+        "title" : "Senegal 1:100000",
+        "year" : "1941",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143831140203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Diouroup",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -16.127082470525274,
+              14.248416892371967
+            ],
+            [
+              -16.126592947984236,
+              14.492158948754726
+            ],
+            [
+              -16.497905848406663,
+              14.494298810238874
+            ],
+            [
+              -16.497434846431851,
+              14.247003661155857
+            ],
+            [
+              -16.127082470525274,
+              14.248416892371967
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 7,
+        "Shape_Leng" : 138990.56513900001,
+        "Shape_Area" : 1164691341.3800001,
+        "available" : true,
+        "recordIdentifier" : "G8810_s100_G4",
+        "title" : "Senegal 1:100000",
+        "year" : "1941",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143831140203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Fatick",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143831140203941&sublib=MAP&collection=LC&callnum=G8810_s100_G4&description=sheet+Fatick"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -16.127590838822652,
+              13.995012480472749
+            ],
+            [
+              -16.127082470525274,
+              14.248416892371967
+            ],
+            [
+              -16.497434846431851,
+              14.247003661155857
+            ],
+            [
+              -16.496952716127264,
+              13.993584595018062
+            ],
+            [
+              -16.127590838822652,
+              13.995012480472749
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 8,
+        "Shape_Leng" : 140522.713494,
+        "Shape_Area" : 1197647600.6600001,
+        "available" : false,
+        "recordIdentifier" : "G8810_s100_G4",
+        "title" : "Senegal 1:100000",
+        "year" : "1941",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143831140203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Foundiougne",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -16.496484065941853,
+              13.746983214650509
+            ],
+            [
+              -16.886881536234878,
+              13.748639167388976
+            ],
+            [
+              -16.887883597052852,
+              13.498108602618093
+            ],
+            [
+              -16.49600487043335,
+              13.494563887250971
+            ],
+            [
+              -16.496484065941853,
+              13.746983214650509
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 9,
+        "Shape_Leng" : 144693.843586,
+        "Shape_Area" : 1254187073.4000001,
+        "available" : true,
+        "recordIdentifier" : "G8810_s100_G4",
+        "title" : "Senegal 1:100000",
+        "year" : "1941",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143831140203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Djinnak",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143831140203941&sublib=MAP&collection=LC&callnum=G8810_s100_G4&description=sheet+Djinnak"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -16.128091010891378,
+              13.745420587522409
+            ],
+            [
+              -16.127590838822652,
+              13.995012480472749
+            ],
+            [
+              -16.496952716127264,
+              13.993584595018062
+            ],
+            [
+              -16.496484065941853,
+              13.746983214650509
+            ],
+            [
+              -16.128091010891378,
+              13.745420587522409
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 10,
+        "Shape_Leng" : 139022.35121299999,
+        "Shape_Area" : 1168147445.1199999,
+        "available" : false,
+        "recordIdentifier" : "G8810_s100_G4",
+        "title" : "Senegal 1:100000",
+        "year" : "1941",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143831140203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Sokone",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -16.885906777015023,
+              13.992086971273563
+            ],
+            [
+              -16.886881536234878,
+              13.748639167388976
+            ],
+            [
+              -16.496484065941853,
+              13.746983214650509
+            ],
+            [
+              -16.496949868467834,
+              13.992086971273563
+            ],
+            [
+              -16.885906777015023,
+              13.992086971273563
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 11,
+        "Shape_Leng" : 142776.73739200001,
+        "Shape_Area" : 1215011622.52,
+        "available" : true,
+        "recordIdentifier" : "G8810_s100_G4",
+        "title" : "Senegal 1:100000",
+        "year" : "1941",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143831140203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Djomboss",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143831140203941&sublib=MAP&collection=LC&callnum=G8810_s100_G4&description=sheet+Djomboss"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -16.873756804980804,
+              14.749315556935594
+            ],
+            [
+              -16.87032041933735,
+              14.997302140260631
+            ],
+            [
+              -17.244570390327304,
+              15.000712512000513
+            ],
+            [
+              -17.248101942593671,
+              14.751550175495764
+            ],
+            [
+              -16.873756804980804,
+              14.749315556935594
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 12,
+        "Shape_Leng" : 140602.400669,
+        "Shape_Area" : 1193067742.25,
+        "available" : false,
+        "recordIdentifier" : "G8810_s100_G4",
+        "title" : "Senegal 1:100000",
+        "year" : "1941",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143831140203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Thies",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -16.498387832285825,
+              14.747074803089975
+            ],
+            [
+              -16.873756804980804,
+              14.749315556935594
+            ],
+            [
+              -16.8772562855949,
+              14.496484969512942
+            ],
+            [
+              -16.497905848406663,
+              14.494298810238874
+            ],
+            [
+              -16.498387832285825,
+              14.747074803089975
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 13,
+        "Shape_Leng" : 142186.968838,
+        "Shape_Area" : 1221784123.73,
+        "available" : true,
+        "recordIdentifier" : "G8810_s100_G4",
+        "title" : "Senegal 1:100000",
+        "year" : "1941",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143831140203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Fissel",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143831140203941&sublib=MAP&collection=LC&callnum=G8810_s100_G4&description=sheet+Fissel"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -16.126084878825825,
+              14.744852329507067
+            ],
+            [
+              -16.498387832285825,
+              14.747074803089975
+            ],
+            [
+              -16.497905848406663,
+              14.494298810238874
+            ],
+            [
+              -16.126592947984236,
+              14.492158948754726
+            ],
+            [
+              -16.126084878825825,
+              14.744852329507067
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 14,
+        "Shape_Leng" : 140931.98395600001,
+        "Shape_Area" : 1203428552.52,
+        "available" : true,
+        "recordIdentifier" : "G8810_s100_G4",
+        "title" : "Senegal 1:100000",
+        "year" : "1941",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143831140203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Diourbel",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143831140203941&sublib=MAP&collection=LC&callnum=G8810_s100_G4&description=sheet+Diourbel"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -16.498868945697499,
+              14.999101433016671
+            ],
+            [
+              -16.499350947542968,
+              15.251296226118688
+            ],
+            [
+              -16.87022583572109,
+              15.252992016630845
+            ],
+            [
+              -16.87022583572109,
+              15.004123690962146
+            ],
+            [
+              -16.87022583572109,
+              15.000667823553783
+            ],
+            [
+              -16.498868945697499,
+              14.999101433016671
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 15,
+        "Shape_Leng" : 140804.25670900001,
+        "Shape_Area" : 1201742317.23,
+        "available" : false,
+        "recordIdentifier" : "G8810_s100_G4",
+        "title" : "Senegal 1:100000",
+        "year" : "1941",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143831140203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Mekhe",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -16.125576257203534,
+              14.997526865798658
+            ],
+            [
+              -16.498868945697499,
+              14.999101433016671
+            ],
+            [
+              -16.498387832285825,
+              14.747074803089975
+            ],
+            [
+              -16.126084878825825,
+              14.744852329507067
+            ],
+            [
+              -16.125576257203534,
+              14.997526865798658
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 16,
+        "Shape_Leng" : 141131.05738099999,
+        "Shape_Area" : 1206197185.1500001,
+        "available" : true,
+        "recordIdentifier" : "G8810_s100_G4",
+        "title" : "Senegal 1:100000",
+        "year" : "1941",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143831140203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Gaouane",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143831140203941&sublib=MAP&collection=LC&callnum=G8810_s100_G4&description=sheet+Gaouane"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -17.251633494860037,
+              14.502093304932812
+            ],
+            [
+              -17.251633494860037,
+              14.502102209725475
+            ],
+            [
+              -17.248196134544461,
+              14.751548939327158
+            ],
+            [
+              -17.632970425145047,
+              14.74650039084689
+            ],
+            [
+              -17.626984355722239,
+              14.49864760860449
+            ],
+            [
+              -17.251633494860037,
+              14.502093304932812
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 17,
+        "Shape_Leng" : 141846.77759499999,
+        "Shape_Area" : 1210382115.6099999,
+        "available" : false,
+        "recordIdentifier" : "G8810_s100_G4",
+        "title" : "Senegal 1:100000",
+        "year" : "1941",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143831140203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Dakar",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    }
+  ]
+}
