@@ -1,0 +1,3085 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 0,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -78,
+              19.5
+            ],
+            [
+              -77.5,
+              19.5
+            ],
+            [
+              -77.5,
+              20
+            ],
+            [
+              -78,
+              20
+            ],
+            [
+              -78,
+              19.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 0,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "46",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+46"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -77.5,
+              19.5
+            ],
+            [
+              -77,
+              19.5
+            ],
+            [
+              -77,
+              20
+            ],
+            [
+              -77.5,
+              20
+            ],
+            [
+              -77.5,
+              19.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 1,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "51",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+51"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -77,
+              19.5
+            ],
+            [
+              -76.5,
+              19.5
+            ],
+            [
+              -76.5,
+              20
+            ],
+            [
+              -77,
+              20
+            ],
+            [
+              -77,
+              19.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 2,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "55",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+55"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -76.5,
+              19.5
+            ],
+            [
+              -76,
+              19.5
+            ],
+            [
+              -76,
+              20
+            ],
+            [
+              -76.5,
+              20
+            ],
+            [
+              -76.5,
+              19.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 3,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "59",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+59"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -76,
+              19.5
+            ],
+            [
+              -75.5,
+              19.5
+            ],
+            [
+              -75.5,
+              20
+            ],
+            [
+              -76,
+              20
+            ],
+            [
+              -76,
+              19.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 4,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "63",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+63"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -75.5,
+              19.5
+            ],
+            [
+              -75,
+              19.5
+            ],
+            [
+              -75,
+              20
+            ],
+            [
+              -75.5,
+              20
+            ],
+            [
+              -75.5,
+              19.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 5,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "66",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+66"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -75,
+              19.5
+            ],
+            [
+              -74.5,
+              19.5
+            ],
+            [
+              -74.5,
+              20
+            ],
+            [
+              -75,
+              20
+            ],
+            [
+              -75,
+              19.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 6,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "69",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+69"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -78,
+              20
+            ],
+            [
+              -77.5,
+              20
+            ],
+            [
+              -77.5,
+              20.5
+            ],
+            [
+              -78,
+              20.5
+            ],
+            [
+              -78,
+              20
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 7,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "45",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+45"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -77.5,
+              20
+            ],
+            [
+              -77,
+              20
+            ],
+            [
+              -77,
+              20.5
+            ],
+            [
+              -77.5,
+              20.5
+            ],
+            [
+              -77.5,
+              20
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 8,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "50",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+50"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -77,
+              20
+            ],
+            [
+              -76.5,
+              20
+            ],
+            [
+              -76.5,
+              20.5
+            ],
+            [
+              -77,
+              20.5
+            ],
+            [
+              -77,
+              20
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 9,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "54",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+54"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -76.5,
+              20
+            ],
+            [
+              -76,
+              20
+            ],
+            [
+              -76,
+              20.5
+            ],
+            [
+              -76.5,
+              20.5
+            ],
+            [
+              -76.5,
+              20
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 10,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "58",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+58"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -76,
+              20
+            ],
+            [
+              -75.5,
+              20
+            ],
+            [
+              -75.5,
+              20.5
+            ],
+            [
+              -76,
+              20.5
+            ],
+            [
+              -76,
+              20
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 11,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "62",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+62"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -75.5,
+              20
+            ],
+            [
+              -75,
+              20
+            ],
+            [
+              -75,
+              20.5
+            ],
+            [
+              -75.5,
+              20.5
+            ],
+            [
+              -75.5,
+              20
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 12,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "65",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+65"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -75,
+              20
+            ],
+            [
+              -74.5,
+              20
+            ],
+            [
+              -74.5,
+              20.5
+            ],
+            [
+              -75,
+              20.5
+            ],
+            [
+              -75,
+              20
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 13,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "68",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+68"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -74.5,
+              20
+            ],
+            [
+              -74,
+              20
+            ],
+            [
+              -74,
+              20.5
+            ],
+            [
+              -74.5,
+              20.5
+            ],
+            [
+              -74.5,
+              20
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 14,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "70",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+70"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -78.5,
+              20.5
+            ],
+            [
+              -78,
+              20.5
+            ],
+            [
+              -78,
+              21
+            ],
+            [
+              -78.5,
+              21
+            ],
+            [
+              -78.5,
+              20.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 15,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "41",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+41"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -78,
+              20.5
+            ],
+            [
+              -77.5,
+              20.5
+            ],
+            [
+              -77.5,
+              21
+            ],
+            [
+              -78,
+              21
+            ],
+            [
+              -78,
+              20.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 16,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "44",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+44"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -77.5,
+              20.5
+            ],
+            [
+              -77,
+              20.5
+            ],
+            [
+              -77,
+              21
+            ],
+            [
+              -77.5,
+              21
+            ],
+            [
+              -77.5,
+              20.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 17,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "49",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+49"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -77,
+              20.5
+            ],
+            [
+              -76.5,
+              20.5
+            ],
+            [
+              -76.5,
+              21
+            ],
+            [
+              -77,
+              21
+            ],
+            [
+              -77,
+              20.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 18,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "53",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+53"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 19,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -76.5,
+              20.5
+            ],
+            [
+              -76,
+              20.5
+            ],
+            [
+              -76,
+              21
+            ],
+            [
+              -76.5,
+              21
+            ],
+            [
+              -76.5,
+              20.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 19,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "57",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+57"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 20,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -76,
+              20.5
+            ],
+            [
+              -75.5,
+              20.5
+            ],
+            [
+              -75.5,
+              21
+            ],
+            [
+              -76,
+              21
+            ],
+            [
+              -76,
+              20.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 20,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "61",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+61"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 21,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -75.5,
+              20.5
+            ],
+            [
+              -75,
+              20.5
+            ],
+            [
+              -75,
+              21
+            ],
+            [
+              -75.5,
+              21
+            ],
+            [
+              -75.5,
+              20.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 21,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "64",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+64"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 22,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -75,
+              20.5
+            ],
+            [
+              -74.5,
+              20.5
+            ],
+            [
+              -74.5,
+              21
+            ],
+            [
+              -75,
+              21
+            ],
+            [
+              -75,
+              20.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 22,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "67",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+67"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 23,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -79,
+              21
+            ],
+            [
+              -78.5,
+              21
+            ],
+            [
+              -78.5,
+              21.5
+            ],
+            [
+              -79,
+              21.5
+            ],
+            [
+              -79,
+              21
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 23,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "37",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+37"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 24,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -78.5,
+              21
+            ],
+            [
+              -78,
+              21
+            ],
+            [
+              -78,
+              21.5
+            ],
+            [
+              -78.5,
+              21.5
+            ],
+            [
+              -78.5,
+              21
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 24,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "40",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+40"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 25,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -78,
+              21
+            ],
+            [
+              -77.5,
+              21
+            ],
+            [
+              -77.5,
+              21.5
+            ],
+            [
+              -78,
+              21.5
+            ],
+            [
+              -78,
+              21
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 25,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "43",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+43"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 26,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -77.5,
+              21
+            ],
+            [
+              -77,
+              21
+            ],
+            [
+              -77,
+              21.5
+            ],
+            [
+              -77.5,
+              21.5
+            ],
+            [
+              -77.5,
+              21
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 26,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "48",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+48"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 27,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -77,
+              21
+            ],
+            [
+              -76.5,
+              21
+            ],
+            [
+              -76.5,
+              21.5
+            ],
+            [
+              -77,
+              21.5
+            ],
+            [
+              -77,
+              21
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 27,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "52",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+52"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 28,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -76.5,
+              21
+            ],
+            [
+              -76,
+              21
+            ],
+            [
+              -76,
+              21.5
+            ],
+            [
+              -76.5,
+              21.5
+            ],
+            [
+              -76.5,
+              21
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 28,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "56",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+56"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 29,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -76,
+              21
+            ],
+            [
+              -75.5,
+              21
+            ],
+            [
+              -75.5,
+              21.5
+            ],
+            [
+              -76,
+              21.5
+            ],
+            [
+              -76,
+              21
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 29,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "60",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+60"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 30,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -85,
+              21.5
+            ],
+            [
+              -84.5,
+              21.5
+            ],
+            [
+              -84.5,
+              22
+            ],
+            [
+              -85,
+              22
+            ],
+            [
+              -85,
+              21.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 30,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "2",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+2"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 31,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -84.5,
+              21.5
+            ],
+            [
+              -84,
+              21.5
+            ],
+            [
+              -84,
+              22
+            ],
+            [
+              -84.5,
+              22
+            ],
+            [
+              -84.5,
+              21.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 31,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "5",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+5"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 32,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -84,
+              21.5
+            ],
+            [
+              -83.5,
+              21.5
+            ],
+            [
+              -83.5,
+              22
+            ],
+            [
+              -84,
+              22
+            ],
+            [
+              -84,
+              21.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 32,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "8",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+8"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 33,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -83.5,
+              21.5
+            ],
+            [
+              -83,
+              21.5
+            ],
+            [
+              -83,
+              22
+            ],
+            [
+              -83.5,
+              22
+            ],
+            [
+              -83.5,
+              21.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 33,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "11",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+11"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 34,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -83,
+              21.5
+            ],
+            [
+              -82.5,
+              21.5
+            ],
+            [
+              -82.5,
+              22
+            ],
+            [
+              -83,
+              22
+            ],
+            [
+              -83,
+              21.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 34,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "14",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+14"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 35,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -80.5,
+              21.5
+            ],
+            [
+              -80,
+              21.5
+            ],
+            [
+              -80,
+              22
+            ],
+            [
+              -80.5,
+              22
+            ],
+            [
+              -80.5,
+              21.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 35,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "29",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+29"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 36,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -80,
+              21.5
+            ],
+            [
+              -79.5,
+              21.5
+            ],
+            [
+              -79.5,
+              22
+            ],
+            [
+              -80,
+              22
+            ],
+            [
+              -80,
+              21.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 36,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "32",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+32"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 37,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -79.5,
+              21.5
+            ],
+            [
+              -79,
+              21.5
+            ],
+            [
+              -79,
+              22
+            ],
+            [
+              -79.5,
+              22
+            ],
+            [
+              -79.5,
+              21.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 37,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "34",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+34"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 38,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -79,
+              21.5
+            ],
+            [
+              -78.5,
+              21.5
+            ],
+            [
+              -78.5,
+              22
+            ],
+            [
+              -79,
+              22
+            ],
+            [
+              -79,
+              21.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 38,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "36",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+36"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 39,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -78.5,
+              21.5
+            ],
+            [
+              -78,
+              21.5
+            ],
+            [
+              -78,
+              22
+            ],
+            [
+              -78.5,
+              22
+            ],
+            [
+              -78.5,
+              21.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 39,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "39",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+39"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 40,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -78,
+              21.5
+            ],
+            [
+              -77.5,
+              21.5
+            ],
+            [
+              -77.5,
+              22
+            ],
+            [
+              -78,
+              22
+            ],
+            [
+              -78,
+              21.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 40,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "42",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+42"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 41,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -77.5,
+              21.5
+            ],
+            [
+              -77,
+              21.5
+            ],
+            [
+              -77,
+              22
+            ],
+            [
+              -77.5,
+              22
+            ],
+            [
+              -77.5,
+              21.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 41,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "47",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+47"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 42,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -85,
+              22
+            ],
+            [
+              -84.5,
+              22
+            ],
+            [
+              -84.5,
+              22.5
+            ],
+            [
+              -85,
+              22.5
+            ],
+            [
+              -85,
+              22
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 42,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "1",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+1"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 43,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -84.5,
+              22
+            ],
+            [
+              -84,
+              22
+            ],
+            [
+              -84,
+              22.5
+            ],
+            [
+              -84.5,
+              22.5
+            ],
+            [
+              -84.5,
+              22
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 43,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "4",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+4"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 44,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -84,
+              22
+            ],
+            [
+              -83.5,
+              22
+            ],
+            [
+              -83.5,
+              22.5
+            ],
+            [
+              -84,
+              22.5
+            ],
+            [
+              -84,
+              22
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 44,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "7",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+7"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 45,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -83.5,
+              22
+            ],
+            [
+              -83,
+              22
+            ],
+            [
+              -83,
+              22.5
+            ],
+            [
+              -83.5,
+              22.5
+            ],
+            [
+              -83.5,
+              22
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 45,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "10",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+10"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 46,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -82.5,
+              22
+            ],
+            [
+              -82,
+              22
+            ],
+            [
+              -82,
+              22.5
+            ],
+            [
+              -82.5,
+              22.5
+            ],
+            [
+              -82.5,
+              22
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 46,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "17",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+17"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 47,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -82,
+              22
+            ],
+            [
+              -81.5,
+              22
+            ],
+            [
+              -81.5,
+              22.5
+            ],
+            [
+              -82,
+              22.5
+            ],
+            [
+              -82,
+              22
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 47,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "20",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+20"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 48,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -81.5,
+              22
+            ],
+            [
+              -81,
+              22
+            ],
+            [
+              -81,
+              22.5
+            ],
+            [
+              -81.5,
+              22.5
+            ],
+            [
+              -81.5,
+              22
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 48,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "23",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+23"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 49,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -81,
+              22
+            ],
+            [
+              -80.5,
+              22
+            ],
+            [
+              -80.5,
+              22.5
+            ],
+            [
+              -81,
+              22.5
+            ],
+            [
+              -81,
+              22
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 49,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "26",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+26"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 50,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -80.5,
+              22
+            ],
+            [
+              -80,
+              22
+            ],
+            [
+              -80,
+              22.5
+            ],
+            [
+              -80.5,
+              22.5
+            ],
+            [
+              -80.5,
+              22
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 50,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "28",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+28"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 51,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -80,
+              22
+            ],
+            [
+              -79.5,
+              22
+            ],
+            [
+              -79.5,
+              22.5
+            ],
+            [
+              -80,
+              22.5
+            ],
+            [
+              -80,
+              22
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 51,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "31",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+31"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 52,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -79.5,
+              22
+            ],
+            [
+              -79,
+              22
+            ],
+            [
+              -79,
+              22.5
+            ],
+            [
+              -79.5,
+              22.5
+            ],
+            [
+              -79.5,
+              22
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 52,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "33",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+33"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 53,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -79,
+              22
+            ],
+            [
+              -78.5,
+              22
+            ],
+            [
+              -78.5,
+              22.5
+            ],
+            [
+              -79,
+              22.5
+            ],
+            [
+              -79,
+              22
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 53,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "35",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+35"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 54,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -78.5,
+              22
+            ],
+            [
+              -78,
+              22
+            ],
+            [
+              -78,
+              22.5
+            ],
+            [
+              -78.5,
+              22.5
+            ],
+            [
+              -78.5,
+              22
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 54,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "38",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+38"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 55,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -84.5,
+              22.5
+            ],
+            [
+              -84,
+              22.5
+            ],
+            [
+              -84,
+              23
+            ],
+            [
+              -84.5,
+              23
+            ],
+            [
+              -84.5,
+              22.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 55,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "3",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+3"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 56,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -84,
+              22.5
+            ],
+            [
+              -83.5,
+              22.5
+            ],
+            [
+              -83.5,
+              23
+            ],
+            [
+              -84,
+              23
+            ],
+            [
+              -84,
+              22.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 56,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "6",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+6"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 57,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -83.5,
+              22.5
+            ],
+            [
+              -83,
+              22.5
+            ],
+            [
+              -83,
+              23
+            ],
+            [
+              -83.5,
+              23
+            ],
+            [
+              -83.5,
+              22.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 57,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "9",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+9"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 58,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -83,
+              22.5
+            ],
+            [
+              -82.5,
+              22.5
+            ],
+            [
+              -82.5,
+              23
+            ],
+            [
+              -83,
+              23
+            ],
+            [
+              -83,
+              22.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 58,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "13",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+13"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 59,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -82.5,
+              22.5
+            ],
+            [
+              -82,
+              22.5
+            ],
+            [
+              -82,
+              23
+            ],
+            [
+              -82.5,
+              23
+            ],
+            [
+              -82.5,
+              22.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 59,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "16",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+16"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 60,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -82,
+              22.5
+            ],
+            [
+              -81.5,
+              22.5
+            ],
+            [
+              -81.5,
+              23
+            ],
+            [
+              -82,
+              23
+            ],
+            [
+              -82,
+              22.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 60,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "19",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+19"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 61,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -81.5,
+              22.5
+            ],
+            [
+              -81,
+              22.5
+            ],
+            [
+              -81,
+              23
+            ],
+            [
+              -81.5,
+              23
+            ],
+            [
+              -81.5,
+              22.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 61,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "22",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+22"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 62,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -81,
+              22.5
+            ],
+            [
+              -80.5,
+              22.5
+            ],
+            [
+              -80.5,
+              23
+            ],
+            [
+              -81,
+              23
+            ],
+            [
+              -81,
+              22.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 62,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "25",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+25"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 63,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -80.5,
+              22.5
+            ],
+            [
+              -80,
+              22.5
+            ],
+            [
+              -80,
+              23
+            ],
+            [
+              -80.5,
+              23
+            ],
+            [
+              -80.5,
+              22.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 63,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "27",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+27"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 64,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -80,
+              22.5
+            ],
+            [
+              -79.5,
+              22.5
+            ],
+            [
+              -79.5,
+              23
+            ],
+            [
+              -80,
+              23
+            ],
+            [
+              -80,
+              22.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 64,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "30",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+30"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 65,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -83,
+              23
+            ],
+            [
+              -82.5,
+              23
+            ],
+            [
+              -82.5,
+              23.5
+            ],
+            [
+              -83,
+              23.5
+            ],
+            [
+              -83,
+              23
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 65,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "12",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+12"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 66,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -82.5,
+              23
+            ],
+            [
+              -82,
+              23
+            ],
+            [
+              -82,
+              23.5
+            ],
+            [
+              -82.5,
+              23.5
+            ],
+            [
+              -82.5,
+              23
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 66,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "15",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+15"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 67,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -82,
+              23
+            ],
+            [
+              -81.5,
+              23
+            ],
+            [
+              -81.5,
+              23.5
+            ],
+            [
+              -82,
+              23.5
+            ],
+            [
+              -82,
+              23
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 67,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "18",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+18"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 68,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -81.5,
+              23
+            ],
+            [
+              -81,
+              23
+            ],
+            [
+              -81,
+              23.5
+            ],
+            [
+              -81.5,
+              23.5
+            ],
+            [
+              -81.5,
+              23
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 68,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "21",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+21"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 69,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -81,
+              23
+            ],
+            [
+              -80.5,
+              23
+            ],
+            [
+              -80.5,
+              23.5
+            ],
+            [
+              -81,
+              23.5
+            ],
+            [
+              -81,
+              23
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 69,
+        "available" : true,
+        "recordIdentifier" : "G4920 s62 .U5",
+        "title" : "Military map of Cuba : [Cuba]",
+        "year" : "1913-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142038970203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "24",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142038970203941&sublib=MAP&collection=LC&callnum=G4920+s62+U5&title=Military+map+of+Cuba+:+[Cuba]&description=sheet+24"
+      }
+    }
+  ]
+}
