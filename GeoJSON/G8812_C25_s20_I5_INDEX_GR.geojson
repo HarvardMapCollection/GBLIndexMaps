@@ -1,0 +1,753 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 0,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -17.2528076171875,
+              14.68487548828125
+            ],
+            [
+              -17.25250244140625,
+              14.75128173828125
+            ],
+            [
+              -17.25238037109375,
+              14.77728271484375
+            ],
+            [
+              -17.33538818359375,
+              14.77752685546875
+            ],
+            [
+              -17.3870849609375,
+              14.77789306640625
+            ],
+            [
+              -17.38751220703125,
+              14.72113037109375
+            ],
+            [
+              -17.38751220703125,
+              14.70947265625
+            ],
+            [
+              -17.3878173828125,
+              14.6846923828125
+            ],
+            [
+              -17.2528076171875,
+              14.68487548828125
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8812 C25 s20 .I5",
+        "title" : "Presqu'île du Cap Vert au 1:20,000 : République du Sénégal",
+        "year" : "1968",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143832490203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "Rufisque",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143832490203941&sublib=MAP&collection=LC&callnum=G8812+C25+s20+I5&title=Presqu'île+du+Cap+Vert&description=sheet+Rufisque"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -17.388650111115332,
+              14.685108746963918
+            ],
+            [
+              -17.388344935334082,
+              14.709889020401418
+            ],
+            [
+              -17.388344935334082,
+              14.721546735245168
+            ],
+            [
+              -17.420144251740332,
+              14.721729840713918
+            ],
+            [
+              -17.444741419709082,
+              14.721912946182668
+            ],
+            [
+              -17.551125697052832,
+              14.722523297745168
+            ],
+            [
+              -17.552407435334082,
+              14.629505719620168
+            ],
+            [
+              -17.389016322052832,
+              14.628895368057668
+            ],
+            [
+              -17.388650111115332,
+              14.685108746963918
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 1,
+        "available" : true,
+        "recordIdentifier" : "G8812 C25 s20 .I5",
+        "title" : "Presqu'île du Cap Vert au 1:20,000 : République du Sénégal",
+        "year" : "1968",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143832490203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "Dakar South",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143832490203941&sublib=MAP&collection=LC&callnum=G8812+C25+s20+I5&title=Presqu'île+du+Cap+Vert&description=sheet+Dakar South"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -17.165696145698945,
+              14.668846110064591
+            ],
+            [
+              -17.165496145698945,
+              14.75134611006459
+            ],
+            [
+              -17.252496145698945,
+              14.751146110064591
+            ],
+            [
+              -17.252796145698944,
+              14.68494611006459
+            ],
+            [
+              -17.252896145698944,
+              14.668546110064591
+            ],
+            [
+              -17.165696145698945,
+              14.668846110064591
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 2,
+        "available" : true,
+        "recordIdentifier" : "G8812 C25 s20 .I5",
+        "title" : "Presqu'île du Cap Vert au 1:20,000 : République du Sénégal",
+        "year" : "1968",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143832490203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "Bargny-Gouddou",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143832490203941&sublib=MAP&collection=LC&callnum=G8812+C25+s20+I5&title=Presqu'île+du+Cap+Vert&description=sheet+Bargny-Gouddou"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -17.081396145698946,
+              14.66904611006459
+            ],
+            [
+              -17.081196145698947,
+              14.751546110064591
+            ],
+            [
+              -17.165496145698945,
+              14.75134611006459
+            ],
+            [
+              -17.165696145698945,
+              14.668846110064591
+            ],
+            [
+              -17.081396145698946,
+              14.66904611006459
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 3,
+        "available" : true,
+        "recordIdentifier" : "G8812 C25 s20 .I5",
+        "title" : "Presqu'île du Cap Vert au 1:20,000 : République du Sénégal",
+        "year" : "1968",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143832490203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "Sebikotane",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143832490203941&sublib=MAP&collection=LC&callnum=G8812+C25+s20+I5&title=Presqu'île+du+Cap+Vert&description=sheet+Sebikotane"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -16.996696145698944,
+              14.669246110064591
+            ],
+            [
+              -16.996996145698944,
+              14.709546110064592
+            ],
+            [
+              -16.997296145698947,
+              14.751746110064591
+            ],
+            [
+              -17.081196145698947,
+              14.751546110064591
+            ],
+            [
+              -17.081396145698946,
+              14.66904611006459
+            ],
+            [
+              -16.996696145698944,
+              14.669246110064591
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 4,
+        "available" : false,
+        "recordIdentifier" : "G8812 C25 s20 .I5",
+        "title" : "Presqu'île du Cap Vert au 1:20,000 : République du Sénégal",
+        "year" : "1968",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143832490203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "Lené",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143832490203941&sublib=MAP&collection=LC&callnum=G8812+C25+s20+I5&title=Presqu'île+du+Cap+Vert&description=sheet+Lené"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -17.3870849609375,
+              14.77789306640625
+            ],
+            [
+              -17.38677978515625,
+              14.8115234375
+            ],
+            [
+              -17.41851806640625,
+              14.811279296875
+            ],
+            [
+              -17.44390869140625,
+              14.811279296875
+            ],
+            [
+              -17.54901123046875,
+              14.811279296875
+            ],
+            [
+              -17.55029296875,
+              14.72210693359375
+            ],
+            [
+              -17.44390869140625,
+              14.72149658203125
+            ],
+            [
+              -17.4193115234375,
+              14.7213134765625
+            ],
+            [
+              -17.38751220703125,
+              14.72113037109375
+            ],
+            [
+              -17.3870849609375,
+              14.77789306640625
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 5,
+        "available" : true,
+        "recordIdentifier" : "G8812 C25 s20 .I5",
+        "title" : "Presqu'île du Cap Vert au 1:20,000 : République du Sénégal",
+        "year" : "1968",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143832490203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "Dakar North",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143832490203941&sublib=MAP&collection=LC&callnum=G8812+C25+s20+I5&title=Presqu'île+du+Cap+Vert&description=sheet+Dakar North"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -17.2520751953125,
+              14.8328857421875
+            ],
+            [
+              -17.25189208984375,
+              14.86572265625
+            ],
+            [
+              -17.29229736328125,
+              14.8660888671875
+            ],
+            [
+              -17.38641357421875,
+              14.86651611328125
+            ],
+            [
+              -17.38677978515625,
+              14.8115234375
+            ],
+            [
+              -17.3870849609375,
+              14.77789306640625
+            ],
+            [
+              -17.33538818359375,
+              14.77752685546875
+            ],
+            [
+              -17.25238037109375,
+              14.77728271484375
+            ],
+            [
+              -17.2520751953125,
+              14.8328857421875
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 6,
+        "available" : true,
+        "recordIdentifier" : "G8812 C25 s20 .I5",
+        "title" : "Presqu'île du Cap Vert au 1:20,000 : République du Sénégal",
+        "year" : "1968",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143832490203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "Niakoulrab",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143832490203941&sublib=MAP&collection=LC&callnum=G8812+C25+s20+I5&title=Presqu'île+du+Cap+Vert&description=sheet+Niakoulrab"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -17.165496145698945,
+              14.75134611006459
+            ],
+            [
+              -17.165296145698946,
+              14.833246110064591
+            ],
+            [
+              -17.252096145698946,
+              14.83294611006459
+            ],
+            [
+              -17.252396145698945,
+              14.777346110064592
+            ],
+            [
+              -17.252496145698945,
+              14.751146110064591
+            ],
+            [
+              -17.165496145698945,
+              14.75134611006459
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 7,
+        "available" : true,
+        "recordIdentifier" : "G8812 C25 s20 .I5",
+        "title" : "Presqu'île du Cap Vert au 1:20,000 : République du Sénégal",
+        "year" : "1968",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143832490203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "Sangalkam",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143832490203941&sublib=MAP&collection=LC&callnum=G8812+C25+s20+I5&title=Presqu'île+du+Cap+Vert&description=sheet+Sangalkam"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -17.081196145698947,
+              14.751546110064591
+            ],
+            [
+              -17.080996145698943,
+              14.83354611006459
+            ],
+            [
+              -17.165296145698946,
+              14.833246110064591
+            ],
+            [
+              -17.165496145698945,
+              14.75134611006459
+            ],
+            [
+              -17.081196145698947,
+              14.751546110064591
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 8,
+        "available" : false,
+        "recordIdentifier" : "G8812 C25 s20 .I5",
+        "title" : "Presqu'île du Cap Vert au 1:20,000 : République du Sénégal",
+        "year" : "1968",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143832490203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "Keur Matar Gaye",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143832490203941&sublib=MAP&collection=LC&callnum=G8812+C25+s20+I5&title=Presqu'île+du+Cap+Vert&description=sheet+Keur Matar Gaye"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -16.997296145698947,
+              14.751746110064591
+            ],
+            [
+              -16.997896145698945,
+              14.833846110064592
+            ],
+            [
+              -17.080996145698943,
+              14.83354611006459
+            ],
+            [
+              -17.081196145698947,
+              14.751546110064591
+            ],
+            [
+              -16.997296145698947,
+              14.751746110064591
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 9,
+        "available" : false,
+        "recordIdentifier" : "G8812 C25 s20 .I5",
+        "title" : "Presqu'île du Cap Vert au 1:20,000 : République du Sénégal",
+        "year" : "1968",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143832490203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "Pout",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143832490203941&sublib=MAP&collection=LC&callnum=G8812+C25+s20+I5&title=Presqu'île+du+Cap+Vert&description=sheet+Pout"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -16.910596145698946,
+              14.872146110064591
+            ],
+            [
+              -16.998196145698945,
+              14.87164611006459
+            ],
+            [
+              -16.997896145698945,
+              14.833846110064592
+            ],
+            [
+              -16.997296145698947,
+              14.751746110064591
+            ],
+            [
+              -16.996996145698944,
+              14.709546110064592
+            ],
+            [
+              -16.911896145698947,
+              14.709246110064591
+            ],
+            [
+              -16.910596145698946,
+              14.872146110064591
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 10,
+        "available" : false,
+        "recordIdentifier" : "G8812 C25 s20 .I5",
+        "title" : "Presqu'île du Cap Vert au 1:20,000 : République du Sénégal",
+        "year" : "1968",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143832490203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "Thies-Ouest",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143832490203941&sublib=MAP&collection=LC&callnum=G8812+C25+s20+I5&title=Presqu'île+du+Cap+Vert&description=sheet+Thies-Ouest"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -16.827096145698945,
+              14.87254611006459
+            ],
+            [
+              -16.910596145698946,
+              14.872146110064591
+            ],
+            [
+              -16.911896145698947,
+              14.709246110064591
+            ],
+            [
+              -16.826196145698944,
+              14.709046110064591
+            ],
+            [
+              -16.827096145698945,
+              14.87254611006459
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 11,
+        "available" : false,
+        "recordIdentifier" : "G8812 C25 s20 .I5",
+        "title" : "Presqu'île du Cap Vert au 1:20,000 : République du Sénégal",
+        "year" : "1968",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143832490203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "Thies-Est",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143832490203941&sublib=MAP&collection=LC&callnum=G8812+C25+s20+I5&title=Presqu'île+du+Cap+Vert&description=sheet+Thies-Est"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -17.177490234375,
+              14.83331298828125
+            ],
+            [
+              -17.1776123046875,
+              14.88690185546875
+            ],
+            [
+              -17.29290771484375,
+              14.88671875
+            ],
+            [
+              -17.29278564453125,
+              14.8328857421875
+            ],
+            [
+              -17.177490234375,
+              14.83331298828125
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 12,
+        "available" : true,
+        "recordIdentifier" : "G8812 C25 s20 .I5",
+        "title" : "Presqu'île du Cap Vert au 1:20,000 : République du Sénégal",
+        "year" : "1968",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143832490203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "Deni Biram Ndao",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143832490203941&sublib=MAP&collection=LC&callnum=G8812+C25+s20+I5&title=Presqu'île+du+Cap+Vert&description=sheet+Deni Biram Ndao"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -17.444741419709082,
+              14.811695661026418
+            ],
+            [
+              -17.445107630646582,
+              14.709339703995168
+            ],
+            [
+              -17.335244349396582,
+              14.708912457901418
+            ],
+            [
+              -17.334817103302832,
+              14.811329450088918
+            ],
+            [
+              -17.444741419709082,
+              14.811695661026418
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 13,
+        "available" : true,
+        "recordIdentifier" : "G8812 C25 s20 .I5",
+        "title" : "Presqu'île du Cap Vert au 1:20,000 : République du Sénégal",
+        "year" : "1968",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143832490203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "Tiaroye",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143832490203941&sublib=MAP&collection=LC&callnum=G8812+C25+s20+I5&title=Presqu'île+du+Cap+Vert&description=sheet+Tiaroye"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -17.141837245825496,
+              14.586632195536229
+            ],
+            [
+              -17.141837245825496,
+              14.516248745785399
+            ],
+            [
+              -17.06927698835041,
+              14.516248745785399
+            ],
+            [
+              -17.06927698835041,
+              14.586632195536229
+            ],
+            [
+              -17.141837245825496,
+              14.586632195536229
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 14,
+        "available" : true,
+        "recordIdentifier" : "G8812 C25 s20 .I5",
+        "title" : "Presqu'île du Cap Vert au 1:20,000 : République du Sénégal",
+        "year" : "1968",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143832490203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "Popenguine",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143832490203941&sublib=MAP&collection=LC&callnum=G8812+C25+s20+I5&title=Presqu'île+du+Cap+Vert&description=sheet+Popenguine"
+      }
+    }
+  ]
+}
