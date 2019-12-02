@@ -1,0 +1,3817 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 0,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -16.748831990801989,
+              13.122311575617118
+            ],
+            [
+              -16.624231990801945,
+              13.122311575617118
+            ],
+            [
+              -16.624631990802015,
+              13.250011575617123
+            ],
+            [
+              -16.749031990801996,
+              13.249811575617059
+            ],
+            [
+              -16.789431990801972,
+              13.249711575616971
+            ],
+            [
+              -16.787931990802008,
+              13.122311575617118
+            ],
+            [
+              -16.748831990801989,
+              13.122311575617118
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "22/I",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+22/I"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -16.498431990802015,
+              13.122311575616985
+            ],
+            [
+              -16.500031990802015,
+              13.250211575616984
+            ],
+            [
+              -16.624631990802015,
+              13.250011575616984
+            ],
+            [
+              -16.624231990802016,
+              13.122311575616985
+            ],
+            [
+              -16.498431990802015,
+              13.122311575616985
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 1,
+        "available" : false,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "22/II",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+22/II"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -16.372731990802016,
+              13.122311575616985
+            ],
+            [
+              -16.373231990802015,
+              13.250411575616985
+            ],
+            [
+              -16.500031990802015,
+              13.250211575616984
+            ],
+            [
+              -16.498431990802015,
+              13.122311575616985
+            ],
+            [
+              -16.372731990802016,
+              13.122311575616985
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 2,
+        "available" : false,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "23/I",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+23/I"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -16.254531990802015,
+              13.122311575616985
+            ],
+            [
+              -16.255931990802015,
+              13.250611575616984
+            ],
+            [
+              -16.373231990802015,
+              13.250411575616985
+            ],
+            [
+              -16.372731990802016,
+              13.122311575616985
+            ],
+            [
+              -16.254531990802015,
+              13.122311575616985
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 3,
+        "available" : false,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "23/II",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+23/II"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -16.126431990802015,
+              13.122311575616985
+            ],
+            [
+              -16.126831990802014,
+              13.250811575616984
+            ],
+            [
+              -16.138231990802016,
+              13.250811575616984
+            ],
+            [
+              -16.255931990802015,
+              13.250611575616984
+            ],
+            [
+              -16.254531990802015,
+              13.122311575616985
+            ],
+            [
+              -16.126431990802015,
+              13.122311575616985
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 4,
+        "available" : false,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "24/I",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+24/I"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -15.999531990802016,
+              13.122311575616985
+            ],
+            [
+              -15.999931990802015,
+              13.251211575616985
+            ],
+            [
+              -16.126831990802014,
+              13.250811575616984
+            ],
+            [
+              -16.126431990802015,
+              13.122311575616985
+            ],
+            [
+              -15.999531990802016,
+              13.122311575616985
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 5,
+        "available" : false,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "24/II",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+24/II"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -14.00253199080197,
+              13.211611575617042
+            ],
+            [
+              -14.00233199080202,
+              13.250811575617035
+            ],
+            [
+              -14.001431990802018,
+              13.502211575617025
+            ],
+            [
+              -14.246631990801973,
+              13.501911575617044
+            ],
+            [
+              -14.246631990801973,
+              13.251211575617106
+            ],
+            [
+              -14.246631990801973,
+              13.211611575617042
+            ],
+            [
+              -14.00253199080197,
+              13.211611575617042
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 6,
+        "available" : false,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "20",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+20"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -14.246631990801973,
+              13.211611575617042
+            ],
+            [
+              -14.246631990801973,
+              13.251211575617106
+            ],
+            [
+              -14.246631990801973,
+              13.501911575617044
+            ],
+            [
+              -14.414131990801934,
+              13.501711575617037
+            ],
+            [
+              -14.501131990802037,
+              13.501611575617119
+            ],
+            [
+              -14.500231990801979,
+              13.251711575617094
+            ],
+            [
+              -14.500131990802004,
+              13.211611575617042
+            ],
+            [
+              -14.246631990801973,
+              13.211611575617042
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 7,
+        "available" : false,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "19",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+19"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -15.748731990802014,
+              13.122311575616985
+            ],
+            [
+              -15.749631990802015,
+              13.251911575616985
+            ],
+            [
+              -15.878131990802014,
+              13.251511575616984
+            ],
+            [
+              -15.999931990802015,
+              13.251211575616985
+            ],
+            [
+              -15.999531990802016,
+              13.122311575616985
+            ],
+            [
+              -15.748731990802014,
+              13.122311575616985
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 8,
+        "available" : false,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "25/I",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+25/I"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -15.250031990802015,
+              13.253111575616984
+            ],
+            [
+              -15.249831990802015,
+              13.335711575616985
+            ],
+            [
+              -15.373731990802014,
+              13.334411575616985
+            ],
+            [
+              -15.500031990802015,
+              13.333111575616984
+            ],
+            [
+              -15.500031990802015,
+              13.252611575616985
+            ],
+            [
+              -15.291731990802015,
+              13.253211575616984
+            ],
+            [
+              -15.250031990802015,
+              13.253111575616984
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 9,
+        "available" : false,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "15",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+15"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -15.500031990802015,
+              13.333111575616984
+            ],
+            [
+              -15.500031990802015,
+              13.347411575616984
+            ],
+            [
+              -15.625031990802015,
+              13.346511575616985
+            ],
+            [
+              -15.750231990802014,
+              13.345611575616985
+            ],
+            [
+              -15.749631990802015,
+              13.251911575616985
+            ],
+            [
+              -15.500031990802015,
+              13.252611575616985
+            ],
+            [
+              -15.500031990802015,
+              13.333111575616984
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 10,
+        "available" : false,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "14",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+14"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -16.749031990802013,
+              13.249811575616985
+            ],
+            [
+              -16.749231990802016,
+              13.372911575616984
+            ],
+            [
+              -16.835431990802014,
+              13.372411575616985
+            ],
+            [
+              -16.834931990802016,
+              13.249711575616985
+            ],
+            [
+              -16.789431990802015,
+              13.249711575616985
+            ],
+            [
+              -16.749031990802013,
+              13.249811575616985
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 11,
+        "available" : false,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "10W/IV",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+10W/IV"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -16.624631990802015,
+              13.250011575616984
+            ],
+            [
+              -16.625031990802015,
+              13.373711575616984
+            ],
+            [
+              -16.749231990802016,
+              13.372911575616984
+            ],
+            [
+              -16.749031990802013,
+              13.249811575616985
+            ],
+            [
+              -16.624631990802015,
+              13.250011575616984
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 12,
+        "available" : false,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "10/III",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+10/III"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -16.500031990802015,
+              13.250211575616984
+            ],
+            [
+              -16.501631990802014,
+              13.374511575616985
+            ],
+            [
+              -16.625031990802015,
+              13.373711575616984
+            ],
+            [
+              -16.624631990802015,
+              13.250011575616984
+            ],
+            [
+              -16.500031990802015,
+              13.250211575616984
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 13,
+        "available" : false,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "10/IV",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+10/IV"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -16.373231990802015,
+              13.250411575616985
+            ],
+            [
+              -16.373631990802014,
+              13.375311575616985
+            ],
+            [
+              -16.501631990802014,
+              13.374511575616985
+            ],
+            [
+              -16.500031990802015,
+              13.250211575616984
+            ],
+            [
+              -16.373231990802015,
+              13.250411575616985
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 14,
+        "available" : false,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "11/III",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+11/III"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -16.257231990802016,
+              13.367411575616984
+            ],
+            [
+              -16.257231990802016,
+              13.375811575616984
+            ],
+            [
+              -16.287031990802014,
+              13.375811575616984
+            ],
+            [
+              -16.373631990802014,
+              13.375311575616985
+            ],
+            [
+              -16.373231990802015,
+              13.250411575616985
+            ],
+            [
+              -16.255931990802015,
+              13.250611575616984
+            ],
+            [
+              -16.257231990802016,
+              13.367411575616984
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 15,
+        "available" : false,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "11/IV",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+11/IV"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -16.126831990802014,
+              13.250811575616984
+            ],
+            [
+              -16.127231990802017,
+              13.375811575616984
+            ],
+            [
+              -16.257231990802016,
+              13.375811575616984
+            ],
+            [
+              -16.257231990802016,
+              13.367411575616984
+            ],
+            [
+              -16.255931990802015,
+              13.250611575616984
+            ],
+            [
+              -16.138231990802016,
+              13.250811575616984
+            ],
+            [
+              -16.126831990802014,
+              13.250811575616984
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 16,
+        "available" : true,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "12/III",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+12/III"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -15.999931990802015,
+              13.251211575616985
+            ],
+            [
+              -16.000331990802014,
+              13.375811575616984
+            ],
+            [
+              -16.127231990802017,
+              13.375811575616984
+            ],
+            [
+              -16.126831990802014,
+              13.250811575616984
+            ],
+            [
+              -15.999931990802015,
+              13.251211575616985
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 17,
+        "available" : true,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "12/IV",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+12/IV"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -15.878131990802014,
+              13.251511575616984
+            ],
+            [
+              -15.877431990802014,
+              13.376511575616984
+            ],
+            [
+              -15.922931990802015,
+              13.375811575616984
+            ],
+            [
+              -16.000331990802014,
+              13.375811575616984
+            ],
+            [
+              -15.999931990802015,
+              13.251211575616985
+            ],
+            [
+              -15.878131990802014,
+              13.251511575616984
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 18,
+        "available" : true,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "13/III",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+13/III"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 19,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -15.750231990802014,
+              13.345611575616985
+            ],
+            [
+              -15.750431990802015,
+              13.378611575616985
+            ],
+            [
+              -15.877431990802014,
+              13.376511575616984
+            ],
+            [
+              -15.878131990802014,
+              13.251511575616984
+            ],
+            [
+              -15.749631990802015,
+              13.251911575616985
+            ],
+            [
+              -15.750231990802014,
+              13.345611575616985
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 19,
+        "available" : true,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "13/IV",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+13/IV"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 20,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -14.874431990802016,
+              13.417011575616984
+            ],
+            [
+              -15.002631990802016,
+              13.418311575616984
+            ],
+            [
+              -15.000331990802014,
+              13.252611575616985
+            ],
+            [
+              -14.752031990802015,
+              13.252111575616984
+            ],
+            [
+              -14.751531990802015,
+              13.377511575616985
+            ],
+            [
+              -14.874331990802014,
+              13.377511575616985
+            ],
+            [
+              -14.874431990802016,
+              13.417011575616984
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 20,
+        "available" : false,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "17",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+17"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 21,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -16.749231990802016,
+              13.372911575616984
+            ],
+            [
+              -16.749431990802016,
+              13.498111575616985
+            ],
+            [
+              -16.835931990802013,
+              13.497811575616984
+            ],
+            [
+              -16.835431990802014,
+              13.372411575616985
+            ],
+            [
+              -16.749231990802016,
+              13.372911575616984
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 21,
+        "available" : false,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "10W/II",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+10W/II"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 22,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -16.625031990802015,
+              13.373711575616984
+            ],
+            [
+              -16.625431990802014,
+              13.498611575616984
+            ],
+            [
+              -16.749431990802016,
+              13.498111575616985
+            ],
+            [
+              -16.749231990802016,
+              13.372911575616984
+            ],
+            [
+              -16.625031990802015,
+              13.373711575616984
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 22,
+        "available" : false,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "10/I",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+10/I"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 23,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -16.502331990802016,
+              13.434611575616984
+            ],
+            [
+              -16.502131990802013,
+              13.499011575616985
+            ],
+            [
+              -16.625431990802014,
+              13.498611575616984
+            ],
+            [
+              -16.625031990802015,
+              13.373711575616984
+            ],
+            [
+              -16.501631990802014,
+              13.374511575616985
+            ],
+            [
+              -16.502331990802016,
+              13.434611575616984
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 23,
+        "available" : false,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "10/II",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+10/II"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 24,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -16.373831990802014,
+              13.428111575616985
+            ],
+            [
+              -16.374231990802016,
+              13.499411575616984
+            ],
+            [
+              -16.502131990802013,
+              13.499011575616985
+            ],
+            [
+              -16.502331990802016,
+              13.434611575616984
+            ],
+            [
+              -16.501631990802014,
+              13.374511575616985
+            ],
+            [
+              -16.373631990802014,
+              13.375311575616985
+            ],
+            [
+              -16.373831990802014,
+              13.428111575616985
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 24,
+        "available" : false,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "11/I",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+11/I"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 25,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -16.257231990802016,
+              13.375811575616984
+            ],
+            [
+              -16.256531990802014,
+              13.499811575616985
+            ],
+            [
+              -16.374231990802016,
+              13.499411575616984
+            ],
+            [
+              -16.373831990802014,
+              13.428111575616985
+            ],
+            [
+              -16.373631990802014,
+              13.375311575616985
+            ],
+            [
+              -16.287031990802014,
+              13.375811575616984
+            ],
+            [
+              -16.257231990802016,
+              13.375811575616984
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 25,
+        "available" : false,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "11/II",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+11/II"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 26,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -16.127531990802016,
+              13.480511575616985
+            ],
+            [
+              -16.127531990802016,
+              13.500311575616985
+            ],
+            [
+              -16.177531990802017,
+              13.500111575616984
+            ],
+            [
+              -16.256531990802014,
+              13.499811575616985
+            ],
+            [
+              -16.257231990802016,
+              13.375811575616984
+            ],
+            [
+              -16.127231990802017,
+              13.375811575616984
+            ],
+            [
+              -16.127531990802016,
+              13.480511575616985
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 26,
+        "available" : true,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "12/I",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+12/I"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 27,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -16.000331990802014,
+              13.375811575616984
+            ],
+            [
+              -16.000831990802016,
+              13.500711575616984
+            ],
+            [
+              -16.127531990802016,
+              13.500311575616985
+            ],
+            [
+              -16.127531990802016,
+              13.480511575616985
+            ],
+            [
+              -16.127231990802017,
+              13.375811575616984
+            ],
+            [
+              -16.000331990802014,
+              13.375811575616984
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 27,
+        "available" : true,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "12/II",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+12/II"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 28,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -15.877431990802014,
+              13.376511575616984
+            ],
+            [
+              -15.876731990802014,
+              13.501111575616985
+            ],
+            [
+              -16.000831990802016,
+              13.500711575616984
+            ],
+            [
+              -16.000331990802014,
+              13.375811575616984
+            ],
+            [
+              -15.922931990802015,
+              13.375811575616984
+            ],
+            [
+              -15.877431990802014,
+              13.376511575616984
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 28,
+        "available" : true,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "13/I",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+13/I"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 29,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -15.751031990802016,
+              13.456711575616984
+            ],
+            [
+              -15.751031990802016,
+              13.501511575616984
+            ],
+            [
+              -15.876731990802014,
+              13.501111575616985
+            ],
+            [
+              -15.877431990802014,
+              13.376511575616984
+            ],
+            [
+              -15.750431990802015,
+              13.378611575616985
+            ],
+            [
+              -15.751031990802016,
+              13.456711575616984
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 29,
+        "available" : true,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "13/II",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+13/II"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 30,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -14.751031990802016,
+              13.501411575616984
+            ],
+            [
+              -14.874631990802015,
+              13.501611575616984
+            ],
+            [
+              -14.874431990802016,
+              13.417011575616984
+            ],
+            [
+              -14.874331990802014,
+              13.377511575616985
+            ],
+            [
+              -14.751531990802015,
+              13.377511575616985
+            ],
+            [
+              -14.751031990802016,
+              13.501411575616984
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 30,
+        "available" : true,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "17/II",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+17/II"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 31,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -14.500231990802014,
+              13.251711575616984
+            ],
+            [
+              -14.501131990802016,
+              13.501611575616984
+            ],
+            [
+              -14.688031990802015,
+              13.501311575616985
+            ],
+            [
+              -14.751031990802016,
+              13.501411575616984
+            ],
+            [
+              -14.751531990802015,
+              13.377511575616985
+            ],
+            [
+              -14.752031990802015,
+              13.252111575616984
+            ],
+            [
+              -14.500231990802014,
+              13.251711575616984
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 31,
+        "available" : false,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "18",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+18"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 32,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -14.874631990802015,
+              13.501611575616984
+            ],
+            [
+              -15.001931990802015,
+              13.501811575616985
+            ],
+            [
+              -15.002131990802015,
+              13.481211575616985
+            ],
+            [
+              -15.002631990802016,
+              13.418311575616984
+            ],
+            [
+              -14.874431990802016,
+              13.417011575616984
+            ],
+            [
+              -14.874631990802015,
+              13.501611575616984
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 32,
+        "available" : true,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "17/I",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+17/I"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 33,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -15.625031990802015,
+              13.346511575616985
+            ],
+            [
+              -15.625531990802015,
+              13.501911575616985
+            ],
+            [
+              -15.751031990802016,
+              13.501511575616984
+            ],
+            [
+              -15.751031990802016,
+              13.456711575616984
+            ],
+            [
+              -15.750431990802015,
+              13.378611575616985
+            ],
+            [
+              -15.750231990802014,
+              13.345611575616985
+            ],
+            [
+              -15.625031990802015,
+              13.346511575616985
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 33,
+        "available" : true,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "14/I",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+14/I"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 34,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -15.00193199080195,
+              13.501811575617126
+            ],
+            [
+              -15.000931990801973,
+              13.628911575617053
+            ],
+            [
+              -15.124631990801959,
+              13.629611575617048
+            ],
+            [
+              -15.125031990802029,
+              13.502011575616962
+            ],
+            [
+              -15.125131990801947,
+              13.482111575617125
+            ],
+            [
+              -15.002131990802013,
+              13.481211575617067
+            ],
+            [
+              -15.00193199080195,
+              13.501811575617126
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 34,
+        "available" : true,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "7/IV",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+7/IV"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 35,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -15.125031990802015,
+              13.502011575616985
+            ],
+            [
+              -15.208431990802016,
+              13.502111575616984
+            ],
+            [
+              -15.207431990802014,
+              13.336211575616984
+            ],
+            [
+              -15.249831990802015,
+              13.335711575616985
+            ],
+            [
+              -15.250031990802015,
+              13.253111575616984
+            ],
+            [
+              -15.000331990802014,
+              13.252611575616985
+            ],
+            [
+              -15.002631990802016,
+              13.418311575616984
+            ],
+            [
+              -15.002131990802015,
+              13.481211575616985
+            ],
+            [
+              -15.125131990802014,
+              13.482111575616985
+            ],
+            [
+              -15.125031990802015,
+              13.502011575616985
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 35,
+        "available" : false,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "16",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+16"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 36,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -15.249831990801965,
+              13.335711575617097
+            ],
+            [
+              -15.207431990801979,
+              13.336211575617085
+            ],
+            [
+              -15.208431990801955,
+              13.502111575617107
+            ],
+            [
+              -15.249431990802009,
+              13.502211575617025
+            ],
+            [
+              -15.373431990802032,
+              13.502411575617032
+            ],
+            [
+              -15.373731990801957,
+              13.334411575617025
+            ],
+            [
+              -15.249831990801965,
+              13.335711575617097
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 36,
+        "available" : true,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "15/II",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+15/II"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 37,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -15.500031990802015,
+              13.347411575616984
+            ],
+            [
+              -15.500031990802015,
+              13.502311575616984
+            ],
+            [
+              -15.625531990802015,
+              13.501911575616985
+            ],
+            [
+              -15.625031990802015,
+              13.346511575616985
+            ],
+            [
+              -15.500031990802015,
+              13.347411575616984
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 37,
+        "available" : true,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "14/II",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+14/II"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 38,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -15.373431990802015,
+              13.502411575616984
+            ],
+            [
+              -15.447631990802016,
+              13.502511575616985
+            ],
+            [
+              -15.500031990802015,
+              13.502311575616984
+            ],
+            [
+              -15.500031990802015,
+              13.347411575616984
+            ],
+            [
+              -15.500031990802015,
+              13.333111575616984
+            ],
+            [
+              -15.373731990802014,
+              13.334411575616985
+            ],
+            [
+              -15.373431990802015,
+              13.502411575616984
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 38,
+        "available" : true,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "15/I",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+15/I"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 39,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -13.753431990802016,
+              13.250311575616985
+            ],
+            [
+              -13.753431990802016,
+              13.502511575616985
+            ],
+            [
+              -14.001431990802015,
+              13.502211575616984
+            ],
+            [
+              -14.002331990802015,
+              13.250811575616984
+            ],
+            [
+              -13.753431990802016,
+              13.250311575616985
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 39,
+        "available" : false,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "21",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+21"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 40,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -16.502131990802013,
+              13.499011575616985
+            ],
+            [
+              -16.501731990802014,
+              13.625011575616984
+            ],
+            [
+              -16.625931990802016,
+              13.625011575616984
+            ],
+            [
+              -16.625431990802014,
+              13.498611575616984
+            ],
+            [
+              -16.502131990802013,
+              13.499011575616985
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 40,
+        "available" : false,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "1/IV",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+1/IV"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 41,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -16.374231990802016,
+              13.499411575616984
+            ],
+            [
+              -16.374831990802015,
+              13.625011575616984
+            ],
+            [
+              -16.501731990802014,
+              13.625011575616984
+            ],
+            [
+              -16.502131990802013,
+              13.499011575616985
+            ],
+            [
+              -16.374231990802016,
+              13.499411575616984
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 41,
+        "available" : false,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "2/III",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+2/III"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 42,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -16.256531990802014,
+              13.499811575616985
+            ],
+            [
+              -16.255831990802015,
+              13.625011575616984
+            ],
+            [
+              -16.374831990802015,
+              13.625011575616984
+            ],
+            [
+              -16.374231990802016,
+              13.499411575616984
+            ],
+            [
+              -16.256531990802014,
+              13.499811575616985
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 42,
+        "available" : false,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "2/IV",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+2/IV"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 43,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -16.127531990802016,
+              13.500311575616985
+            ],
+            [
+              -16.127531990802016,
+              13.625211575616984
+            ],
+            [
+              -16.168031990802014,
+              13.625011575616984
+            ],
+            [
+              -16.255831990802015,
+              13.625011575616984
+            ],
+            [
+              -16.256531990802014,
+              13.499811575616985
+            ],
+            [
+              -16.177531990802017,
+              13.500111575616984
+            ],
+            [
+              -16.127531990802016,
+              13.500311575616985
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 43,
+        "available" : true,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "3/III",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+3/III"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 44,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -16.000831990802016,
+              13.500711575616984
+            ],
+            [
+              -16.001231990802015,
+              13.625811575616984
+            ],
+            [
+              -16.127531990802016,
+              13.625211575616984
+            ],
+            [
+              -16.127531990802016,
+              13.500311575616985
+            ],
+            [
+              -16.000831990802016,
+              13.500711575616984
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 44,
+        "available" : true,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "3/IV",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+3/IV"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 45,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -15.876731990802014,
+              13.501111575616985
+            ],
+            [
+              -15.876131990802016,
+              13.626411575616984
+            ],
+            [
+              -16.001231990802015,
+              13.625811575616984
+            ],
+            [
+              -16.000831990802016,
+              13.500711575616984
+            ],
+            [
+              -15.876731990802014,
+              13.501111575616985
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 45,
+        "available" : true,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "4/III",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+4/III"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 46,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -15.751031990802016,
+              13.501511575616984
+            ],
+            [
+              -15.751031990802016,
+              13.627011575616985
+            ],
+            [
+              -15.876131990802016,
+              13.626411575616984
+            ],
+            [
+              -15.876731990802014,
+              13.501111575616985
+            ],
+            [
+              -15.751031990802016,
+              13.501511575616984
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 46,
+        "available" : true,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "4/IV",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+4/IV"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 47,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -15.625531990802015,
+              13.501911575616985
+            ],
+            [
+              -15.626031990802016,
+              13.627611575616985
+            ],
+            [
+              -15.751031990802016,
+              13.627011575616985
+            ],
+            [
+              -15.751031990802016,
+              13.501511575616984
+            ],
+            [
+              -15.625531990802015,
+              13.501911575616985
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 47,
+        "available" : true,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "5/III",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+5/III"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 48,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -15.500031990802015,
+              13.502311575616984
+            ],
+            [
+              -15.500031990802015,
+              13.628211575616984
+            ],
+            [
+              -15.626031990802016,
+              13.627611575616985
+            ],
+            [
+              -15.625531990802015,
+              13.501911575616985
+            ],
+            [
+              -15.500031990802015,
+              13.502311575616984
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 48,
+        "available" : true,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "5/IV",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+5/IV"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 49,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -14.750531990802015,
+              13.627511575616985
+            ],
+            [
+              -14.874931990802015,
+              13.628211575616984
+            ],
+            [
+              -14.874631990802015,
+              13.501611575616984
+            ],
+            [
+              -14.751031990802016,
+              13.501411575616984
+            ],
+            [
+              -14.750531990802015,
+              13.627511575616985
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 49,
+        "available" : true,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "8/IV",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+8/IV"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 50,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -15.373431990802015,
+              13.502411575616984
+            ],
+            [
+              -15.373131990802015,
+              13.628811575616984
+            ],
+            [
+              -15.500031990802015,
+              13.628211575616984
+            ],
+            [
+              -15.500031990802015,
+              13.502311575616984
+            ],
+            [
+              -15.447631990802016,
+              13.502511575616985
+            ],
+            [
+              -15.373431990802015,
+              13.502411575616984
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 50,
+        "available" : true,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "6/III",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+6/III"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 51,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -14.874931990802015,
+              13.628211575616984
+            ],
+            [
+              -15.000931990802016,
+              13.628911575616984
+            ],
+            [
+              -15.001931990802015,
+              13.501811575616985
+            ],
+            [
+              -14.874631990802015,
+              13.501611575616984
+            ],
+            [
+              -14.874931990802015,
+              13.628211575616984
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 51,
+        "available" : true,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "8/III",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+8/III"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 52,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -15.249431990802016,
+              13.502211575616984
+            ],
+            [
+              -15.249131990802015,
+              13.629411575616984
+            ],
+            [
+              -15.373131990802015,
+              13.628811575616984
+            ],
+            [
+              -15.373431990802015,
+              13.502411575616984
+            ],
+            [
+              -15.249431990802016,
+              13.502211575616984
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 52,
+        "available" : true,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "6/IV",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+6/IV"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 53,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -15.124631990802015,
+              13.629611575616984
+            ],
+            [
+              -15.165631990802016,
+              13.629811575616984
+            ],
+            [
+              -15.249131990802015,
+              13.629411575616984
+            ],
+            [
+              -15.249431990802016,
+              13.502211575616984
+            ],
+            [
+              -15.208431990802016,
+              13.502111575616984
+            ],
+            [
+              -15.125031990802015,
+              13.502011575616985
+            ],
+            [
+              -15.124631990802015,
+              13.629611575616984
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 53,
+        "available" : true,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "7/III",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+7/III"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 54,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -13.753431990802016,
+              13.748911575616985
+            ],
+            [
+              -14.000431990802015,
+              13.749911575616984
+            ],
+            [
+              -14.001431990802015,
+              13.502211575616984
+            ],
+            [
+              -13.753431990802016,
+              13.502511575616985
+            ],
+            [
+              -13.753431990802016,
+              13.748911575616985
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 54,
+        "available" : false,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "21A",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+21A"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 55,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -16.501731990802014,
+              13.625011575616984
+            ],
+            [
+              -16.501331990802015,
+              13.750811575616984
+            ],
+            [
+              -16.749831990802015,
+              13.750011575616984
+            ],
+            [
+              -16.749431990802016,
+              13.498111575616985
+            ],
+            [
+              -16.625431990802014,
+              13.498611575616984
+            ],
+            [
+              -16.625931990802016,
+              13.625011575616984
+            ],
+            [
+              -16.501731990802014,
+              13.625011575616984
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 55,
+        "available" : false,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "1",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+1"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 56,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -14.413231990802014,
+              13.750011575616984
+            ],
+            [
+              -14.750131990802014,
+              13.750911575616984
+            ],
+            [
+              -14.750531990802015,
+              13.627511575616985
+            ],
+            [
+              -14.751031990802016,
+              13.501411575616984
+            ],
+            [
+              -14.688031990802015,
+              13.501311575616985
+            ],
+            [
+              -14.501131990802016,
+              13.501611575616984
+            ],
+            [
+              -14.414131990802016,
+              13.501711575616984
+            ],
+            [
+              -14.413231990802014,
+              13.750011575616984
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 56,
+        "available" : false,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "9",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+9"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 57,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -14.000431990802015,
+              13.749911575616984
+            ],
+            [
+              -14.246631990802015,
+              13.751011575616985
+            ],
+            [
+              -14.246631990802015,
+              13.501911575616985
+            ],
+            [
+              -14.001431990802015,
+              13.502211575616984
+            ],
+            [
+              -14.000431990802015,
+              13.749911575616984
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 57,
+        "available" : false,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "20A",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+20A"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 58,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -14.830331990802016,
+              13.751211575616985
+            ],
+            [
+              -14.875231990802014,
+              13.751311575616985
+            ],
+            [
+              -14.874931990802015,
+              13.628211575616984
+            ],
+            [
+              -14.750531990802015,
+              13.627511575616985
+            ],
+            [
+              -14.750131990802014,
+              13.750911575616984
+            ],
+            [
+              -14.808731990802015,
+              13.751111575616985
+            ],
+            [
+              -14.830331990802016,
+              13.751211575616985
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 58,
+        "available" : true,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "8/II",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+8/II"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 59,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -16.255831990802015,
+              13.625011575616984
+            ],
+            [
+              -16.255031990802014,
+              13.751611575616984
+            ],
+            [
+              -16.501331990802015,
+              13.750811575616984
+            ],
+            [
+              -16.501731990802014,
+              13.625011575616984
+            ],
+            [
+              -16.374831990802015,
+              13.625011575616984
+            ],
+            [
+              -16.255831990802015,
+              13.625011575616984
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 59,
+        "available" : false,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "2",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+2"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 60,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -14.875231990802014,
+              13.751311575616985
+            ],
+            [
+              -15.000031990802015,
+              13.751611575616984
+            ],
+            [
+              -15.000931990802016,
+              13.628911575616984
+            ],
+            [
+              -14.874931990802015,
+              13.628211575616984
+            ],
+            [
+              -14.875231990802014,
+              13.751311575616985
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 60,
+        "available" : true,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "8/I",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+8/I"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 61,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -15.000031990802015,
+              13.751611575616984
+            ],
+            [
+              -15.124331990802014,
+              13.751911575616985
+            ],
+            [
+              -15.124631990802015,
+              13.629611575616984
+            ],
+            [
+              -15.000931990802016,
+              13.628911575616984
+            ],
+            [
+              -15.000031990802015,
+              13.751611575616984
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 61,
+        "available" : true,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "7/II",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+7/II"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 62,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -15.124331990802014,
+              13.751911575616985
+            ],
+            [
+              -15.248731990802014,
+              13.752211575616984
+            ],
+            [
+              -15.248931990802015,
+              13.698211575616984
+            ],
+            [
+              -15.249131990802015,
+              13.629411575616984
+            ],
+            [
+              -15.165631990802016,
+              13.629811575616984
+            ],
+            [
+              -15.124631990802015,
+              13.629611575616984
+            ],
+            [
+              -15.124331990802014,
+              13.751911575616985
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 62,
+        "available" : true,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "7/I",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+7/I"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 63,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -15.500031990802015,
+              13.677911575616985
+            ],
+            [
+              -15.499531990802016,
+              13.752311575616984
+            ],
+            [
+              -15.751031990802016,
+              13.752311575616984
+            ],
+            [
+              -15.751031990802016,
+              13.627011575616985
+            ],
+            [
+              -15.626031990802016,
+              13.627611575616985
+            ],
+            [
+              -15.500031990802015,
+              13.628211575616984
+            ],
+            [
+              -15.500031990802015,
+              13.677911575616985
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 63,
+        "available" : false,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "5",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+5"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 64,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -15.373131990802015,
+              13.628811575616984
+            ],
+            [
+              -15.372831990802014,
+              13.778211575616984
+            ],
+            [
+              -15.499331990802014,
+              13.777411575616984
+            ],
+            [
+              -15.499531990802016,
+              13.752311575616984
+            ],
+            [
+              -15.500031990802015,
+              13.677911575616985
+            ],
+            [
+              -15.500031990802015,
+              13.628211575616984
+            ],
+            [
+              -15.373131990802015,
+              13.628811575616984
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 64,
+        "available" : true,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "6/I",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+6/I"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 65,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -15.248731990802014,
+              13.752211575616984
+            ],
+            [
+              -15.248631990802014,
+              13.792811575616984
+            ],
+            [
+              -15.372831990802014,
+              13.792811575616984
+            ],
+            [
+              -15.372831990802014,
+              13.778211575616984
+            ],
+            [
+              -15.373131990802015,
+              13.628811575616984
+            ],
+            [
+              -15.249131990802015,
+              13.629411575616984
+            ],
+            [
+              -15.248931990802015,
+              13.698211575616984
+            ],
+            [
+              -15.248731990802014,
+              13.752211575616984
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 65,
+        "available" : true,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "6/II",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+6/II"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 66,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -15.124331990802014,
+              13.751911575616985
+            ],
+            [
+              -15.124131990802015,
+              13.835611575616984
+            ],
+            [
+              -15.248431990802015,
+              13.835611575616984
+            ],
+            [
+              -15.248631990802014,
+              13.792811575616984
+            ],
+            [
+              -15.248731990802014,
+              13.752211575616984
+            ],
+            [
+              -15.124331990802014,
+              13.751911575616985
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 66,
+        "available" : true,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "7A/III",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+7A/III"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 67,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -15.000031990802015,
+              13.751611575616984
+            ],
+            [
+              -14.999431990802016,
+              13.835611575616984
+            ],
+            [
+              -15.124131990802015,
+              13.835611575616984
+            ],
+            [
+              -15.124331990802014,
+              13.751911575616985
+            ],
+            [
+              -15.000031990802015,
+              13.751611575616984
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 67,
+        "available" : true,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "7A/IV",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+7A/IV"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 68,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -14.830331990802016,
+              13.751211575616985
+            ],
+            [
+              -14.831131990802014,
+              13.835611575616984
+            ],
+            [
+              -14.999431990802016,
+              13.835611575616984
+            ],
+            [
+              -15.000031990802015,
+              13.751611575616984
+            ],
+            [
+              -14.875231990802014,
+              13.751311575616985
+            ],
+            [
+              -14.830331990802016,
+              13.751211575616985
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 68,
+        "available" : true,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "8A/III",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+8A/III"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 69,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -14.808731990802015,
+              13.916711575616985
+            ],
+            [
+              -14.998831990802014,
+              13.917611575616984
+            ],
+            [
+              -14.999431990802016,
+              13.835611575616984
+            ],
+            [
+              -14.831131990802014,
+              13.835611575616984
+            ],
+            [
+              -14.830331990802016,
+              13.751211575616985
+            ],
+            [
+              -14.808731990802015,
+              13.751111575616985
+            ],
+            [
+              -14.808731990802015,
+              13.916711575616985
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 69,
+        "available" : false,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "8A",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+8A"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 70,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -16.748631990802039,
+              12.997411575616979
+            ],
+            [
+              -16.623831990801989,
+              12.997511575617068
+            ],
+            [
+              -16.624231990801945,
+              13.122311575617118
+            ],
+            [
+              -16.748831990801989,
+              13.122311575617118
+            ],
+            [
+              -16.787931990802008,
+              13.122311575617118
+            ],
+            [
+              -16.786431990801987,
+              12.997411575616979
+            ],
+            [
+              -16.748631990802039,
+              12.997411575616979
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 70,
+        "available" : false,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "22/III",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+22/III"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 71,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -16.496831990802015,
+              12.997711575616984
+            ],
+            [
+              -16.498431990802015,
+              13.122311575616985
+            ],
+            [
+              -16.624231990802016,
+              13.122311575616985
+            ],
+            [
+              -16.623831990802014,
+              12.997511575616985
+            ],
+            [
+              -16.496831990802015,
+              12.997711575616984
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 71,
+        "available" : false,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "22",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+22"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 72,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -16.253131990802014,
+              12.998011575616985
+            ],
+            [
+              -16.254531990802015,
+              13.122311575616985
+            ],
+            [
+              -16.372731990802016,
+              13.122311575616985
+            ],
+            [
+              -16.498431990802015,
+              13.122311575616985
+            ],
+            [
+              -16.496831990802015,
+              12.997711575616984
+            ],
+            [
+              -16.253131990802014,
+              12.998011575616985
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 72,
+        "available" : false,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "23",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+23"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 73,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -15.999131990802015,
+              12.998211575616985
+            ],
+            [
+              -15.999531990802016,
+              13.122311575616985
+            ],
+            [
+              -16.126431990802015,
+              13.122311575616985
+            ],
+            [
+              -16.254531990802015,
+              13.122311575616985
+            ],
+            [
+              -16.253131990802014,
+              12.998011575616985
+            ],
+            [
+              -15.999131990802015,
+              12.998211575616985
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 73,
+        "available" : false,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "24",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+24"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 74,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -15.747831990802014,
+              12.998511575616984
+            ],
+            [
+              -15.748731990802014,
+              13.122311575616985
+            ],
+            [
+              -15.999531990802016,
+              13.122311575616985
+            ],
+            [
+              -15.999131990802015,
+              12.998211575616985
+            ],
+            [
+              -15.747831990802014,
+              12.998511575616984
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 74,
+        "available" : false,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "25",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+25"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 75,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -15.372831990802014,
+              13.778211575616984
+            ],
+            [
+              -15.372831990802014,
+              13.792811575616984
+            ],
+            [
+              -15.248631990802014,
+              13.792811575616984
+            ],
+            [
+              -15.248431990802015,
+              13.835611575616984
+            ],
+            [
+              -15.247831990802014,
+              13.999211575616984
+            ],
+            [
+              -15.497931990802016,
+              13.999211575616984
+            ],
+            [
+              -15.499331990802014,
+              13.777411575616984
+            ],
+            [
+              -15.372831990802014,
+              13.778211575616984
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 75,
+        "available" : false,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "6A",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+6A"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 76,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -15.124131990802015,
+              13.835611575616984
+            ],
+            [
+              -14.999431990802016,
+              13.835611575616984
+            ],
+            [
+              -14.998831990802014,
+              13.917611575616984
+            ],
+            [
+              -14.998231990802015,
+              13.999211575616984
+            ],
+            [
+              -15.247831990802014,
+              13.999211575616984
+            ],
+            [
+              -15.248431990802015,
+              13.835611575616984
+            ],
+            [
+              -15.124131990802015,
+              13.835611575616984
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 76,
+        "available" : false,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "7A",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+7A"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 77,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -16.001231990802015,
+              13.752311575616984
+            ],
+            [
+              -16.256194733776528,
+              13.752311575616984
+            ],
+            [
+              -16.256194733776528,
+              13.625811575616984
+            ],
+            [
+              -16.001231990802015,
+              13.625811575616984
+            ],
+            [
+              -16.001231990802015,
+              13.752311575616984
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 77,
+        "available" : false,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "3",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+3"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 78,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -16.001231990802015,
+              13.752311575616984
+            ],
+            [
+              -16.001231990802015,
+              13.627011575616985
+            ],
+            [
+              -15.751031990802016,
+              13.627011575616985
+            ],
+            [
+              -15.751031990802016,
+              13.752311575616984
+            ],
+            [
+              -16.001231990802015,
+              13.752311575616984
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 78,
+        "available" : false,
+        "recordIdentifier" : "G8870.G4 s25 .G7",
+        "title" : "Gambia 1/25000 (approx.) land use",
+        "year" : "1958-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143901750203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "4",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143901750203941&sublib=MAP&collection=LC&callnum=G8870G4+s25+G7&title=Gambia+1/25000+(approx.)+land+use&description=sheet+4"
+      }
+    }
+  ]
+}
