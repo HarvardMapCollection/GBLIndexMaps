@@ -7,9 +7,9 @@
   "dct_references_s": "{\"https://openindexmaps.org\": \"https://raw.githubusercontent.com/HarvardMapCollection/GBLIndexMaps/master/GeoJSON/G5831_R3_S20_F7_INDEX_GR.geojson\"}",
   "layer_slug_s": "harvard-g5831-r3-s20-f7-index-gr",
   "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2018-04-15T00:00:00Z",
+  "layer_modified_dt": "2019-12-10T00:00:00Z",
   "dc_format_s": "GeoJSON",
-  "dc_language_s": "English",
+  "dc_language_s": "French",
   "dc_type_s": "Dataset",
   "dc_publisher_s": "Harvard Map Collection",
   "dc_creator_sm": [
