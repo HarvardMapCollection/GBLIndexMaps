@@ -1,0 +1,5969 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 0,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -83,
+              7.99609375
+            ],
+            [
+              -82.75,
+              7.99609375
+            ],
+            [
+              -82.75,
+              8.162109375
+            ],
+            [
+              -83,
+              8.162109375
+            ],
+            [
+              -83,
+              7.99609375
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 0,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3640III",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3640III"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -83.25,
+              8.162109375
+            ],
+            [
+              -83,
+              8.162109375
+            ],
+            [
+              -83,
+              8.328125
+            ],
+            [
+              -83.25,
+              8.328125
+            ],
+            [
+              -83.25,
+              8.162109375
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 1,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3540I",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3540I"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -83,
+              8.162109375
+            ],
+            [
+              -82.75,
+              8.162109375
+            ],
+            [
+              -82.75,
+              8.328125
+            ],
+            [
+              -83,
+              8.328125
+            ],
+            [
+              -83,
+              8.162109375
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 2,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3640IV",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3640IV"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -83.75,
+              8.328125
+            ],
+            [
+              -83.5,
+              8.328125
+            ],
+            [
+              -83.5,
+              8.49407958984375
+            ],
+            [
+              -83.75,
+              8.49407958984375
+            ],
+            [
+              -83.75,
+              8.328125
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 3,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3441II",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3441II"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -83.5,
+              8.328125
+            ],
+            [
+              -83.25,
+              8.328125
+            ],
+            [
+              -83.25,
+              8.49407958984375
+            ],
+            [
+              -83.5,
+              8.49407958984375
+            ],
+            [
+              -83.5,
+              8.328125
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 4,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3541III",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3541III"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -83.25,
+              8.328125
+            ],
+            [
+              -83,
+              8.328125
+            ],
+            [
+              -83,
+              8.49407958984375
+            ],
+            [
+              -83.25,
+              8.49407958984375
+            ],
+            [
+              -83.25,
+              8.328125
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 5,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3541II",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3541II"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -83,
+              8.328125
+            ],
+            [
+              -82.75,
+              8.328125
+            ],
+            [
+              -82.75,
+              8.49407958984375
+            ],
+            [
+              -83,
+              8.49407958984375
+            ],
+            [
+              -83,
+              8.328125
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 6,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3641III",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3641III"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -83.75,
+              8.49407958984375
+            ],
+            [
+              -83.5,
+              8.49407958984375
+            ],
+            [
+              -83.5,
+              8.66009521484375
+            ],
+            [
+              -83.75,
+              8.66009521484375
+            ],
+            [
+              -83.75,
+              8.49407958984375
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 7,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3441I",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3441I"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -83.5,
+              8.49407958984375
+            ],
+            [
+              -83.25,
+              8.49407958984375
+            ],
+            [
+              -83.25,
+              8.66009521484375
+            ],
+            [
+              -83.5,
+              8.66009521484375
+            ],
+            [
+              -83.5,
+              8.49407958984375
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 8,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3541IV",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3541IV"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -83.25,
+              8.49407958984375
+            ],
+            [
+              -83,
+              8.49407958984375
+            ],
+            [
+              -83,
+              8.66009521484375
+            ],
+            [
+              -83.25,
+              8.66009521484375
+            ],
+            [
+              -83.25,
+              8.49407958984375
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 9,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3541I",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3541I"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -83,
+              8.49407958984375
+            ],
+            [
+              -82.75,
+              8.49407958984375
+            ],
+            [
+              -82.75,
+              8.66009521484375
+            ],
+            [
+              -83,
+              8.66009521484375
+            ],
+            [
+              -83,
+              8.49407958984375
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 10,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3641IV",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3641IV"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -83.75,
+              8.66009521484375
+            ],
+            [
+              -83.5,
+              8.66009521484375
+            ],
+            [
+              -83.5,
+              8.82611083984375
+            ],
+            [
+              -83.75,
+              8.82611083984375
+            ],
+            [
+              -83.75,
+              8.66009521484375
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 11,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3442II",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3442II"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -83.5,
+              8.66009521484375
+            ],
+            [
+              -83.25,
+              8.66009521484375
+            ],
+            [
+              -83.25,
+              8.82611083984375
+            ],
+            [
+              -83.5,
+              8.82611083984375
+            ],
+            [
+              -83.5,
+              8.66009521484375
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 12,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3542III",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3542III"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -83.25,
+              8.66009521484375
+            ],
+            [
+              -83,
+              8.66009521484375
+            ],
+            [
+              -83,
+              8.82611083984375
+            ],
+            [
+              -83.25,
+              8.82611083984375
+            ],
+            [
+              -83.25,
+              8.66009521484375
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 13,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3542II",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3542II"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -83,
+              8.66009521484375
+            ],
+            [
+              -82.75,
+              8.66009521484375
+            ],
+            [
+              -82.75,
+              8.82611083984375
+            ],
+            [
+              -83,
+              8.82611083984375
+            ],
+            [
+              -83,
+              8.66009521484375
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 14,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3642III",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3642III"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -83.75,
+              8.82611083984375
+            ],
+            [
+              -83.5,
+              8.82611083984375
+            ],
+            [
+              -83.5,
+              8.99212646484375
+            ],
+            [
+              -83.75,
+              8.99212646484375
+            ],
+            [
+              -83.75,
+              8.82611083984375
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 15,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3442I",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3442I"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -83.5,
+              8.82611083984375
+            ],
+            [
+              -83.25,
+              8.82611083984375
+            ],
+            [
+              -83.25,
+              8.99212646484375
+            ],
+            [
+              -83.5,
+              8.99212646484375
+            ],
+            [
+              -83.5,
+              8.82611083984375
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 16,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3542IV",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3542IV"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -83.25,
+              8.82611083984375
+            ],
+            [
+              -83,
+              8.82611083984375
+            ],
+            [
+              -83,
+              8.99212646484375
+            ],
+            [
+              -83.25,
+              8.99212646484375
+            ],
+            [
+              -83.25,
+              8.82611083984375
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 17,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3542I",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3542I"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -83.5,
+              9.1580810546875
+            ],
+            [
+              -83.75,
+              9.1580810546875
+            ],
+            [
+              -83.77459716796875,
+              9.1580810546875
+            ],
+            [
+              -83.77459716796875,
+              9.115478515625
+            ],
+            [
+              -83.75,
+              9.115478515625
+            ],
+            [
+              -83.75,
+              8.99212646484375
+            ],
+            [
+              -83.5,
+              8.99212646484375
+            ],
+            [
+              -83.5,
+              9.1580810546875
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 18,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3443II",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3443II"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 19,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -83.5,
+              8.99212646484375
+            ],
+            [
+              -83.25,
+              8.99212646484375
+            ],
+            [
+              -83.25,
+              9.1580810546875
+            ],
+            [
+              -83.5,
+              9.1580810546875
+            ],
+            [
+              -83.5,
+              8.99212646484375
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 19,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3543III",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3543III"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 20,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -83.25,
+              8.99212646484375
+            ],
+            [
+              -83,
+              8.99212646484375
+            ],
+            [
+              -83,
+              9.1580810546875
+            ],
+            [
+              -83.25,
+              9.1580810546875
+            ],
+            [
+              -83.25,
+              8.99212646484375
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 20,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3543II",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3543II"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 21,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -83,
+              8.99212646484375
+            ],
+            [
+              -82.75,
+              8.99212646484375
+            ],
+            [
+              -82.75,
+              9.1580810546875
+            ],
+            [
+              -83,
+              9.1580810546875
+            ],
+            [
+              -83,
+              8.99212646484375
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 21,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3643III",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3643III"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 22,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -84,
+              9.1580810546875
+            ],
+            [
+              -83.75,
+              9.1580810546875
+            ],
+            [
+              -83.75,
+              9.3240966796875
+            ],
+            [
+              -84,
+              9.3240966796875
+            ],
+            [
+              -84,
+              9.1580810546875
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 22,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3443IV",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3443IV"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 23,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -83.75,
+              9.1580810546875
+            ],
+            [
+              -83.5,
+              9.1580810546875
+            ],
+            [
+              -83.5,
+              9.3240966796875
+            ],
+            [
+              -83.75,
+              9.3240966796875
+            ],
+            [
+              -83.75,
+              9.1580810546875
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 23,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3443I",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3443I"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 24,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -83.5,
+              9.1580810546875
+            ],
+            [
+              -83.25,
+              9.1580810546875
+            ],
+            [
+              -83.25,
+              9.3240966796875
+            ],
+            [
+              -83.5,
+              9.3240966796875
+            ],
+            [
+              -83.5,
+              9.1580810546875
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 24,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3543IV",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3543IV"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 25,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -83.25,
+              9.1580810546875
+            ],
+            [
+              -83,
+              9.1580810546875
+            ],
+            [
+              -83,
+              9.3240966796875
+            ],
+            [
+              -83.25,
+              9.3240966796875
+            ],
+            [
+              -83.25,
+              9.1580810546875
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 25,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3543I",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3543I"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 26,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -83,
+              9.1580810546875
+            ],
+            [
+              -82.75,
+              9.1580810546875
+            ],
+            [
+              -82.75,
+              9.3240966796875
+            ],
+            [
+              -83,
+              9.3240966796875
+            ],
+            [
+              -83,
+              9.1580810546875
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 26,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3643IV",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3643IV"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 27,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -84.25,
+              9.3240966796875
+            ],
+            [
+              -84,
+              9.3240966796875
+            ],
+            [
+              -84,
+              9.4901123046875
+            ],
+            [
+              -84.25,
+              9.4901123046875
+            ],
+            [
+              -84.25,
+              9.3240966796875
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 27,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3344II",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3344II"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 28,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -84,
+              9.3240966796875
+            ],
+            [
+              -83.75,
+              9.3240966796875
+            ],
+            [
+              -83.75,
+              9.4901123046875
+            ],
+            [
+              -84,
+              9.4901123046875
+            ],
+            [
+              -84,
+              9.3240966796875
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 28,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3444III",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3444III"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 29,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -83.75,
+              9.3240966796875
+            ],
+            [
+              -83.5,
+              9.3240966796875
+            ],
+            [
+              -83.5,
+              9.4901123046875
+            ],
+            [
+              -83.75,
+              9.4901123046875
+            ],
+            [
+              -83.75,
+              9.3240966796875
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 29,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3444II",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3444II"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 30,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -83.5,
+              9.3240966796875
+            ],
+            [
+              -83.25,
+              9.3240966796875
+            ],
+            [
+              -83.25,
+              9.4901123046875
+            ],
+            [
+              -83.5,
+              9.4901123046875
+            ],
+            [
+              -83.5,
+              9.3240966796875
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 30,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3544III",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3544III"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 31,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -83.25,
+              9.3240966796875
+            ],
+            [
+              -83,
+              9.3240966796875
+            ],
+            [
+              -83,
+              9.4901123046875
+            ],
+            [
+              -83.25,
+              9.4901123046875
+            ],
+            [
+              -83.25,
+              9.3240966796875
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 31,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3544II",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3544II"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 32,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -83,
+              9.3240966796875
+            ],
+            [
+              -82.75,
+              9.3240966796875
+            ],
+            [
+              -82.75,
+              9.4901123046875
+            ],
+            [
+              -83,
+              9.4901123046875
+            ],
+            [
+              -83,
+              9.3240966796875
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 32,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3644III",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3644III"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 33,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -85.25,
+              9.4901123046875
+            ],
+            [
+              -85,
+              9.4901123046875
+            ],
+            [
+              -85,
+              9.6561279296875
+            ],
+            [
+              -85.25,
+              9.6561279296875
+            ],
+            [
+              -85.25,
+              9.4901123046875
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 33,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3144I",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3144I"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 34,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -84.75,
+              9.4901123046875
+            ],
+            [
+              -84.5,
+              9.4901123046875
+            ],
+            [
+              -84.5,
+              9.6561279296875
+            ],
+            [
+              -84.75,
+              9.6561279296875
+            ],
+            [
+              -84.75,
+              9.4901123046875
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 34,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3244I",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3244I"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 35,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -84.25,
+              9.4901123046875
+            ],
+            [
+              -84.25,
+              9.6561279296875
+            ],
+            [
+              -84.5,
+              9.6561279296875
+            ],
+            [
+              -84.5,
+              9.4901123046875
+            ],
+            [
+              -84.355224609375,
+              9.4901123046875
+            ],
+            [
+              -84.355224609375,
+              9.46612548828125
+            ],
+            [
+              -84.25,
+              9.46612548828125
+            ],
+            [
+              -84.25,
+              9.4901123046875
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 35,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3344IV",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3344IV"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 36,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -84.25,
+              9.4901123046875
+            ],
+            [
+              -84,
+              9.4901123046875
+            ],
+            [
+              -84,
+              9.6561279296875
+            ],
+            [
+              -84.25,
+              9.6561279296875
+            ],
+            [
+              -84.25,
+              9.4901123046875
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 36,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3344I",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3344I"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 37,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -84,
+              9.4901123046875
+            ],
+            [
+              -83.75,
+              9.4901123046875
+            ],
+            [
+              -83.75,
+              9.6561279296875
+            ],
+            [
+              -84,
+              9.6561279296875
+            ],
+            [
+              -84,
+              9.4901123046875
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 37,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3444IV",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3444IV"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 38,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -83.75,
+              9.4901123046875
+            ],
+            [
+              -83.5,
+              9.4901123046875
+            ],
+            [
+              -83.5,
+              9.6561279296875
+            ],
+            [
+              -83.75,
+              9.6561279296875
+            ],
+            [
+              -83.75,
+              9.4901123046875
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 38,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3444I",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3444I"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 39,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -83.5,
+              9.4901123046875
+            ],
+            [
+              -83.25,
+              9.4901123046875
+            ],
+            [
+              -83.25,
+              9.6561279296875
+            ],
+            [
+              -83.5,
+              9.6561279296875
+            ],
+            [
+              -83.5,
+              9.4901123046875
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 39,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3544IV",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3544IV"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 40,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -83.25,
+              9.4901123046875
+            ],
+            [
+              -83,
+              9.4901123046875
+            ],
+            [
+              -83,
+              9.6561279296875
+            ],
+            [
+              -83.25,
+              9.6561279296875
+            ],
+            [
+              -83.25,
+              9.4901123046875
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 40,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3544I",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3544I"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 41,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -83,
+              9.4901123046875
+            ],
+            [
+              -82.75,
+              9.4901123046875
+            ],
+            [
+              -82.75,
+              9.6561279296875
+            ],
+            [
+              -83,
+              9.6561279296875
+            ],
+            [
+              -83,
+              9.4901123046875
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 41,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3644IV",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3644IV"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 42,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -82.75,
+              9.4901123046875
+            ],
+            [
+              -82.5,
+              9.4901123046875
+            ],
+            [
+              -82.5,
+              9.6561279296875
+            ],
+            [
+              -82.75,
+              9.6561279296875
+            ],
+            [
+              -82.75,
+              9.4901123046875
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 42,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3644I",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3644I"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 43,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -85.5,
+              9.6561279296875
+            ],
+            [
+              -85.25,
+              9.6561279296875
+            ],
+            [
+              -85.25,
+              9.82208251953125
+            ],
+            [
+              -85.5,
+              9.82208251953125
+            ],
+            [
+              -85.5,
+              9.6561279296875
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 43,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3145III",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3145III"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 44,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -85.25,
+              9.6561279296875
+            ],
+            [
+              -85,
+              9.6561279296875
+            ],
+            [
+              -85,
+              9.82208251953125
+            ],
+            [
+              -85.25,
+              9.82208251953125
+            ],
+            [
+              -85.25,
+              9.6561279296875
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 44,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3145II",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3145II"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 45,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -85,
+              9.6561279296875
+            ],
+            [
+              -84.75,
+              9.6561279296875
+            ],
+            [
+              -84.75,
+              9.82208251953125
+            ],
+            [
+              -85,
+              9.82208251953125
+            ],
+            [
+              -85,
+              9.6561279296875
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 45,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3245III",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3245III"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 46,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -84.75,
+              9.6561279296875
+            ],
+            [
+              -84.5,
+              9.6561279296875
+            ],
+            [
+              -84.5,
+              9.82208251953125
+            ],
+            [
+              -84.75,
+              9.82208251953125
+            ],
+            [
+              -84.75,
+              9.6561279296875
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 46,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3245II",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3245II"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 47,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -84.5,
+              9.6561279296875
+            ],
+            [
+              -84.25,
+              9.6561279296875
+            ],
+            [
+              -84.25,
+              9.82208251953125
+            ],
+            [
+              -84.5,
+              9.82208251953125
+            ],
+            [
+              -84.5,
+              9.6561279296875
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 47,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3345III",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3345III"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 48,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -84.25,
+              9.6561279296875
+            ],
+            [
+              -84,
+              9.6561279296875
+            ],
+            [
+              -84,
+              9.82208251953125
+            ],
+            [
+              -84.25,
+              9.82208251953125
+            ],
+            [
+              -84.25,
+              9.6561279296875
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 48,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3345II",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3345II"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 49,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -84,
+              9.6561279296875
+            ],
+            [
+              -83.75,
+              9.6561279296875
+            ],
+            [
+              -83.75,
+              9.82208251953125
+            ],
+            [
+              -84,
+              9.82208251953125
+            ],
+            [
+              -84,
+              9.6561279296875
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 49,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3445III",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3445III"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 50,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -83.75,
+              9.6561279296875
+            ],
+            [
+              -83.5,
+              9.6561279296875
+            ],
+            [
+              -83.5,
+              9.82208251953125
+            ],
+            [
+              -83.75,
+              9.82208251953125
+            ],
+            [
+              -83.75,
+              9.6561279296875
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 50,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3445II",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3445II"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 51,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -83.5,
+              9.6561279296875
+            ],
+            [
+              -83.25,
+              9.6561279296875
+            ],
+            [
+              -83.25,
+              9.82208251953125
+            ],
+            [
+              -83.5,
+              9.82208251953125
+            ],
+            [
+              -83.5,
+              9.6561279296875
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 51,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3545III",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3545III"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 52,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -83.25,
+              9.6561279296875
+            ],
+            [
+              -83,
+              9.6561279296875
+            ],
+            [
+              -83,
+              9.82208251953125
+            ],
+            [
+              -83.25,
+              9.82208251953125
+            ],
+            [
+              -83.25,
+              9.6561279296875
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 52,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3545II",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3545II"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 53,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -83,
+              9.6561279296875
+            ],
+            [
+              -82.75,
+              9.6561279296875
+            ],
+            [
+              -82.75,
+              9.82208251953125
+            ],
+            [
+              -83,
+              9.82208251953125
+            ],
+            [
+              -83,
+              9.6561279296875
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 53,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3645III",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3645III"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 54,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -85.75,
+              9.82208251953125
+            ],
+            [
+              -85.5,
+              9.82208251953125
+            ],
+            [
+              -85.5,
+              9.98809814453125
+            ],
+            [
+              -85.75,
+              9.98809814453125
+            ],
+            [
+              -85.75,
+              9.82208251953125
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 54,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3045I",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3045I"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 55,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -85.5,
+              9.82208251953125
+            ],
+            [
+              -85.25,
+              9.82208251953125
+            ],
+            [
+              -85.25,
+              9.98809814453125
+            ],
+            [
+              -85.5,
+              9.98809814453125
+            ],
+            [
+              -85.5,
+              9.82208251953125
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 55,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3145IV",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3145IV"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 56,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -85.25,
+              9.82208251953125
+            ],
+            [
+              -85,
+              9.82208251953125
+            ],
+            [
+              -85,
+              9.98809814453125
+            ],
+            [
+              -85.25,
+              9.98809814453125
+            ],
+            [
+              -85.25,
+              9.82208251953125
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 56,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3145I",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3145I"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 57,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -85,
+              9.82208251953125
+            ],
+            [
+              -84.75,
+              9.82208251953125
+            ],
+            [
+              -84.75,
+              9.98809814453125
+            ],
+            [
+              -85,
+              9.98809814453125
+            ],
+            [
+              -85,
+              9.82208251953125
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 57,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3245IV",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3245IV"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 58,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -84.75,
+              9.82208251953125
+            ],
+            [
+              -84.5,
+              9.82208251953125
+            ],
+            [
+              -84.5,
+              9.98809814453125
+            ],
+            [
+              -84.75,
+              9.98809814453125
+            ],
+            [
+              -84.75,
+              9.82208251953125
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 58,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3245I",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3245I"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 59,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -84.5,
+              9.82208251953125
+            ],
+            [
+              -84.25,
+              9.82208251953125
+            ],
+            [
+              -84.25,
+              9.98809814453125
+            ],
+            [
+              -84.5,
+              9.98809814453125
+            ],
+            [
+              -84.5,
+              9.82208251953125
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 59,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3345IV",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3345IV"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 60,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -84.25,
+              9.82208251953125
+            ],
+            [
+              -84,
+              9.82208251953125
+            ],
+            [
+              -84,
+              9.98809814453125
+            ],
+            [
+              -84.25,
+              9.98809814453125
+            ],
+            [
+              -84.25,
+              9.82208251953125
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 60,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3345I",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3345I"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 61,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -84,
+              9.82208251953125
+            ],
+            [
+              -83.75,
+              9.82208251953125
+            ],
+            [
+              -83.75,
+              9.98809814453125
+            ],
+            [
+              -84,
+              9.98809814453125
+            ],
+            [
+              -84,
+              9.82208251953125
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 61,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3445IV",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3445IV"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 62,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -83.75,
+              9.82208251953125
+            ],
+            [
+              -83.5,
+              9.82208251953125
+            ],
+            [
+              -83.5,
+              9.98809814453125
+            ],
+            [
+              -83.75,
+              9.98809814453125
+            ],
+            [
+              -83.75,
+              9.82208251953125
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 62,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3445I",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3445I"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 63,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -83.5,
+              9.82208251953125
+            ],
+            [
+              -83.25,
+              9.82208251953125
+            ],
+            [
+              -83.25,
+              9.98809814453125
+            ],
+            [
+              -83.5,
+              9.98809814453125
+            ],
+            [
+              -83.5,
+              9.82208251953125
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 63,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3545IV",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3545IV"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 64,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -83.25,
+              9.82208251953125
+            ],
+            [
+              -83,
+              9.82208251953125
+            ],
+            [
+              -83,
+              9.98809814453125
+            ],
+            [
+              -83.25,
+              9.98809814453125
+            ],
+            [
+              -83.25,
+              9.82208251953125
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 64,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3545I",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3545I"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 65,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -83,
+              9.82208251953125
+            ],
+            [
+              -82.75,
+              9.82208251953125
+            ],
+            [
+              -82.75,
+              9.98809814453125
+            ],
+            [
+              -83,
+              9.98809814453125
+            ],
+            [
+              -83,
+              9.82208251953125
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 65,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3645IV",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3645IV"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 66,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -86,
+              9.98809814453125
+            ],
+            [
+              -85.75,
+              9.98809814453125
+            ],
+            [
+              -85.75,
+              10.15411376953125
+            ],
+            [
+              -86,
+              10.15411376953125
+            ],
+            [
+              -86,
+              9.98809814453125
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 66,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3046III",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3046III"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 67,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -85.75,
+              9.98809814453125
+            ],
+            [
+              -85.5,
+              9.98809814453125
+            ],
+            [
+              -85.5,
+              10.15411376953125
+            ],
+            [
+              -85.75,
+              10.15411376953125
+            ],
+            [
+              -85.75,
+              9.98809814453125
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 67,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3046II",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3046II"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 68,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -85.5,
+              9.98809814453125
+            ],
+            [
+              -85.25,
+              9.98809814453125
+            ],
+            [
+              -85.25,
+              10.15411376953125
+            ],
+            [
+              -85.5,
+              10.15411376953125
+            ],
+            [
+              -85.5,
+              9.98809814453125
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 68,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3146III",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3146III"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 69,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -85.25,
+              9.98809814453125
+            ],
+            [
+              -85,
+              9.98809814453125
+            ],
+            [
+              -85,
+              10.15411376953125
+            ],
+            [
+              -85.25,
+              10.15411376953125
+            ],
+            [
+              -85.25,
+              9.98809814453125
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 69,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3146II",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3146II"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 70,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -85,
+              9.98809814453125
+            ],
+            [
+              -84.75,
+              9.98809814453125
+            ],
+            [
+              -84.75,
+              10.15411376953125
+            ],
+            [
+              -85,
+              10.15411376953125
+            ],
+            [
+              -85,
+              9.98809814453125
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 70,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3246III",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3246III"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 71,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -84.75,
+              9.98809814453125
+            ],
+            [
+              -84.5,
+              9.98809814453125
+            ],
+            [
+              -84.5,
+              10.15411376953125
+            ],
+            [
+              -84.75,
+              10.15411376953125
+            ],
+            [
+              -84.75,
+              9.98809814453125
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 71,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3246II",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3246II"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 72,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -84.5,
+              9.98809814453125
+            ],
+            [
+              -84.25,
+              9.98809814453125
+            ],
+            [
+              -84.25,
+              10.15411376953125
+            ],
+            [
+              -84.5,
+              10.15411376953125
+            ],
+            [
+              -84.5,
+              9.98809814453125
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 72,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3346III",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3346III"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 73,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -84.25,
+              9.98809814453125
+            ],
+            [
+              -84,
+              9.98809814453125
+            ],
+            [
+              -84,
+              10.15411376953125
+            ],
+            [
+              -84.25,
+              10.15411376953125
+            ],
+            [
+              -84.25,
+              9.98809814453125
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 73,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3346II",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3346II"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 74,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -84,
+              9.98809814453125
+            ],
+            [
+              -83.75,
+              9.98809814453125
+            ],
+            [
+              -83.75,
+              10.15411376953125
+            ],
+            [
+              -84,
+              10.15411376953125
+            ],
+            [
+              -84,
+              9.98809814453125
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 74,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3446III",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3446III"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 75,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -83.75,
+              9.98809814453125
+            ],
+            [
+              -83.5,
+              9.98809814453125
+            ],
+            [
+              -83.5,
+              10.15411376953125
+            ],
+            [
+              -83.75,
+              10.15411376953125
+            ],
+            [
+              -83.75,
+              9.98809814453125
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 75,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3446II",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3446II"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 76,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -83.5,
+              9.98809814453125
+            ],
+            [
+              -83.25,
+              9.98809814453125
+            ],
+            [
+              -83.25,
+              10.15411376953125
+            ],
+            [
+              -83.5,
+              10.15411376953125
+            ],
+            [
+              -83.5,
+              9.98809814453125
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 76,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3546III",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3546III"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 77,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -83.25,
+              9.98809814453125
+            ],
+            [
+              -83,
+              9.98809814453125
+            ],
+            [
+              -83,
+              10.15411376953125
+            ],
+            [
+              -83.25,
+              10.15411376953125
+            ],
+            [
+              -83.25,
+              9.98809814453125
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 77,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3546II",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3546II"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 78,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -86,
+              10.15411376953125
+            ],
+            [
+              -85.75,
+              10.15411376953125
+            ],
+            [
+              -85.75,
+              10.32012939453125
+            ],
+            [
+              -86,
+              10.32012939453125
+            ],
+            [
+              -86,
+              10.15411376953125
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 78,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3046IV",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3046IV"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 79,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -85.75,
+              10.15411376953125
+            ],
+            [
+              -85.5,
+              10.15411376953125
+            ],
+            [
+              -85.5,
+              10.32012939453125
+            ],
+            [
+              -85.75,
+              10.32012939453125
+            ],
+            [
+              -85.75,
+              10.15411376953125
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 79,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3046I",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3046I"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 80,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -85.5,
+              10.15411376953125
+            ],
+            [
+              -85.25,
+              10.15411376953125
+            ],
+            [
+              -85.25,
+              10.32012939453125
+            ],
+            [
+              -85.5,
+              10.32012939453125
+            ],
+            [
+              -85.5,
+              10.15411376953125
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 80,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3146IV",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3146IV"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 81,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -85.25,
+              10.15411376953125
+            ],
+            [
+              -85,
+              10.15411376953125
+            ],
+            [
+              -85,
+              10.32012939453125
+            ],
+            [
+              -85.25,
+              10.32012939453125
+            ],
+            [
+              -85.25,
+              10.15411376953125
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 81,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3146I",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3146I"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 82,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -85,
+              10.15411376953125
+            ],
+            [
+              -84.75,
+              10.15411376953125
+            ],
+            [
+              -84.75,
+              10.32012939453125
+            ],
+            [
+              -85,
+              10.32012939453125
+            ],
+            [
+              -85,
+              10.15411376953125
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 82,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3246IV",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3246IV"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 83,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -84.75,
+              10.15411376953125
+            ],
+            [
+              -84.5,
+              10.15411376953125
+            ],
+            [
+              -84.5,
+              10.32012939453125
+            ],
+            [
+              -84.75,
+              10.32012939453125
+            ],
+            [
+              -84.75,
+              10.15411376953125
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 83,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3246I",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3246I"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 84,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -84.5,
+              10.15411376953125
+            ],
+            [
+              -84.25,
+              10.15411376953125
+            ],
+            [
+              -84.25,
+              10.32012939453125
+            ],
+            [
+              -84.5,
+              10.32012939453125
+            ],
+            [
+              -84.5,
+              10.15411376953125
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 84,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3346IV",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3346IV"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 85,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -84.25,
+              10.15411376953125
+            ],
+            [
+              -84,
+              10.15411376953125
+            ],
+            [
+              -84,
+              10.32012939453125
+            ],
+            [
+              -84.25,
+              10.32012939453125
+            ],
+            [
+              -84.25,
+              10.15411376953125
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 85,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3346I",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3346I"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 86,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -84,
+              10.15411376953125
+            ],
+            [
+              -83.75,
+              10.15411376953125
+            ],
+            [
+              -83.75,
+              10.32012939453125
+            ],
+            [
+              -84,
+              10.32012939453125
+            ],
+            [
+              -84,
+              10.15411376953125
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 86,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3446IV",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3446IV"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 87,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -83.75,
+              10.15411376953125
+            ],
+            [
+              -83.5,
+              10.15411376953125
+            ],
+            [
+              -83.5,
+              10.32012939453125
+            ],
+            [
+              -83.75,
+              10.32012939453125
+            ],
+            [
+              -83.75,
+              10.15411376953125
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 87,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3446I",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3446I"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 88,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -83.25,
+              10.32012939453125
+            ],
+            [
+              -83.5,
+              10.32012939453125
+            ],
+            [
+              -83.5,
+              10.15411376953125
+            ],
+            [
+              -83.25,
+              10.15411376953125
+            ],
+            [
+              -83.21038818359375,
+              10.15411376953125
+            ],
+            [
+              -83.21038818359375,
+              10.20989990234375
+            ],
+            [
+              -83.25,
+              10.20989990234375
+            ],
+            [
+              -83.25,
+              10.32012939453125
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 88,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3546IV",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3546IV"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 89,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -86,
+              10.32012939453125
+            ],
+            [
+              -85.75,
+              10.32012939453125
+            ],
+            [
+              -85.75,
+              10.486083984375
+            ],
+            [
+              -86,
+              10.486083984375
+            ],
+            [
+              -86,
+              10.32012939453125
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 89,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3047III",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3047III"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 90,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -85.75,
+              10.32012939453125
+            ],
+            [
+              -85.5,
+              10.32012939453125
+            ],
+            [
+              -85.5,
+              10.486083984375
+            ],
+            [
+              -85.75,
+              10.486083984375
+            ],
+            [
+              -85.75,
+              10.32012939453125
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 90,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3047II",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3047II"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 91,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -85.5,
+              10.32012939453125
+            ],
+            [
+              -85.25,
+              10.32012939453125
+            ],
+            [
+              -85.25,
+              10.486083984375
+            ],
+            [
+              -85.5,
+              10.486083984375
+            ],
+            [
+              -85.5,
+              10.32012939453125
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 91,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3147III",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3147III"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 92,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -85.25,
+              10.32012939453125
+            ],
+            [
+              -85,
+              10.32012939453125
+            ],
+            [
+              -85,
+              10.486083984375
+            ],
+            [
+              -85.25,
+              10.486083984375
+            ],
+            [
+              -85.25,
+              10.32012939453125
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 92,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3147II",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3147II"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 93,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -85,
+              10.32012939453125
+            ],
+            [
+              -84.75,
+              10.32012939453125
+            ],
+            [
+              -84.75,
+              10.486083984375
+            ],
+            [
+              -85,
+              10.486083984375
+            ],
+            [
+              -85,
+              10.32012939453125
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 93,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3247III",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3247III"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 94,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -84.75,
+              10.32012939453125
+            ],
+            [
+              -84.5,
+              10.32012939453125
+            ],
+            [
+              -84.5,
+              10.486083984375
+            ],
+            [
+              -84.75,
+              10.486083984375
+            ],
+            [
+              -84.75,
+              10.32012939453125
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 94,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3247II",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3247II"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 95,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -84.5,
+              10.32012939453125
+            ],
+            [
+              -84.25,
+              10.32012939453125
+            ],
+            [
+              -84.25,
+              10.486083984375
+            ],
+            [
+              -84.5,
+              10.486083984375
+            ],
+            [
+              -84.5,
+              10.32012939453125
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 95,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3347III",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3347III"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 96,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -84.25,
+              10.32012939453125
+            ],
+            [
+              -84,
+              10.32012939453125
+            ],
+            [
+              -84,
+              10.486083984375
+            ],
+            [
+              -84.25,
+              10.486083984375
+            ],
+            [
+              -84.25,
+              10.32012939453125
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 96,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3347II",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3347II"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 97,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -84,
+              10.32012939453125
+            ],
+            [
+              -83.75,
+              10.32012939453125
+            ],
+            [
+              -83.75,
+              10.486083984375
+            ],
+            [
+              -84,
+              10.486083984375
+            ],
+            [
+              -84,
+              10.32012939453125
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 97,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3447III",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3447III"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 98,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -83.75,
+              10.32012939453125
+            ],
+            [
+              -83.5,
+              10.32012939453125
+            ],
+            [
+              -83.5,
+              10.486083984375
+            ],
+            [
+              -83.75,
+              10.486083984375
+            ],
+            [
+              -83.75,
+              10.32012939453125
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 98,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3447II",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3447II"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 99,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -83.5,
+              10.32012939453125
+            ],
+            [
+              -83.25,
+              10.32012939453125
+            ],
+            [
+              -83.25,
+              10.486083984375
+            ],
+            [
+              -83.5,
+              10.486083984375
+            ],
+            [
+              -83.5,
+              10.32012939453125
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 99,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3547III",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3547III"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 100,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -86,
+              10.486083984375
+            ],
+            [
+              -85.75,
+              10.486083984375
+            ],
+            [
+              -85.75,
+              10.652099609375
+            ],
+            [
+              -86,
+              10.652099609375
+            ],
+            [
+              -86,
+              10.486083984375
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 100,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3047IV",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3047IV"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 101,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -85.75,
+              10.486083984375
+            ],
+            [
+              -85.5,
+              10.486083984375
+            ],
+            [
+              -85.5,
+              10.652099609375
+            ],
+            [
+              -85.75,
+              10.652099609375
+            ],
+            [
+              -85.75,
+              10.486083984375
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 101,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3047I",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3047I"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 102,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -85.5,
+              10.486083984375
+            ],
+            [
+              -85.25,
+              10.486083984375
+            ],
+            [
+              -85.25,
+              10.652099609375
+            ],
+            [
+              -85.5,
+              10.652099609375
+            ],
+            [
+              -85.5,
+              10.486083984375
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 102,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3147IV",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3147IV"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 103,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -85.25,
+              10.486083984375
+            ],
+            [
+              -85,
+              10.486083984375
+            ],
+            [
+              -85,
+              10.652099609375
+            ],
+            [
+              -85.25,
+              10.652099609375
+            ],
+            [
+              -85.25,
+              10.486083984375
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 103,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3147I",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3147I"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 104,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -85,
+              10.486083984375
+            ],
+            [
+              -84.75,
+              10.486083984375
+            ],
+            [
+              -84.75,
+              10.652099609375
+            ],
+            [
+              -85,
+              10.652099609375
+            ],
+            [
+              -85,
+              10.486083984375
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 104,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3247IV",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3247IV"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 105,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -84.75,
+              10.486083984375
+            ],
+            [
+              -84.5,
+              10.486083984375
+            ],
+            [
+              -84.5,
+              10.652099609375
+            ],
+            [
+              -84.75,
+              10.652099609375
+            ],
+            [
+              -84.75,
+              10.486083984375
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 105,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3247I",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3247I"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 106,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -84.5,
+              10.486083984375
+            ],
+            [
+              -84.25,
+              10.486083984375
+            ],
+            [
+              -84.25,
+              10.652099609375
+            ],
+            [
+              -84.5,
+              10.652099609375
+            ],
+            [
+              -84.5,
+              10.486083984375
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 106,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3347IV",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3347IV"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 107,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -84.25,
+              10.486083984375
+            ],
+            [
+              -84,
+              10.486083984375
+            ],
+            [
+              -84,
+              10.652099609375
+            ],
+            [
+              -84.25,
+              10.652099609375
+            ],
+            [
+              -84.25,
+              10.486083984375
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 107,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3347I",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3347I"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 108,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -84,
+              10.486083984375
+            ],
+            [
+              -83.75,
+              10.486083984375
+            ],
+            [
+              -83.75,
+              10.652099609375
+            ],
+            [
+              -84,
+              10.652099609375
+            ],
+            [
+              -84,
+              10.486083984375
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 108,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3447IV",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3447IV"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 109,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -83.5,
+              10.652099609375
+            ],
+            [
+              -83.75,
+              10.652099609375
+            ],
+            [
+              -83.75,
+              10.486083984375
+            ],
+            [
+              -83.5,
+              10.486083984375
+            ],
+            [
+              -83.46551513671875,
+              10.486083984375
+            ],
+            [
+              -83.46551513671875,
+              10.54888916015625
+            ],
+            [
+              -83.5,
+              10.54888916015625
+            ],
+            [
+              -83.5,
+              10.652099609375
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 109,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3447I",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3447I"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 110,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -85.75,
+              10.652099609375
+            ],
+            [
+              -85.5,
+              10.652099609375
+            ],
+            [
+              -85.5,
+              10.818115234375
+            ],
+            [
+              -85.75,
+              10.818115234375
+            ],
+            [
+              -85.75,
+              10.652099609375
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 110,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3048II",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3048II"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 111,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -85.5,
+              10.652099609375
+            ],
+            [
+              -85.25,
+              10.652099609375
+            ],
+            [
+              -85.25,
+              10.818115234375
+            ],
+            [
+              -85.5,
+              10.818115234375
+            ],
+            [
+              -85.5,
+              10.652099609375
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 111,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3148III",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3148III"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 112,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -85.25,
+              10.652099609375
+            ],
+            [
+              -85,
+              10.652099609375
+            ],
+            [
+              -85,
+              10.818115234375
+            ],
+            [
+              -85.25,
+              10.818115234375
+            ],
+            [
+              -85.25,
+              10.652099609375
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 112,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3148II",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3148II"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 113,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -85,
+              10.652099609375
+            ],
+            [
+              -84.75,
+              10.652099609375
+            ],
+            [
+              -84.75,
+              10.818115234375
+            ],
+            [
+              -85,
+              10.818115234375
+            ],
+            [
+              -85,
+              10.652099609375
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 113,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3248III",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3248III"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 114,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -84.75,
+              10.652099609375
+            ],
+            [
+              -84.5,
+              10.652099609375
+            ],
+            [
+              -84.5,
+              10.818115234375
+            ],
+            [
+              -84.75,
+              10.818115234375
+            ],
+            [
+              -84.75,
+              10.652099609375
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 114,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3248II",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3248II"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 115,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -84.5,
+              10.652099609375
+            ],
+            [
+              -84.25,
+              10.652099609375
+            ],
+            [
+              -84.25,
+              10.818115234375
+            ],
+            [
+              -84.5,
+              10.818115234375
+            ],
+            [
+              -84.5,
+              10.652099609375
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 115,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3348III",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3348III"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 116,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -84.25,
+              10.652099609375
+            ],
+            [
+              -84,
+              10.652099609375
+            ],
+            [
+              -84,
+              10.818115234375
+            ],
+            [
+              -84.25,
+              10.818115234375
+            ],
+            [
+              -84.25,
+              10.652099609375
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 116,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3348II",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3348II"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 117,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -84,
+              10.652099609375
+            ],
+            [
+              -83.75,
+              10.652099609375
+            ],
+            [
+              -83.75,
+              10.818115234375
+            ],
+            [
+              -84,
+              10.818115234375
+            ],
+            [
+              -84,
+              10.652099609375
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 117,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3448III",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3448III"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 118,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -83.75,
+              10.652099609375
+            ],
+            [
+              -83.5,
+              10.652099609375
+            ],
+            [
+              -83.5,
+              10.818115234375
+            ],
+            [
+              -83.75,
+              10.818115234375
+            ],
+            [
+              -83.75,
+              10.652099609375
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 118,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3448II",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3448II"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 119,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -85.75,
+              10.818115234375
+            ],
+            [
+              -85.75,
+              10.984130859375
+            ],
+            [
+              -86,
+              10.984130859375
+            ],
+            [
+              -86,
+              10.818115234375
+            ],
+            [
+              -85.80029296875,
+              10.818115234375
+            ],
+            [
+              -85.80029296875,
+              10.7958984375
+            ],
+            [
+              -85.75,
+              10.7958984375
+            ],
+            [
+              -85.75,
+              10.818115234375
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 119,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3048IV",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3048IV"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 120,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -85.75,
+              10.818115234375
+            ],
+            [
+              -85.5,
+              10.818115234375
+            ],
+            [
+              -85.5,
+              10.984130859375
+            ],
+            [
+              -85.75,
+              10.984130859375
+            ],
+            [
+              -85.75,
+              10.818115234375
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 120,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3048I",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3048I"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 121,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -85.5,
+              10.818115234375
+            ],
+            [
+              -85.25,
+              10.818115234375
+            ],
+            [
+              -85.25,
+              10.984130859375
+            ],
+            [
+              -85.5,
+              10.984130859375
+            ],
+            [
+              -85.5,
+              10.818115234375
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 121,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3148IV",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3148IV"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 122,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -85.25,
+              10.818115234375
+            ],
+            [
+              -85,
+              10.818115234375
+            ],
+            [
+              -85,
+              10.984130859375
+            ],
+            [
+              -85.25,
+              10.984130859375
+            ],
+            [
+              -85.25,
+              10.818115234375
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 122,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3148I",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3148I"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 123,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -85,
+              10.818115234375
+            ],
+            [
+              -84.75,
+              10.818115234375
+            ],
+            [
+              -84.75,
+              10.984130859375
+            ],
+            [
+              -85,
+              10.984130859375
+            ],
+            [
+              -85,
+              10.818115234375
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 123,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3248IV",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3248IV"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 124,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -84.75,
+              10.818115234375
+            ],
+            [
+              -84.5,
+              10.818115234375
+            ],
+            [
+              -84.5,
+              10.984130859375
+            ],
+            [
+              -84.75,
+              10.984130859375
+            ],
+            [
+              -84.75,
+              10.818115234375
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 124,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3248I",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3248I"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 125,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -84.25,
+              10.984130859375
+            ],
+            [
+              -84.5,
+              10.984130859375
+            ],
+            [
+              -84.5,
+              10.818115234375
+            ],
+            [
+              -84.25,
+              10.818115234375
+            ],
+            [
+              -84.194091796875,
+              10.818115234375
+            ],
+            [
+              -84.194091796875,
+              10.90087890625
+            ],
+            [
+              -84.25,
+              10.90087890625
+            ],
+            [
+              -84.25,
+              10.984130859375
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 125,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3348IV",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3348IV"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 126,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -83.75,
+              10.818115234375
+            ],
+            [
+              -83.5,
+              10.818115234375
+            ],
+            [
+              -83.5,
+              10.984130859375
+            ],
+            [
+              -83.75,
+              10.984130859375
+            ],
+            [
+              -83.75,
+              10.818115234375
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 126,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3448I",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3448I"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 127,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -85.75,
+              10.984130859375
+            ],
+            [
+              -85.5,
+              10.984130859375
+            ],
+            [
+              -85.5,
+              11.15008544921875
+            ],
+            [
+              -85.75,
+              11.15008544921875
+            ],
+            [
+              -85.75,
+              11.04388427734375
+            ],
+            [
+              -85.7694091796875,
+              11.04388427734375
+            ],
+            [
+              -85.7694091796875,
+              10.984130859375
+            ],
+            [
+              -85.75,
+              10.984130859375
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 127,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3049II",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3049II"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 128,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -85.5,
+              10.984130859375
+            ],
+            [
+              -85.25,
+              10.984130859375
+            ],
+            [
+              -85.25,
+              11.15008544921875
+            ],
+            [
+              -85.5,
+              11.15008544921875
+            ],
+            [
+              -85.5,
+              10.984130859375
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 128,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3149III",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3149III"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 129,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -85,
+              10.984130859374943
+            ],
+            [
+              -84.832580566406193,
+              10.984130859374943
+            ],
+            [
+              -84.830078124999943,
+              11.15008544921875
+            ],
+            [
+              -85,
+              11.15008544921875
+            ],
+            [
+              -85.249999999999943,
+              11.15008544921875
+            ],
+            [
+              -85.249999999999943,
+              10.984130859374943
+            ],
+            [
+              -85,
+              10.984130859374943
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 129,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3149II",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3149II"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 130,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -84.5,
+              11.15008544921875
+            ],
+            [
+              -84.75,
+              11.15008544921875
+            ],
+            [
+              -84.75,
+              11.14892578125
+            ],
+            [
+              -84.830078125,
+              11.15008544921875
+            ],
+            [
+              -84.83258056640625,
+              10.9854736328125
+            ],
+            [
+              -84.75,
+              10.984130859375
+            ],
+            [
+              -84.5,
+              10.984130859375
+            ],
+            [
+              -84.5,
+              11.15008544921875
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 130,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3249II",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3249II"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 131,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -85.75,
+              11.15008544921875
+            ],
+            [
+              -85.5,
+              11.15008544921875
+            ],
+            [
+              -85.5,
+              11.31610107421875
+            ],
+            [
+              -85.75,
+              11.31610107421875
+            ],
+            [
+              -85.75,
+              11.15008544921875
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 131,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3049I",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3049I"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 132,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -83,
+              8.99212646484375
+            ],
+            [
+              -83,
+              8.82611083984375
+            ],
+            [
+              -82.75,
+              8.82611083984375
+            ],
+            [
+              -82.74969482421875,
+              8.884521484375
+            ],
+            [
+              -82.68212890625,
+              8.88470458984375
+            ],
+            [
+              -82.68231201171875,
+              8.9923095703125
+            ],
+            [
+              -83,
+              8.99212646484375
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 132,
+        "available" : true,
+        "recordIdentifier" : "G4860 s50 .C6",
+        "title" : "Costa Rica 1/50000",
+        "year" : "1961-1970",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142068960203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3642IV",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142068960203941&sublib=MAP&collection=LC&callnum=G4860+s50+C6&title=Costa+Rica+1/50000&description=sheet+3642IV"
+      }
+    }
+  ]
+}
