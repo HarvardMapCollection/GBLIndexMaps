@@ -1,0 +1,1985 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 0,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -89.25,
+              16
+            ],
+            [
+              -89,
+              16
+            ],
+            [
+              -89,
+              16.25
+            ],
+            [
+              -89.25,
+              16.25
+            ],
+            [
+              -89.25,
+              16
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 0,
+        "available" : true,
+        "recordIdentifier" : "G4820 s50 .G7",
+        "title" : "British Honduras",
+        "year" : "1965",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142040880203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "41",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142040880203941&sublib=MAP&collection=LC&callnum=G4820+s50+G7&title=British+Honduras&description=sheet+41"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -89,
+              16
+            ],
+            [
+              -88.75,
+              16
+            ],
+            [
+              -88.75,
+              16.25
+            ],
+            [
+              -89,
+              16.25
+            ],
+            [
+              -89,
+              16
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 1,
+        "available" : true,
+        "recordIdentifier" : "G4820 s50 .G7",
+        "title" : "British Honduras",
+        "year" : "1965",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142040880203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "42",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142040880203941&sublib=MAP&collection=LC&callnum=G4820+s50+G7&title=British+Honduras&description=sheet+42"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -89.25,
+              16.25
+            ],
+            [
+              -89,
+              16.25
+            ],
+            [
+              -89,
+              16.5
+            ],
+            [
+              -89.25,
+              16.5
+            ],
+            [
+              -89.25,
+              16.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 2,
+        "available" : true,
+        "recordIdentifier" : "G4820 s50 .G7",
+        "title" : "British Honduras",
+        "year" : "1965",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142040880203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "37",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142040880203941&sublib=MAP&collection=LC&callnum=G4820+s50+G7&title=British+Honduras&description=sheet+37"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -89,
+              16.25
+            ],
+            [
+              -88.75,
+              16.25
+            ],
+            [
+              -88.75,
+              16.5
+            ],
+            [
+              -89,
+              16.5
+            ],
+            [
+              -89,
+              16.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 3,
+        "available" : true,
+        "recordIdentifier" : "G4820 s50 .G7",
+        "title" : "British Honduras",
+        "year" : "1965",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142040880203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "38",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142040880203941&sublib=MAP&collection=LC&callnum=G4820+s50+G7&title=British+Honduras&description=sheet+38"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -88.75,
+              16.25
+            ],
+            [
+              -88.5,
+              16.25
+            ],
+            [
+              -88.5,
+              16.5
+            ],
+            [
+              -88.75,
+              16.5
+            ],
+            [
+              -88.75,
+              16.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 4,
+        "available" : true,
+        "recordIdentifier" : "G4820 s50 .G7",
+        "title" : "British Honduras",
+        "year" : "1965",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142040880203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "39",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142040880203941&sublib=MAP&collection=LC&callnum=G4820+s50+G7&title=British+Honduras&description=sheet+39"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -88.5,
+              16.25
+            ],
+            [
+              -88.25,
+              16.25
+            ],
+            [
+              -88.25,
+              16.5
+            ],
+            [
+              -88.5,
+              16.5
+            ],
+            [
+              -88.5,
+              16.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 5,
+        "available" : true,
+        "recordIdentifier" : "G4820 s50 .G7",
+        "title" : "British Honduras",
+        "year" : "1965",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142040880203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "40",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142040880203941&sublib=MAP&collection=LC&callnum=G4820+s50+G7&title=British+Honduras&description=sheet+40"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -89.25,
+              16.5
+            ],
+            [
+              -89,
+              16.5
+            ],
+            [
+              -89,
+              16.75
+            ],
+            [
+              -89.25,
+              16.75
+            ],
+            [
+              -89.25,
+              16.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 6,
+        "available" : true,
+        "recordIdentifier" : "G4820 s50 .G7",
+        "title" : "British Honduras",
+        "year" : "1965",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142040880203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "33",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142040880203941&sublib=MAP&collection=LC&callnum=G4820+s50+G7&title=British+Honduras&description=sheet+33"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -89,
+              16.5
+            ],
+            [
+              -88.75,
+              16.5
+            ],
+            [
+              -88.75,
+              16.75
+            ],
+            [
+              -89,
+              16.75
+            ],
+            [
+              -89,
+              16.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 7,
+        "available" : true,
+        "recordIdentifier" : "G4820 s50 .G7",
+        "title" : "British Honduras",
+        "year" : "1965",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142040880203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "34",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142040880203941&sublib=MAP&collection=LC&callnum=G4820+s50+G7&title=British+Honduras&description=sheet+34"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -88.75,
+              16.5
+            ],
+            [
+              -88.5,
+              16.5
+            ],
+            [
+              -88.5,
+              16.75
+            ],
+            [
+              -88.75,
+              16.75
+            ],
+            [
+              -88.75,
+              16.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 8,
+        "available" : true,
+        "recordIdentifier" : "G4820 s50 .G7",
+        "title" : "British Honduras",
+        "year" : "1965",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142040880203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "35",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142040880203941&sublib=MAP&collection=LC&callnum=G4820+s50+G7&title=British+Honduras&description=sheet+35"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -88.5,
+              16.5
+            ],
+            [
+              -88.25,
+              16.5
+            ],
+            [
+              -88.25,
+              16.75
+            ],
+            [
+              -88.5,
+              16.75
+            ],
+            [
+              -88.5,
+              16.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 9,
+        "available" : true,
+        "recordIdentifier" : "G4820 s50 .G7",
+        "title" : "British Honduras",
+        "year" : "1965",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142040880203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "36",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142040880203941&sublib=MAP&collection=LC&callnum=G4820+s50+G7&title=British+Honduras&description=sheet+36"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -89.25,
+              16.75
+            ],
+            [
+              -89,
+              16.75
+            ],
+            [
+              -89,
+              17
+            ],
+            [
+              -89.25,
+              17
+            ],
+            [
+              -89.25,
+              16.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 10,
+        "available" : true,
+        "recordIdentifier" : "G4820 s50 .G7",
+        "title" : "British Honduras",
+        "year" : "1965",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142040880203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "28",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142040880203941&sublib=MAP&collection=LC&callnum=G4820+s50+G7&title=British+Honduras&description=sheet+28"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -89,
+              16.75
+            ],
+            [
+              -88.75,
+              16.75
+            ],
+            [
+              -88.75,
+              17
+            ],
+            [
+              -89,
+              17
+            ],
+            [
+              -89,
+              16.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 11,
+        "available" : true,
+        "recordIdentifier" : "G4820 s50 .G7",
+        "title" : "British Honduras",
+        "year" : "1965",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142040880203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "29",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142040880203941&sublib=MAP&collection=LC&callnum=G4820+s50+G7&title=British+Honduras&description=sheet+29"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -88.75,
+              16.75
+            ],
+            [
+              -88.5,
+              16.75
+            ],
+            [
+              -88.5,
+              17
+            ],
+            [
+              -88.75,
+              17
+            ],
+            [
+              -88.75,
+              16.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 12,
+        "available" : true,
+        "recordIdentifier" : "G4820 s50 .G7",
+        "title" : "British Honduras",
+        "year" : "1965",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142040880203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "30",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142040880203941&sublib=MAP&collection=LC&callnum=G4820+s50+G7&title=British+Honduras&description=sheet+30"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -88.5,
+              16.75
+            ],
+            [
+              -88.25,
+              16.75
+            ],
+            [
+              -88.25,
+              17
+            ],
+            [
+              -88.5,
+              17
+            ],
+            [
+              -88.5,
+              16.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 13,
+        "available" : true,
+        "recordIdentifier" : "G4820 s50 .G7",
+        "title" : "British Honduras",
+        "year" : "1965",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142040880203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "31",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142040880203941&sublib=MAP&collection=LC&callnum=G4820+s50+G7&title=British+Honduras&description=sheet+31"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -88.25,
+              16.75
+            ],
+            [
+              -88,
+              16.75
+            ],
+            [
+              -88,
+              17
+            ],
+            [
+              -88.25,
+              17
+            ],
+            [
+              -88.25,
+              16.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 14,
+        "available" : true,
+        "recordIdentifier" : "G4820 s50 .G7",
+        "title" : "British Honduras",
+        "year" : "1965",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142040880203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "32",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142040880203941&sublib=MAP&collection=LC&callnum=G4820+s50+G7&title=British+Honduras&description=sheet+32"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -89.25,
+              17
+            ],
+            [
+              -89,
+              17
+            ],
+            [
+              -89,
+              17.25
+            ],
+            [
+              -89.25,
+              17.25
+            ],
+            [
+              -89.25,
+              17
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 15,
+        "available" : true,
+        "recordIdentifier" : "G4820 s50 .G7",
+        "title" : "British Honduras",
+        "year" : "1965",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142040880203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "23",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142040880203941&sublib=MAP&collection=LC&callnum=G4820+s50+G7&title=British+Honduras&description=sheet+23"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -89,
+              17
+            ],
+            [
+              -88.75,
+              17
+            ],
+            [
+              -88.75,
+              17.25
+            ],
+            [
+              -89,
+              17.25
+            ],
+            [
+              -89,
+              17
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 16,
+        "available" : true,
+        "recordIdentifier" : "G4820 s50 .G7",
+        "title" : "British Honduras",
+        "year" : "1965",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142040880203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "24",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142040880203941&sublib=MAP&collection=LC&callnum=G4820+s50+G7&title=British+Honduras&description=sheet+24"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -88.75,
+              17
+            ],
+            [
+              -88.5,
+              17
+            ],
+            [
+              -88.5,
+              17.25
+            ],
+            [
+              -88.75,
+              17.25
+            ],
+            [
+              -88.75,
+              17
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 17,
+        "available" : true,
+        "recordIdentifier" : "G4820 s50 .G7",
+        "title" : "British Honduras",
+        "year" : "1965",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142040880203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "25",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142040880203941&sublib=MAP&collection=LC&callnum=G4820+s50+G7&title=British+Honduras&description=sheet+25"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -88.5,
+              17
+            ],
+            [
+              -88.25,
+              17
+            ],
+            [
+              -88.25,
+              17.25
+            ],
+            [
+              -88.5,
+              17.25
+            ],
+            [
+              -88.5,
+              17
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 18,
+        "available" : true,
+        "recordIdentifier" : "G4820 s50 .G7",
+        "title" : "British Honduras",
+        "year" : "1965",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142040880203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "26",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142040880203941&sublib=MAP&collection=LC&callnum=G4820+s50+G7&title=British+Honduras&description=sheet+26"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 19,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -88.25,
+              17
+            ],
+            [
+              -88,
+              17
+            ],
+            [
+              -88,
+              17.25
+            ],
+            [
+              -88.25,
+              17.25
+            ],
+            [
+              -88.25,
+              17
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 19,
+        "available" : true,
+        "recordIdentifier" : "G4820 s50 .G7",
+        "title" : "British Honduras",
+        "year" : "1965",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142040880203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "27",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142040880203941&sublib=MAP&collection=LC&callnum=G4820+s50+G7&title=British+Honduras&description=sheet+27"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 20,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -89.25,
+              17.25
+            ],
+            [
+              -89,
+              17.25
+            ],
+            [
+              -89,
+              17.5
+            ],
+            [
+              -89.25,
+              17.5
+            ],
+            [
+              -89.25,
+              17.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 20,
+        "available" : true,
+        "recordIdentifier" : "G4820 s50 .G7",
+        "title" : "British Honduras",
+        "year" : "1965",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142040880203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "18",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142040880203941&sublib=MAP&collection=LC&callnum=G4820+s50+G7&title=British+Honduras&description=sheet+18"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 21,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -89,
+              17.25
+            ],
+            [
+              -88.75,
+              17.25
+            ],
+            [
+              -88.75,
+              17.5
+            ],
+            [
+              -89,
+              17.5
+            ],
+            [
+              -89,
+              17.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 21,
+        "available" : true,
+        "recordIdentifier" : "G4820 s50 .G7",
+        "title" : "British Honduras",
+        "year" : "1965",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142040880203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "19",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142040880203941&sublib=MAP&collection=LC&callnum=G4820+s50+G7&title=British+Honduras&description=sheet+19"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 22,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -88.75,
+              17.25
+            ],
+            [
+              -88.5,
+              17.25
+            ],
+            [
+              -88.5,
+              17.5
+            ],
+            [
+              -88.75,
+              17.5
+            ],
+            [
+              -88.75,
+              17.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 22,
+        "available" : true,
+        "recordIdentifier" : "G4820 s50 .G7",
+        "title" : "British Honduras",
+        "year" : "1965",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142040880203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "20",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142040880203941&sublib=MAP&collection=LC&callnum=G4820+s50+G7&title=British+Honduras&description=sheet+20"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 23,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -88.5,
+              17.25
+            ],
+            [
+              -88.25,
+              17.25
+            ],
+            [
+              -88.25,
+              17.5
+            ],
+            [
+              -88.5,
+              17.5
+            ],
+            [
+              -88.5,
+              17.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 23,
+        "available" : true,
+        "recordIdentifier" : "G4820 s50 .G7",
+        "title" : "British Honduras",
+        "year" : "1965",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142040880203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "21",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142040880203941&sublib=MAP&collection=LC&callnum=G4820+s50+G7&title=British+Honduras&description=sheet+21"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 24,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -88.25,
+              17.25
+            ],
+            [
+              -88,
+              17.25
+            ],
+            [
+              -88,
+              17.5
+            ],
+            [
+              -88.25,
+              17.5
+            ],
+            [
+              -88.25,
+              17.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 24,
+        "available" : true,
+        "recordIdentifier" : "G4820 s50 .G7",
+        "title" : "British Honduras",
+        "year" : "1965",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142040880203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "22",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142040880203941&sublib=MAP&collection=LC&callnum=G4820+s50+G7&title=British+Honduras&description=sheet+22"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 25,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -89.25,
+              17.5
+            ],
+            [
+              -89,
+              17.5
+            ],
+            [
+              -89,
+              17.75
+            ],
+            [
+              -89.25,
+              17.75
+            ],
+            [
+              -89.25,
+              17.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 25,
+        "available" : true,
+        "recordIdentifier" : "G4820 s50 .G7",
+        "title" : "British Honduras",
+        "year" : "1965",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142040880203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "13",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142040880203941&sublib=MAP&collection=LC&callnum=G4820+s50+G7&title=British+Honduras&description=sheet+13"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 26,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -89,
+              17.5
+            ],
+            [
+              -88.75,
+              17.5
+            ],
+            [
+              -88.75,
+              17.75
+            ],
+            [
+              -89,
+              17.75
+            ],
+            [
+              -89,
+              17.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 26,
+        "available" : true,
+        "recordIdentifier" : "G4820 s50 .G7",
+        "title" : "British Honduras",
+        "year" : "1965",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142040880203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "14",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142040880203941&sublib=MAP&collection=LC&callnum=G4820+s50+G7&title=British+Honduras&description=sheet+14"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 27,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -88.75,
+              17.5
+            ],
+            [
+              -88.5,
+              17.5
+            ],
+            [
+              -88.5,
+              17.75
+            ],
+            [
+              -88.75,
+              17.75
+            ],
+            [
+              -88.75,
+              17.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 27,
+        "available" : true,
+        "recordIdentifier" : "G4820 s50 .G7",
+        "title" : "British Honduras",
+        "year" : "1965",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142040880203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "15",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142040880203941&sublib=MAP&collection=LC&callnum=G4820+s50+G7&title=British+Honduras&description=sheet+15"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 28,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -88.5,
+              17.5
+            ],
+            [
+              -88.25,
+              17.5
+            ],
+            [
+              -88.25,
+              17.75
+            ],
+            [
+              -88.5,
+              17.75
+            ],
+            [
+              -88.5,
+              17.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 28,
+        "available" : true,
+        "recordIdentifier" : "G4820 s50 .G7",
+        "title" : "British Honduras",
+        "year" : "1965",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142040880203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "16",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142040880203941&sublib=MAP&collection=LC&callnum=G4820+s50+G7&title=British+Honduras&description=sheet+16"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 29,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -88.25,
+              17.5
+            ],
+            [
+              -88,
+              17.5
+            ],
+            [
+              -88,
+              17.75
+            ],
+            [
+              -88.25,
+              17.75
+            ],
+            [
+              -88.25,
+              17.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 29,
+        "available" : true,
+        "recordIdentifier" : "G4820 s50 .G7",
+        "title" : "British Honduras",
+        "year" : "1965",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142040880203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "17",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142040880203941&sublib=MAP&collection=LC&callnum=G4820+s50+G7&title=British+Honduras&description=sheet+17"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 30,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -89.25,
+              17.75
+            ],
+            [
+              -89,
+              17.75
+            ],
+            [
+              -89,
+              18
+            ],
+            [
+              -89.25,
+              18
+            ],
+            [
+              -89.25,
+              17.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 30,
+        "available" : true,
+        "recordIdentifier" : "G4820 s50 .G7",
+        "title" : "British Honduras",
+        "year" : "1965",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142040880203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "8",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142040880203941&sublib=MAP&collection=LC&callnum=G4820+s50+G7&title=British+Honduras&description=sheet+8"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 31,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -89,
+              17.75
+            ],
+            [
+              -88.75,
+              17.75
+            ],
+            [
+              -88.75,
+              18
+            ],
+            [
+              -89,
+              18
+            ],
+            [
+              -89,
+              17.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 31,
+        "available" : true,
+        "recordIdentifier" : "G4820 s50 .G7",
+        "title" : "British Honduras",
+        "year" : "1965",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142040880203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "9",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142040880203941&sublib=MAP&collection=LC&callnum=G4820+s50+G7&title=British+Honduras&description=sheet+9"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 32,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -88.75,
+              17.75
+            ],
+            [
+              -88.5,
+              17.75
+            ],
+            [
+              -88.5,
+              18
+            ],
+            [
+              -88.75,
+              18
+            ],
+            [
+              -88.75,
+              17.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 32,
+        "available" : true,
+        "recordIdentifier" : "G4820 s50 .G7",
+        "title" : "British Honduras",
+        "year" : "1965",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142040880203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "10",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142040880203941&sublib=MAP&collection=LC&callnum=G4820+s50+G7&title=British+Honduras&description=sheet+10"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 33,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -88.5,
+              17.75
+            ],
+            [
+              -88.25,
+              17.75
+            ],
+            [
+              -88.25,
+              18
+            ],
+            [
+              -88.5,
+              18
+            ],
+            [
+              -88.5,
+              17.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 33,
+        "available" : true,
+        "recordIdentifier" : "G4820 s50 .G7",
+        "title" : "British Honduras",
+        "year" : "1965",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142040880203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "11",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142040880203941&sublib=MAP&collection=LC&callnum=G4820+s50+G7&title=British+Honduras&description=sheet+11"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 34,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -88.25,
+              17.75
+            ],
+            [
+              -88,
+              17.75
+            ],
+            [
+              -88,
+              18
+            ],
+            [
+              -88.25,
+              18
+            ],
+            [
+              -88.25,
+              17.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 34,
+        "available" : true,
+        "recordIdentifier" : "G4820 s50 .G7",
+        "title" : "British Honduras",
+        "year" : "1965",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142040880203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "12",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142040880203941&sublib=MAP&collection=LC&callnum=G4820+s50+G7&title=British+Honduras&description=sheet+12"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 35,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -88.75,
+              18
+            ],
+            [
+              -88.5,
+              18
+            ],
+            [
+              -88.5,
+              18.25
+            ],
+            [
+              -88.75,
+              18.25
+            ],
+            [
+              -88.75,
+              18
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 35,
+        "available" : true,
+        "recordIdentifier" : "G4820 s50 .G7",
+        "title" : "British Honduras",
+        "year" : "1965",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142040880203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "4",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142040880203941&sublib=MAP&collection=LC&callnum=G4820+s50+G7&title=British+Honduras&description=sheet+4"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 36,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -88.5,
+              18
+            ],
+            [
+              -88.25,
+              18
+            ],
+            [
+              -88.25,
+              18.25
+            ],
+            [
+              -88.5,
+              18.25
+            ],
+            [
+              -88.5,
+              18
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 36,
+        "available" : true,
+        "recordIdentifier" : "G4820 s50 .G7",
+        "title" : "British Honduras",
+        "year" : "1965",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142040880203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "5",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142040880203941&sublib=MAP&collection=LC&callnum=G4820+s50+G7&title=British+Honduras&description=sheet+5"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 37,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -88.25,
+              18
+            ],
+            [
+              -88,
+              18
+            ],
+            [
+              -88,
+              18.25
+            ],
+            [
+              -88.25,
+              18.25
+            ],
+            [
+              -88.25,
+              18
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 37,
+        "available" : true,
+        "recordIdentifier" : "G4820 s50 .G7",
+        "title" : "British Honduras",
+        "year" : "1965",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142040880203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "6",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142040880203941&sublib=MAP&collection=LC&callnum=G4820+s50+G7&title=British+Honduras&description=sheet+6"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 38,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -88.75,
+              18.25
+            ],
+            [
+              -88.5,
+              18.25
+            ],
+            [
+              -88.5,
+              18.5
+            ],
+            [
+              -88.75,
+              18.5
+            ],
+            [
+              -88.75,
+              18.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 38,
+        "available" : true,
+        "recordIdentifier" : "G4820 s50 .G7",
+        "title" : "British Honduras",
+        "year" : "1965",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142040880203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "1",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142040880203941&sublib=MAP&collection=LC&callnum=G4820+s50+G7&title=British+Honduras&description=sheet+1"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 39,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -88.5,
+              18.25
+            ],
+            [
+              -88.25,
+              18.25
+            ],
+            [
+              -88.25,
+              18.5
+            ],
+            [
+              -88.5,
+              18.5
+            ],
+            [
+              -88.5,
+              18.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 39,
+        "available" : true,
+        "recordIdentifier" : "G4820 s50 .G7",
+        "title" : "British Honduras",
+        "year" : "1965",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142040880203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "2",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142040880203941&sublib=MAP&collection=LC&callnum=G4820+s50+G7&title=British+Honduras&description=sheet+2"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 40,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -88.25,
+              18.25
+            ],
+            [
+              -88,
+              18.25
+            ],
+            [
+              -88,
+              18.5
+            ],
+            [
+              -88.25,
+              18.5
+            ],
+            [
+              -88.25,
+              18.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 40,
+        "available" : true,
+        "recordIdentifier" : "G4820 s50 .G7",
+        "title" : "British Honduras",
+        "year" : "1965",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142040880203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142040880203941&sublib=MAP&collection=LC&callnum=G4820+s50+G7&title=British+Honduras&description=sheet+3"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 41,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -88.39426202656125,
+              17.619924151242458
+            ],
+            [
+              -88.39426202656125,
+              17.374363775440713
+            ],
+            [
+              -88.143942728747959,
+              17.374363775440713
+            ],
+            [
+              -88.143942728747959,
+              17.619924151242458
+            ],
+            [
+              -88.39426202656125,
+              17.619924151242458
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 41,
+        "available" : true,
+        "recordIdentifier" : "G4820 s50 .G7",
+        "title" : "British Honduras",
+        "year" : "1965",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142040880203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "45",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142040880203941&sublib=MAP&collection=LC&callnum=G4820+s50+G7&title=British+Honduras&description=sheet+45"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 42,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -89.25,
+              16
+            ],
+            [
+              -89.25,
+              15.882203778684641
+            ],
+            [
+              -88.9047753853622,
+              15.882203778684641
+            ],
+            [
+              -88.9047753853622,
+              16
+            ],
+            [
+              -89.25,
+              16
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 42,
+        "available" : true,
+        "recordIdentifier" : "G4820 s50 .G7",
+        "title" : "British Honduras",
+        "year" : "1965",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142040880203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "44",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142040880203941&sublib=MAP&collection=LC&callnum=G4820+s50+G7&title=British+Honduras&description=sheet+44"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 43,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -88.749999999999943,
+              16.249999999999943
+            ],
+            [
+              -88.749999999999943,
+              16
+            ],
+            [
+              -88.623649503339038,
+              16
+            ],
+            [
+              -88.623649503339038,
+              16.249999999999943
+            ],
+            [
+              -88.749999999999943,
+              16.249999999999943
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 43,
+        "available" : true,
+        "recordIdentifier" : "G4820 s50 .G7",
+        "title" : "British Honduras",
+        "year" : "1965",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142040880203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "43",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142040880203941&sublib=MAP&collection=LC&callnum=G4820+s50+G7&title=British+Honduras&description=sheet+43"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 44,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -88.046646072498561,
+              18.20048685917078
+            ],
+            [
+              -88.04759785690095,
+              17.872121240366198
+            ],
+            [
+              -87.813469137368315,
+              17.871442606396556
+            ],
+            [
+              -87.812517352965983,
+              18.199808225201139
+            ],
+            [
+              -88.046646072498561,
+              18.20048685917078
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 44,
+        "available" : true,
+        "recordIdentifier" : "G4820 s50 .G7",
+        "title" : "British Honduras",
+        "year" : "1965",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990142040880203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "7",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990142040880203941&sublib=MAP&collection=LC&callnum=G4820+s50+G7&title=British+Honduras&description=sheet+7"
+      }
+    }
+  ]
+}
