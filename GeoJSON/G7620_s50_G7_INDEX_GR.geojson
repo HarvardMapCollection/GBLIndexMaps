@@ -1,0 +1,2721 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 0,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              49.638954523234332,
+              31.114215269240518
+            ],
+            [
+              49.428854523234335,
+              31.12541526924052
+            ],
+            [
+              49.423254523234334,
+              30.949215269240518
+            ],
+            [
+              49.633254523234335,
+              30.940215269240518
+            ],
+            [
+              49.638954523234332,
+              31.114215269240518
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 0,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7620 s50 .G7",
+        "title" : "1/50000 Iraq-Iran",
+        "year" : "1942-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143334720203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "OY 20",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143334720203941&sublib=MAP&collection=LC&callnum=G7620+s50+G7&title=1/50000+Iraq-Iran&description=sheet+OY 20",
+        "part1" : "OY",
+        "part2" : "2",
+        "part3" : "0"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              49.391454523234337,
+              31.127415269240519
+            ],
+            [
+              49.217554523234334,
+              31.132715269240521
+            ],
+            [
+              49.211454523234337,
+              30.95781526924052
+            ],
+            [
+              49.250654523234331,
+              30.956615269240519
+            ],
+            [
+              49.423254523234334,
+              30.949215269240518
+            ],
+            [
+              49.428854523234335,
+              31.12541526924052
+            ],
+            [
+              49.391454523234337,
+              31.127415269240519
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 1,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7620 s50 .G7",
+        "title" : "1/50000 Iraq-Iran",
+        "year" : "1942-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143334720203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "OY 00",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143334720203941&sublib=MAP&collection=LC&callnum=G7620+s50+G7&title=1/50000+Iraq-Iran&description=sheet+OY 00",
+        "part1" : "OY",
+        "part2" : "0",
+        "part3" : "0"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              49.217554523234334,
+              31.132715269240521
+            ],
+            [
+              49.010154523234334,
+              31.13901526924052
+            ],
+            [
+              49.003954523234334,
+              30.964115269240519
+            ],
+            [
+              49.211454523234337,
+              30.95781526924052
+            ],
+            [
+              49.217554523234334,
+              31.132715269240521
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 2,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G7620 s50 .G7",
+        "title" : "1/50000 Iraq-Iran",
+        "year" : "1942-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143334720203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "OY 80",
+        "thumbnailUrl" : " ",
+        "note" : " ",
+        "part1" : "OY",
+        "part2" : "8",
+        "part3" : "0"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              49.010154523234334,
+              31.13901526924052
+            ],
+            [
+              48.808854523234338,
+              31.14521526924052
+            ],
+            [
+              48.803254523234337,
+              30.970215269240519
+            ],
+            [
+              49.003954523234334,
+              30.964115269240519
+            ],
+            [
+              49.010154523234334,
+              31.13901526924052
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 3,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G7620 s50 .G7",
+        "title" : "1/50000 Iraq-Iran",
+        "year" : "1942-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143334720203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "OY 60",
+        "thumbnailUrl" : " ",
+        "note" : " ",
+        "part1" : "OY",
+        "part2" : "6",
+        "part3" : "0"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              48.808854523234338,
+              31.14521526924052
+            ],
+            [
+              48.605954523234338,
+              31.15141526924052
+            ],
+            [
+              48.603754523234336,
+              31.08251526924052
+            ],
+            [
+              48.560354523234338,
+              31.083515269240518
+            ],
+            [
+              48.559254523234337,
+              31.00351526924052
+            ],
+            [
+              48.526654523234335,
+              31.00351526924052
+            ],
+            [
+              48.526254523234336,
+              30.978615269240517
+            ],
+            [
+              48.803254523234337,
+              30.970215269240519
+            ],
+            [
+              48.808854523234338,
+              31.14521526924052
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 4,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7620 s50 .G7",
+        "title" : "1/50000 Iraq-Iran",
+        "year" : "1942-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143334720203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "OY 40",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143334720203941&sublib=MAP&collection=LC&callnum=G7620+s50+G7&title=1/50000+Iraq-Iran&description=sheet+OY 40",
+        "part1" : "OY",
+        "part2" : "4",
+        "part3" : "0"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              49.856554523234337,
+              31.278315269240519
+            ],
+            [
+              49.644654523234337,
+              31.288815269240519
+            ],
+            [
+              49.638954523234332,
+              31.114215269240518
+            ],
+            [
+              49.852454523234336,
+              31.102815269240519
+            ],
+            [
+              49.856554523234337,
+              31.278315269240519
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 5,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7620 s50 .G7",
+        "title" : "1/50000 Iraq-Iran",
+        "year" : "1942-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143334720203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "OY 42",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143334720203941&sublib=MAP&collection=LC&callnum=G7620+s50+G7&title=1/50000+Iraq-Iran&description=sheet+OY 42",
+        "part1" : "OY",
+        "part2" : "4",
+        "part3" : "2"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              49.644654523234337,
+              31.288815269240519
+            ],
+            [
+              49.434354523234333,
+              31.29921526924052
+            ],
+            [
+              49.428854523234335,
+              31.12541526924052
+            ],
+            [
+              49.638954523234332,
+              31.114215269240518
+            ],
+            [
+              49.644654523234337,
+              31.288815269240519
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 6,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7620 s50 .G7",
+        "title" : "1/50000 Iraq-Iran",
+        "year" : "1942-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143334720203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "OY 22",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143334720203941&sublib=MAP&collection=LC&callnum=G7620+s50+G7&title=1/50000+Iraq-Iran&description=sheet+OY 22",
+        "part1" : "OY",
+        "part2" : "2",
+        "part3" : "2"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              49.330554523234333,
+              31.304415269240518
+            ],
+            [
+              49.223754523234334,
+              31.30831526924052
+            ],
+            [
+              49.217554523234334,
+              31.132715269240521
+            ],
+            [
+              49.391454523234337,
+              31.127415269240519
+            ],
+            [
+              49.428854523234335,
+              31.12541526924052
+            ],
+            [
+              49.434354523234333,
+              31.29921526924052
+            ],
+            [
+              49.330554523234333,
+              31.304415269240518
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 7,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G7620 s50 .G7",
+        "title" : "1/50000 Iraq-Iran",
+        "year" : "1942-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143334720203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "OY 02",
+        "thumbnailUrl" : " ",
+        "note" : " ",
+        "part1" : "OY",
+        "part2" : "0",
+        "part3" : "2"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              49.223754523234334,
+              31.30831526924052
+            ],
+            [
+              49.016454523234337,
+              31.31591526924052
+            ],
+            [
+              49.010154523234334,
+              31.13901526924052
+            ],
+            [
+              49.217554523234334,
+              31.132715269240521
+            ],
+            [
+              49.223754523234334,
+              31.30831526924052
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 8,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G7620 s50 .G7",
+        "title" : "1/50000 Iraq-Iran",
+        "year" : "1942-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143334720203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "OY 82",
+        "thumbnailUrl" : " ",
+        "note" : " ",
+        "part1" : "OY",
+        "part2" : "8",
+        "part3" : "2"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              49.016454523234337,
+              31.31591526924052
+            ],
+            [
+              48.814654523234339,
+              31.323315269240521
+            ],
+            [
+              48.808854523234338,
+              31.14521526924052
+            ],
+            [
+              49.010154523234334,
+              31.13901526924052
+            ],
+            [
+              49.016454523234337,
+              31.31591526924052
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 9,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7620 s50 .G7",
+        "title" : "1/50000 Iraq-Iran",
+        "year" : "1942-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143334720203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "OY 62",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143334720203941&sublib=MAP&collection=LC&callnum=G7620+s50+G7&title=1/50000+Iraq-Iran&description=sheet+OY 62",
+        "part1" : "OY",
+        "part2" : "6",
+        "part3" : "2"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              48.814654523234339,
+              31.323315269240521
+            ],
+            [
+              48.611554523234332,
+              31.330815269240517
+            ],
+            [
+              48.605954523234338,
+              31.15141526924052
+            ],
+            [
+              48.808854523234338,
+              31.14521526924052
+            ],
+            [
+              48.814654523234339,
+              31.323315269240521
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 10,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G7620 s50 .G7",
+        "title" : "1/50000 Iraq-Iran",
+        "year" : "1942-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143334720203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "OY 42",
+        "thumbnailUrl" : " ",
+        "note" : " ",
+        "part1" : "OY",
+        "part2" : "4",
+        "part3" : "2"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              49.860654523234338,
+              31.45451526924052
+            ],
+            [
+              49.650354523234334,
+              31.46381526924052
+            ],
+            [
+              49.644654523234337,
+              31.288815269240519
+            ],
+            [
+              49.856554523234337,
+              31.278315269240519
+            ],
+            [
+              49.860654523234338,
+              31.45451526924052
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 11,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7620 s50 .G7",
+        "title" : "1/50000 Iraq-Iran",
+        "year" : "1942-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143334720203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "OY 46",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143334720203941&sublib=MAP&collection=LC&callnum=G7620+s50+G7&title=1/50000+Iraq-Iran&description=sheet+OY 46",
+        "part1" : "OY",
+        "part2" : "4",
+        "part3" : "6"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              49.650354523234334,
+              31.46381526924052
+            ],
+            [
+              49.439854523234338,
+              31.473215269240519
+            ],
+            [
+              49.434354523234333,
+              31.29921526924052
+            ],
+            [
+              49.644654523234337,
+              31.288815269240519
+            ],
+            [
+              49.650354523234334,
+              31.46381526924052
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 12,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7620 s50 .G7",
+        "title" : "1/50000 Iraq-Iran",
+        "year" : "1942-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143334720203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "OY 26",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143334720203941&sublib=MAP&collection=LC&callnum=G7620+s50+G7&title=1/50000+Iraq-Iran&description=sheet+OY 26",
+        "part1" : "OY",
+        "part2" : "2",
+        "part3" : "6"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              49.297054523234337,
+              31.479515269240519
+            ],
+            [
+              49.229854523234337,
+              31.481615269240518
+            ],
+            [
+              49.223754523234334,
+              31.30831526924052
+            ],
+            [
+              49.330554523234333,
+              31.304415269240518
+            ],
+            [
+              49.434354523234333,
+              31.29921526924052
+            ],
+            [
+              49.439854523234338,
+              31.473215269240519
+            ],
+            [
+              49.297054523234337,
+              31.479515269240519
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 13,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7620 s50 .G7",
+        "title" : "1/50000 Iraq-Iran",
+        "year" : "1942-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143334720203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "OY 06",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143334720203941&sublib=MAP&collection=LC&callnum=G7620+s50+G7&title=1/50000+Iraq-Iran&description=sheet+OY 06",
+        "part1" : "OY",
+        "part2" : "0",
+        "part3" : "6"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              49.229854523234337,
+              31.481615269240518
+            ],
+            [
+              49.022554523234334,
+              31.48821526924052
+            ],
+            [
+              49.016454523234337,
+              31.31591526924052
+            ],
+            [
+              49.223754523234334,
+              31.30831526924052
+            ],
+            [
+              49.229854523234337,
+              31.481615269240518
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 14,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G7620 s50 .G7",
+        "title" : "1/50000 Iraq-Iran",
+        "year" : "1942-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143334720203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "OY 86",
+        "thumbnailUrl" : " ",
+        "note" : " ",
+        "part1" : "OY",
+        "part2" : "8",
+        "part3" : "6"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              49.022554523234334,
+              31.48821526924052
+            ],
+            [
+              48.820154523234336,
+              31.494615269240519
+            ],
+            [
+              48.814654523234339,
+              31.323315269240521
+            ],
+            [
+              49.016454523234337,
+              31.31591526924052
+            ],
+            [
+              49.022554523234334,
+              31.48821526924052
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 15,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7620 s50 .G7",
+        "title" : "1/50000 Iraq-Iran",
+        "year" : "1942-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143334720203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "OY 66",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143334720203941&sublib=MAP&collection=LC&callnum=G7620+s50+G7&title=1/50000+Iraq-Iran&description=sheet+OY 66",
+        "part1" : "OY",
+        "part2" : "6",
+        "part3" : "6"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              48.774754523234336,
+              31.49601526924052
+            ],
+            [
+              48.616954523234334,
+              31.500915269240519
+            ],
+            [
+              48.611554523234332,
+              31.330815269240517
+            ],
+            [
+              48.814654523234339,
+              31.323315269240521
+            ],
+            [
+              48.820154523234336,
+              31.494615269240519
+            ],
+            [
+              48.774754523234336,
+              31.49601526924052
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 16,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G7620 s50 .G7",
+        "title" : "1/50000 Iraq-Iran",
+        "year" : "1942-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143334720203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "OY 46",
+        "thumbnailUrl" : " ",
+        "note" : " ",
+        "part1" : "OY",
+        "part2" : "4",
+        "part3" : "6"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              50.071354523234334,
+              31.628215269240521
+            ],
+            [
+              49.864854523234335,
+              31.63761526924052
+            ],
+            [
+              49.860654523234338,
+              31.45451526924052
+            ],
+            [
+              50.067154523234336,
+              31.44531526924052
+            ],
+            [
+              50.071354523234334,
+              31.628215269240521
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 17,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7620 s50 .G7",
+        "title" : "1/50000 Iraq-Iran",
+        "year" : "1942-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143334720203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "OY 66",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143334720203941&sublib=MAP&collection=LC&callnum=G7620+s50+G7&title=1/50000+Iraq-Iran&description=sheet+OY 66",
+        "part1" : "OY",
+        "part2" : "6",
+        "part3" : "6"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              49.864854523234335,
+              31.63761526924052
+            ],
+            [
+              49.656354523234334,
+              31.647115269240519
+            ],
+            [
+              49.650354523234334,
+              31.46381526924052
+            ],
+            [
+              49.860654523234338,
+              31.45451526924052
+            ],
+            [
+              49.864854523234335,
+              31.63761526924052
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 18,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7620 s50 .G7",
+        "title" : "1/50000 Iraq-Iran",
+        "year" : "1942-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143334720203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "OY 46",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143334720203941&sublib=MAP&collection=LC&callnum=G7620+s50+G7&title=1/50000+Iraq-Iran&description=sheet+OY 46",
+        "part1" : "OY",
+        "part2" : "4",
+        "part3" : "6"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 19,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              49.656354523234334,
+              31.647115269240519
+            ],
+            [
+              49.445654523234332,
+              31.656715269240518
+            ],
+            [
+              49.439854523234338,
+              31.473215269240519
+            ],
+            [
+              49.650354523234334,
+              31.46381526924052
+            ],
+            [
+              49.656354523234334,
+              31.647115269240519
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 19,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7620 s50 .G7",
+        "title" : "1/50000 Iraq-Iran",
+        "year" : "1942-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143334720203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "OY 26",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143334720203941&sublib=MAP&collection=LC&callnum=G7620+s50+G7&title=1/50000+Iraq-Iran&description=sheet+OY 26",
+        "part1" : "OY",
+        "part2" : "2",
+        "part3" : "6"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 20,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              49.408654523234333,
+              31.658415269240518
+            ],
+            [
+              49.236254523234336,
+              31.66361526924052
+            ],
+            [
+              49.229854523234337,
+              31.481615269240518
+            ],
+            [
+              49.297054523234337,
+              31.479515269240519
+            ],
+            [
+              49.439854523234338,
+              31.473215269240519
+            ],
+            [
+              49.445654523234332,
+              31.656715269240518
+            ],
+            [
+              49.408654523234333,
+              31.658415269240518
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 20,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7620 s50 .G7",
+        "title" : "1/50000 Iraq-Iran",
+        "year" : "1942-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143334720203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "OY 06",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143334720203941&sublib=MAP&collection=LC&callnum=G7620+s50+G7&title=1/50000+Iraq-Iran&description=sheet+OY 06",
+        "part1" : "OY",
+        "part2" : "0",
+        "part3" : "6"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 21,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              49.236254523234336,
+              31.66361526924052
+            ],
+            [
+              49.028754523234333,
+              31.669915269240519
+            ],
+            [
+              49.027654523234332,
+              31.632015269240519
+            ],
+            [
+              49.022554523234334,
+              31.48821526924052
+            ],
+            [
+              49.229854523234337,
+              31.481615269240518
+            ],
+            [
+              49.236254523234336,
+              31.66361526924052
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 21,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7620 s50 .G7",
+        "title" : "1/50000 Iraq-Iran",
+        "year" : "1942-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143334720203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "OY 86",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143334720203941&sublib=MAP&collection=LC&callnum=G7620+s50+G7&title=1/50000+Iraq-Iran&description=sheet+OY 86",
+        "part1" : "OY",
+        "part2" : "8",
+        "part3" : "6"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 22,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              48.830854523234336,
+              31.675915269240519
+            ],
+            [
+              48.774754523234336,
+              31.677615269240519
+            ],
+            [
+              48.774754523234336,
+              31.49601526924052
+            ],
+            [
+              48.820154523234336,
+              31.494615269240519
+            ],
+            [
+              49.022554523234334,
+              31.48821526924052
+            ],
+            [
+              49.027654523234332,
+              31.632015269240519
+            ],
+            [
+              49.028754523234333,
+              31.669915269240519
+            ],
+            [
+              48.830854523234336,
+              31.675915269240519
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 22,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7620 s50 .G7",
+        "title" : "1/50000 Iraq-Iran",
+        "year" : "1942-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143334720203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "OY 66",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143334720203941&sublib=MAP&collection=LC&callnum=G7620+s50+G7&title=1/50000+Iraq-Iran&description=sheet+OY 66",
+        "part1" : "OY",
+        "part2" : "6",
+        "part3" : "6"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 23,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              50.075354523234338,
+              31.804715269240518
+            ],
+            [
+              49.868854523234333,
+              31.81141526924052
+            ],
+            [
+              49.864854523234335,
+              31.63761526924052
+            ],
+            [
+              50.071354523234334,
+              31.628215269240521
+            ],
+            [
+              50.075354523234338,
+              31.804715269240518
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 23,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G7620 s50 .G7",
+        "title" : "1/50000 Iraq-Iran",
+        "year" : "1942-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143334720203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "OY 68",
+        "thumbnailUrl" : " ",
+        "note" : " ",
+        "part1" : "OY",
+        "part2" : "6",
+        "part3" : "8"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 24,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              49.831254523234335,
+              31.812615269240521
+            ],
+            [
+              49.661954523234336,
+              31.819415269240519
+            ],
+            [
+              49.656354523234334,
+              31.647115269240519
+            ],
+            [
+              49.864854523234335,
+              31.63761526924052
+            ],
+            [
+              49.868854523234333,
+              31.81141526924052
+            ],
+            [
+              49.831254523234335,
+              31.812615269240521
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 24,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7620 s50 .G7",
+        "title" : "1/50000 Iraq-Iran",
+        "year" : "1942-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143334720203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "OY 48",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143334720203941&sublib=MAP&collection=LC&callnum=G7620+s50+G7&title=1/50000+Iraq-Iran&description=sheet+OY 48",
+        "part1" : "OY",
+        "part2" : "4",
+        "part3" : "8"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 25,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              49.661954523234336,
+              31.819415269240519
+            ],
+            [
+              49.451054523234333,
+              31.827815269240517
+            ],
+            [
+              49.445654523234332,
+              31.656715269240518
+            ],
+            [
+              49.656354523234334,
+              31.647115269240519
+            ],
+            [
+              49.661954523234336,
+              31.819415269240519
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 25,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7620 s50 .G7",
+        "title" : "1/50000 Iraq-Iran",
+        "year" : "1942-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143334720203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "OY 28",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143334720203941&sublib=MAP&collection=LC&callnum=G7620+s50+G7&title=1/50000+Iraq-Iran&description=sheet+OY 28",
+        "part1" : "OY",
+        "part2" : "2",
+        "part3" : "8"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 26,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              49.451054523234333,
+              31.827815269240517
+            ],
+            [
+              49.242354523234333,
+              31.836115269240519
+            ],
+            [
+              49.239254523234337,
+              31.74891526924052
+            ],
+            [
+              49.236254523234336,
+              31.66361526924052
+            ],
+            [
+              49.408654523234333,
+              31.658415269240518
+            ],
+            [
+              49.445654523234332,
+              31.656715269240518
+            ],
+            [
+              49.451054523234333,
+              31.827815269240517
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 26,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7620 s50 .G7",
+        "title" : "1/50000 Iraq-Iran",
+        "year" : "1942-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143334720203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "OY 08",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143334720203941&sublib=MAP&collection=LC&callnum=G7620+s50+G7&title=1/50000+Iraq-Iran&description=sheet+OY 08",
+        "part1" : "OY",
+        "part2" : "0",
+        "part3" : "8"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 27,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              49.208754523234333,
+              31.83741526924052
+            ],
+            [
+              49.033554523234336,
+              31.841515269240517
+            ],
+            [
+              49.028754523234333,
+              31.669915269240519
+            ],
+            [
+              49.236254523234336,
+              31.66361526924052
+            ],
+            [
+              49.239254523234337,
+              31.74891526924052
+            ],
+            [
+              49.242354523234333,
+              31.836115269240519
+            ],
+            [
+              49.208754523234333,
+              31.83741526924052
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 27,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7620 s50 .G7",
+        "title" : "1/50000 Iraq-Iran",
+        "year" : "1942-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143334720203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "OY 88",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143334720203941&sublib=MAP&collection=LC&callnum=G7620+s50+G7&title=1/50000+Iraq-Iran&description=sheet+OY 88",
+        "part1" : "OY",
+        "part2" : "8",
+        "part3" : "8"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 28,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              49.033554523234336,
+              31.841515269240517
+            ],
+            [
+              48.833854523234336,
+              31.846115269240521
+            ],
+            [
+              48.830854523234336,
+              31.675915269240519
+            ],
+            [
+              49.028754523234333,
+              31.669915269240519
+            ],
+            [
+              49.033554523234336,
+              31.841515269240517
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 28,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G7620 s50 .G7",
+        "title" : "1/50000 Iraq-Iran",
+        "year" : "1942-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143334720203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "OY 68",
+        "thumbnailUrl" : " ",
+        "note" : " ",
+        "part1" : "OY",
+        "part2" : "6",
+        "part3" : "8"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 29,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              49.684654523234336,
+              31.996315269240519
+            ],
+            [
+              49.667754523234336,
+              31.996915269240517
+            ],
+            [
+              49.661954523234336,
+              31.819415269240519
+            ],
+            [
+              49.831254523234335,
+              31.812615269240521
+            ],
+            [
+              49.868854523234333,
+              31.81141526924052
+            ],
+            [
+              49.873054523234337,
+              31.98981526924052
+            ],
+            [
+              49.725354523234337,
+              31.994915269240519
+            ],
+            [
+              49.684654523234336,
+              31.996315269240519
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 29,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G7620 s50 .G7",
+        "title" : "1/50000 Iraq-Iran",
+        "year" : "1942-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143334720203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "OU 40",
+        "thumbnailUrl" : " ",
+        "note" : " ",
+        "part1" : "OU",
+        "part2" : "4",
+        "part3" : "0"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 30,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              49.667754523234336,
+              31.996915269240517
+            ],
+            [
+              49.456654523234334,
+              32.00491526924052
+            ],
+            [
+              49.451054523234333,
+              31.827815269240517
+            ],
+            [
+              49.661954523234336,
+              31.819415269240519
+            ],
+            [
+              49.667754523234336,
+              31.996915269240517
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 30,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G7620 s50 .G7",
+        "title" : "1/50000 Iraq-Iran",
+        "year" : "1942-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143334720203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "OU 20",
+        "thumbnailUrl" : " ",
+        "note" : " ",
+        "part1" : "OU",
+        "part2" : "2",
+        "part3" : "0"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 31,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              49.456654523234334,
+              32.00491526924052
+            ],
+            [
+              49.248654523234336,
+              32.012815269240519
+            ],
+            [
+              49.242354523234333,
+              31.836115269240519
+            ],
+            [
+              49.451054523234333,
+              31.827815269240517
+            ],
+            [
+              49.456654523234334,
+              32.00491526924052
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 31,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G7620 s50 .G7",
+        "title" : "1/50000 Iraq-Iran",
+        "year" : "1942-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143334720203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "OU 00",
+        "thumbnailUrl" : " ",
+        "note" : " ",
+        "part1" : "OU",
+        "part2" : "0",
+        "part3" : "0"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 32,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              49.128754523234335,
+              32.01731526924052
+            ],
+            [
+              49.038554523234332,
+              32.019715269240521
+            ],
+            [
+              49.033554523234336,
+              31.841515269240517
+            ],
+            [
+              49.208754523234333,
+              31.83741526924052
+            ],
+            [
+              49.242354523234333,
+              31.836115269240519
+            ],
+            [
+              49.248654523234336,
+              32.012815269240519
+            ],
+            [
+              49.128754523234335,
+              32.01731526924052
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 32,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7620 s50 .G7",
+        "title" : "1/50000 Iraq-Iran",
+        "year" : "1942-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143334720203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "OT 80",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143334720203941&sublib=MAP&collection=LC&callnum=G7620+s50+G7&title=1/50000+Iraq-Iran&description=sheet+OT 80",
+        "part1" : "OT",
+        "part2" : "8",
+        "part3" : "0"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 33,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              49.038554523234332,
+              32.019715269240521
+            ],
+            [
+              48.838154523234337,
+              32.025015269240519
+            ],
+            [
+              48.835654523234332,
+              31.944915269240518
+            ],
+            [
+              48.833854523234336,
+              31.846115269240521
+            ],
+            [
+              49.033554523234336,
+              31.841515269240517
+            ],
+            [
+              49.038554523234332,
+              32.019715269240521
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 33,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G7620 s50 .G7",
+        "title" : "1/50000 Iraq-Iran",
+        "year" : "1942-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143334720203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "OT 60",
+        "thumbnailUrl" : " ",
+        "note" : " ",
+        "part1" : "OT",
+        "part2" : "6",
+        "part3" : "0"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 34,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              48.838154523234337,
+              32.025015269240519
+            ],
+            [
+              48.628454523234332,
+              32.030515269240517
+            ],
+            [
+              48.625054523234333,
+              31.85101526924052
+            ],
+            [
+              48.833854523234336,
+              31.846115269240521
+            ],
+            [
+              48.835654523234332,
+              31.944915269240518
+            ],
+            [
+              48.838154523234337,
+              32.025015269240519
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 34,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7620 s50 .G7",
+        "title" : "1/50000 Iraq-Iran",
+        "year" : "1942-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143334720203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "OT 40",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143334720203941&sublib=MAP&collection=LC&callnum=G7620+s50+G7&title=1/50000+Iraq-Iran&description=sheet+OT 40",
+        "part1" : "OT",
+        "part2" : "4",
+        "part3" : "0"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 35,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              49.514354523234331,
+              32.178415269240517
+            ],
+            [
+              49.462154523234332,
+              32.18041526924052
+            ],
+            [
+              49.456654523234334,
+              32.00491526924052
+            ],
+            [
+              49.667754523234336,
+              31.996915269240517
+            ],
+            [
+              49.684654523234336,
+              31.996315269240519
+            ],
+            [
+              49.725354523234337,
+              31.994915269240519
+            ],
+            [
+              49.725354523234337,
+              32.07041526924052
+            ],
+            [
+              49.673654523234333,
+              32.071415269240518
+            ],
+            [
+              49.673654523234333,
+              32.172415269240517
+            ],
+            [
+              49.514354523234331,
+              32.178415269240517
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 35,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G7620 s50 .G7",
+        "title" : "1/50000 Iraq-Iran",
+        "year" : "1942-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143334720203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "OU 22",
+        "thumbnailUrl" : " ",
+        "note" : " ",
+        "part1" : "OU",
+        "part2" : "2",
+        "part3" : "2"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 36,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              49.462154523234332,
+              32.18041526924052
+            ],
+            [
+              49.254854523234336,
+              32.188215269240516
+            ],
+            [
+              49.248654523234336,
+              32.012815269240519
+            ],
+            [
+              49.456654523234334,
+              32.00491526924052
+            ],
+            [
+              49.462154523234332,
+              32.18041526924052
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 36,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G7620 s50 .G7",
+        "title" : "1/50000 Iraq-Iran",
+        "year" : "1942-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143334720203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "OU 02",
+        "thumbnailUrl" : " ",
+        "note" : " ",
+        "part1" : "OU",
+        "part2" : "0",
+        "part3" : "2"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 37,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              49.254854523234336,
+              32.188215269240516
+            ],
+            [
+              49.043454523234338,
+              32.196115269240522
+            ],
+            [
+              49.038554523234332,
+              32.019715269240521
+            ],
+            [
+              49.128754523234335,
+              32.01731526924052
+            ],
+            [
+              49.248654523234336,
+              32.012815269240519
+            ],
+            [
+              49.254854523234336,
+              32.188215269240516
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 37,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7620 s50 .G7",
+        "title" : "1/50000 Iraq-Iran",
+        "year" : "1942-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143334720203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "OT 82",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143334720203941&sublib=MAP&collection=LC&callnum=G7620+s50+G7&title=1/50000+Iraq-Iran&description=sheet+OT 82",
+        "part1" : "OT",
+        "part2" : "8",
+        "part3" : "2"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 38,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              49.043454523234338,
+              32.196115269240522
+            ],
+            [
+              48.843554523234332,
+              32.201115269240518
+            ],
+            [
+              48.838154523234337,
+              32.025015269240519
+            ],
+            [
+              49.038554523234332,
+              32.019715269240521
+            ],
+            [
+              49.043454523234338,
+              32.196115269240522
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 38,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7620 s50 .G7",
+        "title" : "1/50000 Iraq-Iran",
+        "year" : "1942-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143334720203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "OT 62",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143334720203941&sublib=MAP&collection=LC&callnum=G7620+s50+G7&title=1/50000+Iraq-Iran&description=sheet+OT 62",
+        "part1" : "OT",
+        "part2" : "6",
+        "part3" : "2"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 39,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              48.843554523234332,
+              32.201115269240518
+            ],
+            [
+              48.631754523234335,
+              32.20631526924052
+            ],
+            [
+              48.628454523234332,
+              32.030515269240517
+            ],
+            [
+              48.838154523234337,
+              32.025015269240519
+            ],
+            [
+              48.843554523234332,
+              32.201115269240518
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 39,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7620 s50 .G7",
+        "title" : "1/50000 Iraq-Iran",
+        "year" : "1942-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143334720203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "OT 42",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143334720203941&sublib=MAP&collection=LC&callnum=G7620+s50+G7&title=1/50000+Iraq-Iran&description=sheet+OT 42",
+        "part1" : "OT",
+        "part2" : "4",
+        "part3" : "2"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 40,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              48.631754523234335,
+              32.20631526924052
+            ],
+            [
+              48.425254523234337,
+              32.211415269240518
+            ],
+            [
+              48.421754523234334,
+              32.035915269240519
+            ],
+            [
+              48.628454523234332,
+              32.030515269240517
+            ],
+            [
+              48.631754523234335,
+              32.20631526924052
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 40,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7620 s50 .G7",
+        "title" : "1/50000 Iraq-Iran",
+        "year" : "1942-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143334720203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "OT 22",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143334720203941&sublib=MAP&collection=LC&callnum=G7620+s50+G7&title=1/50000+Iraq-Iran&description=sheet+OT 22",
+        "part1" : "OT",
+        "part2" : "2",
+        "part3" : "2"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 41,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              49.467954523234333,
+              32.356315269240518
+            ],
+            [
+              49.261054523234336,
+              32.363515269240516
+            ],
+            [
+              49.254854523234336,
+              32.188215269240516
+            ],
+            [
+              49.462154523234332,
+              32.18041526924052
+            ],
+            [
+              49.514354523234331,
+              32.178415269240517
+            ],
+            [
+              49.515754523234335,
+              32.25661526924052
+            ],
+            [
+              49.467054523234331,
+              32.25661526924052
+            ],
+            [
+              49.467954523234333,
+              32.356315269240518
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 41,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G7620 s50 .G7",
+        "title" : "1/50000 Iraq-Iran",
+        "year" : "1942-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143334720203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "OU 04",
+        "thumbnailUrl" : " ",
+        "note" : " ",
+        "part1" : "OU",
+        "part2" : "0",
+        "part3" : "4"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 42,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              49.261054523234336,
+              32.363515269240516
+            ],
+            [
+              49.048354523234337,
+              32.37091526924052
+            ],
+            [
+              49.043454523234338,
+              32.196115269240522
+            ],
+            [
+              49.254854523234336,
+              32.188215269240516
+            ],
+            [
+              49.261054523234336,
+              32.363515269240516
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 42,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G7620 s50 .G7",
+        "title" : "1/50000 Iraq-Iran",
+        "year" : "1942-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143334720203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "OT 86",
+        "thumbnailUrl" : " ",
+        "note" : " ",
+        "part1" : "OT",
+        "part2" : "8",
+        "part3" : "6"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 43,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              49.048354523234337,
+              32.37091526924052
+            ],
+            [
+              48.848954523234333,
+              32.377915269240518
+            ],
+            [
+              48.843554523234332,
+              32.201115269240518
+            ],
+            [
+              49.043454523234338,
+              32.196115269240522
+            ],
+            [
+              49.048354523234337,
+              32.37091526924052
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 43,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7620 s50 .G7",
+        "title" : "1/50000 Iraq-Iran",
+        "year" : "1942-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143334720203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "OT 66",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143334720203941&sublib=MAP&collection=LC&callnum=G7620+s50+G7&title=1/50000+Iraq-Iran&description=sheet+OT 66",
+        "part1" : "OT",
+        "part2" : "6",
+        "part3" : "6"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 44,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              48.845554523234334,
+              32.378015269240521
+            ],
+            [
+              48.635154523234334,
+              32.384815269240519
+            ],
+            [
+              48.631754523234335,
+              32.20631526924052
+            ],
+            [
+              48.843554523234332,
+              32.201115269240518
+            ],
+            [
+              48.848954523234333,
+              32.377915269240518
+            ],
+            [
+              48.845554523234334,
+              32.378015269240521
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 44,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7620 s50 .G7",
+        "title" : "1/50000 Iraq-Iran",
+        "year" : "1942-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143334720203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "OT 46",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143334720203941&sublib=MAP&collection=LC&callnum=G7620+s50+G7&title=1/50000+Iraq-Iran&description=sheet+OT 46",
+        "part1" : "OT",
+        "part2" : "4",
+        "part3" : "6"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 45,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              48.635154523234334,
+              32.384815269240519
+            ],
+            [
+              48.428854523234335,
+              32.391515269240521
+            ],
+            [
+              48.425254523234337,
+              32.211415269240518
+            ],
+            [
+              48.631754523234335,
+              32.20631526924052
+            ],
+            [
+              48.635154523234334,
+              32.384815269240519
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 45,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7620 s50 .G7",
+        "title" : "1/50000 Iraq-Iran",
+        "year" : "1942-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143334720203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "OT 26",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143334720203941&sublib=MAP&collection=LC&callnum=G7620+s50+G7&title=1/50000+Iraq-Iran&description=sheet+OT 26",
+        "part1" : "OT",
+        "part2" : "2",
+        "part3" : "6"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 46,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              48.428854523234335,
+              32.391515269240521
+            ],
+            [
+              48.221554523234332,
+              32.398215269240517
+            ],
+            [
+              48.216154523234337,
+              32.216615269240521
+            ],
+            [
+              48.425254523234337,
+              32.211415269240518
+            ],
+            [
+              48.428854523234335,
+              32.391515269240521
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 46,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G7620 s50 .G7",
+        "title" : "1/50000 Iraq-Iran",
+        "year" : "1942-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143334720203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "OT 06",
+        "thumbnailUrl" : " ",
+        "note" : " ",
+        "part1" : "OT",
+        "part2" : "0",
+        "part3" : "6"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 47,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              48.854254523234331,
+              32.551915269240517
+            ],
+            [
+              48.638454523234337,
+              32.557715269240518
+            ],
+            [
+              48.635154523234334,
+              32.384815269240519
+            ],
+            [
+              48.845554523234334,
+              32.378015269240521
+            ],
+            [
+              48.848954523234333,
+              32.377915269240518
+            ],
+            [
+              48.854254523234331,
+              32.551915269240517
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 47,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G7620 s50 .G7",
+        "title" : "1/50000 Iraq-Iran",
+        "year" : "1942-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143334720203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "OT 46",
+        "thumbnailUrl" : " ",
+        "note" : " ",
+        "part1" : "OT",
+        "part2" : "4",
+        "part3" : "6"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 48,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              48.638454523234337,
+              32.557715269240518
+            ],
+            [
+              48.432354523234338,
+              32.563315269240519
+            ],
+            [
+              48.428854523234335,
+              32.391515269240521
+            ],
+            [
+              48.635154523234334,
+              32.384815269240519
+            ],
+            [
+              48.638454523234337,
+              32.557715269240518
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 48,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7620 s50 .G7",
+        "title" : "1/50000 Iraq-Iran",
+        "year" : "1942-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143334720203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "OT 26",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143334720203941&sublib=MAP&collection=LC&callnum=G7620+s50+G7&title=1/50000+Iraq-Iran&description=sheet+OT 26",
+        "part1" : "OT",
+        "part2" : "2",
+        "part3" : "6"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 49,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              48.222754523234336,
+              32.569015269240516
+            ],
+            [
+              48.144254523234338,
+              32.571115269240522
+            ],
+            [
+              48.138854523234336,
+              32.400915269240521
+            ],
+            [
+              48.221554523234332,
+              32.398215269240517
+            ],
+            [
+              48.428854523234335,
+              32.391515269240521
+            ],
+            [
+              48.432354523234338,
+              32.563315269240519
+            ],
+            [
+              48.222754523234336,
+              32.569015269240516
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 49,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G7620 s50 .G7",
+        "title" : "1/50000 Iraq-Iran",
+        "year" : "1942-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143334720203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "OT 06",
+        "thumbnailUrl" : " ",
+        "note" : " ",
+        "part1" : "OT",
+        "part2" : "0",
+        "part3" : "6"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 50,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              48.641854523234336,
+              32.735415269240519
+            ],
+            [
+              48.435854523234333,
+              32.73971526924052
+            ],
+            [
+              48.432354523234338,
+              32.563315269240519
+            ],
+            [
+              48.638454523234337,
+              32.557715269240518
+            ],
+            [
+              48.641854523234336,
+              32.735415269240519
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 50,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7620 s50 .G7",
+        "title" : "1/50000 Iraq-Iran",
+        "year" : "1942-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143334720203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "OT 28",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143334720203941&sublib=MAP&collection=LC&callnum=G7620+s50+G7&title=1/50000+Iraq-Iran&description=sheet+OT 28",
+        "part1" : "OT",
+        "part2" : "2",
+        "part3" : "8"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 51,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              48.435854523234333,
+              32.73971526924052
+            ],
+            [
+              48.222754523234336,
+              32.74421526924052
+            ],
+            [
+              48.222754523234336,
+              32.569015269240516
+            ],
+            [
+              48.432354523234338,
+              32.563315269240519
+            ],
+            [
+              48.435854523234333,
+              32.73971526924052
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 51,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7620 s50 .G7",
+        "title" : "1/50000 Iraq-Iran",
+        "year" : "1942-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143334720203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "OT 08",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143334720203941&sublib=MAP&collection=LC&callnum=G7620+s50+G7&title=1/50000+Iraq-Iran&description=sheet+OT 08",
+        "part1" : "OT",
+        "part2" : "0",
+        "part3" : "8"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 52,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              48.222754523234336,
+              32.74421526924052
+            ],
+            [
+              48.014854523234334,
+              32.748615269240517
+            ],
+            [
+              48.013054523234338,
+              32.574715269240521
+            ],
+            [
+              48.144254523234338,
+              32.571115269240522
+            ],
+            [
+              48.222754523234336,
+              32.569015269240516
+            ],
+            [
+              48.222754523234336,
+              32.74421526924052
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 52,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7620 s50 .G7",
+        "title" : "1/50000 Iraq-Iran",
+        "year" : "1942-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143334720203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "OS 88",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143334720203941&sublib=MAP&collection=LC&callnum=G7620+s50+G7&title=1/50000+Iraq-Iran&description=sheet+OS 88",
+        "part1" : "OS",
+        "part2" : "8",
+        "part3" : "8"
+      }
+    }
+  ]
+}
