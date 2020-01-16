@@ -1,0 +1,273 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 0,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.726662056668324,
+              30.130389374908162
+            ],
+            [
+              33.983362056668327,
+              30.76088937490816
+            ],
+            [
+              33.616662056668325,
+              29.943389374908161
+            ],
+            [
+              35.355062056668324,
+              29.337389374908163
+            ],
+            [
+              35.726662056668324,
+              30.130389374908162
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7421.A4 1988 .S6",
+        "title" : "Pictorial archive. Landsat 5 satellite map : [The Levant]",
+        "year" : "1988",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990054336350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "1",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990054336350203941&sublib=MAP&collection=LC&callnum=G7421A4+1988+S6&title=Pictorial+archive.+Landsat+5+satellite+map+:+[The+Levant]&description=sheet+"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.114562056668326,
+              30.958189374908162
+            ],
+            [
+              34.343762056668325,
+              31.564489374908163
+            ],
+            [
+              33.983362056668327,
+              30.76088937490816
+            ],
+            [
+              35.726662056668324,
+              30.130389374908162
+            ],
+            [
+              36.114562056668326,
+              30.958189374908162
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 1,
+        "available" : true,
+        "recordIdentifier" : "G7421.A4 1988 .S6",
+        "title" : "Pictorial archive. Landsat 5 satellite map : [The Levant]",
+        "year" : "1988",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990054336350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "2",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990054336350203941&sublib=MAP&collection=LC&callnum=G7421A4+1988+S6&title=Pictorial+archive.+Landsat+5+satellite+map+:+[The+Levant]&description=sheet+"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.493462056668321,
+              31.766989374908164
+            ],
+            [
+              34.71006205666832,
+              32.376189374908165
+            ],
+            [
+              34.637862056668325,
+              32.220289374908162
+            ],
+            [
+              34.343762056668325,
+              31.564489374908163
+            ],
+            [
+              36.114562056668326,
+              30.958189374908162
+            ],
+            [
+              36.493462056668321,
+              31.766989374908164
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 2,
+        "available" : true,
+        "recordIdentifier" : "G7421.A4 1988 .S6",
+        "title" : "Pictorial archive. Landsat 5 satellite map : [The Levant]",
+        "year" : "1988",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990054336350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990054336350203941&sublib=MAP&collection=LC&callnum=G7421A4+1988+S6&title=Pictorial+archive.+Landsat+5+satellite+map+:+[The+Levant]&description=sheet+"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.883362056668325,
+              32.560389374908162
+            ],
+            [
+              35.079062056668327,
+              33.173089374908159
+            ],
+            [
+              34.71006205666832,
+              32.376189374908165
+            ],
+            [
+              36.493462056668321,
+              31.766989374908164
+            ],
+            [
+              36.883362056668325,
+              32.560389374908162
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 3,
+        "available" : true,
+        "recordIdentifier" : "G7421.A4 1988 .S6",
+        "title" : "Pictorial archive. Landsat 5 satellite map : [The Levant]",
+        "year" : "1988",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990054336350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "4",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990054336350203941&sublib=MAP&collection=LC&callnum=G7421A4+1988+S6&title=Pictorial+archive.+Landsat+5+satellite+map+:+[The+Levant]&description=sheet+"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              37.281262056668325,
+              33.370289374908161
+            ],
+            [
+              35.460462056668327,
+              33.996789374908161
+            ],
+            [
+              35.079062056668327,
+              33.173089374908159
+            ],
+            [
+              36.883362056668325,
+              32.560389374908162
+            ],
+            [
+              37.281262056668325,
+              33.370289374908161
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 4,
+        "available" : true,
+        "recordIdentifier" : "G7421.A4 1988 .S6",
+        "title" : "Pictorial archive. Landsat 5 satellite map : [The Levant]",
+        "year" : "1988",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990054336350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "5",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990054336350203941&sublib=MAP&collection=LC&callnum=G7421A4+1988+S6&title=Pictorial+archive.+Landsat+5+satellite+map+:+[The+Levant]&description=sheet+"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              37.684862056668322,
+              34.191589374908162
+            ],
+            [
+              35.836962056668327,
+              34.809989374908163
+            ],
+            [
+              35.460462056668327,
+              33.996789374908161
+            ],
+            [
+              37.281262056668325,
+              33.370289374908161
+            ],
+            [
+              37.684862056668322,
+              34.191589374908162
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 5,
+        "available" : true,
+        "recordIdentifier" : "G7421.A4 1988 .S6",
+        "title" : "Pictorial archive. Landsat 5 satellite map : [The Levant]",
+        "year" : "1988",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990054336350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "6",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990054336350203941&sublib=MAP&collection=LC&callnum=G7421A4+1988+S6&title=Pictorial+archive.+Landsat+5+satellite+map+:+[The+Levant]&description=sheet+"
+      }
+    }
+  ]
+}
