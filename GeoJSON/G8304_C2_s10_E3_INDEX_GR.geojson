@@ -1,0 +1,650 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 0,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              31.312844034166517,
+              30.107954594179319
+            ],
+            [
+              31.313254231473195,
+              30.07185723120665
+            ],
+            [
+              31.376048938895167,
+              30.071671996081477
+            ],
+            [
+              31.375456341878191,
+              30.108215478794762
+            ],
+            [
+              31.312844034166517,
+              30.107954594179319
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 0,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8304 .C2 s10 .E3",
+        "title" : "Cairo",
+        "year" : "1929",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143640890203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "5",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143640890203941&sublib=MAP&collection=LC&callnum=G8304+C2+s10+E3&title=Cairo&description=sheet+5"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              31.375456341878191,
+              30.108215478794762
+            ],
+            [
+              31.374838648205468,
+              30.14630658861148
+            ],
+            [
+              31.312409901125136,
+              30.146158301801279
+            ],
+            [
+              31.312844034166517,
+              30.107954594179319
+            ],
+            [
+              31.375456341878191,
+              30.108215478794762
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 1,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8304 .C2 s10 .E3",
+        "title" : "Cairo",
+        "year" : "1929",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143640890203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "2",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              31.313580804022081,
+              30.035343376721812
+            ],
+            [
+              31.312080364176381,
+              30.035661651840655
+            ],
+            [
+              31.25062143143748,
+              30.035661651840655
+            ],
+            [
+              31.250713308072818,
+              30.000013517294065
+            ],
+            [
+              31.314325343688552,
+              30.000815349676941
+            ],
+            [
+              31.313580804022081,
+              30.035343376721812
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 2,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8304 .C2 s10 .E3",
+        "title" : "Cairo",
+        "year" : "1929",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143640890203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "10",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143640890203941&sublib=MAP&collection=LC&callnum=G8304+C2+s10+E3&title=Cairo&description=sheet+10"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              31.313699581161984,
+              30.035959707361599
+            ],
+            [
+              31.376623243959727,
+              30.03625651709217
+            ],
+            [
+              31.37604893889511,
+              30.071671996081477
+            ],
+            [
+              31.313567527304997,
+              30.071856307030885
+            ],
+            [
+              31.313567527304997,
+              30.036553949717927
+            ],
+            [
+              31.313699581161984,
+              30.035959707361599
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 3,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8304 .C2 s10 .E3",
+        "title" : "Cairo",
+        "year" : "1929",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143640890203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "8",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143640890203941&sublib=MAP&collection=LC&callnum=G8304+C2+s10+E3&title=Cairo&description=sheet+8"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              31.313567527304997,
+              30.071856307030885
+            ],
+            [
+              31.250527666970072,
+              30.072042265320306
+            ],
+            [
+              31.25062143143748,
+              30.035661651840655
+            ],
+            [
+              31.312080364176381,
+              30.035661651840655
+            ],
+            [
+              31.313580804022081,
+              30.035343376721812
+            ],
+            [
+              31.313567527304997,
+              30.035959084466413
+            ],
+            [
+              31.313699581161984,
+              30.035959707361599
+            ],
+            [
+              31.313567527304997,
+              30.036553949717927
+            ],
+            [
+              31.313567527304997,
+              30.071856307030885
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 4,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8304 .C2 s10 .E3",
+        "title" : "Cairo",
+        "year" : "1929",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143640890203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "7",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143640890203941&sublib=MAP&collection=LC&callnum=G8304+C2+s10+E3&title=Cairo&description=sheet+7"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              31.250190586135261,
+              30.072043259659495
+            ],
+            [
+              31.249916945398866,
+              30.107342914640867
+            ],
+            [
+              31.249619512773108,
+              30.109573659333819
+            ],
+            [
+              31.249619512773108,
+              30.108532645143896
+            ],
+            [
+              31.188348391873205,
+              30.108532645143896
+            ],
+            [
+              31.188125653817565,
+              30.072226342055274
+            ],
+            [
+              31.188350664382483,
+              30.07222567830695
+            ],
+            [
+              31.188645824498963,
+              30.108235212518139
+            ],
+            [
+              31.188423998520136,
+              30.072225461982271
+            ],
+            [
+              31.250190586135261,
+              30.072043259659495
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 5,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8304 .C2 s10 .E3",
+        "title" : "Cairo",
+        "year" : "1929",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143640890203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "3",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              31.312844004874307,
+              30.107957171871021
+            ],
+            [
+              31.24976126345058,
+              30.108510529252271
+            ],
+            [
+              31.249916945398866,
+              30.107342914640867
+            ],
+            [
+              31.250190586135261,
+              30.072043259659495
+            ],
+            [
+              31.313254231473081,
+              30.07185723120665
+            ],
+            [
+              31.312844004874307,
+              30.107957171871021
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 6,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8304 .C2 s10 .E3",
+        "title" : "Cairo",
+        "year" : "1929",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143640890203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "4",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              31.312844004874307,
+              30.107957171871021
+            ],
+            [
+              31.312409901125136,
+              30.146158301801279
+            ],
+            [
+              31.249619512773108,
+              30.146009155985666
+            ],
+            [
+              31.249619512773108,
+              30.109573659333819
+            ],
+            [
+              31.24976126345058,
+              30.108510529252271
+            ],
+            [
+              31.312844004874307,
+              30.107957171871021
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 7,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8304 .C2 s10 .E3",
+        "title" : "Cairo",
+        "year" : "1929",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143640890203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "1",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              31.25062143143748,
+              30.035661651840655
+            ],
+            [
+              31.250527666970072,
+              30.072042265320306
+            ],
+            [
+              31.188423998520136,
+              30.072225461982271
+            ],
+            [
+              31.188198759443139,
+              30.035661651840655
+            ],
+            [
+              31.25062143143748,
+              30.035661651840655
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 8,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8304 .C2 s10 .E3",
+        "title" : "Cairo",
+        "year" : "1929",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143640890203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "6",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143640890203941&sublib=MAP&collection=LC&callnum=G8304+C2+s10+E3&title=Cairo&description=sheet+6"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              31.250714144405549,
+              29.999689020257392
+            ],
+            [
+              31.25062143143748,
+              30.035661651840655
+            ],
+            [
+              31.188198759443139,
+              30.035661651840655
+            ],
+            [
+              31.18797879275678,
+              29.999953726382955
+            ],
+            [
+              31.250714144405549,
+              29.999689020257392
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 9,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8304 .C2 s10 .E3",
+        "title" : "Cairo",
+        "year" : "1929",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143640890203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "9",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143640890203941&sublib=MAP&collection=LC&callnum=G8304+C2+s10+E3&title=Cairo&description=sheet+9"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              31.250714144405549,
+              29.999689020257392
+            ],
+            [
+              31.18797879275678,
+              29.999953726382955
+            ],
+            [
+              31.187753526621748,
+              29.96338552378802
+            ],
+            [
+              31.250806943567,
+              29.963682945565779
+            ],
+            [
+              31.250714144405549,
+              29.999689020257392
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 10,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8304 .C2 s10 .E3",
+        "title" : "Cairo",
+        "year" : "1929",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143640890203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "11",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143640890203941&sublib=MAP&collection=LC&callnum=G8304+C2+s10+E3&title=Cairo&description=sheet+11"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              31.315126042195686,
+              29.963682956413777
+            ],
+            [
+              31.314325343688552,
+              30.000815349676941
+            ],
+            [
+              31.250713308072818,
+              30.000013517294065
+            ],
+            [
+              31.250806943567,
+              29.963682951040482
+            ],
+            [
+              31.250809243276024,
+              29.963682956413777
+            ],
+            [
+              31.315126042195686,
+              29.963682956413777
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 11,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8304 .C2 s10 .E3",
+        "title" : "Cairo",
+        "year" : "1929",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143640890203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "12",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              31.250809243276024,
+              29.963682956413777
+            ],
+            [
+              31.250813414110269,
+              29.963153260448962
+            ],
+            [
+              31.251106675901781,
+              29.925909012946249
+            ],
+            [
+              31.315946988310827,
+              29.925611580320492
+            ],
+            [
+              31.315126042195686,
+              29.963682956413777
+            ],
+            [
+              31.250809243276024,
+              29.963682956413777
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 12,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8304 .C2 s10 .E3",
+        "title" : "Cairo",
+        "year" : "1929",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143640890203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "13",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    }
+  ]
+}
