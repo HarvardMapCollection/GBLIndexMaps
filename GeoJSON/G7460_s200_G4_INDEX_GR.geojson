@@ -1,0 +1,1353 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 0,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              37.99389520194017,
+              32.968792982996192
+            ],
+            [
+              37.00269520194017,
+              32.983192982996194
+            ],
+            [
+              36.98899520194017,
+              31.983192982996194
+            ],
+            [
+              37.995095201940174,
+              31.977292982996193
+            ],
+            [
+              37.994095201940169,
+              32.789692982996193
+            ],
+            [
+              37.99389520194017,
+              32.968792982996192
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 0,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G7460 .s200 .G4",
+        "title" : "Syrien 1:200 000",
+        "year" : "[1942]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050719360203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Zelaf",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050719360203941&sublib=MAP&collection=LC&callnum=G7460+s200+G4&title=Syrien+1:200+000&description=sheet+Zelaf"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              37.00269520194017,
+              32.983192982996194
+            ],
+            [
+              36.000795201940171,
+              32.997692982996192
+            ],
+            [
+              36.001895201940172,
+              32.578592982996192
+            ],
+            [
+              36.003495201940169,
+              31.988992982996191
+            ],
+            [
+              36.98899520194017,
+              31.983192982996194
+            ],
+            [
+              37.00269520194017,
+              32.983192982996194
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 1,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G7460 .s200 .G4",
+        "title" : "Syrien 1:200 000",
+        "year" : "[1942]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050719360203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Soueida",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050719360203941&sublib=MAP&collection=LC&callnum=G7460+s200+G4&title=Syrien+1:200+000&description=sheet+Soueida"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.001995201940169,
+              33.01219298299619
+            ],
+            [
+              34.801995201940173,
+              33.015092982996194
+            ],
+            [
+              34.804995201940173,
+              32.589492982996191
+            ],
+            [
+              36.001895201940172,
+              32.578592982996192
+            ],
+            [
+              36.000795201940171,
+              32.997692982996192
+            ],
+            [
+              35.001995201940169,
+              33.01219298299619
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 2,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G7460 .s200 .G4",
+        "title" : "Syrien 1:200 000",
+        "year" : "[1942]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050719360203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Fiq Haifa",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050719360203941&sublib=MAP&collection=LC&callnum=G7460+s200+G4&title=Syrien+1:200+000&description=sheet+Fiq Haifa"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              39.987795201940173,
+              33.975892982996193
+            ],
+            [
+              38.990795201940173,
+              33.985592982996195
+            ],
+            [
+              38.995795201940169,
+              33.396492982996193
+            ],
+            [
+              39.99089520194017,
+              33.392592982996192
+            ],
+            [
+              39.987795201940173,
+              33.975892982996193
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 3,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7460 .s200 .G4",
+        "title" : "Syrien 1:200 000",
+        "year" : "[1942]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050719360203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "24 Bir Sedjri",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050719360203941&sublib=MAP&collection=LC&callnum=G7460+s200+G4&title=Syrien+1:200+000&description=sheet+24 Bir Sedjri"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              38.990795201940173,
+              33.985592982996195
+            ],
+            [
+              37.992595201940169,
+              33.99529298299619
+            ],
+            [
+              37.99389520194017,
+              32.968792982996192
+            ],
+            [
+              37.994095201940169,
+              32.789692982996193
+            ],
+            [
+              39.000895201940168,
+              32.789692982996193
+            ],
+            [
+              38.995795201940169,
+              33.396492982996193
+            ],
+            [
+              38.990795201940173,
+              33.985592982996195
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 4,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7460 .s200 .G4",
+        "title" : "Syrien 1:200 000",
+        "year" : "[1942]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050719360203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "23 Djebel Tenf",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050719360203941&sublib=MAP&collection=LC&callnum=G7460+s200+G4&title=Syrien+1:200+000&description=sheet+23 Djebel Tenf"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              37.992595201940169,
+              33.99529298299619
+            ],
+            [
+              37.000395201940172,
+              34.004892982996189
+            ],
+            [
+              37.005795201940174,
+              33.206492982996195
+            ],
+            [
+              37.00269520194017,
+              32.983192982996194
+            ],
+            [
+              37.99389520194017,
+              32.968792982996192
+            ],
+            [
+              37.992595201940169,
+              33.99529298299619
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 5,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G7460 .s200 .G4",
+        "title" : "Syrien 1:200 000",
+        "year" : "[1942]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050719360203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Sababiar",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050719360203941&sublib=MAP&collection=LC&callnum=G7460+s200+G4&title=Syrien+1:200+000&description=sheet+Sababiar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              37.000395201940172,
+              34.004892982996189
+            ],
+            [
+              35.994695201940175,
+              34.014692982996195
+            ],
+            [
+              35.998695201940173,
+              33.750492982996192
+            ],
+            [
+              36.000795201940171,
+              32.997692982996192
+            ],
+            [
+              37.00269520194017,
+              32.983192982996194
+            ],
+            [
+              37.005795201940174,
+              33.206492982996195
+            ],
+            [
+              37.000395201940172,
+              34.004892982996189
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 6,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G7460 .s200 .G4",
+        "title" : "Syrien 1:200 000",
+        "year" : "[1942]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050719360203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Damas (Damascus)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050719360203941&sublib=MAP&collection=LC&callnum=G7460+s200+G4&title=Syrien+1:200+000&description=sheet+Damas (Damascus)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.994695201940175,
+              34.014692982996195
+            ],
+            [
+              34.995095201940174,
+              34.02439298299619
+            ],
+            [
+              35.001995201940169,
+              33.01219298299619
+            ],
+            [
+              36.000795201940171,
+              32.997692982996192
+            ],
+            [
+              35.998695201940173,
+              33.750492982996192
+            ],
+            [
+              35.994695201940175,
+              34.014692982996195
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 7,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7460 .s200 .G4",
+        "title" : "Syrien 1:200 000",
+        "year" : "[1942]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050719360203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "20 Beyrouth (Beirut)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050719360203941&sublib=MAP&collection=LC&callnum=G7460+s200+G4&title=Syrien+1:200+000&description=sheet+20 Beyrouth (Beirut)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              41.982195201940172,
+              34.969292982996194
+            ],
+            [
+              40.978595201940173,
+              34.976192982996196
+            ],
+            [
+              40.986395201940169,
+              33.966192982996191
+            ],
+            [
+              41.987595201940174,
+              33.956492982996195
+            ],
+            [
+              41.982195201940172,
+              34.969292982996194
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 8,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7460 .s200 .G4",
+        "title" : "Syrien 1:200 000",
+        "year" : "[1942]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050719360203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "19 Anah",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050719360203941&sublib=MAP&collection=LC&callnum=G7460+s200+G4&title=Syrien+1:200+000&description=sheet+19 Anah"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              40.978595201940173,
+              34.976192982996196
+            ],
+            [
+              39.982495201940168,
+              34.98309298299619
+            ],
+            [
+              39.987795201940173,
+              33.975892982996193
+            ],
+            [
+              40.986395201940169,
+              33.966192982996191
+            ],
+            [
+              40.978595201940173,
+              34.976192982996196
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 9,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7460 .s200 .G4",
+        "title" : "Syrien 1:200 000",
+        "year" : "[1942]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050719360203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "18 Abou Kemal",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050719360203941&sublib=MAP&collection=LC&callnum=G7460+s200+G4&title=Syrien+1:200+000&description=sheet+18 Abou Kemal"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              39.982495201940168,
+              34.98309298299619
+            ],
+            [
+              38.982295201940175,
+              34.989992982996192
+            ],
+            [
+              38.990795201940173,
+              33.985592982996195
+            ],
+            [
+              39.987795201940173,
+              33.975892982996193
+            ],
+            [
+              39.982495201940168,
+              34.98309298299619
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 10,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7460 .s200 .G4",
+        "title" : "Syrien 1:200 000",
+        "year" : "[1942]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050719360203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "17 Ouadi el Miah",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050719360203941&sublib=MAP&collection=LC&callnum=G7460+s200+G4&title=Syrien+1:200+000&description=sheet+17 Ouadi el Miah"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              38.273395201940168,
+              34.994892982996191
+            ],
+            [
+              37.991295201940169,
+              34.997592982996196
+            ],
+            [
+              37.992595201940169,
+              33.99529298299619
+            ],
+            [
+              38.990795201940173,
+              33.985592982996195
+            ],
+            [
+              38.982295201940175,
+              34.989992982996192
+            ],
+            [
+              38.273395201940168,
+              34.994892982996191
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 11,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7460 .s200 .G4",
+        "title" : "Syrien 1:200 000",
+        "year" : "[1942]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050719360203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "16 Palmyre",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050719360203941&sublib=MAP&collection=LC&callnum=G7460+s200+G4&title=Syrien+1:200+000&description=sheet+16 Palmyre"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              37.991295201940169,
+              34.997592982996196
+            ],
+            [
+              36.993595201940174,
+              35.007192982996195
+            ],
+            [
+              37.000395201940172,
+              34.004892982996189
+            ],
+            [
+              37.992595201940169,
+              33.99529298299619
+            ],
+            [
+              37.991295201940169,
+              34.997592982996196
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 12,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7460 .s200 .G4",
+        "title" : "Syrien 1:200 000",
+        "year" : "[1942]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050719360203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "15 Qariateine",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050719360203941&sublib=MAP&collection=LC&callnum=G7460+s200+G4&title=Syrien+1:200+000&description=sheet+15 Qariateine"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.993595201940174,
+              35.007192982996195
+            ],
+            [
+              35.979595201940171,
+              35.016992982996193
+            ],
+            [
+              35.994695201940175,
+              34.014692982996195
+            ],
+            [
+              37.000395201940172,
+              34.004892982996189
+            ],
+            [
+              36.993595201940174,
+              35.007192982996195
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 13,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7460 .s200 .G4",
+        "title" : "Syrien 1:200 000",
+        "year" : "[1942]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050719360203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "14 Homs",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050719360203941&sublib=MAP&collection=LC&callnum=G7460+s200+G4&title=Syrien+1:200+000&description=sheet+14 Homs"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.71479520194017,
+              35.019492982996191
+            ],
+            [
+              34.988295201940169,
+              35.026492982996189
+            ],
+            [
+              34.995095201940174,
+              34.02439298299619
+            ],
+            [
+              35.994695201940175,
+              34.014692982996195
+            ],
+            [
+              35.979595201940171,
+              35.016992982996193
+            ],
+            [
+              35.71479520194017,
+              35.019492982996191
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 14,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7460 .s200 .G4",
+        "title" : "Syrien 1:200 000",
+        "year" : "[1942]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050719360203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "13 Tripoli",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050719360203941&sublib=MAP&collection=LC&callnum=G7460+s200+G4&title=Syrien+1:200+000&description=sheet+13 Tripoli"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              41.976695201940174,
+              35.979792982996194
+            ],
+            [
+              40.97079520194017,
+              35.988792982996195
+            ],
+            [
+              40.978595201940173,
+              34.976192982996196
+            ],
+            [
+              41.982195201940172,
+              34.969292982996194
+            ],
+            [
+              41.976695201940174,
+              35.979792982996194
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 15,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7460 .s200 .G4",
+        "title" : "Syrien 1:200 000",
+        "year" : "[1942]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050719360203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "12 Rouara",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050719360203941&sublib=MAP&collection=LC&callnum=G7460+s200+G4&title=Syrien+1:200+000&description=sheet+12 Rouara"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              40.97079520194017,
+              35.988792982996195
+            ],
+            [
+              39.97719520194017,
+              35.997692982996192
+            ],
+            [
+              39.982495201940168,
+              34.98309298299619
+            ],
+            [
+              40.978595201940173,
+              34.976192982996196
+            ],
+            [
+              40.97079520194017,
+              35.988792982996195
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 16,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7460 .s200 .G4",
+        "title" : "Syrien 1:200 000",
+        "year" : "[1942]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050719360203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "11 Deir ez Zor",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050719360203941&sublib=MAP&collection=LC&callnum=G7460+s200+G4&title=Syrien+1:200+000&description=sheet+11 Deir ez Zor"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              39.97719520194017,
+              35.997692982996192
+            ],
+            [
+              38.973695201940174,
+              36.006692982996192
+            ],
+            [
+              38.973695201940174,
+              36.004992982996193
+            ],
+            [
+              38.982295201940175,
+              34.989992982996192
+            ],
+            [
+              39.982495201940168,
+              34.98309298299619
+            ],
+            [
+              39.97719520194017,
+              35.997692982996192
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 17,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7460 .s200 .G4",
+        "title" : "Syrien 1:200 000",
+        "year" : "[1942]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050719360203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "10 Raqqa",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050719360203941&sublib=MAP&collection=LC&callnum=G7460+s200+G4&title=Syrien+1:200+000&description=sheet+10 Raqqa"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              38.973695201940174,
+              36.006692982996192
+            ],
+            [
+              37.990095201940171,
+              36.015492982996193
+            ],
+            [
+              37.991295201940169,
+              34.997592982996196
+            ],
+            [
+              38.273395201940168,
+              34.994892982996191
+            ],
+            [
+              38.982295201940175,
+              34.989992982996192
+            ],
+            [
+              38.973695201940174,
+              36.004992982996193
+            ],
+            [
+              38.973695201940174,
+              36.006692982996192
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 18,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7460 .s200 .G4",
+        "title" : "Syrien 1:200 000",
+        "year" : "[1942]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050719360203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "9 Reessafe",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050719360203941&sublib=MAP&collection=LC&callnum=G7460+s200+G4&title=Syrien+1:200+000&description=sheet+9 Reessafe"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 19,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              37.990095201940171,
+              36.015492982996193
+            ],
+            [
+              36.986695201940172,
+              36.024492982996193
+            ],
+            [
+              36.993595201940174,
+              35.007192982996195
+            ],
+            [
+              37.991295201940169,
+              34.997592982996196
+            ],
+            [
+              37.990095201940171,
+              36.015492982996193
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 19,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7460 .s200 .G4",
+        "title" : "Syrien 1:200 000",
+        "year" : "[1942]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050719360203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "8 Selemiye",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050719360203941&sublib=MAP&collection=LC&callnum=G7460+s200+G4&title=Syrien+1:200+000&description=sheet+8 Selemiye"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 20,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.986695201940172,
+              36.024492982996193
+            ],
+            [
+              35.695195201940173,
+              36.036092982996195
+            ],
+            [
+              35.71479520194017,
+              35.019492982996191
+            ],
+            [
+              35.979595201940171,
+              35.016992982996193
+            ],
+            [
+              36.993595201940174,
+              35.007192982996195
+            ],
+            [
+              36.986695201940172,
+              36.024492982996193
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 20,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7460 .s200 .G4",
+        "title" : "Syrien 1:200 000",
+        "year" : "[1942]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050719360203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "7 Lattaquie Hama",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050719360203941&sublib=MAP&collection=LC&callnum=G7460+s200+G4&title=Syrien+1:200+000&description=sheet+7 Lattaquie Hama"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 21,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              39.971895201940171,
+              37.010292982996191
+            ],
+            [
+              38.96159520194017,
+              37.024492982996193
+            ],
+            [
+              38.973695201940174,
+              36.006692982996192
+            ],
+            [
+              39.97719520194017,
+              35.997692982996192
+            ],
+            [
+              39.971895201940171,
+              37.010292982996191
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 21,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7460 .s200 .G4",
+        "title" : "Syrien 1:200 000",
+        "year" : "[1942]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050719360203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "4 Toual Aaba",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050719360203941&sublib=MAP&collection=LC&callnum=G7460+s200+G4&title=Syrien+1:200+000&description=sheet+4 Toual Aaba"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 22,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              38.96159520194017,
+              37.024492982996193
+            ],
+            [
+              37.98599520194017,
+              37.03829298299619
+            ],
+            [
+              37.989795201940169,
+              36.219092982996195
+            ],
+            [
+              37.990095201940171,
+              36.015492982996193
+            ],
+            [
+              38.973695201940174,
+              36.006692982996192
+            ],
+            [
+              38.96159520194017,
+              37.024492982996193
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 22,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7460 .s200 .G4",
+        "title" : "Syrien 1:200 000",
+        "year" : "[1942]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050719360203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3 Djerablous",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050719360203941&sublib=MAP&collection=LC&callnum=G7460+s200+G4&title=Syrien+1:200+000&description=sheet+3 Djerablous"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 23,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              37.98599520194017,
+              37.03829298299619
+            ],
+            [
+              36.979595201940171,
+              37.052492982996192
+            ],
+            [
+              36.986695201940172,
+              36.024492982996193
+            ],
+            [
+              37.990095201940171,
+              36.015492982996193
+            ],
+            [
+              37.989795201940169,
+              36.219092982996195
+            ],
+            [
+              37.98599520194017,
+              37.03829298299619
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 23,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7460 .s200 .G4",
+        "title" : "Syrien 1:200 000",
+        "year" : "[1942]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050719360203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "2 Alep",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050719360203941&sublib=MAP&collection=LC&callnum=G7460+s200+G4&title=Syrien+1:200+000&description=sheet+2 Alep"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 24,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.979595201940171,
+              37.052492982996192
+            ],
+            [
+              35.67519520194017,
+              37.070992982996195
+            ],
+            [
+              35.695195201940173,
+              36.036092982996195
+            ],
+            [
+              36.986695201940172,
+              36.024492982996193
+            ],
+            [
+              36.979595201940171,
+              37.052492982996192
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 24,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7460 .s200 .G4",
+        "title" : "Syrien 1:200 000",
+        "year" : "[1942]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050719360203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "1 Antioche",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050719360203941&sublib=MAP&collection=LC&callnum=G7460+s200+G4&title=Syrien+1:200+000&description=sheet+1 Antioche"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 25,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              41.567195201940173,
+              37.212792982996191
+            ],
+            [
+              40.961395201940171,
+              37.219092982996195
+            ],
+            [
+              40.97079520194017,
+              35.988792982996195
+            ],
+            [
+              41.976695201940174,
+              35.979792982996194
+            ],
+            [
+              41.972895201940169,
+              36.696892982996189
+            ],
+            [
+              41.578095201940172,
+              36.698692982996192
+            ],
+            [
+              41.567195201940173,
+              37.212792982996191
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 25,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G7460 .s200 .G4",
+        "title" : "Syrien 1:200 000",
+        "year" : "[1942]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050719360203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "6 Kamichliye Sinjar",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050719360203941&sublib=MAP&collection=LC&callnum=G7460+s200+G4&title=Syrien+1:200+000&description=sheet+6 Kamichliye Sinjar"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 26,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              40.961395201940171,
+              37.219092982996195
+            ],
+            [
+              39.970695201940174,
+              37.229492982996192
+            ],
+            [
+              39.971895201940171,
+              37.010292982996191
+            ],
+            [
+              39.97719520194017,
+              35.997692982996192
+            ],
+            [
+              40.97079520194017,
+              35.988792982996195
+            ],
+            [
+              40.961395201940171,
+              37.219092982996195
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 26,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7460 .s200 .G4",
+        "title" : "Syrien 1:200 000",
+        "year" : "[1942]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050719360203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "6 Hassetche",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050719360203941&sublib=MAP&collection=LC&callnum=G7460+s200+G4&title=Syrien+1:200+000&description=sheet+6 Hassetche"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 27,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              42.358995201940175,
+              37.340792982996192
+            ],
+            [
+              41.564195201940173,
+              37.351392982996188
+            ],
+            [
+              41.567195201940173,
+              37.212792982996191
+            ],
+            [
+              41.578095201940172,
+              36.698692982996192
+            ],
+            [
+              41.972895201940169,
+              36.696892982996189
+            ],
+            [
+              42.35519520194017,
+              36.695092982996194
+            ],
+            [
+              42.358995201940175,
+              37.340792982996192
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 27,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G7460 .s200 .G4",
+        "title" : "Syrien 1:200 000",
+        "year" : "[1942]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050719360203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Karatchok Darh",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050719360203941&sublib=MAP&collection=LC&callnum=G7460+s200+G4&title=Syrien+1:200+000&description=sheet+Karatchok Darh"
+      }
+    }
+  ]
+}
