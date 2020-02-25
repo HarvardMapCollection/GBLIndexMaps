@@ -1,0 +1,770 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 0,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -13,
+              6.666666666666667
+            ],
+            [
+              -12,
+              6.666666666666667
+            ],
+            [
+              -12,
+              7.3333333333333339
+            ],
+            [
+              -13,
+              7.3333333333333339
+            ],
+            [
+              -13,
+              6.666666666666667
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 0,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8860 s200 .S6",
+        "title" : "[Sierra Leone, 1:200,000]",
+        "year" : "[1979]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990079891930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "B-28-XII",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990079891930203941&sublib=MAP&collection=LC&callnum=G8860+s200+S6+&title=[Sierra+Leone,+1:200,000]&description=sheet+B-28-XII"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -14,
+              7.333333333333333
+            ],
+            [
+              -13,
+              7.333333333333333
+            ],
+            [
+              -13,
+              8
+            ],
+            [
+              -14,
+              8
+            ],
+            [
+              -14,
+              7.333333333333333
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 2,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8860 s200 .S6",
+        "title" : "[Sierra Leone, 1:200,000]",
+        "year" : "[1979]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990079891930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "B-28-V",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990079891930203941&sublib=MAP&collection=LC&callnum=G8860+s200+S6+&title=[Sierra+Leone,+1:200,000]&description=sheet+B-28-V"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -13,
+              7.333333333333333
+            ],
+            [
+              -12,
+              7.333333333333333
+            ],
+            [
+              -12,
+              8
+            ],
+            [
+              -13,
+              8
+            ],
+            [
+              -13,
+              7.333333333333333
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 3,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8860 s200 .S6",
+        "title" : "[Sierra Leone, 1:200,000]",
+        "year" : "[1979]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990079891930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "B-28-VI",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990079891930203941&sublib=MAP&collection=LC&callnum=G8860+s200+S6+&title=[Sierra+Leone,+1:200,000]&description=sheet+B-28-VI"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -12,
+              7.333333333333333
+            ],
+            [
+              -11,
+              7.333333333333333
+            ],
+            [
+              -11,
+              8
+            ],
+            [
+              -12,
+              8
+            ],
+            [
+              -12,
+              7.333333333333333
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 4,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8860 s200 .S6",
+        "title" : "[Sierra Leone, 1:200,000]",
+        "year" : "[1979]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990079891930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "B-29-I",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990079891930203941&sublib=MAP&collection=LC&callnum=G8860+s200+S6+&title=[Sierra+Leone,+1:200,000]&description=sheet+B-29-I"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -11,
+              7.333333333333333
+            ],
+            [
+              -10,
+              7.333333333333333
+            ],
+            [
+              -10,
+              8
+            ],
+            [
+              -11,
+              8
+            ],
+            [
+              -11,
+              7.333333333333333
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 5,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8860 s200 .S6",
+        "title" : "[Sierra Leone, 1:200,000]",
+        "year" : "[1979]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990079891930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "B-29-II",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990079891930203941&sublib=MAP&collection=LC&callnum=G8860+s200+S6+&title=[Sierra+Leone,+1:200,000]&description=sheet+B-29-II"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -14,
+              8
+            ],
+            [
+              -13,
+              8
+            ],
+            [
+              -13,
+              8.6666666666666661
+            ],
+            [
+              -14,
+              8.6666666666666661
+            ],
+            [
+              -14,
+              8
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 6,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8860 s200 .S6",
+        "title" : "[Sierra Leone, 1:200,000]",
+        "year" : "[1979]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990079891930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "C-28-XXXV",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990079891930203941&sublib=MAP&collection=LC&callnum=G8860+s200+S6+&title=[Sierra+Leone,+1:200,000]&description=sheet+C-28-XXXV"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -13,
+              8
+            ],
+            [
+              -12,
+              8
+            ],
+            [
+              -12,
+              8.6666666666666661
+            ],
+            [
+              -13,
+              8.6666666666666661
+            ],
+            [
+              -13,
+              8
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 7,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8860 s200 .S6",
+        "title" : "[Sierra Leone, 1:200,000]",
+        "year" : "[1979]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990079891930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "C-28-XXXVI",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990079891930203941&sublib=MAP&collection=LC&callnum=G8860+s200+S6+&title=[Sierra+Leone,+1:200,000]&description=sheet+C-28-XXXVI"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -12,
+              8
+            ],
+            [
+              -11,
+              8
+            ],
+            [
+              -11,
+              8.6666666666666661
+            ],
+            [
+              -12,
+              8.6666666666666661
+            ],
+            [
+              -12,
+              8
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 8,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8860 s200 .S6",
+        "title" : "[Sierra Leone, 1:200,000]",
+        "year" : "[1979]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990079891930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "C-29-XXXI",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990079891930203941&sublib=MAP&collection=LC&callnum=G8860+s200+S6+&title=[Sierra+Leone,+1:200,000]&description=sheet+C-29-XXXI"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -11,
+              8
+            ],
+            [
+              -10,
+              8
+            ],
+            [
+              -10,
+              8.6666666666666661
+            ],
+            [
+              -11,
+              8.6666666666666661
+            ],
+            [
+              -11,
+              8
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 9,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8860 s200 .S6",
+        "title" : "[Sierra Leone, 1:200,000]",
+        "year" : "[1979]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990079891930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "C-29-XXXII",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990079891930203941&sublib=MAP&collection=LC&callnum=G8860+s200+S6+&title=[Sierra+Leone,+1:200,000]&description=sheet+C-29-XXXII"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -14,
+              8.6666666666666661
+            ],
+            [
+              -13,
+              8.6666666666666661
+            ],
+            [
+              -13,
+              9.3333333333333321
+            ],
+            [
+              -14,
+              9.3333333333333321
+            ],
+            [
+              -14,
+              8.6666666666666661
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 10,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8860 s200 .S6",
+        "title" : "[Sierra Leone, 1:200,000]",
+        "year" : "[1979]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990079891930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "C-28-XXIX",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990079891930203941&sublib=MAP&collection=LC&callnum=G8860+s200+S6+&title=[Sierra+Leone,+1:200,000]&description=sheet+C-28-XXIX"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -13,
+              8.6666666666666661
+            ],
+            [
+              -12,
+              8.6666666666666661
+            ],
+            [
+              -12,
+              9.3333333333333321
+            ],
+            [
+              -13,
+              9.3333333333333321
+            ],
+            [
+              -13,
+              8.6666666666666661
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 11,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8860 s200 .S6",
+        "title" : "[Sierra Leone, 1:200,000]",
+        "year" : "[1979]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990079891930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "C-28-XXX",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990079891930203941&sublib=MAP&collection=LC&callnum=G8860+s200+S6+&title=[Sierra+Leone,+1:200,000]&description=sheet+C-28-XXX"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -12,
+              8.6666666666666661
+            ],
+            [
+              -11,
+              8.6666666666666661
+            ],
+            [
+              -11,
+              9.3333333333333321
+            ],
+            [
+              -12,
+              9.3333333333333321
+            ],
+            [
+              -12,
+              8.6666666666666661
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 12,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8860 s200 .S6",
+        "title" : "[Sierra Leone, 1:200,000]",
+        "year" : "[1979]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990079891930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "C-29-XXV",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990079891930203941&sublib=MAP&collection=LC&callnum=G8860+s200+S6+&title=[Sierra+Leone,+1:200,000]&description=sheet+C-29-XXV"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -11,
+              8.6666666666666661
+            ],
+            [
+              -10,
+              8.6666666666666661
+            ],
+            [
+              -10,
+              9.3333333333333321
+            ],
+            [
+              -11,
+              9.3333333333333321
+            ],
+            [
+              -11,
+              8.6666666666666661
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 13,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8860 s200 .S6",
+        "title" : "[Sierra Leone, 1:200,000]",
+        "year" : "[1979]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990079891930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "C-29-XXVI",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990079891930203941&sublib=MAP&collection=LC&callnum=G8860+s200+S6+&title=[Sierra+Leone,+1:200,000]&description=sheet+C-29-XXVI"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -13,
+              9.3333333333333321
+            ],
+            [
+              -12,
+              9.3333333333333321
+            ],
+            [
+              -12,
+              9.9999999999999982
+            ],
+            [
+              -13,
+              9.9999999999999982
+            ],
+            [
+              -13,
+              9.3333333333333321
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 14,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8860 s200 .S6",
+        "title" : "[Sierra Leone, 1:200,000]",
+        "year" : "[1979]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990079891930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "C-28-XXIV",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990079891930203941&sublib=MAP&collection=LC&callnum=G8860+s200+S6+&title=[Sierra+Leone,+1:200,000]&description=sheet+C-28-XXIV"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -12,
+              9.3333333333333321
+            ],
+            [
+              -11,
+              9.3333333333333321
+            ],
+            [
+              -11,
+              9.9999999999999982
+            ],
+            [
+              -12,
+              9.9999999999999982
+            ],
+            [
+              -12,
+              9.3333333333333321
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 15,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8860 s200 .S6",
+        "title" : "[Sierra Leone, 1:200,000]",
+        "year" : "[1979]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990079891930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "C-29-XIX",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990079891930203941&sublib=MAP&collection=LC&callnum=G8860+s200+S6+&title=[Sierra+Leone,+1:200,000]&description=sheet+C-29-XIX"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -11,
+              9.3333333333333321
+            ],
+            [
+              -10,
+              9.3333333333333321
+            ],
+            [
+              -10,
+              9.9999999999999982
+            ],
+            [
+              -11,
+              9.9999999999999982
+            ],
+            [
+              -11,
+              9.3333333333333321
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 16,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8860 s200 .S6",
+        "title" : "[Sierra Leone, 1:200,000]",
+        "year" : "[1979]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990079891930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "C-29-XX",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990079891930203941&sublib=MAP&collection=LC&callnum=G8860+s200+S6+&title=[Sierra+Leone,+1:200,000]&description=sheet+C-29-XX"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -12,
+              6.666666666666667
+            ],
+            [
+              -11,
+              6.666666666666667
+            ],
+            [
+              -11,
+              7.3333333333333339
+            ],
+            [
+              -12,
+              7.3333333333333339
+            ],
+            [
+              -12,
+              6.666666666666667
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 1,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8860 s200 .S6",
+        "title" : "[Sierra Leone, 1:200,000]",
+        "year" : "[1979]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990079891930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "B-29-VII",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990079891930203941&sublib=MAP&collection=LC&callnum=G8860+s200+S6+&title=[Sierra+Leone,+1:200,000]&description=sheet+B-29-VII"
+      }
+    }
+  ]
+}
