@@ -1,0 +1,6247 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 0,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -13,
+              7
+            ],
+            [
+              -12.75,
+              7
+            ],
+            [
+              -12.75,
+              7.25
+            ],
+            [
+              -13,
+              7.25
+            ],
+            [
+              -13,
+              7
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 0,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -12.75,
+              7
+            ],
+            [
+              -12.5,
+              7
+            ],
+            [
+              -12.5,
+              7.25
+            ],
+            [
+              -12.75,
+              7.25
+            ],
+            [
+              -12.75,
+              7
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 1,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -12.5,
+              7
+            ],
+            [
+              -12.25,
+              7
+            ],
+            [
+              -12.25,
+              7.25
+            ],
+            [
+              -12.5,
+              7.25
+            ],
+            [
+              -12.5,
+              7
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 2,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -12.25,
+              7
+            ],
+            [
+              -12,
+              7
+            ],
+            [
+              -12,
+              7.25
+            ],
+            [
+              -12.25,
+              7.25
+            ],
+            [
+              -12.25,
+              7
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 3,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -12,
+              7
+            ],
+            [
+              -11.75,
+              7
+            ],
+            [
+              -11.75,
+              7.25
+            ],
+            [
+              -12,
+              7.25
+            ],
+            [
+              -12,
+              7
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 4,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -11.75,
+              7
+            ],
+            [
+              -11.5,
+              7
+            ],
+            [
+              -11.5,
+              7.25
+            ],
+            [
+              -11.75,
+              7.25
+            ],
+            [
+              -11.75,
+              7
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 5,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "110",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -11.25,
+              6.96307373046875
+            ],
+            [
+              -11.25,
+              7.0001220703125
+            ],
+            [
+              -11.25,
+              7.2501220703125
+            ],
+            [
+              -11.5,
+              7.2501220703125
+            ],
+            [
+              -11.5,
+              7.0001220703125
+            ],
+            [
+              -11.5,
+              6.96307373046875
+            ],
+            [
+              -11.25,
+              6.96307373046875
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 6,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "111",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143899950203941&sublib=MAP&collection=LC&callnum=G8860+s62+G6+&title=Sierra+Leone+survey&description=sheet+111"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -11,
+              7
+            ],
+            [
+              -10.75,
+              7
+            ],
+            [
+              -10.75,
+              7.25
+            ],
+            [
+              -11,
+              7.25
+            ],
+            [
+              -11,
+              7
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 7,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -10.75,
+              7
+            ],
+            [
+              -10.5,
+              7
+            ],
+            [
+              -10.5,
+              7.25
+            ],
+            [
+              -10.75,
+              7.25
+            ],
+            [
+              -10.75,
+              7
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 8,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -13,
+              7.25
+            ],
+            [
+              -12.75,
+              7.25
+            ],
+            [
+              -12.75,
+              7.5
+            ],
+            [
+              -13,
+              7.5
+            ],
+            [
+              -13,
+              7.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 9,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -12.75,
+              7.25
+            ],
+            [
+              -12.5,
+              7.25
+            ],
+            [
+              -12.5,
+              7.5
+            ],
+            [
+              -12.75,
+              7.5
+            ],
+            [
+              -12.75,
+              7.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 10,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "101",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -12.5,
+              7.25
+            ],
+            [
+              -12.25,
+              7.25
+            ],
+            [
+              -12.25,
+              7.5
+            ],
+            [
+              -12.5,
+              7.5
+            ],
+            [
+              -12.5,
+              7.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 11,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "102",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -12.25,
+              7.25
+            ],
+            [
+              -12,
+              7.25
+            ],
+            [
+              -12,
+              7.5
+            ],
+            [
+              -12.25,
+              7.5
+            ],
+            [
+              -12.25,
+              7.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 12,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "103",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -12,
+              7.25
+            ],
+            [
+              -11.75,
+              7.25
+            ],
+            [
+              -11.75,
+              7.5
+            ],
+            [
+              -12,
+              7.5
+            ],
+            [
+              -12,
+              7.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 13,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "104",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -11.75,
+              7.25
+            ],
+            [
+              -11.5,
+              7.25
+            ],
+            [
+              -11.5,
+              7.5
+            ],
+            [
+              -11.75,
+              7.5
+            ],
+            [
+              -11.75,
+              7.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 14,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "105",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -11.5,
+              7.25
+            ],
+            [
+              -11.25,
+              7.25
+            ],
+            [
+              -11.25,
+              7.5
+            ],
+            [
+              -11.5,
+              7.5
+            ],
+            [
+              -11.5,
+              7.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 15,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "106",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -11,
+              7.25
+            ],
+            [
+              -10.75,
+              7.25
+            ],
+            [
+              -10.75,
+              7.5
+            ],
+            [
+              -11,
+              7.5
+            ],
+            [
+              -11,
+              7.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 16,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -10.75,
+              7.25
+            ],
+            [
+              -10.5,
+              7.25
+            ],
+            [
+              -10.5,
+              7.5
+            ],
+            [
+              -10.75,
+              7.5
+            ],
+            [
+              -10.75,
+              7.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 17,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -13.25,
+              7.5
+            ],
+            [
+              -13,
+              7.5
+            ],
+            [
+              -13,
+              7.75
+            ],
+            [
+              -13.25,
+              7.75
+            ],
+            [
+              -13.25,
+              7.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 18,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 19,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -13,
+              7.5
+            ],
+            [
+              -12.75,
+              7.5
+            ],
+            [
+              -12.75,
+              7.75
+            ],
+            [
+              -13,
+              7.75
+            ],
+            [
+              -13,
+              7.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 19,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "92",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 20,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -12.75,
+              7.5
+            ],
+            [
+              -12.5,
+              7.5
+            ],
+            [
+              -12.5,
+              7.75
+            ],
+            [
+              -12.75,
+              7.75
+            ],
+            [
+              -12.75,
+              7.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 20,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "93",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143899950203941&sublib=MAP&collection=LC&callnum=G8860+s62+G6+&title=Sierra+Leone+survey&description=sheet+93"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 21,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -12.5,
+              7.5
+            ],
+            [
+              -12.25,
+              7.5
+            ],
+            [
+              -12.25,
+              7.75
+            ],
+            [
+              -12.5,
+              7.75
+            ],
+            [
+              -12.5,
+              7.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 21,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "94",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 22,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -12.25,
+              7.5
+            ],
+            [
+              -12,
+              7.5
+            ],
+            [
+              -12,
+              7.75
+            ],
+            [
+              -12.25,
+              7.75
+            ],
+            [
+              -12.25,
+              7.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 22,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "95",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 23,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -12,
+              7.5
+            ],
+            [
+              -11.75,
+              7.5
+            ],
+            [
+              -11.75,
+              7.75
+            ],
+            [
+              -12,
+              7.75
+            ],
+            [
+              -12,
+              7.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 23,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "96",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 24,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -11.75,
+              7.5
+            ],
+            [
+              -11.5,
+              7.5
+            ],
+            [
+              -11.5,
+              7.75
+            ],
+            [
+              -11.75,
+              7.75
+            ],
+            [
+              -11.75,
+              7.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 24,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "97",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143899950203941&sublib=MAP&collection=LC&callnum=G8860+s62+G6+&title=Sierra+Leone+survey&description=sheet+97"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 25,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -11.5,
+              7.5
+            ],
+            [
+              -11.25,
+              7.5
+            ],
+            [
+              -11.25,
+              7.75
+            ],
+            [
+              -11.5,
+              7.75
+            ],
+            [
+              -11.5,
+              7.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 25,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "98",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 26,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -11.25,
+              7.5
+            ],
+            [
+              -11,
+              7.5
+            ],
+            [
+              -11,
+              7.75
+            ],
+            [
+              -11.25,
+              7.75
+            ],
+            [
+              -11.25,
+              7.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 26,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "99",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 27,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -11,
+              7.5
+            ],
+            [
+              -10.75,
+              7.5
+            ],
+            [
+              -10.75,
+              7.75
+            ],
+            [
+              -11,
+              7.75
+            ],
+            [
+              -11,
+              7.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 27,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "100",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 28,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -10.75,
+              7.5
+            ],
+            [
+              -10.5,
+              7.5
+            ],
+            [
+              -10.5,
+              7.75
+            ],
+            [
+              -10.75,
+              7.75
+            ],
+            [
+              -10.75,
+              7.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 28,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 29,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -13.25,
+              7.75
+            ],
+            [
+              -13,
+              7.75
+            ],
+            [
+              -13,
+              8
+            ],
+            [
+              -13.25,
+              8
+            ],
+            [
+              -13.25,
+              7.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 29,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 30,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -13,
+              7.75
+            ],
+            [
+              -12.75,
+              7.75
+            ],
+            [
+              -12.75,
+              8
+            ],
+            [
+              -13,
+              8
+            ],
+            [
+              -13,
+              7.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 30,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "82",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 31,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -12.75,
+              7.75
+            ],
+            [
+              -12.5,
+              7.75
+            ],
+            [
+              -12.5,
+              8
+            ],
+            [
+              -12.75,
+              8
+            ],
+            [
+              -12.75,
+              7.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 31,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "83",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 32,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -12.5,
+              7.75
+            ],
+            [
+              -12.25,
+              7.75
+            ],
+            [
+              -12.25,
+              8
+            ],
+            [
+              -12.5,
+              8
+            ],
+            [
+              -12.5,
+              7.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 32,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "84",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 33,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -12.25,
+              7.75
+            ],
+            [
+              -12,
+              7.75
+            ],
+            [
+              -12,
+              8
+            ],
+            [
+              -12.25,
+              8
+            ],
+            [
+              -12.25,
+              7.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 33,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "85",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 34,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -12,
+              7.75
+            ],
+            [
+              -11.75,
+              7.75
+            ],
+            [
+              -11.75,
+              8
+            ],
+            [
+              -12,
+              8
+            ],
+            [
+              -12,
+              7.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 34,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "86",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 35,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -11.75,
+              7.75
+            ],
+            [
+              -11.5,
+              7.75
+            ],
+            [
+              -11.5,
+              8
+            ],
+            [
+              -11.75,
+              8
+            ],
+            [
+              -11.75,
+              7.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 35,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "87",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143899950203941&sublib=MAP&collection=LC&callnum=G8860+s62+G6+&title=Sierra+Leone+survey&description=sheet+87"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 36,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -11.5,
+              7.75
+            ],
+            [
+              -11.25,
+              7.75
+            ],
+            [
+              -11.25,
+              8
+            ],
+            [
+              -11.5,
+              8
+            ],
+            [
+              -11.5,
+              7.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 36,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "88",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143899950203941&sublib=MAP&collection=LC&callnum=G8860+s62+G6+&title=Sierra+Leone+survey&description=sheet+88"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 37,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -11.25,
+              7.75
+            ],
+            [
+              -11,
+              7.75
+            ],
+            [
+              -11,
+              8
+            ],
+            [
+              -11.25,
+              8
+            ],
+            [
+              -11.25,
+              7.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 37,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "89",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 38,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -11,
+              7.75
+            ],
+            [
+              -10.75,
+              7.75
+            ],
+            [
+              -10.75,
+              8
+            ],
+            [
+              -11,
+              8
+            ],
+            [
+              -11,
+              7.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 38,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "90",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 39,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -10.75,
+              7.75
+            ],
+            [
+              -10.5,
+              7.75
+            ],
+            [
+              -10.5,
+              8
+            ],
+            [
+              -10.75,
+              8
+            ],
+            [
+              -10.75,
+              7.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 39,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "91",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143899950203941&sublib=MAP&collection=LC&callnum=G8860+s62+G6+&title=Sierra+Leone+survey&description=sheet+91"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 40,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -13.25,
+              8
+            ],
+            [
+              -13,
+              8
+            ],
+            [
+              -13,
+              8.25
+            ],
+            [
+              -13.25,
+              8.25
+            ],
+            [
+              -13.25,
+              8
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 40,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 41,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -13,
+              8
+            ],
+            [
+              -12.75,
+              8
+            ],
+            [
+              -12.75,
+              8.25
+            ],
+            [
+              -13,
+              8.25
+            ],
+            [
+              -13,
+              8
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 41,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 42,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -12.75,
+              8
+            ],
+            [
+              -12.5,
+              8
+            ],
+            [
+              -12.5,
+              8.25
+            ],
+            [
+              -12.75,
+              8.25
+            ],
+            [
+              -12.75,
+              8
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 42,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 43,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -12.5,
+              8
+            ],
+            [
+              -12.25,
+              8
+            ],
+            [
+              -12.25,
+              8.25
+            ],
+            [
+              -12.5,
+              8.25
+            ],
+            [
+              -12.5,
+              8
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 43,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 44,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -12.25,
+              8
+            ],
+            [
+              -12,
+              8
+            ],
+            [
+              -12,
+              8.25
+            ],
+            [
+              -12.25,
+              8.25
+            ],
+            [
+              -12.25,
+              8
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 44,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 45,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -12,
+              8
+            ],
+            [
+              -11.75,
+              8
+            ],
+            [
+              -11.75,
+              8.25
+            ],
+            [
+              -12,
+              8.25
+            ],
+            [
+              -12,
+              8
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 45,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "75",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 46,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -11.75,
+              8
+            ],
+            [
+              -11.5,
+              8
+            ],
+            [
+              -11.5,
+              8.25
+            ],
+            [
+              -11.75,
+              8.25
+            ],
+            [
+              -11.75,
+              8
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 46,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "76",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 47,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -11.5,
+              8
+            ],
+            [
+              -11.25,
+              8
+            ],
+            [
+              -11.25,
+              8.25
+            ],
+            [
+              -11.5,
+              8.25
+            ],
+            [
+              -11.5,
+              8
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 47,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "77",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 48,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -11.25,
+              8
+            ],
+            [
+              -11,
+              8
+            ],
+            [
+              -11,
+              8.25
+            ],
+            [
+              -11.25,
+              8.25
+            ],
+            [
+              -11.25,
+              8
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 48,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "78",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 49,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -11,
+              8
+            ],
+            [
+              -10.75,
+              8
+            ],
+            [
+              -10.75,
+              8.25
+            ],
+            [
+              -11,
+              8.25
+            ],
+            [
+              -11,
+              8
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 49,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "79",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143899950203941&sublib=MAP&collection=LC&callnum=G8860+s62+G6+&title=Sierra+Leone+survey&description=sheet+79"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 50,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -10.75,
+              8
+            ],
+            [
+              -10.5,
+              8
+            ],
+            [
+              -10.5,
+              8.25
+            ],
+            [
+              -10.75,
+              8.25
+            ],
+            [
+              -10.75,
+              8
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 50,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "80",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143899950203941&sublib=MAP&collection=LC&callnum=G8860+s62+G6+&title=Sierra+Leone+survey&description=sheet+80"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 51,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -10.5,
+              8
+            ],
+            [
+              -10.25,
+              8
+            ],
+            [
+              -10.25,
+              8.25
+            ],
+            [
+              -10.5,
+              8.25
+            ],
+            [
+              -10.5,
+              8
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 51,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "81",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 52,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -13.25,
+              8.25
+            ],
+            [
+              -13,
+              8.25
+            ],
+            [
+              -13,
+              8.5
+            ],
+            [
+              -13.25,
+              8.5
+            ],
+            [
+              -13.25,
+              8.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 52,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 53,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -13,
+              8.25
+            ],
+            [
+              -12.75,
+              8.25
+            ],
+            [
+              -12.75,
+              8.5
+            ],
+            [
+              -13,
+              8.5
+            ],
+            [
+              -13,
+              8.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 53,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 54,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -12.75,
+              8.25
+            ],
+            [
+              -12.5,
+              8.25
+            ],
+            [
+              -12.5,
+              8.5
+            ],
+            [
+              -12.75,
+              8.5
+            ],
+            [
+              -12.75,
+              8.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 54,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 55,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -12.5,
+              8.25
+            ],
+            [
+              -12.25,
+              8.25
+            ],
+            [
+              -12.25,
+              8.5
+            ],
+            [
+              -12.5,
+              8.5
+            ],
+            [
+              -12.5,
+              8.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 55,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 56,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -12.25,
+              8.25
+            ],
+            [
+              -12,
+              8.25
+            ],
+            [
+              -12,
+              8.5
+            ],
+            [
+              -12.25,
+              8.5
+            ],
+            [
+              -12.25,
+              8.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 56,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 57,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -12,
+              8.25
+            ],
+            [
+              -11.75,
+              8.25
+            ],
+            [
+              -11.75,
+              8.5
+            ],
+            [
+              -12,
+              8.5
+            ],
+            [
+              -12,
+              8.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 57,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 58,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -11.75,
+              8.25
+            ],
+            [
+              -11.5,
+              8.25
+            ],
+            [
+              -11.5,
+              8.5
+            ],
+            [
+              -11.75,
+              8.5
+            ],
+            [
+              -11.75,
+              8.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 58,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 59,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -11.5,
+              8.25
+            ],
+            [
+              -11.25,
+              8.25
+            ],
+            [
+              -11.25,
+              8.5
+            ],
+            [
+              -11.5,
+              8.5
+            ],
+            [
+              -11.5,
+              8.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 59,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 60,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -11.25,
+              8.25
+            ],
+            [
+              -11,
+              8.25
+            ],
+            [
+              -11,
+              8.5
+            ],
+            [
+              -11.25,
+              8.5
+            ],
+            [
+              -11.25,
+              8.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 60,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "66",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143899950203941&sublib=MAP&collection=LC&callnum=G8860+s62+G6+&title=Sierra+Leone+survey&description=sheet+66"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 61,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -11,
+              8.25
+            ],
+            [
+              -10.75,
+              8.25
+            ],
+            [
+              -10.75,
+              8.5
+            ],
+            [
+              -11,
+              8.5
+            ],
+            [
+              -11,
+              8.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 61,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "67",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143899950203941&sublib=MAP&collection=LC&callnum=G8860+s62+G6+&title=Sierra+Leone+survey&description=sheet+67"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 62,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -10.75,
+              8.25
+            ],
+            [
+              -10.5,
+              8.25
+            ],
+            [
+              -10.5,
+              8.5
+            ],
+            [
+              -10.75,
+              8.5
+            ],
+            [
+              -10.75,
+              8.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 62,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "68",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143899950203941&sublib=MAP&collection=LC&callnum=G8860+s62+G6+&title=Sierra+Leone+survey&description=sheet+68"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 63,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -10.5,
+              8.25
+            ],
+            [
+              -10.25,
+              8.25
+            ],
+            [
+              -10.25,
+              8.5
+            ],
+            [
+              -10.5,
+              8.5
+            ],
+            [
+              -10.5,
+              8.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 63,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "69",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 64,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -13.25,
+              8.5
+            ],
+            [
+              -13,
+              8.5
+            ],
+            [
+              -13,
+              8.75
+            ],
+            [
+              -13.25,
+              8.75
+            ],
+            [
+              -13.25,
+              8.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 64,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 65,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -13,
+              8.5
+            ],
+            [
+              -12.75,
+              8.5
+            ],
+            [
+              -12.75,
+              8.75
+            ],
+            [
+              -13,
+              8.75
+            ],
+            [
+              -13,
+              8.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 65,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 66,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -12.75,
+              8.5
+            ],
+            [
+              -12.5,
+              8.5
+            ],
+            [
+              -12.5,
+              8.75
+            ],
+            [
+              -12.75,
+              8.75
+            ],
+            [
+              -12.75,
+              8.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 66,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 67,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -12.5,
+              8.5
+            ],
+            [
+              -12.25,
+              8.5
+            ],
+            [
+              -12.25,
+              8.75
+            ],
+            [
+              -12.5,
+              8.75
+            ],
+            [
+              -12.5,
+              8.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 67,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 68,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -12.25,
+              8.5
+            ],
+            [
+              -12,
+              8.5
+            ],
+            [
+              -12,
+              8.75
+            ],
+            [
+              -12.25,
+              8.75
+            ],
+            [
+              -12.25,
+              8.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 68,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 69,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -12,
+              8.5
+            ],
+            [
+              -11.75,
+              8.5
+            ],
+            [
+              -11.75,
+              8.75
+            ],
+            [
+              -12,
+              8.75
+            ],
+            [
+              -12,
+              8.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 69,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 70,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -11.75,
+              8.5
+            ],
+            [
+              -11.5,
+              8.5
+            ],
+            [
+              -11.5,
+              8.75
+            ],
+            [
+              -11.75,
+              8.75
+            ],
+            [
+              -11.75,
+              8.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 70,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 71,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -11.5,
+              8.5
+            ],
+            [
+              -11.25,
+              8.5
+            ],
+            [
+              -11.25,
+              8.75
+            ],
+            [
+              -11.5,
+              8.75
+            ],
+            [
+              -11.5,
+              8.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 71,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 72,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -11.25,
+              8.5
+            ],
+            [
+              -11,
+              8.5
+            ],
+            [
+              -11,
+              8.75
+            ],
+            [
+              -11.25,
+              8.75
+            ],
+            [
+              -11.25,
+              8.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 72,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 73,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -11,
+              8.5
+            ],
+            [
+              -10.75,
+              8.5
+            ],
+            [
+              -10.75,
+              8.75
+            ],
+            [
+              -11,
+              8.75
+            ],
+            [
+              -11,
+              8.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 73,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 74,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -13.25,
+              8.75
+            ],
+            [
+              -13,
+              8.75
+            ],
+            [
+              -13,
+              9
+            ],
+            [
+              -13.25,
+              9
+            ],
+            [
+              -13.25,
+              8.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 74,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 75,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -13,
+              8.75
+            ],
+            [
+              -12.75,
+              8.75
+            ],
+            [
+              -12.75,
+              9
+            ],
+            [
+              -13,
+              9
+            ],
+            [
+              -13,
+              8.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 75,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 76,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -12.75,
+              8.75
+            ],
+            [
+              -12.5,
+              8.75
+            ],
+            [
+              -12.5,
+              9
+            ],
+            [
+              -12.75,
+              9
+            ],
+            [
+              -12.75,
+              8.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 76,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 77,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -12.5,
+              8.75
+            ],
+            [
+              -12.25,
+              8.75
+            ],
+            [
+              -12.25,
+              9
+            ],
+            [
+              -12.5,
+              9
+            ],
+            [
+              -12.5,
+              8.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 77,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 78,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -12.25,
+              8.75
+            ],
+            [
+              -12,
+              8.75
+            ],
+            [
+              -12,
+              9
+            ],
+            [
+              -12.25,
+              9
+            ],
+            [
+              -12.25,
+              8.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 78,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 79,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -12,
+              8.75
+            ],
+            [
+              -11.75,
+              8.75
+            ],
+            [
+              -11.75,
+              9
+            ],
+            [
+              -12,
+              9
+            ],
+            [
+              -12,
+              8.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 79,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 80,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -11.75,
+              8.75
+            ],
+            [
+              -11.5,
+              8.75
+            ],
+            [
+              -11.5,
+              9
+            ],
+            [
+              -11.75,
+              9
+            ],
+            [
+              -11.75,
+              8.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 80,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 81,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -11.5,
+              8.75
+            ],
+            [
+              -11.25,
+              8.75
+            ],
+            [
+              -11.25,
+              9
+            ],
+            [
+              -11.5,
+              9
+            ],
+            [
+              -11.5,
+              8.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 81,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "42",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143899950203941&sublib=MAP&collection=LC&callnum=G8860+s62+G6+&title=Sierra+Leone+survey&description=sheet+42"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 82,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -11.25,
+              8.75
+            ],
+            [
+              -11,
+              8.75
+            ],
+            [
+              -11,
+              9
+            ],
+            [
+              -11.25,
+              9
+            ],
+            [
+              -11.25,
+              8.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 82,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 83,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -11,
+              8.75
+            ],
+            [
+              -10.75,
+              8.75
+            ],
+            [
+              -10.75,
+              9
+            ],
+            [
+              -11,
+              9
+            ],
+            [
+              -11,
+              8.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 83,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 84,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -10.75,
+              8.75
+            ],
+            [
+              -10.5,
+              8.75
+            ],
+            [
+              -10.5,
+              9
+            ],
+            [
+              -10.75,
+              9
+            ],
+            [
+              -10.75,
+              8.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 84,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 85,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -10.5,
+              8.75
+            ],
+            [
+              -10.25,
+              8.75
+            ],
+            [
+              -10.25,
+              9
+            ],
+            [
+              -10.5,
+              9
+            ],
+            [
+              -10.5,
+              8.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 85,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 86,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -13.25,
+              9
+            ],
+            [
+              -13,
+              9
+            ],
+            [
+              -13,
+              9.25
+            ],
+            [
+              -13.25,
+              9.25
+            ],
+            [
+              -13.25,
+              9
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 86,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 87,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -13,
+              9
+            ],
+            [
+              -12.75,
+              9
+            ],
+            [
+              -12.75,
+              9.25
+            ],
+            [
+              -13,
+              9.25
+            ],
+            [
+              -13,
+              9
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 87,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 88,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -12.75,
+              9
+            ],
+            [
+              -12.5,
+              9
+            ],
+            [
+              -12.5,
+              9.25
+            ],
+            [
+              -12.75,
+              9.25
+            ],
+            [
+              -12.75,
+              9
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 88,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 89,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -12.5,
+              9
+            ],
+            [
+              -12.25,
+              9
+            ],
+            [
+              -12.25,
+              9.25
+            ],
+            [
+              -12.5,
+              9.25
+            ],
+            [
+              -12.5,
+              9
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 89,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 90,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -12.25,
+              9
+            ],
+            [
+              -12,
+              9
+            ],
+            [
+              -12,
+              9.25
+            ],
+            [
+              -12.25,
+              9.25
+            ],
+            [
+              -12.25,
+              9
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 90,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 91,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -12,
+              9
+            ],
+            [
+              -11.75,
+              9
+            ],
+            [
+              -11.75,
+              9.25
+            ],
+            [
+              -12,
+              9.25
+            ],
+            [
+              -12,
+              9
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 91,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 92,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -11.75,
+              9
+            ],
+            [
+              -11.5,
+              9
+            ],
+            [
+              -11.5,
+              9.25
+            ],
+            [
+              -11.75,
+              9.25
+            ],
+            [
+              -11.75,
+              9
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 92,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 93,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -11.5,
+              9
+            ],
+            [
+              -11.25,
+              9
+            ],
+            [
+              -11.25,
+              9.25
+            ],
+            [
+              -11.5,
+              9.25
+            ],
+            [
+              -11.5,
+              9
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 93,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 94,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -11.25,
+              9
+            ],
+            [
+              -11,
+              9
+            ],
+            [
+              -11,
+              9.25
+            ],
+            [
+              -11.25,
+              9.25
+            ],
+            [
+              -11.25,
+              9
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 94,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 95,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -11,
+              9
+            ],
+            [
+              -10.75,
+              9
+            ],
+            [
+              -10.75,
+              9.25
+            ],
+            [
+              -11,
+              9.25
+            ],
+            [
+              -11,
+              9
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 95,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 96,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -10.75,
+              9
+            ],
+            [
+              -10.5,
+              9
+            ],
+            [
+              -10.5,
+              9.25
+            ],
+            [
+              -10.75,
+              9.25
+            ],
+            [
+              -10.75,
+              9
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 96,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 97,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -13.25,
+              9.25
+            ],
+            [
+              -13,
+              9.25
+            ],
+            [
+              -13,
+              9.5
+            ],
+            [
+              -13.25,
+              9.5
+            ],
+            [
+              -13.25,
+              9.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 97,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 98,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -13,
+              9.25
+            ],
+            [
+              -12.75,
+              9.25
+            ],
+            [
+              -12.75,
+              9.5
+            ],
+            [
+              -13,
+              9.5
+            ],
+            [
+              -13,
+              9.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 98,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "16",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143899950203941&sublib=MAP&collection=LC&callnum=G8860+s62+G6+&title=Sierra+Leone+survey&description=sheet+16"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 99,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -12.75,
+              9.25
+            ],
+            [
+              -12.5,
+              9.25
+            ],
+            [
+              -12.5,
+              9.5
+            ],
+            [
+              -12.75,
+              9.5
+            ],
+            [
+              -12.75,
+              9.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 99,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "17",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143899950203941&sublib=MAP&collection=LC&callnum=G8860+s62+G6+&title=Sierra+Leone+survey&description=sheet+17"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 100,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -12.5,
+              9.25
+            ],
+            [
+              -12.25,
+              9.25
+            ],
+            [
+              -12.25,
+              9.5
+            ],
+            [
+              -12.5,
+              9.5
+            ],
+            [
+              -12.5,
+              9.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 100,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "18",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143899950203941&sublib=MAP&collection=LC&callnum=G8860+s62+G6+&title=Sierra+Leone+survey&description=sheet+18"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 101,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -12.25,
+              9.25
+            ],
+            [
+              -12,
+              9.25
+            ],
+            [
+              -12,
+              9.5
+            ],
+            [
+              -12.25,
+              9.5
+            ],
+            [
+              -12.25,
+              9.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 101,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "19",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143899950203941&sublib=MAP&collection=LC&callnum=G8860+s62+G6+&title=Sierra+Leone+survey&description=sheet+19"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 102,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -12,
+              9.25
+            ],
+            [
+              -11.75,
+              9.25
+            ],
+            [
+              -11.75,
+              9.5
+            ],
+            [
+              -12,
+              9.5
+            ],
+            [
+              -12,
+              9.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 102,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "20",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143899950203941&sublib=MAP&collection=LC&callnum=G8860+s62+G6+&title=Sierra+Leone+survey&description=sheet+20"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 103,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -11.75,
+              9.25
+            ],
+            [
+              -11.5,
+              9.25
+            ],
+            [
+              -11.5,
+              9.5
+            ],
+            [
+              -11.75,
+              9.5
+            ],
+            [
+              -11.75,
+              9.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 103,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "21",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143899950203941&sublib=MAP&collection=LC&callnum=G8860+s62+G6+&title=Sierra+Leone+survey&description=sheet+21"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 104,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -11.5,
+              9.25
+            ],
+            [
+              -11.25,
+              9.25
+            ],
+            [
+              -11.25,
+              9.5
+            ],
+            [
+              -11.5,
+              9.5
+            ],
+            [
+              -11.5,
+              9.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 104,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "22",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143899950203941&sublib=MAP&collection=LC&callnum=G8860+s62+G6+&title=Sierra+Leone+survey&description=sheet+22"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 105,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -11.25,
+              9.25
+            ],
+            [
+              -11,
+              9.25
+            ],
+            [
+              -11,
+              9.5
+            ],
+            [
+              -11.25,
+              9.5
+            ],
+            [
+              -11.25,
+              9.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 105,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "23",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143899950203941&sublib=MAP&collection=LC&callnum=G8860+s62+G6+&title=Sierra+Leone+survey&description=sheet+23"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 106,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -11,
+              9.25
+            ],
+            [
+              -10.75,
+              9.25
+            ],
+            [
+              -10.75,
+              9.5
+            ],
+            [
+              -11,
+              9.5
+            ],
+            [
+              -11,
+              9.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 106,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "24",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 107,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -10.75,
+              9.25
+            ],
+            [
+              -10.5,
+              9.25
+            ],
+            [
+              -10.5,
+              9.5
+            ],
+            [
+              -10.75,
+              9.5
+            ],
+            [
+              -10.75,
+              9.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 107,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "25",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143899950203941&sublib=MAP&collection=LC&callnum=G8860+s62+G6+&title=Sierra+Leone+survey&description=sheet+25"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 108,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -13,
+              9.5
+            ],
+            [
+              -12.75,
+              9.5
+            ],
+            [
+              -12.75,
+              9.75
+            ],
+            [
+              -13,
+              9.75
+            ],
+            [
+              -13,
+              9.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 108,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 109,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -12.75,
+              9.5
+            ],
+            [
+              -12.5,
+              9.5
+            ],
+            [
+              -12.5,
+              9.75
+            ],
+            [
+              -12.75,
+              9.75
+            ],
+            [
+              -12.75,
+              9.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 109,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "8",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 110,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -12.5,
+              9.5
+            ],
+            [
+              -12.25,
+              9.5
+            ],
+            [
+              -12.25,
+              9.75
+            ],
+            [
+              -12.5,
+              9.75
+            ],
+            [
+              -12.5,
+              9.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 110,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "9",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 111,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -12.25,
+              9.5
+            ],
+            [
+              -12,
+              9.5
+            ],
+            [
+              -12,
+              9.75
+            ],
+            [
+              -12.25,
+              9.75
+            ],
+            [
+              -12.25,
+              9.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 111,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "10",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 112,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -12,
+              9.5
+            ],
+            [
+              -11.75,
+              9.5
+            ],
+            [
+              -11.75,
+              9.75
+            ],
+            [
+              -12,
+              9.75
+            ],
+            [
+              -12,
+              9.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 112,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "11",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 113,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -11.75,
+              9.5
+            ],
+            [
+              -11.5,
+              9.5
+            ],
+            [
+              -11.5,
+              9.75
+            ],
+            [
+              -11.75,
+              9.75
+            ],
+            [
+              -11.75,
+              9.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 113,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "12",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 114,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -11.5,
+              9.5
+            ],
+            [
+              -11.25,
+              9.5
+            ],
+            [
+              -11.25,
+              9.75
+            ],
+            [
+              -11.5,
+              9.75
+            ],
+            [
+              -11.5,
+              9.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 114,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "13",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 115,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -11.25,
+              9.5
+            ],
+            [
+              -11,
+              9.5
+            ],
+            [
+              -11,
+              9.75
+            ],
+            [
+              -11.25,
+              9.75
+            ],
+            [
+              -11.25,
+              9.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 115,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "14",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 116,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -11,
+              9.5
+            ],
+            [
+              -10.75,
+              9.5
+            ],
+            [
+              -10.75,
+              9.75
+            ],
+            [
+              -11,
+              9.75
+            ],
+            [
+              -11,
+              9.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 116,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "15",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143899950203941&sublib=MAP&collection=LC&callnum=G8860+s62+G6+&title=Sierra+Leone+survey&description=sheet+15"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 117,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -10.75,
+              9.5
+            ],
+            [
+              -10.5,
+              9.5
+            ],
+            [
+              -10.5,
+              9.75
+            ],
+            [
+              -10.75,
+              9.75
+            ],
+            [
+              -10.75,
+              9.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 117,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 118,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -13,
+              9.75
+            ],
+            [
+              -12.75,
+              9.75
+            ],
+            [
+              -12.75,
+              10
+            ],
+            [
+              -13,
+              10
+            ],
+            [
+              -13,
+              9.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 118,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 119,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -12.75,
+              9.75
+            ],
+            [
+              -12.5,
+              9.75
+            ],
+            [
+              -12.5,
+              10
+            ],
+            [
+              -12.75,
+              10
+            ],
+            [
+              -12.75,
+              9.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 119,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "1",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 120,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -12.5,
+              9.75
+            ],
+            [
+              -12.25,
+              9.75
+            ],
+            [
+              -12.25,
+              10
+            ],
+            [
+              -12.5,
+              10
+            ],
+            [
+              -12.5,
+              9.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 120,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "2",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143899950203941&sublib=MAP&collection=LC&callnum=G8860+s62+G6+&title=Sierra+Leone+survey&description=sheet+2"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 121,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -12.25,
+              9.75
+            ],
+            [
+              -12,
+              9.75
+            ],
+            [
+              -12,
+              10
+            ],
+            [
+              -12.25,
+              10
+            ],
+            [
+              -12.25,
+              9.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 121,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "3",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143899950203941&sublib=MAP&collection=LC&callnum=G8860+s62+G6+&title=Sierra+Leone+survey&description=sheet+3"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 122,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -12,
+              9.75
+            ],
+            [
+              -11.75,
+              9.75
+            ],
+            [
+              -11.75,
+              10
+            ],
+            [
+              -12,
+              10
+            ],
+            [
+              -12,
+              9.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 122,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "4",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 123,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -11.75,
+              9.75
+            ],
+            [
+              -11.5,
+              9.75
+            ],
+            [
+              -11.5,
+              10
+            ],
+            [
+              -11.75,
+              10
+            ],
+            [
+              -11.75,
+              9.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 123,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "5",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 124,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -11.5,
+              9.75
+            ],
+            [
+              -11.25,
+              9.75
+            ],
+            [
+              -11.25,
+              10
+            ],
+            [
+              -11.5,
+              10
+            ],
+            [
+              -11.5,
+              9.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 124,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "6",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 125,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -11.25,
+              9.75
+            ],
+            [
+              -11,
+              9.75
+            ],
+            [
+              -11,
+              10
+            ],
+            [
+              -11.25,
+              10
+            ],
+            [
+              -11.25,
+              9.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 125,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "7",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 126,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -11,
+              9.75
+            ],
+            [
+              -10.75,
+              9.75
+            ],
+            [
+              -10.75,
+              10
+            ],
+            [
+              -11,
+              10
+            ],
+            [
+              -11,
+              9.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 126,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 127,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -10.75,
+              9.75
+            ],
+            [
+              -10.5,
+              9.75
+            ],
+            [
+              -10.5,
+              10
+            ],
+            [
+              -10.75,
+              10
+            ],
+            [
+              -10.75,
+              9.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 127,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 128,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -11.25,
+              7.5
+            ],
+            [
+              -11.25,
+              7.2243602030283718
+            ],
+            [
+              -11,
+              7.2243602030283718
+            ],
+            [
+              -11,
+              7.5
+            ],
+            [
+              -11.25,
+              7.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 128,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "107",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 129,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -11.25,
+              7.2243602030283718
+            ],
+            [
+              -11.25,
+              7
+            ],
+            [
+              -11,
+              7
+            ],
+            [
+              -11,
+              7.2243602030283718
+            ],
+            [
+              -11.25,
+              7.2243602030283718
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 129,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 130,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -11.665265240057821,
+              7
+            ],
+            [
+              -11.665265240057821,
+              6.8330963600924051
+            ],
+            [
+              -11.5,
+              6.8330963600924051
+            ],
+            [
+              -11.5,
+              7
+            ],
+            [
+              -11.665265240057821,
+              7
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 130,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 131,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -11.5,
+              6.9629405557569957
+            ],
+            [
+              -11.5,
+              6.8330963600924051
+            ],
+            [
+              -11.331132843214274,
+              6.8330963600924051
+            ],
+            [
+              -11.331132843214274,
+              6.9629405557569957
+            ],
+            [
+              -11.5,
+              6.9629405557569957
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 131,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 132,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -12,
+              7
+            ],
+            [
+              -12,
+              6.8105900328438747
+            ],
+            [
+              -11.75,
+              6.8105900328438747
+            ],
+            [
+              -11.75,
+              7
+            ],
+            [
+              -12,
+              7
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 132,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 133,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -11.25,
+              7
+            ],
+            [
+              -11.25,
+              6.8157838006704585
+            ],
+            [
+              -11,
+              6.8157838006704585
+            ],
+            [
+              -11,
+              7
+            ],
+            [
+              -11.25,
+              7
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 133,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 134,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -11.665283203125,
+              7.0001220703125
+            ],
+            [
+              -11.75,
+              7.0001220703125
+            ],
+            [
+              -11.75,
+              6.8140869140625
+            ],
+            [
+              -11.665283203125,
+              6.8140869140625
+            ],
+            [
+              -11.5,
+              6.8140869140625
+            ],
+            [
+              -11.5,
+              6.8331298828125
+            ],
+            [
+              -11.665283203125,
+              6.8331298828125
+            ],
+            [
+              -11.665283203125,
+              7.0001220703125
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 134,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 135,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -11.33111572265625,
+              6.81591796875
+            ],
+            [
+              -11.25,
+              6.81591796875
+            ],
+            [
+              -11.25,
+              6.96307373046875
+            ],
+            [
+              -11.33111572265625,
+              6.96307373046875
+            ],
+            [
+              -11.33111572265625,
+              6.8331298828125
+            ],
+            [
+              -11.5,
+              6.8331298828125
+            ],
+            [
+              -11.5,
+              6.81591796875
+            ],
+            [
+              -11.33111572265625,
+              6.81591796875
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 135,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 136,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -10.75,
+              8.75
+            ],
+            [
+              -10.75,
+              8.5
+            ],
+            [
+              -10.468101756030293,
+              8.5
+            ],
+            [
+              -10.468101756030293,
+              8.75
+            ],
+            [
+              -10.75,
+              8.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 136,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 137,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -10.468101756030293,
+              8.75
+            ],
+            [
+              -10.468101756030293,
+              8.5
+            ],
+            [
+              -10.25,
+              8.5
+            ],
+            [
+              -10.25,
+              8.75
+            ],
+            [
+              -10.468101756030293,
+              8.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 137,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8860 s62 .G6",
+        "title" : "Sierra Leone survey",
+        "year" : "[1927]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143899950203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : " ",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    }
+  ]
+}
