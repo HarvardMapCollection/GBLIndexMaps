@@ -1,0 +1,275 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 0,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.5,
+              6
+            ],
+            [
+              2,
+              6
+            ],
+            [
+              2,
+              6.5
+            ],
+            [
+              1.5,
+              6.5
+            ],
+            [
+              1.5,
+              6
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 0,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8750 s100 .F7",
+        "title" : "Afrique occidle.",
+        "year" : "[1922]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810180203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Grand Popo",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810180203941&sublib=MAP&collection=LC&callnum=G8750+s100+F7&title=Afrique+occidle.&description=sheet+Grand Popo"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2,
+              6
+            ],
+            [
+              2.5,
+              6
+            ],
+            [
+              2.5,
+              6.5
+            ],
+            [
+              2,
+              6.5
+            ],
+            [
+              2,
+              6
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 1,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8750 s100 .F7",
+        "title" : "Afrique occidle.",
+        "year" : "[1922]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810180203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Cotonou",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810180203941&sublib=MAP&collection=LC&callnum=G8750+s100+F7&title=Afrique+occidle.&description=sheet+Cotonou"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.5,
+              6
+            ],
+            [
+              3,
+              6
+            ],
+            [
+              3,
+              6.5
+            ],
+            [
+              2.5,
+              6.5
+            ],
+            [
+              2.5,
+              6
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 2,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8750 s100 .F7",
+        "title" : "Afrique occidle.",
+        "year" : "[1922]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810180203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Porto-Novo",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810180203941&sublib=MAP&collection=LC&callnum=G8750+s100+F7&title=Afrique+occidle.&description=sheet+Porto-Novo"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.5,
+              6.5
+            ],
+            [
+              2,
+              6.5
+            ],
+            [
+              2,
+              7
+            ],
+            [
+              1.5,
+              7
+            ],
+            [
+              1.5,
+              6.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 3,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8750 s100 .F7",
+        "title" : "Afrique occidle.",
+        "year" : "[1922]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810180203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Parahoué",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810180203941&sublib=MAP&collection=LC&callnum=G8750+s100+F7&title=Afrique+occidle.&description=sheet+Parahoué"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2,
+              6.5
+            ],
+            [
+              2.5,
+              6.5
+            ],
+            [
+              2.5,
+              7
+            ],
+            [
+              2,
+              7
+            ],
+            [
+              2,
+              6.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 4,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8750 s100 .F7",
+        "title" : "Afrique occidle.",
+        "year" : "[1922]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810180203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Allada",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810180203941&sublib=MAP&collection=LC&callnum=G8750+s100+F7&title=Afrique+occidle.&description=sheet+Allada"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.5,
+              6.5
+            ],
+            [
+              3,
+              6.5
+            ],
+            [
+              3,
+              7
+            ],
+            [
+              2.5,
+              7
+            ],
+            [
+              2.5,
+              6.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 5,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8750 s100 .F7",
+        "title" : "Afrique occidle.",
+        "year" : "[1922]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810180203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Pobé",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810180203941&sublib=MAP&collection=LC&callnum=G8750+s100+F7&title=Afrique+occidle.&description=sheet+Pobé"
+      }
+    }
+  ]
+}
