@@ -1,0 +1,3569 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 0,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.75,
+              6.25
+            ],
+            [
+              2,
+              6.25
+            ],
+            [
+              2,
+              6.5
+            ],
+            [
+              1.75,
+              6.5
+            ],
+            [
+              1.75,
+              6.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NB-XIV-2-d",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143809580203941&sublib=MAP&collection=LC&callnum=G8750+s50+I5&title=Carte+de+l%27A.O.+République+du+Dahomey&description=sheet+NB-XIV-2-d"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2,
+              6.25
+            ],
+            [
+              2.25,
+              6.25
+            ],
+            [
+              2.25,
+              6.5
+            ],
+            [
+              2,
+              6.5
+            ],
+            [
+              2,
+              6.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 1,
+        "available" : false,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NB-XV-1-c",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.25,
+              6.25
+            ],
+            [
+              2.5,
+              6.25
+            ],
+            [
+              2.5,
+              6.5
+            ],
+            [
+              2.25,
+              6.5
+            ],
+            [
+              2.25,
+              6.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 2,
+        "available" : false,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NB-XV-1-d",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.5,
+              6.25
+            ],
+            [
+              2.75,
+              6.25
+            ],
+            [
+              2.75,
+              6.5
+            ],
+            [
+              2.5,
+              6.5
+            ],
+            [
+              2.5,
+              6.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 3,
+        "available" : false,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NB-XV-2-c",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.5,
+              6.5
+            ],
+            [
+              1.75,
+              6.5
+            ],
+            [
+              1.75,
+              6.75
+            ],
+            [
+              1.5,
+              6.75
+            ],
+            [
+              1.5,
+              6.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 4,
+        "available" : false,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NB-XIV-4-a",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.75,
+              6.5
+            ],
+            [
+              2,
+              6.5
+            ],
+            [
+              2,
+              6.75
+            ],
+            [
+              1.75,
+              6.75
+            ],
+            [
+              1.75,
+              6.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 5,
+        "available" : true,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NB-XIV-4-b",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143809580203941&sublib=MAP&collection=LC&callnum=G8750+s50+I5&title=Carte+de+l%27A.O.+République+du+Dahomey&description=sheet+NB-XIV-4-b"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2,
+              6.5
+            ],
+            [
+              2.25,
+              6.5
+            ],
+            [
+              2.25,
+              6.75
+            ],
+            [
+              2,
+              6.75
+            ],
+            [
+              2,
+              6.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 6,
+        "available" : true,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NB-XV-3-a",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143809580203941&sublib=MAP&collection=LC&callnum=G8750+s50+I5&title=Carte+de+l%27A.O.+République+du+Dahomey&description=sheet+NB-XV-3-a"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.25,
+              6.5
+            ],
+            [
+              2.5,
+              6.5
+            ],
+            [
+              2.5,
+              6.75
+            ],
+            [
+              2.25,
+              6.75
+            ],
+            [
+              2.25,
+              6.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 7,
+        "available" : false,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NB-XV-3-b",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.5,
+              6.5
+            ],
+            [
+              2.75,
+              6.5
+            ],
+            [
+              2.75,
+              6.75
+            ],
+            [
+              2.5,
+              6.75
+            ],
+            [
+              2.5,
+              6.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 8,
+        "available" : false,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NB-XV-4-a",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.5,
+              6.75
+            ],
+            [
+              1.75,
+              6.75
+            ],
+            [
+              1.75,
+              7
+            ],
+            [
+              1.5,
+              7
+            ],
+            [
+              1.5,
+              6.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 9,
+        "available" : true,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NB-XIV-4-c",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143809580203941&sublib=MAP&collection=LC&callnum=G8750+s50+I5&title=Carte+de+l%27A.O.+République+du+Dahomey&description=sheet+NB-XIV-4-c"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.75,
+              6.75
+            ],
+            [
+              2,
+              6.75
+            ],
+            [
+              2,
+              7
+            ],
+            [
+              1.75,
+              7
+            ],
+            [
+              1.75,
+              6.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 10,
+        "available" : true,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NB-XIV-4-d",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143809580203941&sublib=MAP&collection=LC&callnum=G8750+s50+I5&title=Carte+de+l%27A.O.+République+du+Dahomey&description=sheet+NB-XIV-4-d"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2,
+              6.75
+            ],
+            [
+              2.25,
+              6.75
+            ],
+            [
+              2.25,
+              7
+            ],
+            [
+              2,
+              7
+            ],
+            [
+              2,
+              6.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 11,
+        "available" : true,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NB-XV-3-c",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143809580203941&sublib=MAP&collection=LC&callnum=G8750+s50+I5&title=Carte+de+l%27A.O.+République+du+Dahomey&description=sheet+NB-XV-3-c"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.25,
+              6.75
+            ],
+            [
+              2.5,
+              6.75
+            ],
+            [
+              2.5,
+              7
+            ],
+            [
+              2.25,
+              7
+            ],
+            [
+              2.25,
+              6.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 12,
+        "available" : true,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NB-XV-3-d",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143809580203941&sublib=MAP&collection=LC&callnum=G8750+s50+I5&title=Carte+de+l%27A.O.+République+du+Dahomey&description=sheet+NB-XV-3-d"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.5,
+              6.75
+            ],
+            [
+              2.75,
+              6.75
+            ],
+            [
+              2.75,
+              7
+            ],
+            [
+              2.5,
+              7
+            ],
+            [
+              2.5,
+              6.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 13,
+        "available" : true,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NB-XV-4-c",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143809580203941&sublib=MAP&collection=LC&callnum=G8750+s50+I5&title=Carte+de+l%27A.O.+République+du+Dahomey&description=sheet+NB-XV-4-c"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.5,
+              7
+            ],
+            [
+              1.75,
+              7
+            ],
+            [
+              1.75,
+              7.25
+            ],
+            [
+              1.5,
+              7.25
+            ],
+            [
+              1.5,
+              7
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 14,
+        "available" : true,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NB-XX-2-a",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143809580203941&sublib=MAP&collection=LC&callnum=G8750+s50+I5&title=Carte+de+l%27A.O.+République+du+Dahomey&description=sheet+NB-XX-2-a"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.75,
+              7
+            ],
+            [
+              2,
+              7
+            ],
+            [
+              2,
+              7.25
+            ],
+            [
+              1.75,
+              7.25
+            ],
+            [
+              1.75,
+              7
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 15,
+        "available" : true,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NB-XX-2-b",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143809580203941&sublib=MAP&collection=LC&callnum=G8750+s50+I5&title=Carte+de+l%27A.O.+République+du+Dahomey&description=sheet+NB-XX-2-b"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2,
+              7
+            ],
+            [
+              2.25,
+              7
+            ],
+            [
+              2.25,
+              7.25
+            ],
+            [
+              2,
+              7.25
+            ],
+            [
+              2,
+              7
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 16,
+        "available" : true,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NB-XXI-1-a",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143809580203941&sublib=MAP&collection=LC&callnum=G8750+s50+I5&title=Carte+de+l%27A.O.+République+du+Dahomey&description=sheet+NB-XXI-1-a"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.25,
+              7
+            ],
+            [
+              2.5,
+              7
+            ],
+            [
+              2.5,
+              7.25
+            ],
+            [
+              2.25,
+              7.25
+            ],
+            [
+              2.25,
+              7
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 17,
+        "available" : true,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NB-XXI-1-b",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143809580203941&sublib=MAP&collection=LC&callnum=G8750+s50+I5&title=Carte+de+l%27A.O.+République+du+Dahomey&description=sheet+NB-XXI-1-b"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.5,
+              7
+            ],
+            [
+              2.75,
+              7
+            ],
+            [
+              2.75,
+              7.25
+            ],
+            [
+              2.5,
+              7.25
+            ],
+            [
+              2.5,
+              7
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 18,
+        "available" : true,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NB-XXI-2-a",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143809580203941&sublib=MAP&collection=LC&callnum=G8750+s50+I5&title=Carte+de+l%27A.O.+République+du+Dahomey&description=sheet+NB-XXI-2-a"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 19,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.5,
+              7.25
+            ],
+            [
+              1.75,
+              7.25
+            ],
+            [
+              1.75,
+              7.5
+            ],
+            [
+              1.5,
+              7.5
+            ],
+            [
+              1.5,
+              7.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 19,
+        "available" : true,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NB-XX-2-c",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143809580203941&sublib=MAP&collection=LC&callnum=G8750+s50+I5&title=Carte+de+l%27A.O.+République+du+Dahomey&description=sheet+NB-XX-2-c"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 20,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.75,
+              7.25
+            ],
+            [
+              2,
+              7.25
+            ],
+            [
+              2,
+              7.5
+            ],
+            [
+              1.75,
+              7.5
+            ],
+            [
+              1.75,
+              7.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 20,
+        "available" : true,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NB-XX-2-d",
+        "thumbnailUrl" : "C",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143809580203941&sublib=MAP&collection=LC&callnum=G8750+s50+I5&title=Carte+de+l%27A.O.+République+du+Dahomey&description=sheet+NB-XX-2-d"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 21,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2,
+              7.25
+            ],
+            [
+              2.25,
+              7.25
+            ],
+            [
+              2.25,
+              7.5
+            ],
+            [
+              2,
+              7.5
+            ],
+            [
+              2,
+              7.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 21,
+        "available" : true,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NB-XXI-1-c",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143809580203941&sublib=MAP&collection=LC&callnum=G8750+s50+I5&title=Carte+de+l%27A.O.+République+du+Dahomey&description=sheet+NB-XXI-1-c"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 22,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.25,
+              7.25
+            ],
+            [
+              2.5,
+              7.25
+            ],
+            [
+              2.5,
+              7.5
+            ],
+            [
+              2.25,
+              7.5
+            ],
+            [
+              2.25,
+              7.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 22,
+        "available" : true,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NB-XXI-1-d",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143809580203941&sublib=MAP&collection=LC&callnum=G8750+s50+I5&title=Carte+de+l%27A.O.+République+du+Dahomey&description=sheet+NB-XXI-1-d"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 23,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.5,
+              7.25
+            ],
+            [
+              2.75,
+              7.25
+            ],
+            [
+              2.75,
+              7.5
+            ],
+            [
+              2.5,
+              7.5
+            ],
+            [
+              2.5,
+              7.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 23,
+        "available" : true,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NB-XXI-2-c",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143809580203941&sublib=MAP&collection=LC&callnum=G8750+s50+I5&title=Carte+de+l%27A.O.+République+du+Dahomey&description=sheet+NB-XXI-2-c"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 24,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.5,
+              7.5
+            ],
+            [
+              1.75,
+              7.5
+            ],
+            [
+              1.75,
+              7.75
+            ],
+            [
+              1.5,
+              7.75
+            ],
+            [
+              1.5,
+              7.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 24,
+        "available" : true,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NB-XX-4-a",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143809580203941&sublib=MAP&collection=LC&callnum=G8750+s50+I5&title=Carte+de+l%27A.O.+République+du+Dahomey&description=sheet+NB-XX-4-a"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 25,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.75,
+              7.5
+            ],
+            [
+              2,
+              7.5
+            ],
+            [
+              2,
+              7.75
+            ],
+            [
+              1.75,
+              7.75
+            ],
+            [
+              1.75,
+              7.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 25,
+        "available" : true,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NB-XX-4-b",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143809580203941&sublib=MAP&collection=LC&callnum=G8750+s50+I5&title=Carte+de+l%27A.O.+République+du+Dahomey&description=sheet+NB-XX-4-b"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 26,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2,
+              7.5
+            ],
+            [
+              2.25,
+              7.5
+            ],
+            [
+              2.25,
+              7.75
+            ],
+            [
+              2,
+              7.75
+            ],
+            [
+              2,
+              7.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 26,
+        "available" : true,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NB-XXI-3-a",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143809580203941&sublib=MAP&collection=LC&callnum=G8750+s50+I5&title=Carte+de+l%27A.O.+République+du+Dahomey&description=sheet+NB-XXI-3-a"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 27,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.25,
+              7.5
+            ],
+            [
+              2.5,
+              7.5
+            ],
+            [
+              2.5,
+              7.75
+            ],
+            [
+              2.25,
+              7.75
+            ],
+            [
+              2.25,
+              7.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 27,
+        "available" : true,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NB-XXI-3-b",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143809580203941&sublib=MAP&collection=LC&callnum=G8750+s50+I5&title=Carte+de+l%27A.O.+République+du+Dahomey&description=sheet+NB-XXI-3-b"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 28,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.5,
+              7.5
+            ],
+            [
+              2.75,
+              7.5
+            ],
+            [
+              2.75,
+              7.75
+            ],
+            [
+              2.5,
+              7.75
+            ],
+            [
+              2.5,
+              7.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 28,
+        "available" : true,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NB-XXI-4-a",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143809580203941&sublib=MAP&collection=LC&callnum=G8750+s50+I5&title=Carte+de+l%27A.O.+République+du+Dahomey&description=sheet+NB-XXI-4-a"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 29,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.5,
+              7.75
+            ],
+            [
+              1.75,
+              7.75
+            ],
+            [
+              1.75,
+              8
+            ],
+            [
+              1.5,
+              8
+            ],
+            [
+              1.5,
+              7.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 29,
+        "available" : false,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NB-XX-4-c",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 30,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.75,
+              7.75
+            ],
+            [
+              2,
+              7.75
+            ],
+            [
+              2,
+              8
+            ],
+            [
+              1.75,
+              8
+            ],
+            [
+              1.75,
+              7.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 30,
+        "available" : true,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NB-XX-4-d",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143809580203941&sublib=MAP&collection=LC&callnum=G8750+s50+I5&title=Carte+de+l%27A.O.+République+du+Dahomey&description=sheet+NB-XX-4-d"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 31,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2,
+              7.75
+            ],
+            [
+              2.25,
+              7.75
+            ],
+            [
+              2.25,
+              8
+            ],
+            [
+              2,
+              8
+            ],
+            [
+              2,
+              7.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 31,
+        "available" : true,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NB-XXI-3-c",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143809580203941&sublib=MAP&collection=LC&callnum=G8750+s50+I5&title=Carte+de+l%27A.O.+République+du+Dahomey&description=sheet+NB-XXI-3-c"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 32,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.25,
+              7.75
+            ],
+            [
+              2.5,
+              7.75
+            ],
+            [
+              2.5,
+              8
+            ],
+            [
+              2.25,
+              8
+            ],
+            [
+              2.25,
+              7.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 32,
+        "available" : true,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NB-XXI-3-d",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143809580203941&sublib=MAP&collection=LC&callnum=G8750+s50+I5&title=Carte+de+l%27A.O.+République+du+Dahomey&description=sheet+NB-XXI-3-d"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 33,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.5,
+              7.75
+            ],
+            [
+              2.75,
+              7.75
+            ],
+            [
+              2.75,
+              8
+            ],
+            [
+              2.5,
+              8
+            ],
+            [
+              2.5,
+              7.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 33,
+        "available" : true,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NB-XXI-4-c",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143809580203941&sublib=MAP&collection=LC&callnum=G8750+s50+I5&title=Carte+de+l%27A.O.+République+du+Dahomey&description=sheet+NB-XXI-4-c"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 34,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.5,
+              8
+            ],
+            [
+              1.75,
+              8
+            ],
+            [
+              1.75,
+              8.25
+            ],
+            [
+              1.5,
+              8.25
+            ],
+            [
+              1.5,
+              8
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 34,
+        "available" : false,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NC-II-2-a",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 35,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.25,
+              8
+            ],
+            [
+              2.5,
+              8
+            ],
+            [
+              2.5,
+              8.25
+            ],
+            [
+              2.25,
+              8.25
+            ],
+            [
+              2.25,
+              8
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 35,
+        "available" : true,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NC-III-1-b",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143809580203941&sublib=MAP&collection=LC&callnum=G8750+s50+I5&title=Carte+de+l%27A.O.+République+du+Dahomey&description=sheet+NC-III-1-b"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 36,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.5,
+              8
+            ],
+            [
+              2.75,
+              8
+            ],
+            [
+              2.75,
+              8.25
+            ],
+            [
+              2.5,
+              8.25
+            ],
+            [
+              2.5,
+              8
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 36,
+        "available" : true,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NC-III-2-a",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143809580203941&sublib=MAP&collection=LC&callnum=G8750+s50+I5&title=Carte+de+l%27A.O.+République+du+Dahomey&description=sheet+NC-III-2-a"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 37,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.5,
+              8.25
+            ],
+            [
+              1.75,
+              8.25
+            ],
+            [
+              1.75,
+              8.5
+            ],
+            [
+              1.5,
+              8.5
+            ],
+            [
+              1.5,
+              8.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 37,
+        "available" : false,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NC-II-2-c",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 38,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.25,
+              8.25
+            ],
+            [
+              2.5,
+              8.25
+            ],
+            [
+              2.5,
+              8.5
+            ],
+            [
+              2.25,
+              8.5
+            ],
+            [
+              2.25,
+              8.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 38,
+        "available" : true,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NC-III-1-d",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143809580203941&sublib=MAP&collection=LC&callnum=G8750+s50+I5&title=Carte+de+l%27A.O.+République+du+Dahomey&description=sheet+NC-III-1-d"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 39,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.5,
+              8.25
+            ],
+            [
+              2.75,
+              8.25
+            ],
+            [
+              2.75,
+              8.5
+            ],
+            [
+              2.5,
+              8.5
+            ],
+            [
+              2.5,
+              8.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 39,
+        "available" : true,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NC-III-2-c",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143809580203941&sublib=MAP&collection=LC&callnum=G8750+s50+I5&title=Carte+de+l%27A.O.+République+du+Dahomey&description=sheet+NC-III-2-c"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 40,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.5,
+              8.5
+            ],
+            [
+              1.75,
+              8.5
+            ],
+            [
+              1.75,
+              8.75
+            ],
+            [
+              1.5,
+              8.75
+            ],
+            [
+              1.5,
+              8.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 40,
+        "available" : false,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NC-II-4-a",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 41,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.25,
+              8.5
+            ],
+            [
+              2.5,
+              8.5
+            ],
+            [
+              2.5,
+              8.75
+            ],
+            [
+              2.25,
+              8.75
+            ],
+            [
+              2.25,
+              8.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 41,
+        "available" : true,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NC-III-3-b",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143809580203941&sublib=MAP&collection=LC&callnum=G8750+s50+I5&title=Carte+de+l%27A.O.+République+du+Dahomey&description=sheet+NC-III-3-b"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 42,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.5,
+              8.5
+            ],
+            [
+              2.75,
+              8.5
+            ],
+            [
+              2.75,
+              8.75
+            ],
+            [
+              2.5,
+              8.75
+            ],
+            [
+              2.5,
+              8.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 42,
+        "available" : true,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NC-III-4-a",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143809580203941&sublib=MAP&collection=LC&callnum=G8750+s50+I5&title=Carte+de+l%27A.O.+République+du+Dahomey&description=sheet+NC-III-4-a"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 43,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.5,
+              8.75
+            ],
+            [
+              1.75,
+              8.75
+            ],
+            [
+              1.75,
+              9
+            ],
+            [
+              1.5,
+              9
+            ],
+            [
+              1.5,
+              8.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 43,
+        "available" : false,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NC-II-4-c",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 44,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.25,
+              8.75
+            ],
+            [
+              2.5,
+              8.75
+            ],
+            [
+              2.5,
+              9
+            ],
+            [
+              2.25,
+              9
+            ],
+            [
+              2.25,
+              8.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 44,
+        "available" : true,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NC-III-3-d",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143809580203941&sublib=MAP&collection=LC&callnum=G8750+s50+I5&title=Carte+de+l%27A.O.+République+du+Dahomey&description=sheet+NC-III-3-d"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 45,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.5,
+              8.75
+            ],
+            [
+              2.75,
+              8.75
+            ],
+            [
+              2.75,
+              9
+            ],
+            [
+              2.5,
+              9
+            ],
+            [
+              2.5,
+              8.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 45,
+        "available" : true,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NC-III-4-c",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143809580203941&sublib=MAP&collection=LC&callnum=G8750+s50+I5&title=Carte+de+l%27A.O.+République+du+Dahomey&description=sheet+NC-III-4-c"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 46,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.5,
+              9
+            ],
+            [
+              1.75,
+              9
+            ],
+            [
+              1.75,
+              9.25
+            ],
+            [
+              1.5,
+              9.25
+            ],
+            [
+              1.5,
+              9
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 46,
+        "available" : true,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NC-VIII2-a",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143809580203941&sublib=MAP&collection=LC&callnum=G8750+s50+I5&title=Carte+de+l%27A.O.+République+du+Dahomey&description=sheet+NC-VIII2-a"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 47,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.75,
+              9
+            ],
+            [
+              2,
+              9
+            ],
+            [
+              2,
+              9.25
+            ],
+            [
+              1.75,
+              9.25
+            ],
+            [
+              1.75,
+              9
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 47,
+        "available" : true,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NC-VIII2-b",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143809580203941&sublib=MAP&collection=LC&callnum=G8750+s50+I5&title=Carte+de+l%27A.O.+République+du+Dahomey&description=sheet+NC-VIII2-b"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 48,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.25,
+              9.25
+            ],
+            [
+              1.5,
+              9.25
+            ],
+            [
+              1.5,
+              9.5
+            ],
+            [
+              1.25,
+              9.5
+            ],
+            [
+              1.25,
+              9.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 48,
+        "available" : true,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NC-VIII-1-d",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143809580203941&sublib=MAP&collection=LC&callnum=G8750+s50+I5&title=Carte+de+l%27A.O.+République+du+Dahomey&description=sheet+NC-VIII-1-d"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 49,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.5,
+              9.25
+            ],
+            [
+              1.75,
+              9.25
+            ],
+            [
+              1.75,
+              9.5
+            ],
+            [
+              1.5,
+              9.5
+            ],
+            [
+              1.5,
+              9.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 49,
+        "available" : true,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NC-VIII-2-c",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143809580203941&sublib=MAP&collection=LC&callnum=G8750+s50+I5&title=Carte+de+l%27A.O.+République+du+Dahomey&description=sheet+NC-VIII-2-c"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 50,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.75,
+              9.25
+            ],
+            [
+              2,
+              9.25
+            ],
+            [
+              2,
+              9.5
+            ],
+            [
+              1.75,
+              9.5
+            ],
+            [
+              1.75,
+              9.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 50,
+        "available" : true,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NC-VIII-2-d",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143809580203941&sublib=MAP&collection=LC&callnum=G8750+s50+I5&title=Carte+de+l%27A.O.+République+du+Dahomey&description=sheet+NC-VIII-2-d"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 51,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.25,
+              9.5
+            ],
+            [
+              1.5,
+              9.5
+            ],
+            [
+              1.5,
+              9.75
+            ],
+            [
+              1.25,
+              9.75
+            ],
+            [
+              1.25,
+              9.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 51,
+        "available" : true,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NC-VIII-3-b",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143809580203941&sublib=MAP&collection=LC&callnum=G8750+s50+I5&title=Carte+de+l%27A.O.+République+du+Dahomey&description=sheet+NC-VIII-3-b"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 52,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.5,
+              9.5
+            ],
+            [
+              1.75,
+              9.5
+            ],
+            [
+              1.75,
+              9.75
+            ],
+            [
+              1.5,
+              9.75
+            ],
+            [
+              1.5,
+              9.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 52,
+        "available" : true,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NC-VIII-4-a",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143809580203941&sublib=MAP&collection=LC&callnum=G8750+s50+I5&title=Carte+de+l%27A.O.+République+du+Dahomey&description=sheet+NC-VIII-4-a"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 53,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.75,
+              9.5
+            ],
+            [
+              2,
+              9.5
+            ],
+            [
+              2,
+              9.75
+            ],
+            [
+              1.75,
+              9.75
+            ],
+            [
+              1.75,
+              9.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 53,
+        "available" : true,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NC-VIII-4-b",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143809580203941&sublib=MAP&collection=LC&callnum=G8750+s50+I5&title=Carte+de+l%27A.O.+République+du+Dahomey&description=sheet+NC-VIII-4-b"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 54,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.25,
+              9.75
+            ],
+            [
+              1.5,
+              9.75
+            ],
+            [
+              1.5,
+              10
+            ],
+            [
+              1.25,
+              10
+            ],
+            [
+              1.25,
+              9.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 54,
+        "available" : true,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NC-VIII-3-d",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143809580203941&sublib=MAP&collection=LC&callnum=G8750+s50+I5&title=Carte+de+l%27A.O.+République+du+Dahomey&description=sheet+NC-VIII-3-d"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 55,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.5,
+              9.75
+            ],
+            [
+              1.75,
+              9.75
+            ],
+            [
+              1.75,
+              10
+            ],
+            [
+              1.5,
+              10
+            ],
+            [
+              1.5,
+              9.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 55,
+        "available" : true,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NC-VIII-4-c",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143809580203941&sublib=MAP&collection=LC&callnum=G8750+s50+I5&title=Carte+de+l%27A.O.+République+du+Dahomey&description=sheet+NC-VIII-4-c"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 56,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.75,
+              9.75
+            ],
+            [
+              2,
+              9.75
+            ],
+            [
+              2,
+              10
+            ],
+            [
+              1.75,
+              10
+            ],
+            [
+              1.75,
+              9.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 56,
+        "available" : true,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NC-VIII-4-d",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143809580203941&sublib=MAP&collection=LC&callnum=G8750+s50+I5&title=Carte+de+l%27A.O.+République+du+Dahomey&description=sheet+NC-VIII-4-d"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 57,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1,
+              10
+            ],
+            [
+              1.25,
+              10
+            ],
+            [
+              1.25,
+              10.25
+            ],
+            [
+              1,
+              10.25
+            ],
+            [
+              1,
+              10
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 57,
+        "available" : true,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NC-XIV-1-a",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143809580203941&sublib=MAP&collection=LC&callnum=G8750+s50+I5&title=Carte+de+l%27A.O.+République+du+Dahomey&description=sheet+NC-XIV-1-a"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 58,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.25,
+              10
+            ],
+            [
+              1.5,
+              10
+            ],
+            [
+              1.5,
+              10.25
+            ],
+            [
+              1.25,
+              10.25
+            ],
+            [
+              1.25,
+              10
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 58,
+        "available" : true,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NC-XIV-1-b",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143809580203941&sublib=MAP&collection=LC&callnum=G8750+s50+I5&title=Carte+de+l%27A.O.+République+du+Dahomey&description=sheet+NC-XIV-1-b"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 59,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1,
+              10.25
+            ],
+            [
+              1.25,
+              10.25
+            ],
+            [
+              1.25,
+              10.5
+            ],
+            [
+              1,
+              10.5
+            ],
+            [
+              1,
+              10.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 59,
+        "available" : true,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NC-XIV-1-c",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143809580203941&sublib=MAP&collection=LC&callnum=G8750+s50+I5&title=Carte+de+l%27A.O.+République+du+Dahomey&description=sheet+NC-XIV-1-c"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 60,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.25,
+              10.25
+            ],
+            [
+              1.5,
+              10.25
+            ],
+            [
+              1.5,
+              10.5
+            ],
+            [
+              1.25,
+              10.5
+            ],
+            [
+              1.25,
+              10.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 60,
+        "available" : true,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NC-XIV-1-d",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143809580203941&sublib=MAP&collection=LC&callnum=G8750+s50+I5&title=Carte+de+l%27A.O.+République+du+Dahomey&description=sheet+NC-XIV-1-d"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 61,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1,
+              10.5
+            ],
+            [
+              1.25,
+              10.5
+            ],
+            [
+              1.25,
+              10.75
+            ],
+            [
+              1,
+              10.75
+            ],
+            [
+              1,
+              10.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 61,
+        "available" : true,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NC-XIV-3-a",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143809580203941&sublib=MAP&collection=LC&callnum=G8750+s50+I5&title=Carte+de+l%27A.O.+République+du+Dahomey&description=sheet+NC-XIV-3-a"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 62,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.25,
+              10.5
+            ],
+            [
+              1.5,
+              10.5
+            ],
+            [
+              1.5,
+              10.75
+            ],
+            [
+              1.25,
+              10.75
+            ],
+            [
+              1.25,
+              10.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 62,
+        "available" : true,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NC-XIV-3-b",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143809580203941&sublib=MAP&collection=LC&callnum=G8750+s50+I5&title=Carte+de+l%27A.O.+République+du+Dahomey&description=sheet+NC-XIV-3-b"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 63,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1,
+              10.75
+            ],
+            [
+              1.25,
+              10.75
+            ],
+            [
+              1.25,
+              11
+            ],
+            [
+              1,
+              11
+            ],
+            [
+              1,
+              10.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 63,
+        "available" : true,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NC-XIV-3-c",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143809580203941&sublib=MAP&collection=LC&callnum=G8750+s50+I5&title=Carte+de+l%27A.O.+République+du+Dahomey&description=sheet+NC-XIV-3-c"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 64,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.25,
+              10.75
+            ],
+            [
+              1.5,
+              10.75
+            ],
+            [
+              1.5,
+              11
+            ],
+            [
+              1.25,
+              11
+            ],
+            [
+              1.25,
+              10.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 64,
+        "available" : true,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NC-XIV-3-d",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143809580203941&sublib=MAP&collection=LC&callnum=G8750+s50+I5&title=Carte+de+l%27A.O.+République+du+Dahomey&description=sheet+NC-XIV-3-d"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 65,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.25,
+              11.75
+            ],
+            [
+              3.5,
+              11.75
+            ],
+            [
+              3.5,
+              12
+            ],
+            [
+              3.25,
+              12
+            ],
+            [
+              3.25,
+              11.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 65,
+        "available" : false,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NC-XXII-3-d",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 66,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.5,
+              11.75
+            ],
+            [
+              3.75,
+              11.75
+            ],
+            [
+              3.75,
+              12
+            ],
+            [
+              3.5,
+              12
+            ],
+            [
+              3.5,
+              11.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 66,
+        "available" : false,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NC-XXII-4-",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 67,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.25,
+              12
+            ],
+            [
+              2.5,
+              12
+            ],
+            [
+              2.5,
+              12.25
+            ],
+            [
+              2.25,
+              12.25
+            ],
+            [
+              2.25,
+              12
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 67,
+        "available" : false,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "ND-III-1-b",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 68,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.5,
+              12
+            ],
+            [
+              2.75,
+              12
+            ],
+            [
+              2.75,
+              12.25
+            ],
+            [
+              2.5,
+              12.25
+            ],
+            [
+              2.5,
+              12
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 68,
+        "available" : true,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "ND-III-2-a",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143809580203941&sublib=MAP&collection=LC&callnum=G8750+s50+I5&title=Carte+de+l%27A.O.+République+du+Dahomey&description=sheet+ND-III-2-a"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 69,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.75,
+              12
+            ],
+            [
+              3,
+              12
+            ],
+            [
+              3,
+              12.25
+            ],
+            [
+              2.75,
+              12.25
+            ],
+            [
+              2.75,
+              12
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 69,
+        "available" : true,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "ND-III-2-b",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143809580203941&sublib=MAP&collection=LC&callnum=G8750+s50+I5&title=Carte+de+l%27A.O.+République+du+Dahomey&description=sheet+ND-III-2-b"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 70,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3,
+              12
+            ],
+            [
+              3.25,
+              12
+            ],
+            [
+              3.25,
+              12.25
+            ],
+            [
+              3,
+              12.25
+            ],
+            [
+              3,
+              12
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 70,
+        "available" : false,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "ND-IV-1-a",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 71,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.25,
+              12
+            ],
+            [
+              3.5,
+              12
+            ],
+            [
+              3.5,
+              12.25
+            ],
+            [
+              3.25,
+              12.25
+            ],
+            [
+              3.25,
+              12
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 71,
+        "available" : false,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "ND-IV-1-b",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 72,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.25,
+              12.25
+            ],
+            [
+              2.5,
+              12.25
+            ],
+            [
+              2.5,
+              12.5
+            ],
+            [
+              2.25,
+              12.5
+            ],
+            [
+              2.25,
+              12.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 72,
+        "available" : false,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "ND-III-1-d",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 73,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.5,
+              12.25
+            ],
+            [
+              2.75,
+              12.25
+            ],
+            [
+              2.75,
+              12.5
+            ],
+            [
+              2.5,
+              12.5
+            ],
+            [
+              2.5,
+              12.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 73,
+        "available" : false,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "ND-III-2-c",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 74,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.75,
+              12.25
+            ],
+            [
+              3,
+              12.25
+            ],
+            [
+              3,
+              12.5
+            ],
+            [
+              2.75,
+              12.5
+            ],
+            [
+              2.75,
+              12.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 74,
+        "available" : false,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "ND-III-2-d",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 75,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3,
+              12.25
+            ],
+            [
+              3.25,
+              12.25
+            ],
+            [
+              3.25,
+              12.5
+            ],
+            [
+              3,
+              12.5
+            ],
+            [
+              3,
+              12.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 75,
+        "available" : false,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "ND-IV-1-c",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 76,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.0000000000000018,
+              12
+            ],
+            [
+              3.0000000000000018,
+              11.830825482626613
+            ],
+            [
+              3.2500000000000009,
+              11.830825482626613
+            ],
+            [
+              3.2500000000000009,
+              12
+            ],
+            [
+              3.0000000000000018,
+              12
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 76,
+        "available" : false,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NC-XXII-3-c",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 77,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.0000000000000004,
+              10.750000000000002
+            ],
+            [
+              0.70274773761896281,
+              10.750000000000002
+            ],
+            [
+              0.70274773761896281,
+              10.5
+            ],
+            [
+              1.0000000000000004,
+              10.5
+            ],
+            [
+              1.0000000000000004,
+              10.750000000000002
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 77,
+        "available" : true,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NC-XIII-4-b",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143809580203941&sublib=MAP&collection=LC&callnum=G8750+s50+I5&title=Carte+de+l%27A.O.+République+du+Dahomey&description=sheet+NC-XIII-4-b"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 78,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.70274773761896281,
+              10.750000000000002
+            ],
+            [
+              0.99999999999999911,
+              10.750000000000002
+            ],
+            [
+              1.0000000000000004,
+              11
+            ],
+            [
+              0.70274773761896414,
+              11.000000000000004
+            ],
+            [
+              0.70274773761896281,
+              10.750000000000002
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 78,
+        "available" : false,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NC-XIII-4-d",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 79,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.75,
+              6.5
+            ],
+            [
+              1.496063915403715,
+              6.5
+            ],
+            [
+              1.496063915403715,
+              6.104601795105812
+            ],
+            [
+              1.75,
+              6.104601795105812
+            ],
+            [
+              1.75,
+              6.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 79,
+        "available" : false,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NB-XIV-2-c",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 80,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.70274773761896281,
+              10.5
+            ],
+            [
+              0.70274773761896281,
+              10.25
+            ],
+            [
+              1.0000000000000004,
+              10.25
+            ],
+            [
+              1.0000000000000004,
+              10.5
+            ],
+            [
+              0.70274773761896281,
+              10.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 80,
+        "available" : true,
+        "recordIdentifier" : "G8750 s50 .I5",
+        "title" : "Carte de l'A.O. République du Dahomey",
+        "year" : "[1951]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143809580203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "NC-XIII-2-d",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143809580203941&sublib=MAP&collection=LC&callnum=G8750+s50+I5&title=Carte+de+l%27A.O.+République+du+Dahomey&description=sheet+NC-XIII-2-d"
+      }
+    }
+  ]
+}
