@@ -1,0 +1,4325 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 0,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1,
+              6
+            ],
+            [
+              1.25,
+              6
+            ],
+            [
+              1.25,
+              6.25
+            ],
+            [
+              1,
+              6.25
+            ],
+            [
+              1,
+              6
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 0,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NB-XIV-1-a",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NB-XIV-1-a"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.25,
+              6
+            ],
+            [
+              1.5,
+              6
+            ],
+            [
+              1.5,
+              6.25
+            ],
+            [
+              1.25,
+              6.25
+            ],
+            [
+              1.25,
+              6
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 1,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NB-XIV-1-b",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NB-XIV-1-b"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.75,
+              6.25
+            ],
+            [
+              1,
+              6.25
+            ],
+            [
+              1,
+              6.5
+            ],
+            [
+              0.75,
+              6.5
+            ],
+            [
+              0.75,
+              6.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 2,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NB-XIII-2-d",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NB-XIII-2-d"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1,
+              6.25
+            ],
+            [
+              1.25,
+              6.25
+            ],
+            [
+              1.25,
+              6.5
+            ],
+            [
+              1,
+              6.5
+            ],
+            [
+              1,
+              6.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 3,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NB-XIV-1-c",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NB-XIV-1-c"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.25,
+              6.25
+            ],
+            [
+              1.5,
+              6.25
+            ],
+            [
+              1.5,
+              6.5
+            ],
+            [
+              1.25,
+              6.5
+            ],
+            [
+              1.25,
+              6.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 4,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NB-XIV-1-d",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NB-XIV-1-d"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.75,
+              6.25
+            ],
+            [
+              2,
+              6.25
+            ],
+            [
+              2,
+              6.5
+            ],
+            [
+              1.75,
+              6.5
+            ],
+            [
+              1.75,
+              6.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 5,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NB-XIV-2-d",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NB-XIV-2-d"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.5,
+              6.5
+            ],
+            [
+              0.75,
+              6.5
+            ],
+            [
+              0.75,
+              6.75
+            ],
+            [
+              0.5,
+              6.75
+            ],
+            [
+              0.5,
+              6.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 6,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NB-XIII-4-a",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NB-XIII-4-a"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.75,
+              6.5
+            ],
+            [
+              1,
+              6.5
+            ],
+            [
+              1,
+              6.75
+            ],
+            [
+              0.75,
+              6.75
+            ],
+            [
+              0.75,
+              6.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 7,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NB-XIII-4-b",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NB-XIII-4-b"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1,
+              6.5
+            ],
+            [
+              1.25,
+              6.5
+            ],
+            [
+              1.25,
+              6.75
+            ],
+            [
+              1,
+              6.75
+            ],
+            [
+              1,
+              6.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 8,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NB-XIV-3-a",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NB-XIV-3-a"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.25,
+              6.5
+            ],
+            [
+              1.5,
+              6.5
+            ],
+            [
+              1.5,
+              6.75
+            ],
+            [
+              1.25,
+              6.75
+            ],
+            [
+              1.25,
+              6.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 9,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NB-XIV-3-b",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NB-XIV-3-b"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.5,
+              6.5
+            ],
+            [
+              1.75,
+              6.5
+            ],
+            [
+              1.75,
+              6.75
+            ],
+            [
+              1.5,
+              6.75
+            ],
+            [
+              1.5,
+              6.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 10,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NB-XIV-4-a",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NB-XIV-4-a"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.5,
+              6.75
+            ],
+            [
+              0.75,
+              6.75
+            ],
+            [
+              0.75,
+              7
+            ],
+            [
+              0.5,
+              7
+            ],
+            [
+              0.5,
+              6.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 11,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NB-XIII-4-c",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NB-XIII-4-c"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.75,
+              6.75
+            ],
+            [
+              1,
+              6.75
+            ],
+            [
+              1,
+              7
+            ],
+            [
+              0.75,
+              7
+            ],
+            [
+              0.75,
+              6.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 12,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NB-XIII-4-d",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NB-XIII-4-d"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1,
+              6.75
+            ],
+            [
+              1.25,
+              6.75
+            ],
+            [
+              1.25,
+              7
+            ],
+            [
+              1,
+              7
+            ],
+            [
+              1,
+              6.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 13,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NB-XIV-3-c",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.25,
+              6.75
+            ],
+            [
+              1.5,
+              6.75
+            ],
+            [
+              1.5,
+              7
+            ],
+            [
+              1.25,
+              7
+            ],
+            [
+              1.25,
+              6.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 14,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NB-XIV-3-d",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NB-XIV-3-d"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.5,
+              6.75
+            ],
+            [
+              1.75,
+              6.75
+            ],
+            [
+              1.75,
+              7
+            ],
+            [
+              1.5,
+              7
+            ],
+            [
+              1.5,
+              6.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 15,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NB-XIV-4-c",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NB-XIV-4-c"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.5,
+              7
+            ],
+            [
+              0.75,
+              7
+            ],
+            [
+              0.75,
+              7.25
+            ],
+            [
+              0.5,
+              7.25
+            ],
+            [
+              0.5,
+              7
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 16,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NB-XIX-2-a",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NB-XIX-2-a"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.75,
+              7
+            ],
+            [
+              1,
+              7
+            ],
+            [
+              1,
+              7.25
+            ],
+            [
+              0.75,
+              7.25
+            ],
+            [
+              0.75,
+              7
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 17,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NB-XIX-2-b",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NB-XIX-2-b"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1,
+              7
+            ],
+            [
+              1.25,
+              7
+            ],
+            [
+              1.25,
+              7.25
+            ],
+            [
+              1,
+              7.25
+            ],
+            [
+              1,
+              7
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 18,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NB-XX-1-a",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NB-XX-1-a"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 19,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.25,
+              7
+            ],
+            [
+              1.5,
+              7
+            ],
+            [
+              1.5,
+              7.25
+            ],
+            [
+              1.25,
+              7.25
+            ],
+            [
+              1.25,
+              7
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 19,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NB-XX-1-b",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NB-XX-1-b"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 20,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.5,
+              7
+            ],
+            [
+              1.75,
+              7
+            ],
+            [
+              1.75,
+              7.25
+            ],
+            [
+              1.5,
+              7.25
+            ],
+            [
+              1.5,
+              7
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 20,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NB-XX-2-a",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 21,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.5,
+              7.25
+            ],
+            [
+              0.75,
+              7.25
+            ],
+            [
+              0.75,
+              7.5
+            ],
+            [
+              0.5,
+              7.5
+            ],
+            [
+              0.5,
+              7.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 21,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NB-XIX-2-c",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NB-XIX-2-c"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 22,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.75,
+              7.25
+            ],
+            [
+              1,
+              7.25
+            ],
+            [
+              1,
+              7.5
+            ],
+            [
+              0.75,
+              7.5
+            ],
+            [
+              0.75,
+              7.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 22,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NB-XIX-2-d",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NB-XIX-2-d"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 23,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1,
+              7.25
+            ],
+            [
+              1.25,
+              7.25
+            ],
+            [
+              1.25,
+              7.5
+            ],
+            [
+              1,
+              7.5
+            ],
+            [
+              1,
+              7.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 23,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NB-XX-1-c",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NB-XX-1-c"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 24,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.25,
+              7.25
+            ],
+            [
+              1.5,
+              7.25
+            ],
+            [
+              1.5,
+              7.5
+            ],
+            [
+              1.25,
+              7.5
+            ],
+            [
+              1.25,
+              7.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 24,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NB-XX-1-d",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NB-XX-1-d"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 25,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.5,
+              7.25
+            ],
+            [
+              1.75,
+              7.25
+            ],
+            [
+              1.75,
+              7.5
+            ],
+            [
+              1.5,
+              7.5
+            ],
+            [
+              1.5,
+              7.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 25,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NB-XX-2-c",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NB-XX-2-c"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 26,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.5,
+              7.5
+            ],
+            [
+              0.75,
+              7.5
+            ],
+            [
+              0.75,
+              7.75
+            ],
+            [
+              0.5,
+              7.75
+            ],
+            [
+              0.5,
+              7.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 26,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NB-XIX-4-a",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NB-XIX-4-a"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 27,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.75,
+              7.5
+            ],
+            [
+              1,
+              7.5
+            ],
+            [
+              1,
+              7.75
+            ],
+            [
+              0.75,
+              7.75
+            ],
+            [
+              0.75,
+              7.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 27,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NB-XIX-4-b",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 28,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1,
+              7.5
+            ],
+            [
+              1.25,
+              7.5
+            ],
+            [
+              1.25,
+              7.75
+            ],
+            [
+              1,
+              7.75
+            ],
+            [
+              1,
+              7.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 28,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NB-XX-3-a",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NB-XX-3-a"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 29,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.25,
+              7.5
+            ],
+            [
+              1.5,
+              7.5
+            ],
+            [
+              1.5,
+              7.75
+            ],
+            [
+              1.25,
+              7.75
+            ],
+            [
+              1.25,
+              7.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 29,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NB-XX-3-b",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NB-XX-3-b"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 30,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.5,
+              7.5
+            ],
+            [
+              1.75,
+              7.5
+            ],
+            [
+              1.75,
+              7.75
+            ],
+            [
+              1.5,
+              7.75
+            ],
+            [
+              1.5,
+              7.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 30,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NB-XX-4-a",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NB-XX-4-a"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 31,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.5,
+              7.75
+            ],
+            [
+              0.75,
+              7.75
+            ],
+            [
+              0.75,
+              8
+            ],
+            [
+              0.5,
+              8
+            ],
+            [
+              0.5,
+              7.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 31,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NB-XIX-4-c",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 32,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.75,
+              7.75
+            ],
+            [
+              1,
+              7.75
+            ],
+            [
+              1,
+              8
+            ],
+            [
+              0.75,
+              8
+            ],
+            [
+              0.75,
+              7.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 32,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NB-XIX-4-d",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 33,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1,
+              7.75
+            ],
+            [
+              1.25,
+              7.75
+            ],
+            [
+              1.25,
+              8
+            ],
+            [
+              1,
+              8
+            ],
+            [
+              1,
+              7.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 33,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NB-XX-3-c",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NB-XX-3-c"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 34,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.25,
+              7.75
+            ],
+            [
+              1.5,
+              7.75
+            ],
+            [
+              1.5,
+              8
+            ],
+            [
+              1.25,
+              8
+            ],
+            [
+              1.25,
+              7.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 34,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NB-XX-3-d",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NB-XX-3-d"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 35,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.5,
+              7.75
+            ],
+            [
+              1.75,
+              7.75
+            ],
+            [
+              1.75,
+              8
+            ],
+            [
+              1.5,
+              8
+            ],
+            [
+              1.5,
+              7.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 35,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NB-XX-4-c",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 36,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.5,
+              8
+            ],
+            [
+              0.75,
+              8
+            ],
+            [
+              0.75,
+              8.25
+            ],
+            [
+              0.5,
+              8.25
+            ],
+            [
+              0.5,
+              8
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 36,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NC-I-2-a",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NC-I-2-a"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 37,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.75,
+              8
+            ],
+            [
+              1,
+              8
+            ],
+            [
+              1,
+              8.25
+            ],
+            [
+              0.75,
+              8.25
+            ],
+            [
+              0.75,
+              8
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 37,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NC-I-2-b",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NC-I-2-b"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 38,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1,
+              8
+            ],
+            [
+              1.25,
+              8
+            ],
+            [
+              1.25,
+              8.25
+            ],
+            [
+              1,
+              8.25
+            ],
+            [
+              1,
+              8
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 38,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NC-II-1-a",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NC-II-1-a"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 39,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.25,
+              8
+            ],
+            [
+              1.5,
+              8
+            ],
+            [
+              1.5,
+              8.25
+            ],
+            [
+              1.25,
+              8.25
+            ],
+            [
+              1.25,
+              8
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 39,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NC-II-1-b",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NC-II-1-b"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 40,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.5,
+              8
+            ],
+            [
+              1.75,
+              8
+            ],
+            [
+              1.75,
+              8.25
+            ],
+            [
+              1.5,
+              8.25
+            ],
+            [
+              1.5,
+              8
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 40,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NC-II-2-a",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NC-II-2-a"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 41,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.5,
+              8.25
+            ],
+            [
+              0.75,
+              8.25
+            ],
+            [
+              0.75,
+              8.5
+            ],
+            [
+              0.5,
+              8.5
+            ],
+            [
+              0.5,
+              8.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 41,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NC-I-2-c",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NC-I-2-c"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 42,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.75,
+              8.25
+            ],
+            [
+              1,
+              8.25
+            ],
+            [
+              1,
+              8.5
+            ],
+            [
+              0.75,
+              8.5
+            ],
+            [
+              0.75,
+              8.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 42,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NC-I-2-d",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NC-I-2-d"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 43,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1,
+              8.25
+            ],
+            [
+              1.25,
+              8.25
+            ],
+            [
+              1.25,
+              8.5
+            ],
+            [
+              1,
+              8.5
+            ],
+            [
+              1,
+              8.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 43,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NC-II-1-c",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NC-II-1-c"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 44,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.25,
+              8.25
+            ],
+            [
+              1.5,
+              8.25
+            ],
+            [
+              1.5,
+              8.5
+            ],
+            [
+              1.25,
+              8.5
+            ],
+            [
+              1.25,
+              8.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 44,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NC-II-1-d",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NC-II-1-d"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 45,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.5,
+              8.25
+            ],
+            [
+              1.75,
+              8.25
+            ],
+            [
+              1.75,
+              8.5
+            ],
+            [
+              1.5,
+              8.5
+            ],
+            [
+              1.5,
+              8.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 45,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NC-II-2-c",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NC-II-2-c"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 46,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.25,
+              8.5
+            ],
+            [
+              0.5,
+              8.5
+            ],
+            [
+              0.5,
+              8.75
+            ],
+            [
+              0.25,
+              8.75
+            ],
+            [
+              0.25,
+              8.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 46,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NC-I-3-b",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NC-I-3-b"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 47,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.5,
+              8.5
+            ],
+            [
+              0.75,
+              8.5
+            ],
+            [
+              0.75,
+              8.75
+            ],
+            [
+              0.5,
+              8.75
+            ],
+            [
+              0.5,
+              8.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 47,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NC-I-4-a",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NC-I-4-a"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 48,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.75,
+              8.5
+            ],
+            [
+              1,
+              8.5
+            ],
+            [
+              1,
+              8.75
+            ],
+            [
+              0.75,
+              8.75
+            ],
+            [
+              0.75,
+              8.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 48,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NC-I-4-b",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NC-I-4-b"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 49,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1,
+              8.5
+            ],
+            [
+              1.25,
+              8.5
+            ],
+            [
+              1.25,
+              8.75
+            ],
+            [
+              1,
+              8.75
+            ],
+            [
+              1,
+              8.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 49,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NC-II-3-a",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NC-II-3-a"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 50,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.25,
+              8.5
+            ],
+            [
+              1.5,
+              8.5
+            ],
+            [
+              1.5,
+              8.75
+            ],
+            [
+              1.25,
+              8.75
+            ],
+            [
+              1.25,
+              8.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 50,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NC-II-3-b",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NC-II-3-b"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 51,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.5,
+              8.5
+            ],
+            [
+              1.75,
+              8.5
+            ],
+            [
+              1.75,
+              8.75
+            ],
+            [
+              1.5,
+              8.75
+            ],
+            [
+              1.5,
+              8.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 51,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NC-II-4-a",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NC-II-4-a"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 52,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.25,
+              8.75
+            ],
+            [
+              0.5,
+              8.75
+            ],
+            [
+              0.5,
+              9
+            ],
+            [
+              0.25,
+              9
+            ],
+            [
+              0.25,
+              8.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 52,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NC-I-3-d",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NC-I-3-d"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 53,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.5,
+              8.75
+            ],
+            [
+              0.75,
+              8.75
+            ],
+            [
+              0.75,
+              9
+            ],
+            [
+              0.5,
+              9
+            ],
+            [
+              0.5,
+              8.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 53,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NC-I-4-c",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NC-I-4-c"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 54,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.75,
+              8.75
+            ],
+            [
+              1,
+              8.75
+            ],
+            [
+              1,
+              9
+            ],
+            [
+              0.75,
+              9
+            ],
+            [
+              0.75,
+              8.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 54,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NC-I-4-d",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NC-I-4-d"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 55,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1,
+              8.75
+            ],
+            [
+              1.25,
+              8.75
+            ],
+            [
+              1.25,
+              9
+            ],
+            [
+              1,
+              9
+            ],
+            [
+              1,
+              8.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 55,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NC-II-3-c",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NC-II-3-c"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 56,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.25,
+              8.75
+            ],
+            [
+              1.5,
+              8.75
+            ],
+            [
+              1.5,
+              9
+            ],
+            [
+              1.25,
+              9
+            ],
+            [
+              1.25,
+              8.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 56,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NC-II-3-d",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NC-II-3-d"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 57,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.5,
+              8.75
+            ],
+            [
+              1.75,
+              8.75
+            ],
+            [
+              1.75,
+              9
+            ],
+            [
+              1.5,
+              9
+            ],
+            [
+              1.5,
+              8.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 57,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NC-II-4-c",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NC-II-4-c"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 58,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.5,
+              9
+            ],
+            [
+              0.75,
+              9
+            ],
+            [
+              0.75,
+              9.25
+            ],
+            [
+              0.5,
+              9.25
+            ],
+            [
+              0.5,
+              9
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 58,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NC-VII-2-a",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NC-VII-2-a"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 59,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.75,
+              9
+            ],
+            [
+              1,
+              9
+            ],
+            [
+              1,
+              9.25
+            ],
+            [
+              0.75,
+              9.25
+            ],
+            [
+              0.75,
+              9
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 59,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NC-VII-2-b",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NC-VII-2-b"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 60,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1,
+              9
+            ],
+            [
+              1.25,
+              9
+            ],
+            [
+              1.25,
+              9.25
+            ],
+            [
+              1,
+              9.25
+            ],
+            [
+              1,
+              9
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 60,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NC-VIII-1-a",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NC-VIII-1-a"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 61,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.25,
+              9
+            ],
+            [
+              1.5,
+              9
+            ],
+            [
+              1.5,
+              9.25
+            ],
+            [
+              1.25,
+              9.25
+            ],
+            [
+              1.25,
+              9
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 61,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NC-VIII-1-b",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 62,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.5,
+              9
+            ],
+            [
+              1.75,
+              9
+            ],
+            [
+              1.75,
+              9.25
+            ],
+            [
+              1.5,
+              9.25
+            ],
+            [
+              1.5,
+              9
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 62,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NC-VIII-2-a",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 63,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.25,
+              9.25
+            ],
+            [
+              0.5,
+              9.25
+            ],
+            [
+              0.5,
+              9.5
+            ],
+            [
+              0.25,
+              9.5
+            ],
+            [
+              0.25,
+              9.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 63,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NC-VII-1-d",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NC-VII-1-d"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 64,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.5,
+              9.25
+            ],
+            [
+              0.75,
+              9.25
+            ],
+            [
+              0.75,
+              9.5
+            ],
+            [
+              0.5,
+              9.5
+            ],
+            [
+              0.5,
+              9.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 64,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NC-VII-2-c",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NC-VII-2-c"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 65,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.75,
+              9.25
+            ],
+            [
+              1,
+              9.25
+            ],
+            [
+              1,
+              9.5
+            ],
+            [
+              0.75,
+              9.5
+            ],
+            [
+              0.75,
+              9.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 65,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NC-VII-2-d",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NC-VII-2-d"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 66,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1,
+              9.25
+            ],
+            [
+              1.25,
+              9.25
+            ],
+            [
+              1.25,
+              9.5
+            ],
+            [
+              1,
+              9.5
+            ],
+            [
+              1,
+              9.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 66,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NC-VIII-1-c",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NC-VIII-1-c"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 67,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.25,
+              9.25
+            ],
+            [
+              1.5,
+              9.25
+            ],
+            [
+              1.5,
+              9.5
+            ],
+            [
+              1.25,
+              9.5
+            ],
+            [
+              1.25,
+              9.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 67,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NC-VIII-1-d",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NC-VIII-1-d"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 68,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.25,
+              9.5
+            ],
+            [
+              0.5,
+              9.5
+            ],
+            [
+              0.5,
+              9.75
+            ],
+            [
+              0.25,
+              9.75
+            ],
+            [
+              0.25,
+              9.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 68,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NC-VII-3-b",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NC-VII-3-b"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 69,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.5,
+              9.5
+            ],
+            [
+              0.75,
+              9.5
+            ],
+            [
+              0.75,
+              9.75
+            ],
+            [
+              0.5,
+              9.75
+            ],
+            [
+              0.5,
+              9.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 69,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NC-VII-4-a",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NC-VII-4-a"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 70,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.75,
+              9.5
+            ],
+            [
+              1,
+              9.5
+            ],
+            [
+              1,
+              9.75
+            ],
+            [
+              0.75,
+              9.75
+            ],
+            [
+              0.75,
+              9.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 70,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NC-VII-4-b",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NC-VII-4-b"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 71,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1,
+              9.5
+            ],
+            [
+              1.25,
+              9.5
+            ],
+            [
+              1.25,
+              9.75
+            ],
+            [
+              1,
+              9.75
+            ],
+            [
+              1,
+              9.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 71,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NC-VIII-3-a",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NC-VIII-3-a"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 72,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.25,
+              9.5
+            ],
+            [
+              1.5,
+              9.5
+            ],
+            [
+              1.5,
+              9.75
+            ],
+            [
+              1.25,
+              9.75
+            ],
+            [
+              1.25,
+              9.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 72,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NC-VIII-3-b",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NC-VIII-3-b"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 73,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.25,
+              9.75
+            ],
+            [
+              0.5,
+              9.75
+            ],
+            [
+              0.5,
+              10
+            ],
+            [
+              0.25,
+              10
+            ],
+            [
+              0.25,
+              9.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 73,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NC-VII-3-d",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NC-VII-3-d"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 74,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.5,
+              9.75
+            ],
+            [
+              0.75,
+              9.75
+            ],
+            [
+              0.75,
+              10
+            ],
+            [
+              0.5,
+              10
+            ],
+            [
+              0.5,
+              9.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 74,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NC-VII-4-c",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NC-VII-4-c"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 75,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.75,
+              9.75
+            ],
+            [
+              1,
+              9.75
+            ],
+            [
+              1,
+              10
+            ],
+            [
+              0.75,
+              10
+            ],
+            [
+              0.75,
+              9.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 75,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NC-VII-4-d",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NC-VII-4-d"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 76,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1,
+              9.75
+            ],
+            [
+              1.25,
+              9.75
+            ],
+            [
+              1.25,
+              10
+            ],
+            [
+              1,
+              10
+            ],
+            [
+              1,
+              9.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 76,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NC-VIII-3-c",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 77,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.25,
+              9.75
+            ],
+            [
+              1.5,
+              9.75
+            ],
+            [
+              1.5,
+              10
+            ],
+            [
+              1.25,
+              10
+            ],
+            [
+              1.25,
+              9.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 77,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NC-VIII-3-d",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NC-VIII-3-d"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 78,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.25,
+              10
+            ],
+            [
+              0.5,
+              10
+            ],
+            [
+              0.5,
+              10.25
+            ],
+            [
+              0.25,
+              10.25
+            ],
+            [
+              0.25,
+              10
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 78,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NC-XIII-1-b",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 79,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.5,
+              10
+            ],
+            [
+              0.75,
+              10
+            ],
+            [
+              0.75,
+              10.25
+            ],
+            [
+              0.5,
+              10.25
+            ],
+            [
+              0.5,
+              10
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 79,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NC-XIII-2-a",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 80,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.75,
+              10
+            ],
+            [
+              1,
+              10
+            ],
+            [
+              1,
+              10.25
+            ],
+            [
+              0.75,
+              10.25
+            ],
+            [
+              0.75,
+              10
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 80,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NC-XIII-2-b",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NC-XIII-2-b"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 81,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1,
+              10
+            ],
+            [
+              1.25,
+              10
+            ],
+            [
+              1.25,
+              10.25
+            ],
+            [
+              1,
+              10.25
+            ],
+            [
+              1,
+              10
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 81,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NC-XIV-1-a",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NC-XIV-1-a"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 82,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.25,
+              10
+            ],
+            [
+              1.5,
+              10
+            ],
+            [
+              1.5,
+              10.25
+            ],
+            [
+              1.25,
+              10.25
+            ],
+            [
+              1.25,
+              10
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 82,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NC-XIV-1-b",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NC-XIV-1-b"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 83,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.25,
+              10.25
+            ],
+            [
+              0.5,
+              10.25
+            ],
+            [
+              0.5,
+              10.5
+            ],
+            [
+              0.25,
+              10.5
+            ],
+            [
+              0.25,
+              10.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 83,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NC-XIII-1-d",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 84,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.5,
+              10.25
+            ],
+            [
+              0.75,
+              10.25
+            ],
+            [
+              0.75,
+              10.5
+            ],
+            [
+              0.5,
+              10.5
+            ],
+            [
+              0.5,
+              10.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 84,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NC-XIII-2-c",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NC-XIII-2-c"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 85,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.75,
+              10.25
+            ],
+            [
+              1,
+              10.25
+            ],
+            [
+              1,
+              10.5
+            ],
+            [
+              0.75,
+              10.5
+            ],
+            [
+              0.75,
+              10.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 85,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NC-XIII-2-d",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NC-XIII-2-d"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 86,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0,
+              10.5
+            ],
+            [
+              0.25,
+              10.5
+            ],
+            [
+              0.25,
+              10.75
+            ],
+            [
+              0,
+              10.75
+            ],
+            [
+              0,
+              10.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 86,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NC-XIII-3-a",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 87,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.25,
+              10.5
+            ],
+            [
+              0.5,
+              10.5
+            ],
+            [
+              0.5,
+              10.75
+            ],
+            [
+              0.25,
+              10.75
+            ],
+            [
+              0.25,
+              10.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 87,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NC-XIII-3-b",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 88,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.5,
+              10.5
+            ],
+            [
+              0.75,
+              10.5
+            ],
+            [
+              0.75,
+              10.75
+            ],
+            [
+              0.5,
+              10.75
+            ],
+            [
+              0.5,
+              10.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 88,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NC-XIII-4-a",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 89,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.75,
+              10.5
+            ],
+            [
+              1,
+              10.5
+            ],
+            [
+              1,
+              10.75
+            ],
+            [
+              0.75,
+              10.75
+            ],
+            [
+              0.75,
+              10.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 89,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NC-XIII-4-b",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NC-XIII-4-b"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 90,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0,
+              10.75
+            ],
+            [
+              0.25,
+              10.75
+            ],
+            [
+              0.25,
+              11
+            ],
+            [
+              0,
+              11
+            ],
+            [
+              0,
+              10.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 90,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NC-XIII-3-c",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 91,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.25,
+              10.75
+            ],
+            [
+              0.5,
+              10.75
+            ],
+            [
+              0.5,
+              11
+            ],
+            [
+              0.25,
+              11
+            ],
+            [
+              0.25,
+              10.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 91,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NC-XIII-3-d",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NC-XIII-3-d"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 92,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.5,
+              10.75
+            ],
+            [
+              0.75,
+              10.75
+            ],
+            [
+              0.75,
+              11
+            ],
+            [
+              0.5,
+              11
+            ],
+            [
+              0.5,
+              10.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 92,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NC-XIII-4-c",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 93,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.75,
+              10.75
+            ],
+            [
+              1,
+              10.75
+            ],
+            [
+              1,
+              11
+            ],
+            [
+              0.75,
+              11
+            ],
+            [
+              0.75,
+              10.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 93,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NC-XIII-4-d",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NC-XIII-4-d"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 94,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.5000000000000009,
+              6.5
+            ],
+            [
+              1.5000000000000009,
+              6.156745718641055
+            ],
+            [
+              1.75,
+              6.156745718641055
+            ],
+            [
+              1.75,
+              6.5
+            ],
+            [
+              1.5000000000000009,
+              6.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 94,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NB-XIV-2-c",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143810930203941&sublib=MAP&collection=LC&callnum=G8760+s50+I5&title=Carte+de+l'Afrique+de+l'ouest+au+1/50,000:+Togo&description=sheet+NB-XIV-2-c"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 95,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.5000000000000009,
+              6.156745718641055
+            ],
+            [
+              1.5000000000000009,
+              6
+            ],
+            [
+              1.7503447214032306,
+              5.9999999999999982
+            ],
+            [
+              1.7503447214032324,
+              6.1567457186410532
+            ],
+            [
+              1.5000000000000009,
+              6.156745718641055
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 95,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8760 s50 .I5",
+        "title" : "Carte de l'Afrique de l'ouest au 1/50,000 (type outre-mer) : Togo",
+        "year" : "[1953]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143810930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "NB-XIV-2-a",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    }
+  ]
+}
