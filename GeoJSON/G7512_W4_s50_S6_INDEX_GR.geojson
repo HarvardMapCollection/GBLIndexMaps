@@ -1,0 +1,1265 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 0,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.253882704608486,
+              32.503780200375672
+            ],
+            [
+              35.253127710278136,
+              32.675187072239055
+            ],
+            [
+              35.005913558074212,
+              32.683045330121502
+            ],
+            [
+              35.006338761131303,
+              32.511160374063309
+            ],
+            [
+              35.253882704608486,
+              32.503780200375672
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 0,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7512.W4 s50.S6",
+        "title" : "West Bank 1:50,000",
+        "year" : " ",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990081523060203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "1-36-131-A",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990081523060203941&sublib=MAP&collection=LC&callnum=G7412+.W4+s50+.S6&title=+[West+Bank+1:50,000]&description=sheet+1-36-131-A"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.504794316322204,
+              32.496299624407413
+            ],
+            [
+              35.50402079147392,
+              32.667211871323559
+            ],
+            [
+              35.253127710278136,
+              32.675187072239055
+            ],
+            [
+              35.253882704608486,
+              32.503780200375672
+            ],
+            [
+              35.504794316322204,
+              32.496299624407413
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 1,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7512.W4 s50.S6",
+        "title" : "West Bank 1:50,000",
+        "year" : " ",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990081523060203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "1-36-131-B",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990081523060203941&sublib=MAP&collection=LC&callnum=G7412+.W4+s50+.S6&title=+[West+Bank+1:50,000]&description=sheet+1-36-131-B"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.254624218908418,
+              32.335433708923176
+            ],
+            [
+              35.253882704608486,
+              32.503780200375672
+            ],
+            [
+              35.006338761131303,
+              32.511160374063309
+            ],
+            [
+              35.006754468993392,
+              32.343113775128757
+            ],
+            [
+              35.254624218908418,
+              32.335433708923176
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 2,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7512.W4 s50.S6",
+        "title" : "West Bank 1:50,000",
+        "year" : " ",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990081523060203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "1-36-131-B",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990081523060203941&sublib=MAP&collection=LC&callnum=G7412+.W4+s50+.S6&title=+[West+Bank+1:50,000]&description=sheet+1-36-131-B"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.753496023755872,
+              32.319976524290325
+            ],
+            [
+              35.752694974955432,
+              32.488908815760169
+            ],
+            [
+              35.504794316322204,
+              32.496299624407413
+            ],
+            [
+              35.505557561395221,
+              32.327658719501699
+            ],
+            [
+              35.753496023755872,
+              32.319976524290325
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 3,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7512.W4 s50.S6",
+        "title" : "West Bank 1:50,000",
+        "year" : " ",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990081523060203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "1-36-132-B",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990081523060203941&sublib=MAP&collection=LC&callnum=G7412+.W4+s50+.S6&title=+[West+Bank+1:50,000]&description=sheet+1-36-132-B"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.505557561395221,
+              32.327658719501869
+            ],
+            [
+              35.504794316322204,
+              32.496299624407413
+            ],
+            [
+              35.253882704608486,
+              32.503780200375672
+            ],
+            [
+              35.254624218908418,
+              32.335433708923176
+            ],
+            [
+              35.505557561395221,
+              32.327658719501869
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 4,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7512.W4 s50.S6",
+        "title" : "West Bank 1:50,000",
+        "year" : " ",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990081523060203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "1-36-131-г",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990081523060203941&sublib=MAP&collection=LC&callnum=G7412+.W4+s50+.S6&title=+[West+Bank+1:50,000]&description=sheet+1-36-131-г"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.00717680287255,
+              32.172388661435264
+            ],
+            [
+              35.006754468993392,
+              32.343113775128757
+            ],
+            [
+              34.755816110156616,
+              32.350888919978161
+            ],
+            [
+              34.756041538567274,
+              32.179563327870085
+            ],
+            [
+              35.00717680287255,
+              32.172388661435264
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 5,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7512.W4 s50.S6",
+        "title" : "West Bank 1:50,000",
+        "year" : " ",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990081523060203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "1-36-142-б",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990081523060203941&sublib=MAP&collection=LC&callnum=G7412+.W4+s50+.S6&title=+[West+Bank+1:50,000]&description=sheet+1-36-142-б"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.255373614407631,
+              32.165297943459677
+            ],
+            [
+              35.254624218908418,
+              32.335433708923176
+            ],
+            [
+              35.006754468993392,
+              32.343113775128757
+            ],
+            [
+              35.00717680287255,
+              32.172388661435264
+            ],
+            [
+              35.255373614407631,
+              32.165297943459677
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 6,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7512.W4 s50.S6",
+        "title" : "West Bank 1:50,000",
+        "year" : " ",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990081523060203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "1-36-143-A",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990081523060203941&sublib=MAP&collection=LC&callnum=G7412+.W4+s50+.S6&title=+[West+Bank+1:50,000]&description=sheet+1-36-143-A"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.754297072556312,
+              32.151044232820311
+            ],
+            [
+              35.753496023755872,
+              32.319976524290325
+            ],
+            [
+              35.505557561395221,
+              32.327658719501699
+            ],
+            [
+              35.506324831222628,
+              32.158128535065259
+            ],
+            [
+              35.754297072556312,
+              32.151044232820311
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 7,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7512.W4 s50.S6",
+        "title" : "West Bank 1:50,000",
+        "year" : " ",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990081523060203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "1-36-144-A",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990081523060203941&sublib=MAP&collection=LC&callnum=G7412+.W4+s50+.S6&title=+[West+Bank+1:50,000]&description=sheet+1-36-144-A"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.506324831222628,
+              32.158128535065259
+            ],
+            [
+              35.505557561395221,
+              32.327658719501869
+            ],
+            [
+              35.254624218908418,
+              32.335433708923176
+            ],
+            [
+              35.255373614407631,
+              32.165297943459677
+            ],
+            [
+              35.506324831222628,
+              32.158128535065259
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 8,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7512.W4 s50.S6",
+        "title" : "West Bank 1:50,000",
+        "year" : " ",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990081523060203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "1-36-143-б",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990081523060203941&sublib=MAP&collection=LC&callnum=G7412+.W4+s50+.S6&title=+[West+Bank+1:50,000]&description=sheet+1-36-143-б"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.007595618156699,
+              32.003085911825735
+            ],
+            [
+              35.00717680287255,
+              32.172388661435264
+            ],
+            [
+              34.756041538567274,
+              32.179563327870085
+            ],
+            [
+              34.7562638216952,
+              32.010628150673426
+            ],
+            [
+              35.007595618156699,
+              32.003085911825735
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 9,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7512.W4 s50.S6",
+        "title" : "West Bank 1:50,000",
+        "year" : " ",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990081523060203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "1-36-142-г",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990081523060203941&sublib=MAP&collection=LC&callnum=G7412+.W4+s50+.S6&title=+[West+Bank+1:50,000]&description=sheet+1-36-142-г"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.2561209585798,
+              31.995627892173559
+            ],
+            [
+              35.255373614407631,
+              32.165297943459677
+            ],
+            [
+              35.00717680287255,
+              32.172388661435264
+            ],
+            [
+              35.007595618156699,
+              32.003085911825735
+            ],
+            [
+              35.2561209585798,
+              31.995627892173559
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 10,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7512.W4 s50.S6",
+        "title" : "West Bank 1:50,000",
+        "year" : " ",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990081523060203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "1-36-143-B",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990081523060203941&sublib=MAP&collection=LC&callnum=G7412+.W4+s50+.S6&title=+[West+Bank+1:50,000]&description=sheet+1-36-143-B"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.755105035461781,
+              31.980653833410997
+            ],
+            [
+              35.754297072556312,
+              32.151044232820311
+            ],
+            [
+              35.506324831222628,
+              32.158128535065259
+            ],
+            [
+              35.507094372771689,
+              31.988096408052058
+            ],
+            [
+              35.755105035461781,
+              31.980653833410997
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 11,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7512.W4 s50.S6",
+        "title" : "West Bank 1:50,000",
+        "year" : " ",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990081523060203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "1-36-144-B",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990081523060203941&sublib=MAP&collection=LC&callnum=G7412+.W4+s50+.S6&title=+[West+Bank+1:50,000]&description=sheet+1-36-144-B"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.507094372771689,
+              31.988096408052058
+            ],
+            [
+              35.506324831222628,
+              32.158128535065259
+            ],
+            [
+              35.255373614407631,
+              32.165297943459677
+            ],
+            [
+              35.2561209585798,
+              31.995627892173559
+            ],
+            [
+              35.507094372771689,
+              31.988096408052058
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 12,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7512.W4 s50.S6",
+        "title" : "West Bank 1:50,000",
+        "year" : " ",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990081523060203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "1-36-143-г",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990081523060203941&sublib=MAP&collection=LC&callnum=G7412+.W4+s50+.S6&title=+[West+Bank+1:50,000]&description=sheet+1-36-143-г"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.008015020542757,
+              31.83354583090528
+            ],
+            [
+              35.007595618156699,
+              32.003085911825735
+            ],
+            [
+              34.7562638216952,
+              32.010628150673426
+            ],
+            [
+              34.756487369115575,
+              31.840732111215686
+            ],
+            [
+              35.008015020542757,
+              31.83354583090528
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 13,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7512.W4 s50.S6",
+        "title" : "West Bank 1:50,000",
+        "year" : " ",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990081523060203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "H-36-10-б",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990081523060203941&sublib=MAP&collection=LC&callnum=G7412+.W4+s50+.S6&title=+[West+Bank+1:50,000]&description=sheet+H-36-10-б"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.256866196525266,
+              31.826436018938239
+            ],
+            [
+              35.2561209585798,
+              31.995627892173559
+            ],
+            [
+              35.007595618156699,
+              32.003085911825735
+            ],
+            [
+              35.008015020542757,
+              31.83354583090528
+            ],
+            [
+              35.256866196525266,
+              31.826436018938239
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 14,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7512.W4 s50.S6",
+        "title" : "West Bank 1:50,000",
+        "year" : " ",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990081523060203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "H-36-11-A",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990081523060203941&sublib=MAP&collection=LC&callnum=G7412+.W4+s50+.S6&title=+[West+Bank+1:50,000]&description=sheet+H-36-11-A"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.755903918662966,
+              31.812178242759842
+            ],
+            [
+              35.755105035461781,
+              31.980653833410997
+            ],
+            [
+              35.507094372771689,
+              31.988096408052058
+            ],
+            [
+              35.507858479879587,
+              31.819265034381829
+            ],
+            [
+              35.755903918662966,
+              31.812178242759842
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 15,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7512.W4 s50.S6",
+        "title" : "West Bank 1:50,000",
+        "year" : " ",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990081523060203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "H-36-12-A",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990081523060203941&sublib=MAP&collection=LC&callnum=G7412+.W4+s50+.S6&title=+[West+Bank+1:50,000]&description=sheet+H-36-12-A"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.507858479879587,
+              31.819265034381829
+            ],
+            [
+              35.507094372771689,
+              31.988096408052058
+            ],
+            [
+              35.2561209585798,
+              31.995627892173559
+            ],
+            [
+              35.256866196525266,
+              31.826436018938239
+            ],
+            [
+              35.507858479879587,
+              31.819265034381829
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 16,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7512.W4 s50.S6",
+        "title" : "West Bank 1:50,000",
+        "year" : " ",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990081523060203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "H-36-11-б",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990081523060203941&sublib=MAP&collection=LC&callnum=G7412+.W4+s50+.S6&title=+[West+Bank+1:50,000]&description=sheet+H-36-11-б"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.008432203645384,
+              31.664902877621785
+            ],
+            [
+              35.008015020542757,
+              31.83354583090528
+            ],
+            [
+              34.756487369115575,
+              31.840732111215686
+            ],
+            [
+              34.756709029366277,
+              31.672270320704911
+            ],
+            [
+              35.008432203645384,
+              31.664902877621785
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 17,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7512.W4 s50.S6",
+        "title" : "West Bank 1:50,000",
+        "year" : " ",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990081523060203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "H-36-10-г",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990081523060203941&sublib=MAP&collection=LC&callnum=G7412+.W4+s50+.S6&title=+[West+Bank+1:50,000]&description=sheet+H-36-10-г"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.257609823268922,
+              31.657609937925542
+            ],
+            [
+              35.256866196525266,
+              31.826436018938239
+            ],
+            [
+              35.008015020542757,
+              31.83354583090528
+            ],
+            [
+              35.008432203645384,
+              31.664902877621785
+            ],
+            [
+              35.257609823268922,
+              31.657609937925542
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 18,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7512.W4 s50.S6",
+        "title" : "West Bank 1:50,000",
+        "year" : " ",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990081523060203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "H-36-11-B",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990081523060203941&sublib=MAP&collection=LC&callnum=G7412+.W4+s50+.S6&title=+[West+Bank+1:50,000]&description=sheet+H-36-11-B"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 19,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.756706122489391,
+              31.643002369162389
+            ],
+            [
+              35.755903918662966,
+              31.812178242759842
+            ],
+            [
+              35.507858479879587,
+              31.819265034381829
+            ],
+            [
+              35.508623358176237,
+              31.650263264593434
+            ],
+            [
+              35.756706122489391,
+              31.643002369162389
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 19,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7512.W4 s50.S6",
+        "title" : "West Bank 1:50,000",
+        "year" : " ",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990081523060203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "H-36-12-B",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990081523060203941&sublib=MAP&collection=LC&callnum=G7412+.W4+s50+.S6&title=+[West+Bank+1:50,000]&description=sheet+H-36-12-B"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 20,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.508623358176237,
+              31.650263264593434
+            ],
+            [
+              35.507858479879587,
+              31.819265034381829
+            ],
+            [
+              35.256866196525266,
+              31.826436018938239
+            ],
+            [
+              35.257609823268922,
+              31.657609937925542
+            ],
+            [
+              35.508623358176237,
+              31.650263264593434
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 20,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7512.W4 s50.S6",
+        "title" : "West Bank 1:50,000",
+        "year" : " ",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990081523060203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "H-36-11-г",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990081523060203941&sublib=MAP&collection=LC&callnum=G7412+.W4+s50+.S6&title=+[West+Bank+1:50,000]&description=sheet+H-36-11-г"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 21,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.008853375406886,
+              31.494647540702886
+            ],
+            [
+              34.756933509866599,
+              31.501665140477769
+            ],
+            [
+              34.757153178877047,
+              31.334716692373775
+            ],
+            [
+              35.009267850388142,
+              31.327099323956531
+            ],
+            [
+              35.008853375406886,
+              31.494647540702886
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 21,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7512.W4 s50.S6",
+        "title" : "West Bank 1:50,000",
+        "year" : " ",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990081523060203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "H-36-22-г",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990081523060203941&sublib=MAP&collection=LC&callnum=G7412+.W4+s50+.S6&title=+[West+Bank+1:50,000]&description=sheet+H-36-22-г"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 22,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.008853375406886,
+              31.494647540702886
+            ],
+            [
+              35.008432203645384,
+              31.664902877621785
+            ],
+            [
+              34.756709029366277,
+              31.672270320704911
+            ],
+            [
+              34.756933509866599,
+              31.501665140477769
+            ],
+            [
+              35.008853375406886,
+              31.494647540702886
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 22,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7512.W4 s50.S6",
+        "title" : "West Bank 1:50,000",
+        "year" : " ",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990081523060203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "H-36-22-б",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990081523060203941&sublib=MAP&collection=LC&callnum=G7412+.W4+s50+.S6&title=+[West+Bank+1:50,000]&description=sheet+H-36-22-б"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 23,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.258358236337187,
+              31.487697214446712
+            ],
+            [
+              35.008853375406886,
+              31.494647540702886
+            ],
+            [
+              35.009267850388142,
+              31.327099323956531
+            ],
+            [
+              35.259098868682827,
+              31.319550953617579
+            ],
+            [
+              35.258358236337187,
+              31.487697214446712
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 23,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7512.W4 s50.S6",
+        "title" : "West Bank 1:50,000",
+        "year" : " ",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990081523060203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "H-36-23-B",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990081523060203941&sublib=MAP&collection=LC&callnum=G7412+.W4+s50+.S6&title=+[West+Bank+1:50,000]&description=sheet+H-36-23-B"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 24,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.258358236337187,
+              31.487697214446712
+            ],
+            [
+              35.257609823268922,
+              31.657609937925542
+            ],
+            [
+              35.008432203645384,
+              31.664902877621785
+            ],
+            [
+              35.008853375406886,
+              31.494647540702886
+            ],
+            [
+              35.258358236337187,
+              31.487697214446712
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 24,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7512.W4 s50.S6",
+        "title" : "West Bank 1:50,000",
+        "year" : " ",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990081523060203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "H-36-23-A",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990081523060203941&sublib=MAP&collection=LC&callnum=G7412+.W4+s50+.S6&title=+[West+Bank+1:50,000]&description=sheet+H-36-23-A"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 25,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.757508486818494,
+              31.473792647302105
+            ],
+            [
+              35.756706122489391,
+              31.643002369162389
+            ],
+            [
+              35.508623358176237,
+              31.650263264593434
+            ],
+            [
+              35.509390758109362,
+              31.480704332942423
+            ],
+            [
+              35.757508486818494,
+              31.473792647302105
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 25,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7512.W4 s50.S6",
+        "title" : "West Bank 1:50,000",
+        "year" : " ",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990081523060203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "H-36-24-A",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990081523060203941&sublib=MAP&collection=LC&callnum=G7412+.W4+s50+.S6&title=+[West+Bank+1:50,000]&description=sheet+H-36-24-A"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 26,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.509390758109362,
+              31.480704332942423
+            ],
+            [
+              35.258358236337187,
+              31.487697214446712
+            ],
+            [
+              35.259098868682827,
+              31.319550953617579
+            ],
+            [
+              35.510154446007903,
+              31.311965584570032
+            ],
+            [
+              35.509390758109362,
+              31.480704332942423
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 26,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7512.W4 s50.S6",
+        "title" : "West Bank 1:50,000",
+        "year" : " ",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990081523060203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "H-36-23-г",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990081523060203941&sublib=MAP&collection=LC&callnum=G7412+.W4+s50+.S6&title=+[West+Bank+1:50,000]&description=sheet+H-36-23-г"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 27,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.509390758109362,
+              31.480704332942423
+            ],
+            [
+              35.508623358176237,
+              31.650263264593434
+            ],
+            [
+              35.257609823268922,
+              31.657609937925542
+            ],
+            [
+              35.258358236337187,
+              31.487697214446712
+            ],
+            [
+              35.509390758109362,
+              31.480704332942423
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 27,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7512.W4 s50.S6",
+        "title" : "West Bank 1:50,000",
+        "year" : " ",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990081523060203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "H-36-23-б",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990081523060203941&sublib=MAP&collection=LC&callnum=G7412+.W4+s50+.S6&title=+[West+Bank+1:50,000]&description=sheet+H-36-23-б"
+      }
+    }
+  ]
+}

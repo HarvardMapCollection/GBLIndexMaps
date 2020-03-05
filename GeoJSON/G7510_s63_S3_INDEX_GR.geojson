@@ -1,0 +1,414 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 0,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.90435868218708,
+              32.959609829399028
+            ],
+            [
+              35.526637867562272,
+              32.962214752832267
+            ],
+            [
+              35.527256941449366,
+              32.633486518747816
+            ],
+            [
+              35.906797696629042,
+              32.631824208518253
+            ],
+            [
+              35.90435868218708,
+              32.959609829399028
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 0,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7510 s63 .S3",
+        "title" : "Karte des Ostjordanlandes : [Jordan]",
+        "year" : "1913-1921",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143590720203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "A-3",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143590720203941&sublib=MAP&collection=LC&callnum=G7510+s63+S3&title=Karte+des+Ostjordanlandes+:[Jordan]&description=sheet+A-3"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.582505068848604,
+              32.628864749588502
+            ],
+            [
+              36.580125607842774,
+              32.961989290404745
+            ],
+            [
+              36.301732121776013,
+              32.961009031651088
+            ],
+            [
+              36.305399363793242,
+              32.630078415425317
+            ],
+            [
+              36.582505068848604,
+              32.628864749588502
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 1,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7510 s63 .S3",
+        "title" : "Karte des Ostjordanlandes : [Jordan]",
+        "year" : "1913-1921",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143590720203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "C-3",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143590720203941&sublib=MAP&collection=LC&callnum=G7510+s63+S3&title=Karte+des+Ostjordanlandes+:[Jordan]&description=sheet+C-3"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.582505068848604,
+              32.628864749588502
+            ],
+            [
+              36.305399363793242,
+              32.630078415425317
+            ],
+            [
+              36.308867053178119,
+              32.317155357824731
+            ],
+            [
+              36.737170034227574,
+              32.319534818830562
+            ],
+            [
+              36.718134346180932,
+              32.628864749588502
+            ],
+            [
+              36.582505068848604,
+              32.628864749588502
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 2,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7510 s63 .S3",
+        "title" : "Karte des Ostjordanlandes : [Jordan]",
+        "year" : "1913-1921",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143590720203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "C-4",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143590720203941&sublib=MAP&collection=LC&callnum=G7510+s63+S3&title=Karte+des+Ostjordanlandes+:[Jordan]&description=sheet+C-4"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.909089605955955,
+              32.323808434247155
+            ],
+            [
+              35.906797696628928,
+              32.63182420851814
+            ],
+            [
+              35.527256941449252,
+              32.633486518747702
+            ],
+            [
+              35.527828190321088,
+              32.330153367791411
+            ],
+            [
+              35.909089605955955,
+              32.323808434247155
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 3,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7510 s63 .S3",
+        "title" : "Karte des Ostjordanlandes : [Jordan]",
+        "year" : "1913-1921",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143590720203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "A-4",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143590720203941&sublib=MAP&collection=LC&callnum=G7510+s63+S3&title=Karte+des+Ostjordanlandes+:[Jordan]&description=sheet+A-4"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.909089605955955,
+              32.323808434247155
+            ],
+            [
+              35.527828190321088,
+              32.330153367791411
+            ],
+            [
+              35.528403843265778,
+              32.024481654107603
+            ],
+            [
+              35.911351824330211,
+              32.01978290587374
+            ],
+            [
+              35.909089605955955,
+              32.323808434247155
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 4,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7510 s63 .S3",
+        "title" : "Karte des Ostjordanlandes : [Jordan]",
+        "year" : "1913-1921",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143590720203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "A-5",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143590720203941&sublib=MAP&collection=LC&callnum=G7510+s63+S3&title=Karte+des+Ostjordanlandes+:[Jordan]&description=sheet+A-5"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.308867053178119,
+              32.317155357824731
+            ],
+            [
+              35.909089605955955,
+              32.323808434247155
+            ],
+            [
+              35.911351824330211,
+              32.01978290587374
+            ],
+            [
+              36.304108131166458,
+              32.014963810084282
+            ],
+            [
+              36.308867053178119,
+              32.317155357824731
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 5,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7510 s63 .S3",
+        "title" : "Karte des Ostjordanlandes : [Jordan]",
+        "year" : "1913-1921",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143590720203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "B-5",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143590720203941&sublib=MAP&collection=LC&callnum=G7510+s63+S3&title=Karte+des+Ostjordanlandes+:[Jordan]&description=sheet+B-5"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.308867053178119,
+              32.317155357824731
+            ],
+            [
+              36.305399363793242,
+              32.630078415425317
+            ],
+            [
+              35.906797696628928,
+              32.63182420851814
+            ],
+            [
+              35.909089605955955,
+              32.323808434247155
+            ],
+            [
+              36.308867053178119,
+              32.317155357824731
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 6,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7510 s63 .S3",
+        "title" : "Karte des Ostjordanlandes : [Jordan]",
+        "year" : "1913-1921",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143590720203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "B-4",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143590720203941&sublib=MAP&collection=LC&callnum=G7510+s63+S3&title=Karte+des+Ostjordanlandes+:[Jordan]&description=sheet+B-4"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.508991989719561,
+              32.629186721713495
+            ],
+            [
+              36.504677172172251,
+              32.961723626898902
+            ],
+            [
+              35.90435868218708,
+              32.959609829399028
+            ],
+            [
+              35.906797696629042,
+              32.631824208518253
+            ],
+            [
+              36.508991989719561,
+              32.629186721713495
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 7,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7510 s63 .S3",
+        "title" : "Karte des Ostjordanlandes : [Jordan]",
+        "year" : "1913-1921",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143590720203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "B-3",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143590720203941&sublib=MAP&collection=LC&callnum=G7510+s63+S3&title=Karte+des+Ostjordanlandes+:[Jordan]&description=sheet+B-3"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.90435868218708,
+              32.959609829399028
+            ],
+            [
+              35.90197922118125,
+              33.28559598719778
+            ],
+            [
+              35.526024382260061,
+              33.287975448203611
+            ],
+            [
+              35.526637867562272,
+              32.962214752832267
+            ],
+            [
+              35.90435868218708,
+              32.959609829399028
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 8,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7510 s63 .S3",
+        "title" : "Karte des Ostjordanlandes : [Jordan]",
+        "year" : "1913-1921",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143590720203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "A-1-2",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143590720203941&sublib=MAP&collection=LC&callnum=G7510+s63+S3&title=Karte+des+Ostjordanlandes+:[Jordan]&description=sheet+A-1-2"
+      }
+    }
+  ]
+}
