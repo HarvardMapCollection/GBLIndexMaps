@@ -43,7 +43,8 @@
         "iiifUrl" : " ",
         "label" : "270-Tlemcen",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+270-Tlemcen",
+        "label1" : ""
       }
     },
     {
@@ -88,7 +89,8 @@
         "iiifUrl" : " ",
         "label" : "102-Belle Cote",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+102-Belle Cote",
+        "label1" : ""
       }
     },
     {
@@ -124,7 +126,7 @@
       "properties" : {
         "FID" : 2,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -133,7 +135,8 @@
         "iiifUrl" : " ",
         "label" : "Nefza",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -186,7 +189,8 @@
         "iiifUrl" : " ",
         "label" : "2-C.Bougaroun",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+2-C.Bougaroun",
+        "label1" : ""
       }
     },
     {
@@ -231,7 +235,8 @@
         "iiifUrl" : " ",
         "label" : "237-Dap Milonia",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+237-Dap Milonia",
+        "label1" : ""
       }
     },
     {
@@ -276,7 +281,8 @@
         "iiifUrl" : " ",
         "label" : "268-St. Bou Buenne",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+268-St. Bou Buenne",
+        "label1" : ""
       }
     },
     {
@@ -312,7 +318,7 @@
       "properties" : {
         "FID" : 6,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -321,7 +327,8 @@
         "iiifUrl" : " ",
         "label" : "328-Rhar Roubane",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -357,7 +364,7 @@
       "properties" : {
         "FID" : 7,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -366,7 +373,8 @@
         "iiifUrl" : " ",
         "label" : "Environs De Saida",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -402,7 +410,7 @@
       "properties" : {
         "FID" : 8,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -411,7 +419,8 @@
         "iiifUrl" : " ",
         "label" : "Cap Negro",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -447,7 +456,7 @@
       "properties" : {
         "FID" : 9,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -456,7 +465,8 @@
         "iiifUrl" : " ",
         "label" : "Zaouiet Madien",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -501,7 +511,8 @@
         "iiifUrl" : " ",
         "label" : "La Calle",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+La Calle",
+        "label1" : ""
       }
     },
     {
@@ -546,7 +557,8 @@
         "iiifUrl" : " ",
         "label" : "Tabarka",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+Tabarka",
+        "label1" : ""
       }
     },
     {
@@ -582,7 +594,7 @@
       "properties" : {
         "FID" : 12,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -591,7 +603,8 @@
         "iiifUrl" : " ",
         "label" : "327-Bir El Ater",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -627,7 +640,7 @@
       "properties" : {
         "FID" : 13,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -636,7 +649,8 @@
         "iiifUrl" : " ",
         "label" : "326-Djonng",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -681,7 +695,8 @@
         "iiifUrl" : " ",
         "label" : "18-Blandan",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+18-Blandan",
+        "label1" : ""
       }
     },
     {
@@ -726,7 +741,8 @@
         "iiifUrl" : " ",
         "label" : "17-Bone",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+17-Bone",
+        "label1" : ""
       }
     },
     {
@@ -771,7 +787,8 @@
         "iiifUrl" : " ",
         "label" : "4-Herbillon",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+4-Herbillon",
+        "label1" : ""
       }
     },
     {
@@ -816,7 +833,8 @@
         "iiifUrl" : " ",
         "label" : "16-Bugeaud",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+16-Bugeaud",
+        "label1" : ""
       }
     },
     {
@@ -861,7 +879,8 @@
         "iiifUrl" : " ",
         "label" : "3-Cap De Fer",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+3-Cap De Fer",
+        "label1" : ""
       }
     },
     {
@@ -906,7 +925,8 @@
         "iiifUrl" : " ",
         "label" : "15-Dj.Filfila",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+15-Dj.Filfila",
+        "label1" : ""
       }
     },
     {
@@ -951,7 +971,8 @@
         "iiifUrl" : " ",
         "label" : "14-Philippeville",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+14-Philippeville",
+        "label1" : ""
       }
     },
     {
@@ -1004,7 +1025,8 @@
         "iiifUrl" : " ",
         "label" : "12-O.Zhour",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+12-O.Zhour",
+        "label1" : ""
       }
     },
     {
@@ -1049,7 +1071,8 @@
         "iiifUrl" : " ",
         "label" : "10-C.Sigli",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+10-C.Sigli",
+        "label1" : ""
       }
     },
     {
@@ -1094,7 +1117,8 @@
         "iiifUrl" : " ",
         "label" : "8-Dellys",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+8-Dellys",
+        "label1" : ""
       }
     },
     {
@@ -1139,7 +1163,8 @@
         "iiifUrl" : " ",
         "label" : "9-Azefroun",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+9-Azefroun",
+        "label1" : ""
       }
     },
     {
@@ -1175,7 +1200,7 @@
       "properties" : {
         "FID" : 25,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -1184,7 +1209,8 @@
         "iiifUrl" : " ",
         "label" : "135-Letourneux",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -1220,7 +1246,7 @@
       "properties" : {
         "FID" : 26,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -1229,7 +1255,8 @@
         "iiifUrl" : " ",
         "label" : "134-Teniet El Haad",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -1278,7 +1305,8 @@
         "iiifUrl" : " ",
         "label" : "131-Ammi Moussa",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+131-Ammi Moussa",
+        "label1" : ""
       }
     },
     {
@@ -1314,7 +1342,7 @@
       "properties" : {
         "FID" : 28,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -1323,7 +1351,8 @@
         "iiifUrl" : " ",
         "label" : "276-Martimprey",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -1368,7 +1397,8 @@
         "iiifUrl" : " ",
         "label" : "104-Renault",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+104-Renault",
+        "label1" : ""
       }
     },
     {
@@ -1413,7 +1443,8 @@
         "iiifUrl" : " ",
         "label" : "103-Bosquet",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+103-Bosquet",
+        "label1" : ""
       }
     },
     {
@@ -1458,7 +1489,8 @@
         "iiifUrl" : " ",
         "label" : "127-Arzew",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+127-Arzew",
+        "label1" : ""
       }
     },
     {
@@ -1494,7 +1526,7 @@
       "properties" : {
         "FID" : 32,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -1503,7 +1535,8 @@
         "iiifUrl" : " ",
         "label" : "272-Chanzy",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -1548,7 +1581,8 @@
         "iiifUrl" : " ",
         "label" : "271-Lamoriciere",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+271-Lamoriciere",
+        "label1" : ""
       }
     },
     {
@@ -1588,7 +1622,7 @@
       "properties" : {
         "FID" : 34,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -1597,7 +1631,8 @@
         "iiifUrl" : " ",
         "label" : "331-Bossuet",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -1633,7 +1668,7 @@
       "properties" : {
         "FID" : 35,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -1642,7 +1677,8 @@
         "iiifUrl" : " ",
         "label" : "330-Dj.Ouargla",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -1699,7 +1735,8 @@
         "iiifUrl" : " ",
         "label" : "299-Marnia",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+299-Marnia",
+        "label1" : ""
       }
     },
     {
@@ -1735,7 +1772,7 @@
       "properties" : {
         "FID" : 37,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -1744,7 +1781,8 @@
         "iiifUrl" : " ",
         "label" : "329-Sebdou",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -1780,7 +1818,7 @@
       "properties" : {
         "FID" : 38,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -1789,7 +1827,8 @@
         "iiifUrl" : " ",
         "label" : "356-Siot Aissa",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -1834,7 +1873,8 @@
         "iiifUrl" : " ",
         "label" : "13-Collo",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+13-Collo",
+        "label1" : ""
       }
     },
     {
@@ -1879,7 +1919,8 @@
         "iiifUrl" : " ",
         "label" : "20-Cheracas",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+20-Cheracas",
+        "label1" : ""
       }
     },
     {
@@ -1915,7 +1956,7 @@
       "properties" : {
         "FID" : 41,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -1924,7 +1965,8 @@
         "iiifUrl" : " ",
         "label" : "St. El Khemis",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -1969,7 +2011,8 @@
         "iiifUrl" : " ",
         "label" : "35-Le Tarf",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+35-Le Tarf",
+        "label1" : ""
       }
     },
     {
@@ -2014,7 +2057,8 @@
         "iiifUrl" : " ",
         "label" : "34-Mondovi",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+34-Mondovi",
+        "label1" : ""
       }
     },
     {
@@ -2050,7 +2094,7 @@
       "properties" : {
         "FID" : 44,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -2059,7 +2103,8 @@
         "iiifUrl" : " ",
         "label" : "Fernana",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -2104,7 +2149,8 @@
         "iiifUrl" : " ",
         "label" : "33-Penthievre",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+33-Penthievre",
+        "label1" : ""
       }
     },
     {
@@ -2149,7 +2195,8 @@
         "iiifUrl" : " ",
         "label" : "32-Jemmapes",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+32-Jemmapes",
+        "label1" : ""
       }
     },
     {
@@ -2194,7 +2241,8 @@
         "iiifUrl" : " ",
         "label" : "31-St.Charles",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+31-St.Charles",
+        "label1" : ""
       }
     },
     {
@@ -2239,7 +2287,8 @@
         "iiifUrl" : " ",
         "label" : "30-A.Kechera",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+30-A.Kechera",
+        "label1" : ""
       }
     },
     {
@@ -2284,7 +2333,8 @@
         "iiifUrl" : " ",
         "label" : "29-El Milia",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+29-El Milia",
+        "label1" : ""
       }
     },
     {
@@ -2329,7 +2379,8 @@
         "iiifUrl" : " ",
         "label" : "28-Bjidjelli",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+28-Bjidjelli",
+        "label1" : ""
       }
     },
     {
@@ -2374,7 +2425,8 @@
         "iiifUrl" : " ",
         "label" : "27-Taza",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+27-Taza",
+        "label1" : ""
       }
     },
     {
@@ -2419,7 +2471,8 @@
         "iiifUrl" : " ",
         "label" : "26-Bougie",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+26-Bougie",
+        "label1" : ""
       }
     },
     {
@@ -2464,7 +2517,8 @@
         "iiifUrl" : " ",
         "label" : "25-Djeblaa",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+25-Djeblaa",
+        "label1" : ""
       }
     },
     {
@@ -2509,7 +2563,8 @@
         "iiifUrl" : " ",
         "label" : "24-Tamda",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+24-Tamda",
+        "label1" : ""
       }
     },
     {
@@ -2554,7 +2609,8 @@
         "iiifUrl" : " ",
         "label" : "23-Tizi-Ouzou",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+23-Tizi-Ouzou",
+        "label1" : ""
       }
     },
     {
@@ -2599,7 +2655,8 @@
         "iiifUrl" : " ",
         "label" : "22-Menervilue",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+22-Menervilue",
+        "label1" : ""
       }
     },
     {
@@ -2644,7 +2701,8 @@
         "iiifUrl" : " ",
         "label" : "21-Alger",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+21-Alger",
+        "label1" : ""
       }
     },
     {
@@ -2680,7 +2738,7 @@
       "properties" : {
         "FID" : 58,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -2689,7 +2747,8 @@
         "iiifUrl" : " ",
         "label" : "St. El Arba",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -2734,7 +2793,8 @@
         "iiifUrl" : " ",
         "label" : "56-Bou Hariar",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+56-Bou Hariar",
+        "label1" : ""
       }
     },
     {
@@ -2779,7 +2839,8 @@
         "iiifUrl" : " ",
         "label" : "55-Duvivier",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+55-Duvivier",
+        "label1" : ""
       }
     },
     {
@@ -2815,7 +2876,7 @@
       "properties" : {
         "FID" : 61,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -2824,7 +2885,8 @@
         "iiifUrl" : " ",
         "label" : "Ghardinaou",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -2869,7 +2931,8 @@
         "iiifUrl" : " ",
         "label" : "54-Guelma",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+54-Guelma",
+        "label1" : ""
       }
     },
     {
@@ -2914,7 +2977,8 @@
         "iiifUrl" : " ",
         "label" : "53-Hammam Meskoutine",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+53-Hammam Meskoutine",
+        "label1" : ""
       }
     },
     {
@@ -2959,7 +3023,8 @@
         "iiifUrl" : " ",
         "label" : "52-Conde Smendou",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+52-Conde Smendou",
+        "label1" : ""
       }
     },
     {
@@ -3004,7 +3069,8 @@
         "iiifUrl" : " ",
         "label" : "51-Sidi Dris",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+51-Sidi Dris",
+        "label1" : ""
       }
     },
     {
@@ -3049,7 +3115,8 @@
         "iiifUrl" : " ",
         "label" : "50-Sidi Merouane",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+50-Sidi Merouane",
+        "label1" : ""
       }
     },
     {
@@ -3098,7 +3165,8 @@
         "iiifUrl" : " ",
         "label" : "49-Tamesguida",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+49-Tamesguida",
+        "label1" : ""
       }
     },
     {
@@ -3143,7 +3211,8 @@
         "iiifUrl" : " ",
         "label" : "48-Ziama",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+48-Ziama",
+        "label1" : ""
       }
     },
     {
@@ -3179,7 +3248,7 @@
       "properties" : {
         "FID" : 69,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -3188,7 +3257,8 @@
         "iiifUrl" : " ",
         "label" : "Nebeur",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -3233,7 +3303,8 @@
         "iiifUrl" : " ",
         "label" : "78-O.Mougras",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+78-O.Mougras",
+        "label1" : ""
       }
     },
     {
@@ -3278,7 +3349,8 @@
         "iiifUrl" : " ",
         "label" : "77-Souk-Ahras",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+77-Souk-Ahras",
+        "label1" : ""
       }
     },
     {
@@ -3314,7 +3386,7 @@
       "properties" : {
         "FID" : 72,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -3323,7 +3395,8 @@
         "iiifUrl" : " ",
         "label" : "Ouargha",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -3368,7 +3441,8 @@
         "iiifUrl" : " ",
         "label" : "76-La Mahouna",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+76-La Mahouna",
+        "label1" : ""
       }
     },
     {
@@ -3413,7 +3487,8 @@
         "iiifUrl" : " ",
         "label" : "75-O.Zenati",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+75-O.Zenati",
+        "label1" : ""
       }
     },
     {
@@ -3458,7 +3533,8 @@
         "iiifUrl" : " ",
         "label" : "74-El Aria",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+74-El Aria",
+        "label1" : ""
       }
     },
     {
@@ -3503,7 +3579,8 @@
         "iiifUrl" : " ",
         "label" : "73-Constantine",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+73-Constantine",
+        "label1" : ""
       }
     },
     {
@@ -3548,7 +3625,8 @@
         "iiifUrl" : " ",
         "label" : "72-Redjas El Ferada",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+72-Redjas El Ferada",
+        "label1" : ""
       }
     },
     {
@@ -3593,7 +3671,8 @@
         "iiifUrl" : " ",
         "label" : "71-Djemila",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+71-Djemila",
+        "label1" : ""
       }
     },
     {
@@ -3629,7 +3708,7 @@
       "properties" : {
         "FID" : 79,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -3638,7 +3717,8 @@
         "iiifUrl" : " ",
         "label" : "Les Salines",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -3674,7 +3754,7 @@
       "properties" : {
         "FID" : 80,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -3683,7 +3763,8 @@
         "iiifUrl" : " ",
         "label" : "101-Gambetta",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -3719,7 +3800,7 @@
       "properties" : {
         "FID" : 81,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -3728,7 +3809,8 @@
         "iiifUrl" : " ",
         "label" : "100-Montesquieu",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -3764,7 +3846,7 @@
       "properties" : {
         "FID" : 82,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -3773,7 +3855,8 @@
         "iiifUrl" : " ",
         "label" : "Le Ker",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -3818,7 +3901,8 @@
         "iiifUrl" : " ",
         "label" : "99-Sedrata",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+99-Sedrata",
+        "label1" : ""
       }
     },
     {
@@ -3863,7 +3947,8 @@
         "iiifUrl" : " ",
         "label" : "98-A.Regada",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+98-A.Regada",
+        "label1" : ""
       }
     },
     {
@@ -3908,7 +3993,8 @@
         "iiifUrl" : " ",
         "label" : "97-Le Khroub",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+97-Le Khroub",
+        "label1" : ""
       }
     },
     {
@@ -3953,7 +4039,8 @@
         "iiifUrl" : " ",
         "label" : "96-O.Athmenia",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+96-O.Athmenia",
+        "label1" : ""
       }
     },
     {
@@ -3998,7 +4085,8 @@
         "iiifUrl" : " ",
         "label" : "95-Chateaudun Du Rhumel",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+95-Chateaudun Du Rhumel",
+        "label1" : ""
       }
     },
     {
@@ -4043,7 +4131,8 @@
         "iiifUrl" : " ",
         "label" : "94-St.Arnaud",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+94-St.Arnaud",
+        "label1" : ""
       }
     },
     {
@@ -4079,7 +4168,7 @@
       "properties" : {
         "FID" : 89,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -4088,7 +4177,8 @@
         "iiifUrl" : " ",
         "label" : "Ebba Ksour",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -4124,7 +4214,7 @@
       "properties" : {
         "FID" : 90,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -4133,7 +4223,8 @@
         "iiifUrl" : " ",
         "label" : "125-Dj.Ouenza",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -4169,7 +4260,7 @@
       "properties" : {
         "FID" : 91,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -4178,7 +4269,8 @@
         "iiifUrl" : " ",
         "label" : "124-O.Kebarit",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -4214,7 +4306,7 @@
       "properties" : {
         "FID" : 92,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -4223,7 +4315,8 @@
         "iiifUrl" : " ",
         "label" : "Tadjerouine",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -4259,7 +4352,7 @@
       "properties" : {
         "FID" : 93,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -4268,7 +4361,8 @@
         "iiifUrl" : " ",
         "label" : "123-Jean-Rigal",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -4304,7 +4398,7 @@
       "properties" : {
         "FID" : 94,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -4313,7 +4407,8 @@
         "iiifUrl" : " ",
         "label" : "122-A.Babouche",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -4358,7 +4453,8 @@
         "iiifUrl" : " ",
         "label" : "121-A.Fakroun",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+121-A.Fakroun",
+        "label1" : ""
       }
     },
     {
@@ -4403,7 +4499,8 @@
         "iiifUrl" : " ",
         "label" : "120-A.Mlila",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+120-A.Mlila",
+        "label1" : ""
       }
     },
     {
@@ -4448,7 +4545,8 @@
         "iiifUrl" : " ",
         "label" : "119-St.Donat",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+119-St.Donat",
+        "label1" : ""
       }
     },
     {
@@ -4484,7 +4582,7 @@
       "properties" : {
         "FID" : 98,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -4493,7 +4591,8 @@
         "iiifUrl" : " ",
         "label" : "118-Navarin",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -4529,7 +4628,7 @@
       "properties" : {
         "FID" : 99,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -4538,7 +4637,8 @@
         "iiifUrl" : " ",
         "label" : "A. El Kseiba",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -4574,7 +4674,7 @@
       "properties" : {
         "FID" : 100,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -4583,7 +4683,8 @@
         "iiifUrl" : " ",
         "label" : "151-Bou Khadra",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -4619,7 +4720,7 @@
       "properties" : {
         "FID" : 101,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -4628,7 +4729,8 @@
         "iiifUrl" : " ",
         "label" : "150-Clairfontaine",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -4664,7 +4766,7 @@
       "properties" : {
         "FID" : 102,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -4673,7 +4775,8 @@
         "iiifUrl" : " ",
         "label" : "Kalaat Es Sena",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -4709,7 +4812,7 @@
       "properties" : {
         "FID" : 103,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -4718,7 +4821,8 @@
         "iiifUrl" : " ",
         "label" : "149-A.Beida",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -4754,7 +4858,7 @@
       "properties" : {
         "FID" : 104,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -4763,7 +4867,8 @@
         "iiifUrl" : " ",
         "label" : "148-Canrobert",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -4799,7 +4904,7 @@
       "properties" : {
         "FID" : 105,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -4808,7 +4913,8 @@
         "iiifUrl" : " ",
         "label" : "Ksar Tlili",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -4844,7 +4950,7 @@
       "properties" : {
         "FID" : 106,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -4853,7 +4959,8 @@
         "iiifUrl" : " ",
         "label" : "178-Morsott",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -4889,7 +4996,7 @@
       "properties" : {
         "FID" : 107,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -4898,7 +5005,8 @@
         "iiifUrl" : " ",
         "label" : "177-La Meskiana",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -4934,7 +5042,7 @@
       "properties" : {
         "FID" : 108,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -4943,7 +5051,8 @@
         "iiifUrl" : " ",
         "label" : "Thala",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -4979,7 +5088,7 @@
       "properties" : {
         "FID" : 109,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -4988,7 +5097,8 @@
         "iiifUrl" : " ",
         "label" : "176-F'Krina",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -5024,7 +5134,7 @@
       "properties" : {
         "FID" : 110,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -5033,7 +5143,8 @@
         "iiifUrl" : " ",
         "label" : "Dj. Semmuer",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -5069,7 +5180,7 @@
       "properties" : {
         "FID" : 111,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -5078,7 +5189,8 @@
         "iiifUrl" : " ",
         "label" : "206-Teressa",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -5114,7 +5226,7 @@
       "properties" : {
         "FID" : 112,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -5123,7 +5235,8 @@
         "iiifUrl" : " ",
         "label" : "205-Youks-Les Bains",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -5159,7 +5272,7 @@
       "properties" : {
         "FID" : 113,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -5168,7 +5281,8 @@
         "iiifUrl" : " ",
         "label" : "Dj. Bireno",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -5204,7 +5318,7 @@
       "properties" : {
         "FID" : 114,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -5213,7 +5327,8 @@
         "iiifUrl" : " ",
         "label" : "204-A.Dalaa",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -5249,7 +5364,7 @@
       "properties" : {
         "FID" : 115,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -5258,7 +5373,8 @@
         "iiifUrl" : " ",
         "label" : "203-Khenchela",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -5294,7 +5410,7 @@
       "properties" : {
         "FID" : 116,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -5303,7 +5419,8 @@
         "iiifUrl" : " ",
         "label" : "Kasserine",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -5339,7 +5456,7 @@
       "properties" : {
         "FID" : 117,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -5348,7 +5465,8 @@
         "iiifUrl" : " ",
         "label" : "235-El Ma El Abiod",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -5384,7 +5502,7 @@
       "properties" : {
         "FID" : 118,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -5393,7 +5511,8 @@
         "iiifUrl" : " ",
         "label" : "234-Cheria",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -5429,7 +5548,7 @@
       "properties" : {
         "FID" : 119,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -5438,7 +5557,8 @@
         "iiifUrl" : " ",
         "label" : "Bou Chebka",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -5474,7 +5594,7 @@
       "properties" : {
         "FID" : 120,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -5483,7 +5603,8 @@
         "iiifUrl" : " ",
         "label" : "23--Zoui",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -5519,7 +5640,7 @@
       "properties" : {
         "FID" : 121,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -5528,7 +5649,8 @@
         "iiifUrl" : " ",
         "label" : "Dj. Selloum",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -5564,7 +5686,7 @@
       "properties" : {
         "FID" : 122,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -5573,7 +5695,8 @@
         "iiifUrl" : " ",
         "label" : "266-Bir Sbeikia",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -5609,7 +5732,7 @@
       "properties" : {
         "FID" : 123,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -5618,7 +5741,8 @@
         "iiifUrl" : " ",
         "label" : "Feriana",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+Feriana",
+        "label1" : ""
       }
     },
     {
@@ -5654,7 +5778,7 @@
       "properties" : {
         "FID" : 124,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -5663,7 +5787,8 @@
         "iiifUrl" : " ",
         "label" : "297-Dj.Fououa",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -5699,7 +5824,7 @@
       "properties" : {
         "FID" : 125,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -5708,7 +5833,8 @@
         "iiifUrl" : " ",
         "label" : "296-Rass El Euch",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -5753,7 +5879,8 @@
         "iiifUrl" : " ",
         "label" : "Environs De Batna",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+Environs De Batna",
+        "label1" : ""
       }
     },
     {
@@ -5798,7 +5925,8 @@
         "iiifUrl" : " ",
         "label" : "41-Kolea",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+41-Kolea",
+        "label1" : ""
       }
     },
     {
@@ -5843,7 +5971,8 @@
         "iiifUrl" : " ",
         "label" : "47-O.Amizour",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+47-O.Amizour",
+        "label1" : ""
       }
     },
     {
@@ -5888,7 +6017,8 @@
         "iiifUrl" : " ",
         "label" : "46-Sidi Aioh",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+46-Sidi Aioh",
+        "label1" : ""
       }
     },
     {
@@ -5933,7 +6063,8 @@
         "iiifUrl" : " ",
         "label" : "43-Fort National",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+43-Fort National",
+        "label1" : ""
       }
     },
     {
@@ -5978,7 +6109,8 @@
         "iiifUrl" : " ",
         "label" : "44-Dra El Mizan",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+44-Dra El Mizan",
+        "label1" : ""
       }
     },
     {
@@ -6023,7 +6155,8 @@
         "iiifUrl" : " ",
         "label" : "43-Palestro",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+43-Palestro",
+        "label1" : ""
       }
     },
     {
@@ -6068,7 +6201,8 @@
         "iiifUrl" : " ",
         "label" : "42-Arba",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+42-Arba",
+        "label1" : ""
       }
     },
     {
@@ -6113,7 +6247,8 @@
         "iiifUrl" : " ",
         "label" : "40-Tipasa",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+40-Tipasa",
+        "label1" : ""
       }
     },
     {
@@ -6158,7 +6293,8 @@
         "iiifUrl" : " ",
         "label" : "39-Cherchel",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+39-Cherchel",
+        "label1" : ""
       }
     },
     {
@@ -6203,7 +6339,8 @@
         "iiifUrl" : " ",
         "label" : "38-Gouraya",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+38-Gouraya",
+        "label1" : ""
       }
     },
     {
@@ -6248,7 +6385,8 @@
         "iiifUrl" : " ",
         "label" : "37-C.Tenes",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+37-C.Tenes",
+        "label1" : ""
       }
     },
     {
@@ -6293,7 +6431,8 @@
         "iiifUrl" : " ",
         "label" : "70-Takitount",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+70-Takitount",
+        "label1" : ""
       }
     },
     {
@@ -6338,7 +6477,8 @@
         "iiifUrl" : " ",
         "label" : "58-Cavaignac",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+58-Cavaignac",
+        "label1" : ""
       }
     },
     {
@@ -6383,7 +6523,8 @@
         "iiifUrl" : " ",
         "label" : "57-Cap Magroua",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+57-Cap Magroua",
+        "label1" : ""
       }
     },
     {
@@ -6544,7 +6685,8 @@
         "iiifUrl" : " ",
         "label" : "63-Blida",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+63-Blida",
+        "label1" : ""
       }
     },
     {
@@ -6589,7 +6731,8 @@
         "iiifUrl" : " ",
         "label" : "69-A.Roua",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+69-A.Roua",
+        "label1" : ""
       }
     },
     {
@@ -6634,7 +6777,8 @@
         "iiifUrl" : " ",
         "label" : "68-Akbou",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+68-Akbou",
+        "label1" : ""
       }
     },
     {
@@ -6679,7 +6823,8 @@
         "iiifUrl" : " ",
         "label" : "67-Tazmalt",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+67-Tazmalt",
+        "label1" : ""
       }
     },
     {
@@ -6724,7 +6869,8 @@
         "iiifUrl" : " ",
         "label" : "66-Bouira",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+66-Bouira",
+        "label1" : ""
       }
     },
     {
@@ -6769,7 +6915,8 @@
         "iiifUrl" : " ",
         "label" : "65-Ben Haroun",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+65-Ben Haroun",
+        "label1" : ""
       }
     },
     {
@@ -6814,7 +6961,8 @@
         "iiifUrl" : " ",
         "label" : "54-Tablat",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+54-Tablat",
+        "label1" : ""
       }
     },
     {
@@ -6859,7 +7007,8 @@
         "iiifUrl" : " ",
         "label" : "62-Marengo",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+62-Marengo",
+        "label1" : ""
       }
     },
     {
@@ -6904,7 +7053,8 @@
         "iiifUrl" : " ",
         "label" : "61-Marceau",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+61-Marceau",
+        "label1" : ""
       }
     },
     {
@@ -6949,7 +7099,8 @@
         "iiifUrl" : " ",
         "label" : "60-O.Damous",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+60-O.Damous",
+        "label1" : ""
       }
     },
     {
@@ -6994,7 +7145,8 @@
         "iiifUrl" : " ",
         "label" : "59-Tenes",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+59-Tenes",
+        "label1" : ""
       }
     },
     {
@@ -7039,7 +7191,8 @@
         "iiifUrl" : " ",
         "label" : "79-Sipi El Baroudi",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+79-Sipi El Baroudi",
+        "label1" : ""
       }
     },
     {
@@ -7084,7 +7237,8 @@
         "iiifUrl" : " ",
         "label" : "93-Setif",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+93-Setif",
+        "label1" : ""
       }
     },
     {
@@ -7129,7 +7283,8 @@
         "iiifUrl" : " ",
         "label" : "81-Warnier",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+81-Warnier",
+        "label1" : ""
       }
     },
     {
@@ -7174,7 +7329,8 @@
         "iiifUrl" : " ",
         "label" : "80-O.Kramis",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+80-O.Kramis",
+        "label1" : ""
       }
     },
     {
@@ -7219,7 +7375,8 @@
         "iiifUrl" : " ",
         "label" : "86-Medea",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+86-Medea",
+        "label1" : ""
       }
     },
     {
@@ -7264,7 +7421,8 @@
         "iiifUrl" : " ",
         "label" : "92-Le Bou Sellam",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+92-Le Bou Sellam",
+        "label1" : ""
       }
     },
     {
@@ -7309,7 +7467,8 @@
         "iiifUrl" : " ",
         "label" : "91-Bordj Boni",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+91-Bordj Boni",
+        "label1" : ""
       }
     },
     {
@@ -7354,7 +7513,8 @@
         "iiifUrl" : " ",
         "label" : "90-Beni Mansour",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+90-Beni Mansour",
+        "label1" : ""
       }
     },
     {
@@ -7399,7 +7559,8 @@
         "iiifUrl" : " ",
         "label" : "89-El Esnam",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+89-El Esnam",
+        "label1" : ""
       }
     },
     {
@@ -7435,7 +7596,7 @@
       "properties" : {
         "FID" : 161,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -7444,7 +7605,8 @@
         "iiifUrl" : " ",
         "label" : "88-A. Bessem",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -7489,7 +7651,8 @@
         "iiifUrl" : " ",
         "label" : "87-Beni Slimane",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+87-Beni Slimane",
+        "label1" : ""
       }
     },
     {
@@ -7534,7 +7697,8 @@
         "iiifUrl" : " ",
         "label" : "85-Vesoul Beniane",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+85-Vesoul Beniane",
+        "label1" : ""
       }
     },
     {
@@ -7579,7 +7743,8 @@
         "iiifUrl" : " ",
         "label" : "84-Miliana",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+84-Miliana",
+        "label1" : ""
       }
     },
     {
@@ -7624,7 +7789,8 @@
         "iiifUrl" : " ",
         "label" : "83-Carnot",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+83-Carnot",
+        "label1" : ""
       }
     },
     {
@@ -7669,7 +7835,8 @@
         "iiifUrl" : " ",
         "label" : "82-O.Fodda",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+82-O.Fodda",
+        "label1" : ""
       }
     },
     {
@@ -7714,7 +7881,8 @@
         "iiifUrl" : " ",
         "label" : "128-Mostaganem",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+128-Mostaganem",
+        "label1" : ""
       }
     },
     {
@@ -7759,7 +7927,8 @@
         "iiifUrl" : " ",
         "label" : "129-Bel Hacel",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+129-Bel Hacel",
+        "label1" : ""
       }
     },
     {
@@ -7804,7 +7973,8 @@
         "iiifUrl" : " ",
         "label" : "117-Mezloug",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+117-Mezloug",
+        "label1" : ""
       }
     },
     {
@@ -7849,7 +8019,8 @@
         "iiifUrl" : " ",
         "label" : "105-Charon",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+105-Charon",
+        "label1" : ""
       }
     },
     {
@@ -7894,7 +8065,8 @@
         "iiifUrl" : " ",
         "label" : "130-Inkermann",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+130-Inkermann",
+        "label1" : ""
       }
     },
     {
@@ -7939,7 +8111,8 @@
         "iiifUrl" : " ",
         "label" : "110-Berrouaghia",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+110-Berrouaghia",
+        "label1" : ""
       }
     },
     {
@@ -7984,7 +8157,8 @@
         "iiifUrl" : " ",
         "label" : "116-A.Tagrout",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+116-A.Tagrout",
+        "label1" : ""
       }
     },
     {
@@ -8029,7 +8203,8 @@
         "iiifUrl" : " ",
         "label" : "115-B.Bouarrerio",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+115-B.Bouarrerio",
+        "label1" : ""
       }
     },
     {
@@ -8074,7 +8249,8 @@
         "iiifUrl" : " ",
         "label" : "114-Mansourah",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+114-Mansourah",
+        "label1" : ""
       }
     },
     {
@@ -8119,7 +8295,8 @@
         "iiifUrl" : " ",
         "label" : "113-O.Okbis",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+113-O.Okbis",
+        "label1" : ""
       }
     },
     {
@@ -8164,7 +8341,8 @@
         "iiifUrl" : " ",
         "label" : "112-Aumale",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+112-Aumale",
+        "label1" : ""
       }
     },
     {
@@ -8209,7 +8387,8 @@
         "iiifUrl" : " ",
         "label" : "111-Souagui",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+111-Souagui",
+        "label1" : ""
       }
     },
     {
@@ -8254,7 +8433,8 @@
         "iiifUrl" : " ",
         "label" : "109-St. Madjoub",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+109-St. Madjoub",
+        "label1" : ""
       }
     },
     {
@@ -8299,7 +8479,8 @@
         "iiifUrl" : " ",
         "label" : "108-Pont Du Caid",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+108-Pont Du Caid",
+        "label1" : ""
       }
     },
     {
@@ -8344,7 +8525,8 @@
         "iiifUrl" : " ",
         "label" : "107-B. Bou Douanne",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+107-B. Bou Douanne",
+        "label1" : ""
       }
     },
     {
@@ -8389,7 +8571,8 @@
         "iiifUrl" : " ",
         "label" : "100-Orleansville",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+100-Orleansville",
+        "label1" : ""
       }
     },
     {
@@ -8434,7 +8617,8 @@
         "iiifUrl" : " ",
         "label" : "136-Boghar",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+136-Boghar",
+        "label1" : ""
       }
     },
     {
@@ -8470,7 +8654,7 @@
       "properties" : {
         "FID" : 184,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -8479,7 +8663,8 @@
         "iiifUrl" : " ",
         "label" : "142-Tocqueville",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -8515,7 +8700,7 @@
       "properties" : {
         "FID" : 185,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -8524,7 +8709,8 @@
         "iiifUrl" : " ",
         "label" : "141-Maadid",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -8560,7 +8746,7 @@
       "properties" : {
         "FID" : 186,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -8569,7 +8755,8 @@
         "iiifUrl" : " ",
         "label" : "138-Maginot",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -8614,7 +8801,8 @@
         "iiifUrl" : " ",
         "label" : "157-Zemmora",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+157-Zemmora",
+        "label1" : ""
       }
     },
     {
@@ -8659,7 +8847,8 @@
         "iiifUrl" : " ",
         "label" : "156-Relizane",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+156-Relizane",
+        "label1" : ""
       }
     },
     {
@@ -8704,7 +8893,8 @@
         "iiifUrl" : " ",
         "label" : "155-Debrousseville",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+155-Debrousseville",
+        "label1" : ""
       }
     },
     {
@@ -8749,7 +8939,8 @@
         "iiifUrl" : " ",
         "label" : "154-St.Cloud",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+154-St.Cloud",
+        "label1" : ""
       }
     },
     {
@@ -8794,7 +8985,8 @@
         "iiifUrl" : " ",
         "label" : "180-Lourmel",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+180-Lourmel",
+        "label1" : ""
       }
     },
     {
@@ -8839,7 +9031,8 @@
         "iiifUrl" : " ",
         "label" : "152-Les Andalouses",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+152-Les Andalouses",
+        "label1" : ""
       }
     },
     {
@@ -8875,7 +9068,7 @@
       "properties" : {
         "FID" : 193,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -8884,7 +9077,8 @@
         "iiifUrl" : " ",
         "label" : "168-Msila",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -8929,7 +9123,8 @@
         "iiifUrl" : " ",
         "label" : "179-Rio Salado",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+179-Rio Salado",
+        "label1" : ""
       }
     },
     {
@@ -8965,7 +9160,7 @@
       "properties" : {
         "FID" : 195,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -8974,7 +9169,8 @@
         "iiifUrl" : " ",
         "label" : "185-Izles Le Duc",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -9019,7 +9215,8 @@
         "iiifUrl" : " ",
         "label" : "184-A.Faress",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+184-A.Faress",
+        "label1" : ""
       }
     },
     {
@@ -9064,7 +9261,8 @@
         "iiifUrl" : " ",
         "label" : "183-Perregaux",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+183-Perregaux",
+        "label1" : ""
       }
     },
     {
@@ -9109,7 +9307,8 @@
         "iiifUrl" : " ",
         "label" : "132-St.Denis",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+132-St.Denis",
+        "label1" : ""
       }
     },
     {
@@ -9154,7 +9353,8 @@
         "iiifUrl" : " ",
         "label" : "131-Arbal",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+131-Arbal",
+        "label1" : ""
       }
     },
     {
@@ -9199,7 +9399,8 @@
         "iiifUrl" : " ",
         "label" : "180-Lourmel",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+180-Lourmel",
+        "label1" : ""
       }
     },
     {
@@ -9235,7 +9436,7 @@
       "properties" : {
         "FID" : 201,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -9244,7 +9445,8 @@
         "iiifUrl" : " ",
         "label" : "196-Bir Hanate",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -9289,7 +9491,8 @@
         "iiifUrl" : " ",
         "label" : "207-El Mokreum",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+207-El Mokreum",
+        "label1" : ""
       }
     },
     {
@@ -9334,7 +9537,8 @@
         "iiifUrl" : " ",
         "label" : "208-Beni Saf",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+208-Beni Saf",
+        "label1" : ""
       }
     },
     {
@@ -9370,7 +9574,7 @@
       "properties" : {
         "FID" : 204,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -9379,7 +9583,8 @@
         "iiifUrl" : " ",
         "label" : "216-Tiaret",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -9415,7 +9620,7 @@
       "properties" : {
         "FID" : 205,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -9424,7 +9629,8 @@
         "iiifUrl" : " ",
         "label" : "215-Prevost-Paradol",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -9460,7 +9666,7 @@
       "properties" : {
         "FID" : 206,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -9469,7 +9675,8 @@
         "iiifUrl" : " ",
         "label" : "214-Djilali Ben Amar",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -9514,7 +9721,8 @@
         "iiifUrl" : " ",
         "label" : "213-Palikao",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+213-Palikao",
+        "label1" : ""
       }
     },
     {
@@ -9559,7 +9767,8 @@
         "iiifUrl" : " ",
         "label" : "212-Mascara",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+212-Mascara",
+        "label1" : ""
       }
     },
     {
@@ -9604,7 +9813,8 @@
         "iiifUrl" : " ",
         "label" : "211-Bou Djebaa",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+211-Bou Djebaa",
+        "label1" : ""
       }
     },
     {
@@ -9649,7 +9859,8 @@
         "iiifUrl" : " ",
         "label" : "210-O.Imbert",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+210-O.Imbert",
+        "label1" : ""
       }
     },
     {
@@ -9694,7 +9905,8 @@
         "iiifUrl" : " ",
         "label" : "209-A.Temouchent",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+209-A.Temouchent",
+        "label1" : ""
       }
     },
     {
@@ -9739,7 +9951,8 @@
         "iiifUrl" : " ",
         "label" : "238-Memours",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+238-Memours",
+        "label1" : ""
       }
     },
     {
@@ -9784,7 +9997,8 @@
         "iiifUrl" : " ",
         "label" : "239-Pont De L'Isser",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+239-Pont De L'Isser",
+        "label1" : ""
       }
     },
     {
@@ -9820,7 +10034,7 @@
       "properties" : {
         "FID" : 214,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -9829,7 +10043,8 @@
         "iiifUrl" : " ",
         "label" : "245-Dominique Luciani",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -9874,7 +10089,8 @@
         "iiifUrl" : " ",
         "label" : "243-Taria",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+243-Taria",
+        "label1" : ""
       }
     },
     {
@@ -9919,7 +10135,8 @@
         "iiifUrl" : " ",
         "label" : "242-Mercier Lacombe",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+242-Mercier Lacombe",
+        "label1" : ""
       }
     },
     {
@@ -9964,7 +10181,8 @@
         "iiifUrl" : " ",
         "label" : "241-Sidi Bel Abbes",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+241-Sidi Bel Abbes",
+        "label1" : ""
       }
     },
     {
@@ -10009,7 +10227,8 @@
         "iiifUrl" : " ",
         "label" : "240-Paramentier",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+240-Paramentier",
+        "label1" : ""
       }
     },
     {
@@ -10054,7 +10273,8 @@
         "iiifUrl" : " ",
         "label" : "269-Nedroma",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+269-Nedroma",
+        "label1" : ""
       }
     },
     {
@@ -10090,7 +10310,7 @@
       "properties" : {
         "FID" : 220,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -10099,7 +10319,8 @@
         "iiifUrl" : " ",
         "label" : "300-Terni",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -10135,7 +10356,7 @@
       "properties" : {
         "FID" : 221,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -10144,7 +10365,8 @@
         "iiifUrl" : " ",
         "label" : "302-Le Telagh",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -10180,7 +10402,7 @@
       "properties" : {
         "FID" : 222,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -10189,7 +10411,8 @@
         "iiifUrl" : " ",
         "label" : "301-Beni Smiel",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -10225,7 +10448,7 @@
       "properties" : {
         "FID" : 223,
         "Id" : 0,
-        "available" : " ",
+        "available" : false,
         "recordIdentifier" : "G8240 s50 .F7",
         "title" : "Carte topographique de l'Algérie",
         "year" : "1883",
@@ -10234,7 +10457,8 @@
         "iiifUrl" : " ",
         "label" : "Environs De Bafsa",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : " ",
+        "label1" : ""
       }
     },
     {
@@ -10279,7 +10503,8 @@
         "iiifUrl" : " ",
         "label" : " ",
         "thumbnailUrl" : " ",
-        "note" : " "
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990144179470203941&sublib=MAP&collection=LC&callnum=G8240+s50+F7&title=Carte+topographique+de+l'Algérie&description=sheet+",
+        "label1" : ""
       }
     }
   ]
