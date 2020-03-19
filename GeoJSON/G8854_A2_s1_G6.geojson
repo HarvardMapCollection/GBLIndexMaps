@@ -1,0 +1,3353 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 0,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.216987361799968,
+              5.574817500556299
+            ],
+            [
+              -0.21699467902696112,
+              5.5692901476693244
+            ],
+            [
+              -0.20839717297352525,
+              5.5692786653358839
+            ],
+            [
+              -0.20838977542271156,
+              5.5748060067516869
+            ],
+            [
+              -0.216987361799968,
+              5.574817500556299
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 0,
+        "available" : false,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "60/37 P",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.21699467902696112,
+              5.5692901476693244
+            ],
+            [
+              -0.21700198887787767,
+              5.5637627937122565
+            ],
+            [
+              -0.20840456306729316,
+              5.5637513228497886
+            ],
+            [
+              -0.20839717297352525,
+              5.5692786653358839
+            ],
+            [
+              -0.21699467902696112,
+              5.5692901476693244
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 1,
+        "available" : true,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "60/37 U",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143893000203941&sublib=MAP&collection=LC&callnum=+G8854A2+s1+G6&title=Gold+Coast+Survey.+Accra&description=sheet+60/37 U"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.21700198887787767,
+              5.5637627937122565
+            ],
+            [
+              -0.21700929135305766,
+              5.5582354386861672
+            ],
+            [
+              -0.20841194570435917,
+              5.5582239792944526
+            ],
+            [
+              -0.20840456306729316,
+              5.5637513228497886
+            ],
+            [
+              -0.21700198887787767,
+              5.5637627937122565
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 2,
+        "available" : true,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "60/37 Z",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143893000203941&sublib=MAP&collection=LC&callnum=+G8854A2+s1+G6&title=Gold+Coast+Survey.+Accra&description=sheet+60/37 Z"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.21700929135305766,
+              5.5582354386861672
+            ],
+            [
+              -0.2170165864528405,
+              5.5527080825920461
+            ],
+            [
+              -0.20841932088506604,
+              5.5526966346708919
+            ],
+            [
+              -0.20841194570435917,
+              5.5582239792944526
+            ],
+            [
+              -0.21700929135305766,
+              5.5582354386861672
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 3,
+        "available" : true,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "60/39 E",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143893000203941&sublib=MAP&collection=LC&callnum=+G8854A2+s1+G6&title=Gold+Coast+Survey.+Accra&description=sheet+60/39 E"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.2170165864528405,
+              5.5527080825920461
+            ],
+            [
+              -0.21702387417756541,
+              5.5471807254309065
+            ],
+            [
+              -0.20842668860975699,
+              5.5471692889801139
+            ],
+            [
+              -0.20841932088506604,
+              5.5526966346708919
+            ],
+            [
+              -0.2170165864528405,
+              5.5527080825920461
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 4,
+        "available" : true,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "60/39 K",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143893000203941&sublib=MAP&collection=LC&callnum=+G8854A2+s1+G6&title=Gold+Coast+Survey.+Accra&description=sheet+60/39 K"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.21702387417756541,
+              5.5471807254309065
+            ],
+            [
+              -0.21703115452757135,
+              5.5416533672038009
+            ],
+            [
+              -0.20843404887877456,
+              5.5416419422231575
+            ],
+            [
+              -0.20842668860975699,
+              5.5471692889801139
+            ],
+            [
+              -0.21702387417756541,
+              5.5471807254309065
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 5,
+        "available" : true,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "60/39 P",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143893000203941&sublib=MAP&collection=LC&callnum=+G8854A2+s1+G6&title=Gold+Coast+Survey.+Accra&description=sheet+60/39 P"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.21703115452757135,
+              5.5416533672038009
+            ],
+            [
+              -0.21703842750319671,
+              5.536126007911732
+            ],
+            [
+              -0.20844140169246078,
+              5.5361145944010355
+            ],
+            [
+              -0.20843404887877456,
+              5.5416419422231575
+            ],
+            [
+              -0.21703115452757135,
+              5.5416533672038009
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 6,
+        "available" : true,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "60/39 U",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143893000203941&sublib=MAP&collection=LC&callnum=+G8854A2+s1+G6&title=Gold+Coast+Survey.+Accra&description=sheet+60/39 U"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.21703842750319671,
+              5.536126007911732
+            ],
+            [
+              -0.21704569310477995,
+              5.5305986475557285
+            ],
+            [
+              -0.20844874705115804,
+              5.5305872455147691
+            ],
+            [
+              -0.20844140169246078,
+              5.5361145944010355
+            ],
+            [
+              -0.21703842750319671,
+              5.536126007911732
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 7,
+        "available" : true,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "60/39 Z",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143893000203941&sublib=MAP&collection=LC&callnum=+G8854A2+s1+G6&title=Gold+Coast+Survey.+Accra&description=sheet+60/39 Z"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.20838977542271156,
+              5.5748060067516869
+            ],
+            [
+              -0.20839717297352525,
+              5.5692786653358839
+            ],
+            [
+              -0.19979968412859428,
+              5.5692670576440175
+            ],
+            [
+              -0.19979220625478683,
+              5.5747943874634114
+            ],
+            [
+              -0.20838977542271156,
+              5.5748060067516869
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 8,
+        "available" : false,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "60/38 L",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.20839717297352525,
+              5.5692786653358839
+            ],
+            [
+              -0.20840456306729316,
+              5.5637513228497886
+            ],
+            [
+              -0.19980715446438752,
+              5.5637397267541218
+            ],
+            [
+              -0.19979968412859428,
+              5.5692670576440175
+            ],
+            [
+              -0.20839717297352525,
+              5.5692786653358839
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 9,
+        "available" : true,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "60/38 Q",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143893000203941&sublib=MAP&collection=LC&callnum=+G8854A2+s1+G6&title=Gold+Coast+Survey.+Accra&description=sheet+60/38 Q"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.20840456306729316,
+              5.5637513228497886
+            ],
+            [
+              -0.20841194570435917,
+              5.5582239792944526
+            ],
+            [
+              -0.19981461726251407,
+              5.5582123947947908
+            ],
+            [
+              -0.19980715446438752,
+              5.5637397267541218
+            ],
+            [
+              -0.20840456306729316,
+              5.5637513228497886
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 10,
+        "available" : true,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "60/38 V",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143893000203941&sublib=MAP&collection=LC&callnum=+G8854A2+s1+G6&title=Gold+Coast+Survey.+Accra&description=sheet+60/38 V"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.20841194570435917,
+              5.5582239792944526
+            ],
+            [
+              -0.20841932088506604,
+              5.5526966346708919
+            ],
+            [
+              -0.19982207252332054,
+              5.5526850617670149
+            ],
+            [
+              -0.19981461726251407,
+              5.5582123947947908
+            ],
+            [
+              -0.20841194570435917,
+              5.5582239792944526
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 11,
+        "available" : true,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "60/40 A",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143893000203941&sublib=MAP&collection=LC&callnum=+G8854A2+s1+G6&title=Gold+Coast+Survey.+Accra&description=sheet+60/40 A"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.20841932088506604,
+              5.5526966346708919
+            ],
+            [
+              -0.20842668860975699,
+              5.5471692889801139
+            ],
+            [
+              -0.1998295202471537,
+              5.547157727671812
+            ],
+            [
+              -0.19982207252332054,
+              5.5526850617670149
+            ],
+            [
+              -0.20841932088506604,
+              5.5526966346708919
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 12,
+        "available" : true,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "60/40 F",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143893000203941&sublib=MAP&collection=LC&callnum=+G8854A2+s1+G6&title=Gold+Coast+Survey.+Accra&description=sheet+60/40 F"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.20842668860975699,
+              5.5471692889801139
+            ],
+            [
+              -0.20843404887877456,
+              5.5416419422231575
+            ],
+            [
+              -0.19983696043436031,
+              5.5416303925102355
+            ],
+            [
+              -0.1998295202471537,
+              5.547157727671812
+            ],
+            [
+              -0.20842668860975699,
+              5.5471692889801139
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 13,
+        "available" : true,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "60/40 L",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143893000203941&sublib=MAP&collection=LC&callnum=+G8854A2+s1+G6&title=Gold+Coast+Survey.+Accra&description=sheet+60/40 L"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.20843404887877456,
+              5.5416419422231575
+            ],
+            [
+              -0.20844140169246078,
+              5.5361145944010355
+            ],
+            [
+              -0.19984439308528573,
+              5.5361030562832774
+            ],
+            [
+              -0.19983696043436031,
+              5.5416303925102355
+            ],
+            [
+              -0.20843404887877456,
+              5.5416419422231575
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 14,
+        "available" : true,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "60/40 Q",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143893000203941&sublib=MAP&collection=LC&callnum=+G8854A2+s1+G6&title=Gold+Coast+Survey.+Accra&description=sheet+60/40 Q"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.19979220625478683,
+              5.5747943874634114
+            ],
+            [
+              -0.19979968412859428,
+              5.5692670576440175
+            ],
+            [
+              -0.1912022144941839,
+              5.569255324597477
+            ],
+            [
+              -0.19119465629823562,
+              5.5747826426952196
+            ],
+            [
+              -0.19979220625478683,
+              5.5747943874634114
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 15,
+        "available" : false,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "60/38 M",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.19979968412859428,
+              5.5692670576440175
+            ],
+            [
+              -0.19980715446438752,
+              5.5637397267541218
+            ],
+            [
+              -0.1912097650711502,
+              5.5637280054290077
+            ],
+            [
+              -0.1912022144941839,
+              5.569255324597477
+            ],
+            [
+              -0.19979968412859428,
+              5.5692670576440175
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 16,
+        "available" : true,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "60/38 R",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143893000203941&sublib=MAP&collection=LC&callnum=+G8854A2+s1+G6&title=Gold+Coast+Survey.+Accra&description=sheet+60/38 R"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.19980715446438752,
+              5.5637397267541218
+            ],
+            [
+              -0.19981461726251407,
+              5.5582123947947908
+            ],
+            [
+              -0.19121730802948622,
+              5.5582006851908989
+            ],
+            [
+              -0.1912097650711502,
+              5.5637280054290077
+            ],
+            [
+              -0.19980715446438752,
+              5.5637397267541218
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 17,
+        "available" : true,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "60/38 W",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143893000203941&sublib=MAP&collection=LC&callnum=+G8854A2+s1+G6&title=Gold+Coast+Survey.+Accra&description=sheet+60/38 W"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.19981461726251407,
+              5.5582123947947908
+            ],
+            [
+              -0.19982207252332054,
+              5.5526850617670149
+            ],
+            [
+              -0.19122484336954207,
+              5.5526733638841383
+            ],
+            [
+              -0.19121730802948622,
+              5.5582006851908989
+            ],
+            [
+              -0.19981461726251407,
+              5.5582123947947908
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 18,
+        "available" : true,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "60/40 B",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143893000203941&sublib=MAP&collection=LC&callnum=+G8854A2+s1+G6&title=Gold+Coast+Survey.+Accra&description=sheet+60/40 B"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 19,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.19982207252332054,
+              5.5526850617670149
+            ],
+            [
+              -0.1998295202471537,
+              5.547157727671812
+            ],
+            [
+              -0.19123237109166821,
+              5.547146041509742
+            ],
+            [
+              -0.19122484336954207,
+              5.5526733638841383
+            ],
+            [
+              -0.19982207252332054,
+              5.5526850617670149
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 19,
+        "available" : true,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "60/40 G",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143893000203941&sublib=MAP&collection=LC&callnum=+G8854A2+s1+G6&title=Gold+Coast+Survey.+Accra&description=sheet+60/40 G"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 20,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.1998295202471537,
+              5.547157727671812
+            ],
+            [
+              -0.19983696043436031,
+              5.5416303925102355
+            ],
+            [
+              -0.19123989119621507,
+              5.5416187180687571
+            ],
+            [
+              -0.19123237109166821,
+              5.547146041509742
+            ],
+            [
+              -0.1998295202471537,
+              5.547157727671812
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 20,
+        "available" : true,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "60/40 M",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143893000203941&sublib=MAP&collection=LC&callnum=+G8854A2+s1+G6&title=Gold+Coast+Survey.+Accra&description=sheet+60/40 M"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 21,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.19119465629823562,
+              5.5747826426952196
+            ],
+            [
+              -0.1912022144941839,
+              5.569255324597477
+            ],
+            [
+              -0.1826047633642448,
+              5.5692434661963564
+            ],
+            [
+              -0.18259712484700943,
+              5.5747707724472306
+            ],
+            [
+              -0.19119465629823562,
+              5.5747826426952196
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 21,
+        "available" : false,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "60/38 N",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 22,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.1912022144941839,
+              5.569255324597477
+            ],
+            [
+              -0.1912097650711502,
+              5.5637280054290077
+            ],
+            [
+              -0.18261239418153177,
+              5.5637161588745538
+            ],
+            [
+              -0.1826047633642448,
+              5.5692434661963564
+            ],
+            [
+              -0.1912022144941839,
+              5.569255324597477
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 22,
+        "available" : true,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "60/38 S",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143893000203941&sublib=MAP&collection=LC&callnum=+G8854A2+s1+G6&title=Gold+Coast+Survey.+Accra&description=sheet+60/38 S"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 23,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.1912097650711502,
+              5.5637280054290077
+            ],
+            [
+              -0.19121730802948622,
+              5.5582006851908989
+            ],
+            [
+              -0.18262001729922511,
+              5.5581888504828925
+            ],
+            [
+              -0.18261239418153177,
+              5.5637161588745538
+            ],
+            [
+              -0.1912097650711502,
+              5.5637280054290077
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 23,
+        "available" : true,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "60/38 X",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143893000203941&sublib=MAP&collection=LC&callnum=+G8854A2+s1+G6&title=Gold+Coast+Survey.+Accra&description=sheet+60/38 X"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 24,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.19121730802948622,
+              5.5582006851908989
+            ],
+            [
+              -0.19122484336954207,
+              5.5526733638841383
+            ],
+            [
+              -0.18262763271767959,
+              5.5526615410223705
+            ],
+            [
+              -0.18262001729922511,
+              5.5581888504828925
+            ],
+            [
+              -0.19121730802948622,
+              5.5582006851908989
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 24,
+        "available" : true,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "60/40 C",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143893000203941&sublib=MAP&collection=LC&callnum=+G8854A2+s1+G6&title=Gold+Coast+Survey.+Accra&description=sheet+60/40 C"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 25,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.19122484336954207,
+              5.5526733638841383
+            ],
+            [
+              -0.19123237109166821,
+              5.547146041509742
+            ],
+            [
+              -0.1826352404372486,
+              5.5471342304940059
+            ],
+            [
+              -0.18262763271767959,
+              5.5526615410223705
+            ],
+            [
+              -0.19122484336954207,
+              5.5526733638841383
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 25,
+        "available" : true,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "60/40 H",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143893000203941&sublib=MAP&collection=LC&callnum=+G8854A2+s1+G6&title=Gold+Coast+Survey.+Accra&description=sheet+60/40 H"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 26,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.19123237109166821,
+              5.547146041509742
+            ],
+            [
+              -0.19123989119621507,
+              5.5416187180687571
+            ],
+            [
+              -0.18264284045828674,
+              5.5416069188988333
+            ],
+            [
+              -0.1826352404372486,
+              5.5471342304940059
+            ],
+            [
+              -0.19123237109166821,
+              5.547146041509742
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 26,
+        "available" : true,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "60/40 N",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143893000203941&sublib=MAP&collection=LC&callnum=+G8854A2+s1+G6&title=Gold+Coast+Survey.+Accra&description=sheet+60/40 N"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 27,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.18259712484700943,
+              5.5747707724472306
+            ],
+            [
+              -0.1826047633642448,
+              5.5692434661963564
+            ],
+            [
+              -0.17400733003276347,
+              5.5692314824407214
+            ],
+            [
+              -0.17399961119509533,
+              5.5747587767194977
+            ],
+            [
+              -0.18259712484700943,
+              5.5747707724472306
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 27,
+        "available" : false,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "60/38 O",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 28,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.1826047633642448,
+              5.5692434661963564
+            ],
+            [
+              -0.18261239418153177,
+              5.5637161588745538
+            ],
+            [
+              -0.17401504108951774,
+              5.5637041870908206
+            ],
+            [
+              -0.17400733003276347,
+              5.5692314824407214
+            ],
+            [
+              -0.1826047633642448,
+              5.5692434661963564
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 28,
+        "available" : true,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "60/38 T",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143893000203941&sublib=MAP&collection=LC&callnum=+G8854A2+s1+G6&title=Gold+Coast+Survey.+Accra&description=sheet+60/38 T"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 29,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.18261239418153177,
+              5.5637161588745538
+            ],
+            [
+              -0.18262001729922511,
+              5.5581888504828925
+            ],
+            [
+              -0.17402274436571627,
+              5.5581768906708335
+            ],
+            [
+              -0.17401504108951774,
+              5.5637041870908206
+            ],
+            [
+              -0.18261239418153177,
+              5.5637161588745538
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 29,
+        "available" : true,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "60/38 Y",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143893000203941&sublib=MAP&collection=LC&callnum=+G8854A2+s1+G6&title=Gold+Coast+Survey.+Accra&description=sheet+60/38 Y"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 30,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.18262001729922511,
+              5.5581888504828925
+            ],
+            [
+              -0.18262763271767959,
+              5.5526615410223705
+            ],
+            [
+              -0.17403043986171754,
+              5.5526495931817843
+            ],
+            [
+              -0.17402274436571627,
+              5.5581768906708335
+            ],
+            [
+              -0.18262001729922511,
+              5.5581888504828925
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 30,
+        "available" : false,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "60/40 D",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 31,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.18262763271767959,
+              5.5526615410223705
+            ],
+            [
+              -0.1826352404372486,
+              5.5471342304940059
+            ],
+            [
+              -0.17403812757787868,
+              5.5471222946246606
+            ],
+            [
+              -0.17403043986171754,
+              5.5526495931817843
+            ],
+            [
+              -0.18262763271767959,
+              5.5526615410223705
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 31,
+        "available" : true,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "60/40 J",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143893000203941&sublib=MAP&collection=LC&callnum=+G8854A2+s1+G6&title=Gold+Coast+Survey.+Accra&description=sheet+60/40 J"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 32,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.1826352404372486,
+              5.5471342304940059
+            ],
+            [
+              -0.18264284045828674,
+              5.5416069188988333
+            ],
+            [
+              -0.17404580751455812,
+              5.5415949950005334
+            ],
+            [
+              -0.17403812757787868,
+              5.5471222946246606
+            ],
+            [
+              -0.1826352404372486,
+              5.5471342304940059
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 32,
+        "available" : true,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "60/40 O",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143893000203941&sublib=MAP&collection=LC&callnum=+G8854A2+s1+G6&title=Gold+Coast+Survey.+Accra&description=sheet+60/40 O"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 33,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.17399961119509533,
+              5.5747587767194977
+            ],
+            [
+              -0.17400733003276347,
+              5.5692314824407214
+            ],
+            [
+              -0.16540991650172771,
+              5.5692193733344473
+            ],
+            [
+              -0.16540211734450674,
+              5.5747466555158844
+            ],
+            [
+              -0.17399961119509533,
+              5.5747587767194977
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 33,
+        "available" : false,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "60/38 P",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 34,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.17400733003276347,
+              5.5692314824407214
+            ],
+            [
+              -0.17401504108951774,
+              5.5637041870908206
+            ],
+            [
+              -0.16541770779706988,
+              5.5636920900816618
+            ],
+            [
+              -0.16540991650172771,
+              5.5692193733344473
+            ],
+            [
+              -0.17400733003276347,
+              5.5692314824407214
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 34,
+        "available" : false,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "60/38 U",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 35,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.17401504108951774,
+              5.5637041870908206
+            ],
+            [
+              -0.17402274436571627,
+              5.5581768906708335
+            ],
+            [
+              -0.16542549123089537,
+              5.5581648057585786
+            ],
+            [
+              -0.16541770779706988,
+              5.5636920900816618
+            ],
+            [
+              -0.17401504108951774,
+              5.5637041870908206
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 35,
+        "available" : true,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "60/38 Z",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143893000203941&sublib=MAP&collection=LC&callnum=+G8854A2+s1+G6&title=Gold+Coast+Survey.+Accra&description=sheet+60/38 Z"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 36,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.17402274436571627,
+              5.5581768906708335
+            ],
+            [
+              -0.17403043986171754,
+              5.5526495931817843
+            ],
+            [
+              -0.1654332668035659,
+              5.5526375203662184
+            ],
+            [
+              -0.16542549123089537,
+              5.5581648057585786
+            ],
+            [
+              -0.17402274436571627,
+              5.5581768906708335
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 36,
+        "available" : true,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "60/40 E",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143893000203941&sublib=MAP&collection=LC&callnum=+G8854A2+s1+G6&title=Gold+Coast+Survey.+Accra&description=sheet+60/40 E"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 37,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.17403043986171754,
+              5.5526495931817843
+            ],
+            [
+              -0.17403812757787868,
+              5.5471222946246606
+            ],
+            [
+              -0.16544103451544306,
+              5.5471102339055625
+            ],
+            [
+              -0.1654332668035659,
+              5.5526375203662184
+            ],
+            [
+              -0.17403043986171754,
+              5.5526495931817843
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 37,
+        "available" : true,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "60/40 K",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143893000203941&sublib=MAP&collection=LC&callnum=+G8854A2+s1+G6&title=Gold+Coast+Survey.+Accra&description=sheet+60/40 K"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 38,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.16540991650172771,
+              5.5692193733344473
+            ],
+            [
+              -0.16541770779706988,
+              5.5636920900816618
+            ],
+            [
+              -0.156820393598158,
+              5.5636798678471902
+            ],
+            [
+              -0.15681252206510768,
+              5.5692071388776414
+            ],
+            [
+              -0.16540991650172771,
+              5.5692193733344473
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 38,
+        "available" : false,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "60/43 Q",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 39,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.16541770779706988,
+              5.5636920900816618
+            ],
+            [
+              -0.16542549123089537,
+              5.5581648057585786
+            ],
+            [
+              -0.15682825718873117,
+              5.5581525957462343
+            ],
+            [
+              -0.156820393598158,
+              5.5636798678471902
+            ],
+            [
+              -0.16541770779706988,
+              5.5636920900816618
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 39,
+        "available" : false,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "60/43 V",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 40,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.16542549123089537,
+              5.5581648057585786
+            ],
+            [
+              -0.1654332668035659,
+              5.5526375203662184
+            ],
+            [
+              -0.15683611283719318,
+              5.5526253225757731
+            ],
+            [
+              -0.15682825718873117,
+              5.5581525957462343
+            ],
+            [
+              -0.16542549123089537,
+              5.5581648057585786
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 40,
+        "available" : false,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "60/45 A",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 41,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.1654332668035659,
+              5.5526375203662184
+            ],
+            [
+              -0.16544103451544306,
+              5.5471102339055625
+            ],
+            [
+              -0.15684396054390884,
+              5.5470980483368226
+            ],
+            [
+              -0.15683611283719318,
+              5.5526253225757731
+            ],
+            [
+              -0.1654332668035659,
+              5.5526375203662184
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 41,
+        "available" : false,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "60/45 F",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 42,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.25029116930339179,
+              5.5695737631968623
+            ],
+            [
+              -0.25029816868723076,
+              5.5640463660429447
+            ],
+            [
+              -0.24170067110658966,
+              5.5640353797161808
+            ],
+            [
+              -0.24169359147323202,
+              5.5695627658841387
+            ],
+            [
+              -0.25029116930339179,
+              5.5695737631968623
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 42,
+        "available" : false,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "60/37 Q",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 43,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.25029816868723076,
+              5.5640463660429447
+            ],
+            [
+              -0.25030516100889194,
+              5.5585189678207056
+            ],
+            [
+              -0.24170774359680064,
+              5.5585079924797034
+            ],
+            [
+              -0.24170067110658966,
+              5.5640353797161808
+            ],
+            [
+              -0.25029816868723076,
+              5.5640463660429447
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 43,
+        "available" : false,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "60/37 V",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 44,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.25030516100889194,
+              5.5585189678207056
+            ],
+            [
+              -0.25031214626870069,
+              5.5529915685311488
+            ],
+            [
+              -0.24171480894419398,
+              5.5529806041757128
+            ],
+            [
+              -0.24170774359680064,
+              5.5585079924797034
+            ],
+            [
+              -0.25030516100889194,
+              5.5585189678207056
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 44,
+        "available" : false,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "60/39 A",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 45,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.25031214626870069,
+              5.5529915685311488
+            ],
+            [
+              -0.25031912446698201,
+              5.5474641681753312
+            ],
+            [
+              -0.24172186714909824,
+              5.547453214805266
+            ],
+            [
+              -0.24171480894419398,
+              5.5529806041757128
+            ],
+            [
+              -0.25031214626870069,
+              5.5529915685311488
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 45,
+        "available" : false,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "60/39 F",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 46,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.25031912446698201,
+              5.5474641681753312
+            ],
+            [
+              -0.25032609560405983,
+              5.5419367667542501
+            ],
+            [
+              -0.24172891821184156,
+              5.5419258243693745
+            ],
+            [
+              -0.24172186714909824,
+              5.547453214805266
+            ],
+            [
+              -0.25031912446698201,
+              5.5474641681753312
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 46,
+        "available" : false,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "60/39 L",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 47,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.25032609560405983,
+              5.5419367667542501
+            ],
+            [
+              -0.25033305968139774,
+              5.5364093633645082
+            ],
+            [
+              -0.24173596213390375,
+              5.5363984319646029
+            ],
+            [
+              -0.24172891821184156,
+              5.5419258243693745
+            ],
+            [
+              -0.25032609560405983,
+              5.5419367667542501
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 47,
+        "available" : false,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "60/39 Q",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 48,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.25033305968139774,
+              5.5364093633645082
+            ],
+            [
+              -0.25034001669704042,
+              5.5308819598159582
+            ],
+            [
+              -0.24174299891330714,
+              5.5308710394008473
+            ],
+            [
+              -0.24173596213390375,
+              5.5363984319646029
+            ],
+            [
+              -0.25033305968139774,
+              5.5364093633645082
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 48,
+        "available" : false,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "60/39 V",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 49,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.25034001669704042,
+              5.5308819598159582
+            ],
+            [
+              -0.25034696665245132,
+              5.5253545552052366
+            ],
+            [
+              -0.24175002855153224,
+              5.5253436457747229
+            ],
+            [
+              -0.24174299891330714,
+              5.5308710394008473
+            ],
+            [
+              -0.25034001669704042,
+              5.5308819598159582
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 49,
+        "available" : false,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "60/41 A",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 50,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.24169359147323202,
+              5.5695627658841387
+            ],
+            [
+              -0.24170067110658966,
+              5.5640353797161808
+            ],
+            [
+              -0.23310319087475034,
+              5.5640242681470999
+            ],
+            [
+              -0.23309603099267362,
+              5.5695516432038596
+            ],
+            [
+              -0.24169359147323202,
+              5.5695627658841387
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 50,
+        "available" : false,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "60/37 R",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 51,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.24170067110658966,
+              5.5640353797161808
+            ],
+            [
+              -0.24170774359680064,
+              5.5585079924797034
+            ],
+            [
+              -0.23311034353271232,
+              5.5584968920216271
+            ],
+            [
+              -0.23310319087475034,
+              5.5640242681470999
+            ],
+            [
+              -0.24170067110658966,
+              5.5640353797161808
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 51,
+        "available" : true,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "60/37 W",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143893000203941&sublib=MAP&collection=LC&callnum=+G8854A2+s1+G6&title=Gold+Coast+Survey.+Accra&description=sheet+60/37 W"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 52,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.24170774359680064,
+              5.5585079924797034
+            ],
+            [
+              -0.24171480894419398,
+              5.5529806041757128
+            ],
+            [
+              -0.23311748896689219,
+              5.5529695148284368
+            ],
+            [
+              -0.23311034353271232,
+              5.5584968920216271
+            ],
+            [
+              -0.24170774359680064,
+              5.5585079924797034
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 52,
+        "available" : true,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "60/39 B",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143893000203941&sublib=MAP&collection=LC&callnum=+G8854A2+s1+G6&title=Gold+Coast+Survey.+Accra&description=sheet+60/39 B"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 53,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.24171480894419398,
+              5.5529806041757128
+            ],
+            [
+              -0.24172186714909824,
+              5.547453214805266
+            ],
+            [
+              -0.23312462717762245,
+              5.5474421365685966
+            ],
+            [
+              -0.23311748896689219,
+              5.5529695148284368
+            ],
+            [
+              -0.24171480894419398,
+              5.5529806041757128
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 53,
+        "available" : true,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "60/39 G",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143893000203941&sublib=MAP&collection=LC&callnum=+G8854A2+s1+G6&title=Gold+Coast+Survey.+Accra&description=sheet+60/39 G"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 54,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.24172186714909824,
+              5.547453214805266
+            ],
+            [
+              -0.24172891821184156,
+              5.5419258243693745
+            ],
+            [
+              -0.23313175816523474,
+              5.5419147572430987
+            ],
+            [
+              -0.23312462717762245,
+              5.5474421365685966
+            ],
+            [
+              -0.24172186714909824,
+              5.547453214805266
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 54,
+        "available" : true,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "60/39 M",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143893000203941&sublib=MAP&collection=LC&callnum=+G8854A2+s1+G6&title=Gold+Coast+Survey.+Accra&description=sheet+60/39 M"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 55,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.24172891821184156,
+              5.5419258243693745
+            ],
+            [
+              -0.24173596213390375,
+              5.5363984319646029
+            ],
+            [
+              -0.23313888193122589,
+              5.5363873759485482
+            ],
+            [
+              -0.23313175816523474,
+              5.5419147572430987
+            ],
+            [
+              -0.24172891821184156,
+              5.5419258243693745
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 55,
+        "available" : false,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "60/39 R",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 56,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.24173596213390375,
+              5.5363984319646029
+            ],
+            [
+              -0.24174299891330714,
+              5.5308710394008473
+            ],
+            [
+              -0.23314599847359566,
+              5.5308599944947998
+            ],
+            [
+              -0.23313888193122589,
+              5.5363873759485482
+            ],
+            [
+              -0.24173596213390375,
+              5.5363984319646029
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 56,
+        "available" : false,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "60/39 W",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 57,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.24174299891330714,
+              5.5308710394008473
+            ],
+            [
+              -0.24175002855153224,
+              5.5253436457747229
+            ],
+            [
+              -0.23315310779384105,
+              5.5253326119784871
+            ],
+            [
+              -0.23314599847359566,
+              5.5308599944947998
+            ],
+            [
+              -0.24174299891330714,
+              5.5308710394008473
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 57,
+        "available" : true,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "60/41 B",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143893000203941&sublib=MAP&collection=LC&callnum=+G8854A2+s1+G6&title=Gold+Coast+Survey.+Accra&description=sheet+60/41 B"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 58,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.2330888638861493,
+              5.5750790171909035
+            ],
+            [
+              -0.23309603099267362,
+              5.5695516432038596
+            ],
+            [
+              -0.22449848715569332,
+              5.5695403951560856
+            ],
+            [
+              -0.22449123972027921,
+              5.5750677579064947
+            ],
+            [
+              -0.2330888638861493,
+              5.5750790171909035
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 58,
+        "available" : false,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "60/37 N",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 59,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.23309603099267362,
+              5.5695516432038596
+            ],
+            [
+              -0.23310319087475034,
+              5.5640242681470999
+            ],
+            [
+              -0.22450572728568916,
+              5.564013031335759
+            ],
+            [
+              -0.22449848715569332,
+              5.5695403951560856
+            ],
+            [
+              -0.23309603099267362,
+              5.5695516432038596
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 59,
+        "available" : false,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "60/37 S",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 60,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.23310319087475034,
+              5.5640242681470999
+            ],
+            [
+              -0.23311034353271232,
+              5.5584968920216271
+            ],
+            [
+              -0.22451296011060284,
+              5.5584856664465132
+            ],
+            [
+              -0.22450572728568916,
+              5.564013031335759
+            ],
+            [
+              -0.23310319087475034,
+              5.5640242681470999
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 60,
+        "available" : true,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "60/37 X",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143893000203941&sublib=MAP&collection=LC&callnum=+G8854A2+s1+G6&title=Gold+Coast+Survey.+Accra&description=sheet+60/37 X"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 61,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.23311034353271232,
+              5.5584968920216271
+            ],
+            [
+              -0.23311748896689219,
+              5.5529695148284368
+            ],
+            [
+              -0.22452018563077095,
+              5.5529583004893635
+            ],
+            [
+              -0.22451296011060284,
+              5.5584856664465132
+            ],
+            [
+              -0.23311034353271232,
+              5.5584968920216271
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 61,
+        "available" : true,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "60/39 C",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143893000203941&sublib=MAP&collection=LC&callnum=+G8854A2+s1+G6&title=Gold+Coast+Survey.+Accra&description=sheet+60/39 C"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 62,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.23311748896689219,
+              5.5529695148284368
+            ],
+            [
+              -0.23312462717762245,
+              5.5474421365685966
+            ],
+            [
+              -0.22452740384652947,
+              5.5474309334653542
+            ],
+            [
+              -0.22452018563077095,
+              5.5529583004893635
+            ],
+            [
+              -0.23311748896689219,
+              5.5529695148284368
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 62,
+        "available" : true,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "60/39 H",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143893000203941&sublib=MAP&collection=LC&callnum=+G8854A2+s1+G6&title=Gold+Coast+Survey.+Accra&description=sheet+60/39 H"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 63,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.23312462717762245,
+              5.5474421365685966
+            ],
+            [
+              -0.23313175816523474,
+              5.5419147572430987
+            ],
+            [
+              -0.22453461475821385,
+              5.5419035653754989
+            ],
+            [
+              -0.22452740384652947,
+              5.5474309334653542
+            ],
+            [
+              -0.23312462717762245,
+              5.5474421365685966
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 63,
+        "available" : true,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "60/39 N",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143893000203941&sublib=MAP&collection=LC&callnum=+G8854A2+s1+G6&title=Gold+Coast+Survey.+Accra&description=sheet+60/39 N"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 64,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.23313175816523474,
+              5.5419147572430987
+            ],
+            [
+              -0.23313888193122589,
+              5.5363873759485482
+            ],
+            [
+              -0.2245418183673378,
+              5.536376195316385
+            ],
+            [
+              -0.22453461475821385,
+              5.5419035653754989
+            ],
+            [
+              -0.23313175816523474,
+              5.5419147572430987
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 64,
+        "available" : true,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "60/39 S",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143893000203941&sublib=MAP&collection=LC&callnum=+G8854A2+s1+G6&title=Gold+Coast+Survey.+Accra&description=sheet+60/39 S"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 65,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.23313888193122589,
+              5.5363873759485482
+            ],
+            [
+              -0.23314599847359566,
+              5.5308599944947998
+            ],
+            [
+              -0.22454901467187868,
+              5.5308488250978662
+            ],
+            [
+              -0.2245418183673378,
+              5.536376195316385
+            ],
+            [
+              -0.23313888193122589,
+              5.5363873759485482
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 65,
+        "available" : true,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "60/39 X",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143893000203941&sublib=MAP&collection=LC&callnum=+G8854A2+s1+G6&title=Gold+Coast+Survey.+Accra&description=sheet+60/39 X"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 66,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.23314599847359566,
+              5.5308599944947998
+            ],
+            [
+              -0.23315310779384105,
+              5.5253326119784871
+            ],
+            [
+              -0.22455620367335016,
+              5.5253214538165869
+            ],
+            [
+              -0.22454901467187868,
+              5.5308488250978662
+            ],
+            [
+              -0.23314599847359566,
+              5.5308599944947998
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 66,
+        "available" : true,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "60/41 C",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143893000203941&sublib=MAP&collection=LC&callnum=+G8854A2+s1+G6&title=Gold+Coast+Survey.+Accra&description=sheet+60/41 C"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 67,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.22449123972027921,
+              5.5750677579064947
+            ],
+            [
+              -0.22449848715569332,
+              5.5695403951560856
+            ],
+            [
+              -0.21699467902696112,
+              5.5692901476693244
+            ],
+            [
+              -0.216987361799968,
+              5.574817500556299
+            ],
+            [
+              -0.22449123972027921,
+              5.5750677579064947
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 67,
+        "available" : false,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "60/37 O",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 68,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.22449848715569332,
+              5.5695403951560856
+            ],
+            [
+              -0.22450572728568916,
+              5.564013031335759
+            ],
+            [
+              -0.22450572728568916,
+              5.564013031335759
+            ],
+            [
+              -0.21700198887787767,
+              5.5637627937122565
+            ],
+            [
+              -0.21699467902696112,
+              5.5692901476693244
+            ],
+            [
+              -0.22449848715569332,
+              5.5695403951560856
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 68,
+        "available" : true,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "60/37 T",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143893000203941&sublib=MAP&collection=LC&callnum=+G8854A2+s1+G6&title=Gold+Coast+Survey.+Accra&description=sheet+60/37 T"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 69,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.22450572728568916,
+              5.564013031335759
+            ],
+            [
+              -0.22451296011060284,
+              5.5584856664465132
+            ],
+            [
+              -0.21700929135305766,
+              5.5582354386861672
+            ],
+            [
+              -0.21700198887787767,
+              5.5637627937122565
+            ],
+            [
+              -0.22450572728568916,
+              5.564013031335759
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 69,
+        "available" : true,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "60/37 Y",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143893000203941&sublib=MAP&collection=LC&callnum=+G8854A2+s1+G6&title=Gold+Coast+Survey.+Accra&description=sheet+60/37 Y"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 70,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.22451296011060284,
+              5.5584856664465132
+            ],
+            [
+              -0.22452018563077095,
+              5.5529583004893635
+            ],
+            [
+              -0.2170165864528405,
+              5.5527080825920461
+            ],
+            [
+              -0.21700929135305766,
+              5.5582354386861672
+            ],
+            [
+              -0.22451296011060284,
+              5.5584856664465132
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 70,
+        "available" : true,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "60/39 D",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143893000203941&sublib=MAP&collection=LC&callnum=+G8854A2+s1+G6&title=Gold+Coast+Survey.+Accra&description=sheet+60/39 D"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 71,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.22452018563077095,
+              5.5529583004893635
+            ],
+            [
+              -0.22452740384652947,
+              5.5474309334653542
+            ],
+            [
+              -0.21702387417756541,
+              5.5471807254309065
+            ],
+            [
+              -0.2170165864528405,
+              5.5527080825920461
+            ],
+            [
+              -0.22452018563077095,
+              5.5529583004893635
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 71,
+        "available" : true,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "60/39 J",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143893000203941&sublib=MAP&collection=LC&callnum=+G8854A2+s1+G6&title=Gold+Coast+Survey.+Accra&description=sheet+60/39 J"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 72,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.22452740384652947,
+              5.5474309334653542
+            ],
+            [
+              -0.22453461475821385,
+              5.5419035653754989
+            ],
+            [
+              -0.21703115452757135,
+              5.5416533672038009
+            ],
+            [
+              -0.21702387417756541,
+              5.5471807254309065
+            ],
+            [
+              -0.22452740384652947,
+              5.5474309334653542
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 72,
+        "available" : true,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "60/39 O",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143893000203941&sublib=MAP&collection=LC&callnum=+G8854A2+s1+G6&title=Gold+Coast+Survey.+Accra&description=sheet+60/39 O"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 73,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.22453461475821385,
+              5.5419035653754989
+            ],
+            [
+              -0.2245418183673378,
+              5.536376195316385
+            ],
+            [
+              -0.21703842750319671,
+              5.536126007911732
+            ],
+            [
+              -0.21703115452757135,
+              5.5416533672038009
+            ],
+            [
+              -0.22453461475821385,
+              5.5419035653754989
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 73,
+        "available" : true,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "60/39 T",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143893000203941&sublib=MAP&collection=LC&callnum=+G8854A2+s1+G6&title=Gold+Coast+Survey.+Accra&description=sheet+60/39 T"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 74,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.2245418183673378,
+              5.536376195316385
+            ],
+            [
+              -0.22454901467187868,
+              5.5308488250978662
+            ],
+            [
+              -0.21704569310477995,
+              5.5305986475557285
+            ],
+            [
+              -0.21703842750319671,
+              5.536126007911732
+            ],
+            [
+              -0.2245418183673378,
+              5.536376195316385
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 74,
+        "available" : true,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "60/39 Y",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143893000203941&sublib=MAP&collection=LC&callnum=+G8854A2+s1+G6&title=Gold+Coast+Survey.+Accra&description=sheet+60/39 Y"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 75,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.22454901467187868,
+              5.5308488250978662
+            ],
+            [
+              -0.22455620367335016,
+              5.5253214538165869
+            ],
+            [
+              -0.2169710271396468,
+              5.5250759146488075
+            ],
+            [
+              -0.21704569310477995,
+              5.5305986475557285
+            ],
+            [
+              -0.22454901467187868,
+              5.5308488250978662
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 75,
+        "available" : true,
+        "recordIdentifier" : " G8854.A2 s1 .G6",
+        "title" : "Gold Coast Survey. Accra",
+        "year" : "[1922-?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143893000203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "60/41 D",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143893000203941&sublib=MAP&collection=LC&callnum=+G8854A2+s1+G6&title=Gold+Coast+Survey.+Accra&description=sheet+60/41 D"
+      }
+    }
+  ]
+}
