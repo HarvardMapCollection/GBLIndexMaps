@@ -1,0 +1,781 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 0,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              32.254738704428746,
+              34.890937355044514
+            ],
+            [
+              32.258403035176173,
+              34.666889703623724
+            ],
+            [
+              32.586610023246976,
+              34.670815814283401
+            ],
+            [
+              32.579986699218182,
+              34.894860620134921
+            ],
+            [
+              32.254738704428746,
+              34.890937355044514
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 0,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7450s 50 .G7",
+        "title" : "Cyprus 1:50,000",
+        "year" : "1942-1943",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050174900203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "2",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050174900203941&sublib=MAP&collection=LC&callnum=G7450s+50+G7&title=Cyprus+1:50,000&description=sheet+2"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              32.579986699000074,
+              34.894860620000031
+            ],
+            [
+              32.571523249000052,
+              35.181150714000069
+            ],
+            [
+              32.250074922000067,
+              35.176094359000047
+            ],
+            [
+              32.254738704000033,
+              34.890937355000062
+            ],
+            [
+              32.579986699000074,
+              34.894860620000031
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 1,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7450s 50 .G7",
+        "title" : "Cyprus 1:50,000",
+        "year" : "1942-1943",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050174900203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "1",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050174900203941&sublib=MAP&collection=LC&callnum=G7450s+50+G7&title=Cyprus+1:50,000&description=sheet+1"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              33.008241213384849,
+              35.239978179769025
+            ],
+            [
+              33.004001949677502,
+              35.428998273068487
+            ],
+            [
+              32.844863832072633,
+              35.428317225489423
+            ],
+            [
+              32.848433023581379,
+              35.239744940777371
+            ],
+            [
+              33.008241213384849,
+              35.239978179769025
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 2,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7450s 50 .G7",
+        "title" : "Cyprus 1:50,000",
+        "year" : "1942-1943",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050174900203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050174900203941&sublib=MAP&collection=LC&callnum=G7450s+50+G7&title=Cyprus+1:50,000&description=sheet+3"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              33.008241213384849,
+              35.239978179769025
+            ],
+            [
+              33.434367049608113,
+              35.24060010759689
+            ],
+            [
+              33.429938781745307,
+              35.43082111257803
+            ],
+            [
+              33.004001949677502,
+              35.428998273068487
+            ],
+            [
+              33.008241213384849,
+              35.239978179769025
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 3,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7450s 50 .G7",
+        "title" : "Cyprus 1:50,000",
+        "year" : "1942-1943",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050174900203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "7",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050174900203941&sublib=MAP&collection=LC&callnum=G7450s+50+G7&title=Cyprus+1:50,000&description=sheet+7"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              33.847716630904131,
+              35.241203388565339
+            ],
+            [
+              33.845665131124804,
+              35.432600255300088
+            ],
+            [
+              33.429938781745307,
+              35.43082111257803
+            ],
+            [
+              33.434367049608113,
+              35.24060010759689
+            ],
+            [
+              33.847716630904131,
+              35.241203388565339
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 4,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7450s 50 .G7",
+        "title" : "Cyprus 1:50,000",
+        "year" : "1942-1943",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050174900203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "11",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050174900203941&sublib=MAP&collection=LC&callnum=G7450s+50+G7&title=Cyprus+1:50,000&description=sheet+11"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              34.289518881289553,
+              35.445687290832154
+            ],
+            [
+              34.28953177003649,
+              35.484866107735058
+            ],
+            [
+              34.063147867057751,
+              35.483758666925439
+            ],
+            [
+              33.845427185024278,
+              35.482568936422524
+            ],
+            [
+              33.845665131124804,
+              35.432600255300088
+            ],
+            [
+              33.847716630904131,
+              35.241203388565339
+            ],
+            [
+              34.15269987345431,
+              35.241648509582205
+            ],
+            [
+              34.29011374654101,
+              35.242243374833663
+            ],
+            [
+              34.289518881289553,
+              35.445687290832154
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 5,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7450s 50 .G7",
+        "title" : "Cyprus 1:50,000",
+        "year" : "1942-1943",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050174900203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "14",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050174900203941&sublib=MAP&collection=LC&callnum=G7450s+50+G7&title=Cyprus+1:50,000&description=sheet+14"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              33.851341137065788,
+              34.903051208452382
+            ],
+            [
+              34.151629116001629,
+              34.905430669458212
+            ],
+            [
+              34.15269987345431,
+              35.241648509582205
+            ],
+            [
+              33.847716630904131,
+              35.241203388565339
+            ],
+            [
+              33.851341137065788,
+              34.903051208452382
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 6,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7450s 50 .G7",
+        "title" : "Cyprus 1:50,000",
+        "year" : "1942-1943",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050174900203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "15",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050174900203941&sublib=MAP&collection=LC&callnum=G7450s+50+G7&title=Cyprus+1:50,000&description=sheet+15"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              33.850102318150448,
+              35.018628144541594
+            ],
+            [
+              33.847716630904131,
+              35.241203388565339
+            ],
+            [
+              33.434367049608113,
+              35.24060010759689
+            ],
+            [
+              33.439607873009152,
+              35.015474906235909
+            ],
+            [
+              33.850102318150448,
+              35.018628144541594
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 7,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7450s 50 .G7",
+        "title" : "Cyprus 1:50,000",
+        "year" : "1942-1943",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050174900203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "12",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050174900203941&sublib=MAP&collection=LC&callnum=G7450s+50+G7&title=Cyprus+1:50,000&description=sheet+12"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              33.439607873009152,
+              35.015474906235909
+            ],
+            [
+              33.445880981672417,
+              34.746006782067582
+            ],
+            [
+              33.548673697124173,
+              34.746958566469971
+            ],
+            [
+              33.549149589325339,
+              34.7950236787878
+            ],
+            [
+              33.851341137065788,
+              34.796927247592407
+            ],
+            [
+              33.851341137065788,
+              34.903051208452382
+            ],
+            [
+              33.850102318150448,
+              35.018628144541594
+            ],
+            [
+              33.439607873009152,
+              35.015474906235909
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 8,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7450s 50 .G7",
+        "title" : "Cyprus 1:50,000",
+        "year" : "1942-1943",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050174900203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "13",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050174900203941&sublib=MAP&collection=LC&callnum=G7450s+50+G7&title=Cyprus+1:50,000&description=sheet+13"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              33.439607873009152,
+              35.015474906235909
+            ],
+            [
+              33.434367049608113,
+              35.24060010759689
+            ],
+            [
+              33.008241213384849,
+              35.239978179769025
+            ],
+            [
+              33.013357898794425,
+              35.011835648363444
+            ],
+            [
+              33.439607873009152,
+              35.015474906235909
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 9,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7450s 50 .G7",
+        "title" : "Cyprus 1:50,000",
+        "year" : "1942-1943",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050174900203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "8",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050174900203941&sublib=MAP&collection=LC&callnum=G7450s+50+G7&title=Cyprus+1:50,000&description=sheet+8"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              33.013357899000027,
+              35.011835648000044
+            ],
+            [
+              33.008241213000076,
+              35.239978180000037
+            ],
+            [
+              32.571523249000052,
+              35.238555210000072
+            ],
+            [
+              32.576638853000077,
+              35.008107007000035
+            ],
+            [
+              33.013357899000027,
+              35.011835648000044
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 10,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7450s 50 .G7",
+        "title" : "Cyprus 1:50,000",
+        "year" : "1942-1943",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050174900203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "4",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050174900203941&sublib=MAP&collection=LC&callnum=G7450s+50+G7&title=Cyprus+1:50,000&description=sheet+4"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              33.44477590337118,
+              34.793476608094011
+            ],
+            [
+              33.439607873009152,
+              35.015474906235909
+            ],
+            [
+              33.013357898794425,
+              35.011835648363444
+            ],
+            [
+              33.018350811751816,
+              34.78921187731379
+            ],
+            [
+              33.44477590337118,
+              34.793476608094011
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 11,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G7450s 50 .G7",
+        "title" : "Cyprus 1:50,000",
+        "year" : "1942-1943",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050174900203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "9",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              33.018350811751816,
+              34.78921187731379
+            ],
+            [
+              33.023507732002486,
+              34.559275356678825
+            ],
+            [
+              33.4487363348793,
+              34.563740069021037
+            ],
+            [
+              33.445880981672417,
+              34.746006782067582
+            ],
+            [
+              33.44477590337118,
+              34.793476608094011
+            ],
+            [
+              33.018350811751816,
+              34.78921187731379
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 12,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G7450s 50 .G7",
+        "title" : "Cyprus 1:50,000",
+        "year" : "1942-1943",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050174900203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "10",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              33.018350811751816,
+              34.78921187731379
+            ],
+            [
+              33.013357898794425,
+              35.011835648363444
+            ],
+            [
+              32.576638853177258,
+              35.008107007141007
+            ],
+            [
+              32.583238584437936,
+              34.784860265400823
+            ],
+            [
+              33.018350811751816,
+              34.78921187731379
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 13,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7450s 50 .G7",
+        "title" : "Cyprus 1:50,000",
+        "year" : "1942-1943",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050174900203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "5",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050174900203941&sublib=MAP&collection=LC&callnum=G7450s+50+G7&title=Cyprus+1:50,000&description=sheet+5"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              32.583238584000071,
+              34.784860265000077
+            ],
+            [
+              32.587561808000032,
+              34.554698117000044
+            ],
+            [
+              33.023507732000041,
+              34.559275357000047
+            ],
+            [
+              33.018350812000051,
+              34.789211877000071
+            ],
+            [
+              32.583238584000071,
+              34.784860265000077
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 14,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7450s 50 .G7",
+        "title" : "Cyprus 1:50,000",
+        "year" : "1942-1943",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050174900203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "6",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050174900203941&sublib=MAP&collection=LC&callnum=G7450s+50+G7&title=Cyprus+1:50,000&description=sheet+6"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              34.289518881289553,
+              35.445687290832154
+            ],
+            [
+              34.3433789725986,
+              35.445315500049958
+            ],
+            [
+              34.3433789725986,
+              35.485171471897445
+            ],
+            [
+              34.469787838533307,
+              35.484576606646158
+            ],
+            [
+              34.470680136410522,
+              35.594924110791567
+            ],
+            [
+              34.588166023573365,
+              35.595518976043024
+            ],
+            [
+              34.588760888824822,
+              35.69724093404227
+            ],
+            [
+              34.061363271303378,
+              35.700289618455997
+            ],
+            [
+              34.063147867057751,
+              35.483758666925439
+            ],
+            [
+              34.28953177003649,
+              35.484866107735058
+            ],
+            [
+              34.289518881289553,
+              35.445687290832154
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 15,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7450s 50 .G7",
+        "title" : "Cyprus 1:50,000",
+        "year" : "1942-1943",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050174900203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "16",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050174900203941&sublib=MAP&collection=LC&callnum=G7450s+50+G7&title=Cyprus+1:50,000&description=sheet+16"
+      }
+    }
+  ]
+}
