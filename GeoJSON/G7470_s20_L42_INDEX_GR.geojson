@@ -1,0 +1,5529 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 0,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.751929274618533,
+              34.0830945779079
+            ],
+            [
+              35.751898497859941,
+              34.168327401370618
+            ],
+            [
+              35.626230288049726,
+              34.167167479645741
+            ],
+            [
+              35.62616782948129,
+              34.082031583928142
+            ],
+            [
+              35.751929274618533,
+              34.0830945779079
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 0,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Jbail (N-5)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Jbail (N-5)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.503413792884714,
+              34.173565832548206
+            ],
+            [
+              36.502936501433908,
+              34.109847423879899
+            ],
+            [
+              36.502783645425723,
+              34.089441146802358
+            ],
+            [
+              36.627031612232372,
+              34.089442985251935
+            ],
+            [
+              36.627505641343475,
+              34.173574344451879
+            ],
+            [
+              36.503413792884714,
+              34.173565832548206
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 1,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Zemrani (N-12)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Zemrani (N-12)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.503053191638116,
+              33.582682546365959
+            ],
+            [
+              35.502807596283901,
+              33.667097385523675
+            ],
+            [
+              35.377480150767099,
+              33.665817515073172
+            ],
+            [
+              35.378095057046437,
+              33.581273043010697
+            ],
+            [
+              35.503053191638116,
+              33.582682546365959
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 2,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Chhim (H-3)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Chhim (H-3)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.256893471377794,
+              33.082252064040119
+            ],
+            [
+              35.256509490161932,
+              33.16599613904873
+            ],
+            [
+              35.129354361465346,
+              33.164486236401558
+            ],
+            [
+              35.090331200969672,
+              33.164295879521092
+            ],
+            [
+              35.090331200969672,
+              33.080538852115808
+            ],
+            [
+              35.256893471377794,
+              33.082252064040119
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 3,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Naqoura (B-1)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Naqoura (B-1)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.75216807327439,
+              33.421768156273458
+            ],
+            [
+              35.876622287724388,
+              33.423260714558239
+            ],
+            [
+              35.876617921131583,
+              33.506984876492822
+            ],
+            [
+              35.752343633446117,
+              33.505759995093854
+            ],
+            [
+              35.752137745356265,
+              33.505757965804548
+            ],
+            [
+              35.75216807327439,
+              33.421768156273458
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 4,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Beit Lahia (F-6)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Beit Lahia (F-6)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.378671063469426,
+              33.502076975953514
+            ],
+            [
+              35.378095057046437,
+              33.581273043010697
+            ],
+            [
+              35.254355379638241,
+              33.580554822112504
+            ],
+            [
+              35.254714236202972,
+              33.501046561635178
+            ],
+            [
+              35.378671063469426,
+              33.502076975953514
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 5,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Saida (G-2)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Saida (G-2)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.628838348872705,
+              33.33749290178082
+            ],
+            [
+              35.628828216630609,
+              33.255854475015212
+            ],
+            [
+              35.75291176662256,
+              33.25699650769343
+            ],
+            [
+              35.752197928320811,
+              33.339087912394575
+            ],
+            [
+              35.628838348872705,
+              33.33749290178082
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 6,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Kfar Chouba (D-5)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Kfar Chouba (D-5)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.752197928320811,
+              33.339087912394575
+            ],
+            [
+              35.876548560485674,
+              33.339944518356731
+            ],
+            [
+              35.876622287724388,
+              33.423260714558239
+            ],
+            [
+              35.75216807327439,
+              33.421768156273458
+            ],
+            [
+              35.752197928320811,
+              33.339087912394575
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 7,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Haramoun (E-6)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Haramoun (E-6)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.379088706251139,
+              33.417293878703504
+            ],
+            [
+              35.378671063469426,
+              33.502076975953514
+            ],
+            [
+              35.254714236202972,
+              33.501046561635178
+            ],
+            [
+              35.255098961202577,
+              33.415806890721342
+            ],
+            [
+              35.379088706251139,
+              33.417293878703504
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 8,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Sarafand (F-2)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Sarafand (F-2)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.503530029139483,
+              33.4187862823822
+            ],
+            [
+              35.62884862482008,
+              33.420289207044618
+            ],
+            [
+              35.628859081645544,
+              33.504542897548276
+            ],
+            [
+              35.50328413099129,
+              33.503305196459053
+            ],
+            [
+              35.503530029139483,
+              33.4187862823822
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 9,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Kfar Houne (F-4)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Kfar Houne (F-4)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.379497688095626,
+              33.334268985145115
+            ],
+            [
+              35.379088706251139,
+              33.417293878703504
+            ],
+            [
+              35.255098961202577,
+              33.415806890721342
+            ],
+            [
+              35.234241002602289,
+              33.415757318617068
+            ],
+            [
+              35.233479575080366,
+              33.332381004972774
+            ],
+            [
+              35.379497688095626,
+              33.334268985145115
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 10,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "El Zrariye (E-2)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+El Zrariye (E-2)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.503771247700342,
+              33.335875813309372
+            ],
+            [
+              35.628838348872534,
+              33.33749290178082
+            ],
+            [
+              35.62884862482008,
+              33.420289207044618
+            ],
+            [
+              35.503530029139483,
+              33.4187862823822
+            ],
+            [
+              35.503771247700342,
+              33.335875813309372
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 11,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Marjayoun (E-4)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Marjayoun (E-4)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.504009088454211,
+              33.254126347606757
+            ],
+            [
+              35.628828216630609,
+              33.255854475015212
+            ],
+            [
+              35.628838348872534,
+              33.33749290178082
+            ],
+            [
+              35.503771247700342,
+              33.335875813309372
+            ],
+            [
+              35.504009088454211,
+              33.254126347606757
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 12,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "El Khiam (D-4)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+El Khiam (D-4)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.256121134176738,
+              33.250694325813924
+            ],
+            [
+              35.255745266453346,
+              33.332668895173299
+            ],
+            [
+              35.233479575080366,
+              33.332381004972774
+            ],
+            [
+              35.129164004584766,
+              33.331429220570556
+            ],
+            [
+              35.129258065383738,
+              33.248937899939847
+            ],
+            [
+              35.256121134176738,
+              33.250694325813924
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 13,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Sour (D-1)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Sour (D-1)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.504256934201521,
+              33.168938014263688
+            ],
+            [
+              35.628817612897819,
+              33.170417109133211
+            ],
+            [
+              35.628828216630609,
+              33.255854475015212
+            ],
+            [
+              35.504009088454211,
+              33.254126347606757
+            ],
+            [
+              35.504256934201521,
+              33.168938014263688
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 14,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Meiss Ej Jabal (C-4)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Meiss Ej Jabal (C-4)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.256509490161932,
+              33.16599613904873
+            ],
+            [
+              35.256121134176851,
+              33.250694325814038
+            ],
+            [
+              35.129258065383851,
+              33.248937899939961
+            ],
+            [
+              35.129354361465346,
+              33.164486236401558
+            ],
+            [
+              35.256509490161932,
+              33.16599613904873
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 15,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Rachdiye (C-1)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Rachdiye (C-1)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.381142773909858,
+              33.000310212966667
+            ],
+            [
+              35.503976702223099,
+              33.001921460483061
+            ],
+            [
+              35.504500183644495,
+              33.085329500274213
+            ],
+            [
+              35.380731545275069,
+              33.083791213654706
+            ],
+            [
+              35.381142773909858,
+              33.000310212966667
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 16,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Yaroun (A-3)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Yaroun (A-3)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.381142773909858,
+              33.000310212966667
+            ],
+            [
+              35.380731545275069,
+              33.083791213654706
+            ],
+            [
+              35.25689347137768,
+              33.082252064040006
+            ],
+            [
+              35.25727418513867,
+              32.998685393515245
+            ],
+            [
+              35.381142773909858,
+              33.000310212966667
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 17,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Rmaick (A-2)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Rmaick (A-2)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.504500183644495,
+              33.085329500274213
+            ],
+            [
+              35.628807192357442,
+              33.086455778483582
+            ],
+            [
+              35.628817612897819,
+              33.170417109133211
+            ],
+            [
+              35.504256934201521,
+              33.168938014263688
+            ],
+            [
+              35.504500183644495,
+              33.085329500274213
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 18,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Blida (B-4)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Blida (B-4)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 19,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.627491659107307,
+              33.749721551496748
+            ],
+            [
+              35.627030243028116,
+              33.832453384606879
+            ],
+            [
+              35.456089022467097,
+              33.831026293006914
+            ],
+            [
+              35.455511790884373,
+              33.76661355327667
+            ],
+            [
+              35.443279378430191,
+              33.76661355327667
+            ],
+            [
+              35.443279378430191,
+              33.747339919129502
+            ],
+            [
+              35.627491659107307,
+              33.749721551496748
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 19,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Aaley (J-4)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Aaley (J-4)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 20,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.50328413099129,
+              33.50330519645928
+            ],
+            [
+              35.628859081645544,
+              33.504542897548447
+            ],
+            [
+              35.628415390752252,
+              33.584096607490153
+            ],
+            [
+              35.503053191638116,
+              33.582682546365959
+            ],
+            [
+              35.50328413099129,
+              33.50330519645928
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 20,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Jezzine (G-4)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Jezzine (G-4)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 21,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.502807596283901,
+              33.667097385523675
+            ],
+            [
+              35.502571909506969,
+              33.748106496746516
+            ],
+            [
+              35.443279378430191,
+              33.747339919129502
+            ],
+            [
+              35.376892416367639,
+              33.746626080827809
+            ],
+            [
+              35.377480150767099,
+              33.665817515073172
+            ],
+            [
+              35.502807596283901,
+              33.667097385523675
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 21,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Damour (I-3)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Damour (I-3)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 22,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.627030243027889,
+              33.832453384606879
+            ],
+            [
+              35.626582405986881,
+              33.912750498223943
+            ],
+            [
+              35.502012619879565,
+              33.911452075003979
+            ],
+            [
+              35.455137238064708,
+              33.910976182802756
+            ],
+            [
+              35.456089022467097,
+              33.831026293006914
+            ],
+            [
+              35.627030243027889,
+              33.832453384606879
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 22,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Beyrouth (K-4)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Beyrouth (K-4)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 23,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.626582405986881,
+              33.912750498223943
+            ],
+            [
+              35.751990312236501,
+              33.914057657387616
+            ],
+            [
+              35.751959516336797,
+              33.999343489977718
+            ],
+            [
+              35.626106270255661,
+              33.99812156268024
+            ],
+            [
+              35.626582405986881,
+              33.912750498223943
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 23,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Bikfaiya (L-5)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Bikfaiya (L-5)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 24,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.751959516336626,
+              33.999343489977718
+            ],
+            [
+              35.751929274618533,
+              34.0830945779079
+            ],
+            [
+              35.62616782948129,
+              34.082031583928142
+            ],
+            [
+              35.626106270255661,
+              33.99812156268024
+            ],
+            [
+              35.751959516336626,
+              33.999343489977718
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 24,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Ghazir (M-5)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Ghazir (M-5)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 25,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.002040664585934,
+              34.586301486084722
+            ],
+            [
+              36.00225979375108,
+              34.67056964693063
+            ],
+            [
+              35.875770207400933,
+              34.669783109084392
+            ],
+            [
+              35.876116012810485,
+              34.585323537645309
+            ],
+            [
+              36.002040664585934,
+              34.586301486084722
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 25,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Cheikh Zennad (T-7)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Cheikh Zennad (T-7)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 26,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.001821449860643,
+              34.502000422368155
+            ],
+            [
+              36.002040664585934,
+              34.586301486084722
+            ],
+            [
+              35.876116012810485,
+              34.585323537645309
+            ],
+            [
+              35.876017093929761,
+              34.500969091274044
+            ],
+            [
+              36.001821449860643,
+              34.502000422368155
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 26,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "El Aabde (S-7)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+El Aabde (S-7)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 27,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.252865290503053,
+              34.672127962625495
+            ],
+            [
+              36.379278516020179,
+              34.672914025644445
+            ],
+            [
+              36.379278603192063,
+              34.754693978891794
+            ],
+            [
+              36.253167169883056,
+              34.754693978891794
+            ],
+            [
+              36.252865290503053,
+              34.672127962625495
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 27,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "El Bqaiaa (U-10)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+El Bqaiaa (U-10)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 28,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.876094911787504,
+              34.416802995730848
+            ],
+            [
+              36.001603203913305,
+              34.418071911140203
+            ],
+            [
+              36.001821449860813,
+              34.502000422368155
+            ],
+            [
+              35.876017093929761,
+              34.500969091274044
+            ],
+            [
+              35.876094911787504,
+              34.416802995730848
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 28,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "El Minie (R-7)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+El Minie (R-7)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 29,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.628918971614553,
+              34.42441420638437
+            ],
+            [
+              36.629379347091515,
+              34.506122299287938
+            ],
+            [
+              36.505904931566761,
+              34.506132846598177
+            ],
+            [
+              36.50528344376454,
+              34.423164225018297
+            ],
+            [
+              36.628918971614553,
+              34.42441420638437
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 29,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Joussie (R-12)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Joussie (R-12)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 30,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.75183826703875,
+              34.335129987894732
+            ],
+            [
+              35.751809229425362,
+              34.41554644116485
+            ],
+            [
+              35.626411634418048,
+              34.414356710661934
+            ],
+            [
+              35.626352962678936,
+              34.3343825583745
+            ],
+            [
+              35.75183826703875,
+              34.335129987894732
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 30,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Enfe (Q-5)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Enfe (Q-5)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 31,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.628445328376017,
+              34.340351332325895
+            ],
+            [
+              36.628918971614553,
+              34.42441420638437
+            ],
+            [
+              36.50528344376454,
+              34.423164225018297
+            ],
+            [
+              36.505268767825839,
+              34.421204987209705
+            ],
+            [
+              36.504657599488041,
+              34.339614014093627
+            ],
+            [
+              36.628445328376017,
+              34.340351332325895
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 31,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "El Qaa (Q-12)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+El Qaa (Q-12)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 32,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.751868983773306,
+              34.250063394777953
+            ],
+            [
+              35.75183826703892,
+              34.335129987894732
+            ],
+            [
+              35.626352962678936,
+              34.3343825583745
+            ],
+            [
+              35.626290263019257,
+              34.248918036474493
+            ],
+            [
+              35.751868983773306,
+              34.250063394777953
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 32,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Batroun (P-5)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Batroun (P-5)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 33,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.627981633472189,
+              34.258054102853123
+            ],
+            [
+              36.628445328376017,
+              34.340351332325895
+            ],
+            [
+              36.504657599488041,
+              34.339614014093627
+            ],
+            [
+              36.504200322878376,
+              34.278567586698898
+            ],
+            [
+              36.504038196081979,
+              34.256923659380561
+            ],
+            [
+              36.627981633472189,
+              34.258054102853123
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 33,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Haouerie (P-12)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Haouerie (P-12)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 34,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.751898497859941,
+              34.168327401370618
+            ],
+            [
+              35.751868983773306,
+              34.250063394777953
+            ],
+            [
+              35.626290263019257,
+              34.248918036474493
+            ],
+            [
+              35.626230288049726,
+              34.167167479645741
+            ],
+            [
+              35.751898497859941,
+              34.168327401370618
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 34,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Bejje (O-5)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Bejje (O-5)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 35,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.627505641343475,
+              34.173574344451879
+            ],
+            [
+              36.627981633472189,
+              34.258054102853123
+            ],
+            [
+              36.504038196081979,
+              34.256923659380561
+            ],
+            [
+              36.503642190116352,
+              34.204056862980792
+            ],
+            [
+              36.503506730163963,
+              34.185972959336539
+            ],
+            [
+              36.503413792884714,
+              34.173565832548206
+            ],
+            [
+              36.627505641343475,
+              34.173574344451879
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 35,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Halime (O-12)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Halime (O-12)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 36,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.37658882116159,
+              34.08837448970155
+            ],
+            [
+              36.502783645425893,
+              34.089441146802358
+            ],
+            [
+              36.503413792884885,
+              34.173565832548206
+            ],
+            [
+              36.376978069672191,
+              34.172968153928878
+            ],
+            [
+              36.37658882116159,
+              34.08837448970155
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 36,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Atneine (N-11)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Atneine (N-11)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 37,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.37543997785491,
+              33.838701434329948
+            ],
+            [
+              36.499970463029911,
+              33.839741068940725
+            ],
+            [
+              36.501049559989781,
+              33.921865296387637
+            ],
+            [
+              36.375816640929486,
+              33.920559961161075
+            ],
+            [
+              36.37543997785491,
+              33.838701434329948
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 37,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "(K-11)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+(K-11)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 38,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.376207043348131,
+              34.005404399150677
+            ],
+            [
+              36.502163317185762,
+              34.006627326759428
+            ],
+            [
+              36.502783645425893,
+              34.089441146802358
+            ],
+            [
+              36.376588821161761,
+              34.08837448970155
+            ],
+            [
+              36.376207043348131,
+              34.005404399150677
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 38,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Talaat Roussa (M-11)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Talaat Roussa (M-11)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 39,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.378893444725918,
+              34.589228177427117
+            ],
+            [
+              36.506534793824358,
+              34.590219457977582
+            ],
+            [
+              36.507160185298119,
+              34.673709219743898
+            ],
+            [
+              36.379278516020236,
+              34.672914025644332
+            ],
+            [
+              36.378893444725918,
+              34.589228177427117
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 39,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Hnaider (T-11)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Hnaider (T-11)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 40,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.378506284936009,
+              34.505088445673834
+            ],
+            [
+              36.505904931566761,
+              34.506132846598177
+            ],
+            [
+              36.506534793824358,
+              34.590219457977582
+            ],
+            [
+              36.378893444725918,
+              34.589228177427117
+            ],
+            [
+              36.378506284936009,
+              34.505088445673834
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 40,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : " ",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 41,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.378123403961979,
+              34.421878610090005
+            ],
+            [
+              36.505283443764711,
+              34.423164225018297
+            ],
+            [
+              36.505904931566761,
+              34.506132846598177
+            ],
+            [
+              36.378506284936179,
+              34.505088445673834
+            ],
+            [
+              36.378123403961979,
+              34.421878610090005
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 41,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "El Qasr (R-11)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+El Qasr (R-11)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 42,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.377741393972144,
+              34.338858061681151
+            ],
+            [
+              36.504657599488212,
+              34.339614014093627
+            ],
+            [
+              36.505283443764711,
+              34.423164225018297
+            ],
+            [
+              36.378123403961979,
+              34.421878610090005
+            ],
+            [
+              36.377741393972144,
+              34.338858061681151
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 42,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Hermel (Q-11)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Hermel (Q-11)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 43,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.377359065342034,
+              34.255768264633957
+            ],
+            [
+              36.504038196082149,
+              34.256923659380561
+            ],
+            [
+              36.504657599488212,
+              34.339614014093627
+            ],
+            [
+              36.377741393971917,
+              34.338858061681151
+            ],
+            [
+              36.377359065342034,
+              34.255768264633957
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 43,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Ras Baalbek (P-11)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Ras Baalbek (P-11)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 44,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.376978069672191,
+              34.172968153928878
+            ],
+            [
+              36.503413792884885,
+              34.173565832548206
+            ],
+            [
+              36.504038196082149,
+              34.256923659380561
+            ],
+            [
+              36.377359065342034,
+              34.255768264633957
+            ],
+            [
+              36.376978069672191,
+              34.172968153928878
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 44,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Aarsal (O-11)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Aarsal (O-11)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 45,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.250869906400908,
+              34.08731185520827
+            ],
+            [
+              36.37658882116159,
+              34.08837448970155
+            ],
+            [
+              36.376978069672191,
+              34.172968153928878
+            ],
+            [
+              36.251216049532331,
+              34.172373659994435
+            ],
+            [
+              36.250869906400908,
+              34.08731185520827
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 45,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Rasm el Hadeth (N-10)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Rasm el Hadeth (N-10)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 46,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.249853966257717,
+              33.83765298772596
+            ],
+            [
+              36.37543997785491,
+              33.838701434329948
+            ],
+            [
+              36.375816640929486,
+              33.920559961161075
+            ],
+            [
+              36.250186012018219,
+              33.919250480501319
+            ],
+            [
+              36.249853966257717,
+              33.83765298772596
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 46,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Tfaie (K-10)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Tfaie (K-10)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 47,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.250186012018219,
+              33.919250480501319
+            ],
+            [
+              36.375816640929486,
+              33.920559961161075
+            ],
+            [
+              36.376207043348131,
+              34.005404399150677
+            ],
+            [
+              36.250531633924197,
+              34.004184198494954
+            ],
+            [
+              36.250186012018219,
+              33.919250480501319
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 47,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Ain Es Sea (L-10)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Ain Es Sea (L-10)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 48,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.250531633924197,
+              34.004184198494954
+            ],
+            [
+              36.376207043348131,
+              34.005404399150677
+            ],
+            [
+              36.376588821161761,
+              34.08837448970155
+            ],
+            [
+              36.250869906401078,
+              34.08731185520827
+            ],
+            [
+              36.250531633924197,
+              34.004184198494954
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 48,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Younine (M-10)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Younine (M-10)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 49,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.252620490908328,
+              34.588247524025633
+            ],
+            [
+              36.378893444725918,
+              34.589228177427117
+            ],
+            [
+              36.379278516020236,
+              34.672914025644332
+            ],
+            [
+              36.252865290503109,
+              34.672127962625382
+            ],
+            [
+              36.252620490908328,
+              34.588247524025633
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 49,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Aandaqatt (T-10)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Aandaqatt (T-10)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 50,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.252374778856563,
+              34.504054432636678
+            ],
+            [
+              36.378506284936009,
+              34.505088445673834
+            ],
+            [
+              36.378893444725918,
+              34.589228177427117
+            ],
+            [
+              36.252620490908328,
+              34.588247524025633
+            ],
+            [
+              36.252374778856563,
+              34.504054432636678
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 50,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Qoubaiyate (S-10)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Qoubaiyate (S-10)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 51,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.25213123654828,
+              34.420604802598916
+            ],
+            [
+              36.378123403961979,
+              34.421878610090005
+            ],
+            [
+              36.378506284936179,
+              34.505088445673834
+            ],
+            [
+              36.252374778856563,
+              34.504054432636678
+            ],
+            [
+              36.25213123654828,
+              34.420604802598916
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 51,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Charbine (R-10)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Charbine (R-10)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 52,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.251890476331198,
+              34.338108454454698
+            ],
+            [
+              36.377741393972144,
+              34.338858061681151
+            ],
+            [
+              36.378123403961979,
+              34.421878610090005
+            ],
+            [
+              36.25213123654828,
+              34.420604802598916
+            ],
+            [
+              36.251890476331198,
+              34.338108454454698
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 52,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Ouadi-Et-Tourkmane (Q-10)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Ouadi-Et-Tourkmane (Q-10)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 53,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.251550738960304,
+              34.254620812180349
+            ],
+            [
+              36.377359065342034,
+              34.255768264633957
+            ],
+            [
+              36.377741393971917,
+              34.338858061681151
+            ],
+            [
+              36.251890476331198,
+              34.338108454454698
+            ],
+            [
+              36.251550738960304,
+              34.254620812180349
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 53,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Ouadi Faara (P-10)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Ouadi Faara (P-10)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 54,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.251216049532331,
+              34.172373659994435
+            ],
+            [
+              36.376978069672191,
+              34.172968153928878
+            ],
+            [
+              36.377359065342034,
+              34.255768264633957
+            ],
+            [
+              36.251550738960304,
+              34.254620812180349
+            ],
+            [
+              36.251216049532331,
+              34.172373659994435
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 54,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Laboue (O-10)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Laboue (O-10)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 55,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.126276956458696,
+              34.086258737891171
+            ],
+            [
+              36.250869906400908,
+              34.08731185520827
+            ],
+            [
+              36.251216049532331,
+              34.172373659994435
+            ],
+            [
+              36.126305659081197,
+              34.171783191827615
+            ],
+            [
+              36.126276956458696,
+              34.086258737891171
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 55,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Deir El Ahmar (N-9)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Deir El Ahmar (N-9)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 56,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.126193176106426,
+              33.836620613707112
+            ],
+            [
+              36.249853966257717,
+              33.83765298772596
+            ],
+            [
+              36.250186012018219,
+              33.919250480501319
+            ],
+            [
+              36.126220473638341,
+              33.91795835551244
+            ],
+            [
+              36.126193176106426,
+              33.836620613707112
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 56,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Khreibe (K-9)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Khreibe (K-9)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 57,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.126220473638341,
+              33.91795835551244
+            ],
+            [
+              36.250186012018219,
+              33.919250480501319
+            ],
+            [
+              36.250531633924197,
+              34.004184198494954
+            ],
+            [
+              36.126249006682315,
+              34.002977520562069
+            ],
+            [
+              36.126220473638341,
+              33.91795835551244
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 57,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Britel (L-9)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Britel (L-9)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 58,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.126249006682315,
+              34.002977520562069
+            ],
+            [
+              36.250531633924197,
+              34.004184198494954
+            ],
+            [
+              36.250869906401078,
+              34.08731185520827
+            ],
+            [
+              36.126276956458696,
+              34.086258737891171
+            ],
+            [
+              36.126249006682315,
+              34.002977520562069
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 58,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Baalbek (M-9)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Baalbek (M-9)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 59,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.127043923508552,
+              34.587272278858336
+            ],
+            [
+              36.252620490908328,
+              34.588247524025633
+            ],
+            [
+              36.252865290503109,
+              34.672127962625382
+            ],
+            [
+              36.127193311338829,
+              34.671346508826332
+            ],
+            [
+              36.127043923508552,
+              34.587272278858336
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 59,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "El Bire (T-9)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+El Bire (T-9)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 60,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.126894229538607,
+              34.503025756075715
+            ],
+            [
+              36.252374778856563,
+              34.504054432636678
+            ],
+            [
+              36.252620490908328,
+              34.588247524025633
+            ],
+            [
+              36.127043923508552,
+              34.587272278858336
+            ],
+            [
+              36.126894229538607,
+              34.503025756075715
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 60,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Beino (S-9)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Beino (S-9)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 61,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.126745526864795,
+              34.419337126523828
+            ],
+            [
+              36.25213123654828,
+              34.420604802598916
+            ],
+            [
+              36.252374778856563,
+              34.504054432636678
+            ],
+            [
+              36.126894229538607,
+              34.503025756075715
+            ],
+            [
+              36.126745526864795,
+              34.419337126523828
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 61,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Fnaideq (R-9)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Fnaideq (R-9)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 62,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.126599869167876,
+              34.337362184611834
+            ],
+            [
+              36.251890476331198,
+              34.338108454454698
+            ],
+            [
+              36.25213123654828,
+              34.420604802598916
+            ],
+            [
+              36.126745526864966,
+              34.419337126523828
+            ],
+            [
+              36.126599869167876,
+              34.337362184611834
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 62,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Marj Hine (Q-9)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Marj Hine (Q-9)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 63,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.126450822256174,
+              34.253479820876407
+            ],
+            [
+              36.251550738960304,
+              34.254620812180349
+            ],
+            [
+              36.251890476331198,
+              34.338108454454698
+            ],
+            [
+              36.126599869167876,
+              34.337362184611834
+            ],
+            [
+              36.126450822256174,
+              34.253479820876407
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 63,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Jbab El Homr (P-9)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Jbab El Homr (P-9)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 64,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.126305659081197,
+              34.171783191827615
+            ],
+            [
+              36.251216049532331,
+              34.172373659994435
+            ],
+            [
+              36.251550738960304,
+              34.254620812180349
+            ],
+            [
+              36.126450822256174,
+              34.253479820876407
+            ],
+            [
+              36.126305659081197,
+              34.171783191827615
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 64,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Nabha (O-9)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Nabha (O-9)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 65,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.998938937346963,
+              33.588276040736446
+            ],
+            [
+              36.125329317129172,
+              33.589701699537727
+            ],
+            [
+              36.125622341965595,
+              33.673457701780137
+            ],
+            [
+              35.999328908700875,
+              33.672167966458005
+            ],
+            [
+              35.998938937346963,
+              33.588276040736446
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 65,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Haloua (H-8)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Haloua (H-8)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 66,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.999711786429486,
+              33.754533888109847
+            ],
+            [
+              36.125911699582559,
+              33.756165493759397
+            ],
+            [
+              36.126193176106426,
+              33.836620613706941
+            ],
+            [
+              36.000088472486084,
+              33.835567836836503
+            ],
+            [
+              35.999711786429486,
+              33.754533888109847
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 66,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Baite (J-8)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Baite (J-8)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 67,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.998566642931962,
+              33.508186836477535
+            ],
+            [
+              36.125048494473219,
+              33.509433476229844
+            ],
+            [
+              36.125329317129172,
+              33.589701699537727
+            ],
+            [
+              35.998938937346963,
+              33.588276040736446
+            ],
+            [
+              35.998566642931962,
+              33.508186836477535
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 67,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Deir El Aachayer (G-8)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Deir El Aachayer (G-8)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 68,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.000737604562858,
+              34.085197621146335
+            ],
+            [
+              36.126276956458696,
+              34.086258737891171
+            ],
+            [
+              36.126305659081197,
+              34.171783191827615
+            ],
+            [
+              36.000959751371738,
+              34.170626244961852
+            ],
+            [
+              36.000737604562858,
+              34.085197621146335
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 68,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "El Yammoune (N-8)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+El Yammoune (N-8)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 69,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.000088472486084,
+              33.835567836836503
+            ],
+            [
+              36.126193176106426,
+              33.836620613707112
+            ],
+            [
+              36.126220473638341,
+              33.91795835551244
+            ],
+            [
+              36.00029930604876,
+              33.91664584649277
+            ],
+            [
+              36.000088472486084,
+              33.835567836836503
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 69,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Rayak (K-8)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Rayak (K-8)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 70,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.00029930604876,
+              33.91664584649277
+            ],
+            [
+              36.126220473638341,
+              33.91795835551244
+            ],
+            [
+              36.126249006682315,
+              34.002977520562069
+            ],
+            [
+              36.000520626809077,
+              34.001756805608579
+            ],
+            [
+              36.00029930604876,
+              33.91664584649277
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 70,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Chmistar (L-8)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Chmistar (L-8)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 71,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.000520626809077,
+              34.001756805608579
+            ],
+            [
+              36.126249006682315,
+              34.002977520562069
+            ],
+            [
+              36.126276956458696,
+              34.086258737891171
+            ],
+            [
+              36.000737604562858,
+              34.085197621146335
+            ],
+            [
+              36.000520626809077,
+              34.001756805608579
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 71,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Boudai (M-8)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Boudai (M-8)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 72,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.002040664585934,
+              34.586301486084722
+            ],
+            [
+              36.127043923508552,
+              34.587272278858336
+            ],
+            [
+              36.127193311338829,
+              34.671346508826332
+            ],
+            [
+              36.00225979375108,
+              34.67056964693063
+            ],
+            [
+              36.002040664585934,
+              34.586301486084722
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 72,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "El Massaoudiye (T-8)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+El Massaoudiye (T-8)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 73,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.001821449860643,
+              34.502000422368155
+            ],
+            [
+              36.126894229538607,
+              34.503025756075715
+            ],
+            [
+              36.127043923508552,
+              34.587272278858336
+            ],
+            [
+              36.002040664585934,
+              34.586301486084722
+            ],
+            [
+              36.001821449860643,
+              34.502000422368155
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 73,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Halba (S-8)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Halba (S-8)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 74,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.001603203913305,
+              34.418071911140203
+            ],
+            [
+              36.126745526864795,
+              34.419337126523828
+            ],
+            [
+              36.126894229538607,
+              34.503025756075715
+            ],
+            [
+              36.001821449860813,
+              34.502000422368155
+            ],
+            [
+              36.001603203913305,
+              34.418071911140203
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 74,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Berqayel (R-8)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Berqayel (R-8)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 75,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.001391388713785,
+              34.33661640394098
+            ],
+            [
+              36.126599869167876,
+              34.337362184611834
+            ],
+            [
+              36.126745526864966,
+              34.419337126523828
+            ],
+            [
+              36.001603203913305,
+              34.418071911140203
+            ],
+            [
+              36.001391388713785,
+              34.33661640394098
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 75,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Sir Ed Danniye (Q-8)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Sir Ed Danniye (Q-8)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 76,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.001172230832253,
+              34.252337199944691
+            ],
+            [
+              36.126450822256174,
+              34.253479820876407
+            ],
+            [
+              36.126599869167876,
+              34.337362184611834
+            ],
+            [
+              36.001391388713955,
+              34.33661640394098
+            ],
+            [
+              36.001172230832253,
+              34.252337199944691
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 76,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Becharre (P-8)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Becharre (P-8)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 77,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.000959751371738,
+              34.170626244961852
+            ],
+            [
+              36.126305659081197,
+              34.171783191827615
+            ],
+            [
+              36.126450822256174,
+              34.253479820876407
+            ],
+            [
+              36.001172230832253,
+              34.252337199944691
+            ],
+            [
+              36.000959751371738,
+              34.170626244961852
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 77,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Ainata (O-8)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Ainata (O-8)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 78,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.876595553190327,
+              33.586896031255492
+            ],
+            [
+              35.998938937346963,
+              33.588276040736446
+            ],
+            [
+              35.999328908700875,
+              33.672167966458005
+            ],
+            [
+              35.876572035612924,
+              33.670914347238408
+            ],
+            [
+              35.876595553190327,
+              33.586896031255492
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 78,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Aita El Foukhar (H-7)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Aita El Foukhar (H-7)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 79,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.876549075368189,
+              33.752941549651268
+            ],
+            [
+              35.999711786429486,
+              33.754533888109847
+            ],
+            [
+              36.000088472486084,
+              33.835567836836503
+            ],
+            [
+              35.876526236175437,
+              33.834536285587944
+            ],
+            [
+              35.876549075368189,
+              33.752941549651268
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 79,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Barr Elias (J-7)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Barr Elias (J-7)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 80,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.876617921131583,
+              33.506984876492822
+            ],
+            [
+              35.998566642931962,
+              33.508186836477535
+            ],
+            [
+              35.998938937346963,
+              33.588276040736446
+            ],
+            [
+              35.876595553190327,
+              33.586896031255492
+            ],
+            [
+              35.876617921131583,
+              33.506984876492822
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 80,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Kfar Qouo (G-7)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Kfar Qouo (G-7)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 81,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.876572035612924,
+              33.670914347238408
+            ],
+            [
+              35.999328908700875,
+              33.672167966458005
+            ],
+            [
+              35.999711786429486,
+              33.754533888109847
+            ],
+            [
+              35.876549075368359,
+              33.752941549651268
+            ],
+            [
+              35.876572035612924,
+              33.670914347238408
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 81,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Aanjar (I-7)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Aanjar (I-7)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 82,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.876402477458043,
+              34.084146683067161
+            ],
+            [
+              36.000737604562858,
+              34.085197621146335
+            ],
+            [
+              36.000959751371738,
+              34.170626244961852
+            ],
+            [
+              35.876323584254578,
+              34.169475849025275
+            ],
+            [
+              35.876402477458043,
+              34.084146683067161
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 82,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "El Aaqoura (N-7)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+El Aaqoura (N-7)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 83,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.876526236175437,
+              33.834536285587944
+            ],
+            [
+              36.000088472486084,
+              33.835567836836503
+            ],
+            [
+              36.00029930604876,
+              33.91664584649277
+            ],
+            [
+              35.876503614061278,
+              33.915355491856985
+            ],
+            [
+              35.876526236175437,
+              33.834536285587944
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 83,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Zahle (K-7)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Zahle (K-7)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 84,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.876503614061278,
+              33.915355491856985
+            ],
+            [
+              36.00029930604876,
+              33.91664584649277
+            ],
+            [
+              36.000520626809077,
+              34.001756805608579
+            ],
+            [
+              35.876479766562909,
+              34.000552475026325
+            ],
+            [
+              35.876503614061278,
+              33.915355491856985
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 84,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Jabal Kesrouane (L-7)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Jabal Kesrouane (L-7)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 85,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.876479766562909,
+              34.000552475026325
+            ],
+            [
+              36.000520626809077,
+              34.001756805608579
+            ],
+            [
+              36.000737604562858,
+              34.085197621146335
+            ],
+            [
+              35.876402477458043,
+              34.084146683067161
+            ],
+            [
+              35.876479766562909,
+              34.000552475026325
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 85,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Afqa (M-7)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Afqa (M-7)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 86,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.876094911787504,
+              34.416802995730848
+            ],
+            [
+              35.876017093929761,
+              34.500969091274044
+            ],
+            [
+              35.752047175525888,
+              34.500255252972295
+            ],
+            [
+              35.751809229425362,
+              34.41554644116485
+            ],
+            [
+              35.876094911787504,
+              34.416802995730848
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 86,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Trablous (R-6)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Trablous (R-6)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 87,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.876169739898671,
+              34.335870544835302
+            ],
+            [
+              36.001391388713785,
+              34.33661640394098
+            ],
+            [
+              36.001603203913305,
+              34.418071911140203
+            ],
+            [
+              35.876094911787504,
+              34.416802995730848
+            ],
+            [
+              35.876169739898671,
+              34.335870544835302
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 87,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Zgharta (Q-7)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Zgharta (Q-7)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 88,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.876248026181202,
+              34.251197811246982
+            ],
+            [
+              36.001172230832253,
+              34.252337199944691
+            ],
+            [
+              36.001391388713955,
+              34.33661640394098
+            ],
+            [
+              35.876169739898671,
+              34.335870544835302
+            ],
+            [
+              35.876248026181202,
+              34.251197811246982
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 88,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Ehden (P-7)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Ehden (P-7)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 89,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.876323584254578,
+              34.169475849025275
+            ],
+            [
+              36.000959751371738,
+              34.170626244961852
+            ],
+            [
+              36.001172230832253,
+              34.252337199944691
+            ],
+            [
+              35.876248026181202,
+              34.251197811246982
+            ],
+            [
+              35.876323584254578,
+              34.169475849025275
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 89,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Hasroun (O-7)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Hasroun (O-7)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 90,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.876622287724388,
+              33.423260714558239
+            ],
+            [
+              35.998569664273191,
+              33.424747877686741
+            ],
+            [
+              35.998566642931962,
+              33.508186836477535
+            ],
+            [
+              35.876617921131583,
+              33.506984876492822
+            ],
+            [
+              35.876622287724388,
+              33.423260714558239
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 90,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Aaiha (F-7)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Aaiha (F-7)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 91,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.751929274618533,
+              34.0830945779079
+            ],
+            [
+              35.876402477458043,
+              34.084146683067161
+            ],
+            [
+              35.876323584254578,
+              34.169475849025275
+            ],
+            [
+              35.751898497859941,
+              34.168327401370618
+            ],
+            [
+              35.751929274618533,
+              34.0830945779079
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 91,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Qartaba (N-6)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Qartaba (N-6)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 92,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.752108954213099,
+              33.585491846729894
+            ],
+            [
+              35.876595553190327,
+              33.586896031255492
+            ],
+            [
+              35.876572035612924,
+              33.670914347238408
+            ],
+            [
+              35.752078568037575,
+              33.669642993547598
+            ],
+            [
+              35.752108954213099,
+              33.585491846729894
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 92,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Joubb Jannine (H-6)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Joubb Jannine (H-6)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 93,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.75216807327439,
+              33.421768156273458
+            ],
+            [
+              35.752137745356265,
+              33.505757965804548
+            ],
+            [
+              35.628859081645544,
+              33.504542897548276
+            ],
+            [
+              35.62884862482025,
+              33.420289207044618
+            ],
+            [
+              35.75216807327439,
+              33.421768156273458
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 93,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Yohmor (F-5)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Yohmor (F-5)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 94,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.752197928320811,
+              33.339087912394575
+            ],
+            [
+              35.75216807327439,
+              33.421768156273458
+            ],
+            [
+              35.62884862482025,
+              33.420289207044618
+            ],
+            [
+              35.628838348872705,
+              33.33749290178082
+            ],
+            [
+              35.752197928320811,
+              33.339087912394575
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 94,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Hasbaiya (E-5)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Hasbaiya (E-5)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 95,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.752049070945702,
+              33.751331921676694
+            ],
+            [
+              35.876549075368189,
+              33.752941549651268
+            ],
+            [
+              35.876526236175437,
+              33.834536285587944
+            ],
+            [
+              35.752019401975303,
+              33.833496848425682
+            ],
+            [
+              35.752049070945702,
+              33.751331921676694
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 95,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Chtaura (J-6)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Chtaura (J-6)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 96,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.752137745356094,
+              33.505757965804776
+            ],
+            [
+              35.876617921131583,
+              33.506984876492822
+            ],
+            [
+              35.876595553190327,
+              33.586896031255492
+            ],
+            [
+              35.752108954213099,
+              33.585491846729894
+            ],
+            [
+              35.752137745356094,
+              33.505757965804776
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 96,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Rachaiya (G-6)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Rachaiya (G-6)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 97,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.752078568037575,
+              33.669642993547598
+            ],
+            [
+              35.876572035612924,
+              33.670914347238408
+            ],
+            [
+              35.876549075368359,
+              33.752941549651268
+            ],
+            [
+              35.752049070945702,
+              33.751331921676694
+            ],
+            [
+              35.752078568037575,
+              33.669642993547598
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 97,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Ghazze (I-6)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Ghazze (I-6)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 98,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.752019401975303,
+              33.833496848425682
+            ],
+            [
+              35.876526236175437,
+              33.834536285587944
+            ],
+            [
+              35.876503614061278,
+              33.915355491856985
+            ],
+            [
+              35.751990312236501,
+              33.914057657387616
+            ],
+            [
+              35.752019401975303,
+              33.833496848425682
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 98,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Aaintoura (K-6)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Aaintoura (K-6)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 99,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.751990312236501,
+              33.914057657387616
+            ],
+            [
+              35.876503614061278,
+              33.915355491856985
+            ],
+            [
+              35.876479766562909,
+              34.000552475026325
+            ],
+            [
+              35.751959516336797,
+              33.999343489977718
+            ],
+            [
+              35.751990312236501,
+              33.914057657387616
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 99,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Beskinta (L-6)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Beskinta (L-6)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 100,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.751959516336626,
+              33.999343489977718
+            ],
+            [
+              35.876479766562909,
+              34.000552475026325
+            ],
+            [
+              35.876402477458043,
+              34.084146683067161
+            ],
+            [
+              35.751929274618533,
+              34.0830945779079
+            ],
+            [
+              35.751959516336626,
+              33.999343489977718
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 100,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Faraiya (M-6)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Faraiya (M-6)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 101,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.75183826703875,
+              34.335129987894732
+            ],
+            [
+              35.876169739898671,
+              34.335870544835302
+            ],
+            [
+              35.876094911787504,
+              34.416802995730848
+            ],
+            [
+              35.751809229425362,
+              34.41554644116485
+            ],
+            [
+              35.75183826703875,
+              34.335129987894732
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 101,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Dedde (Q-6)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Dedde (Q-6)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 102,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.751868983773306,
+              34.250063394777953
+            ],
+            [
+              35.876248026181202,
+              34.251197811246982
+            ],
+            [
+              35.876169739898671,
+              34.335870544835302
+            ],
+            [
+              35.75183826703892,
+              34.335129987894732
+            ],
+            [
+              35.751868983773306,
+              34.250063394777953
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 102,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Amioun (P-6)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Amioun (P-6)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 103,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.751898497859941,
+              34.168327401370618
+            ],
+            [
+              35.876323584254578,
+              34.169475849025275
+            ],
+            [
+              35.876248026181202,
+              34.251197811246982
+            ],
+            [
+              35.751868983773306,
+              34.250063394777953
+            ],
+            [
+              35.751898497859941,
+              34.168327401370618
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 103,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Douma (O-6)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Douma (O-6)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 104,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.628415390752252,
+              33.584096607490153
+            ],
+            [
+              35.752108954213099,
+              33.585491846729894
+            ],
+            [
+              35.752078568037575,
+              33.669642993547598
+            ],
+            [
+              35.62794534734735,
+              33.668375318774281
+            ],
+            [
+              35.628415390752252,
+              33.584096607490153
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 104,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Saghbine (H-5)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Saghbine (H-5)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 105,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.627491659107307,
+              33.749721551496748
+            ],
+            [
+              35.752049070945702,
+              33.751331921676694
+            ],
+            [
+              35.752019401975303,
+              33.833496848425682
+            ],
+            [
+              35.627030243028116,
+              33.832453384606879
+            ],
+            [
+              35.627491659107307,
+              33.749721551496748
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 105,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Bhamdoun (J-5)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Bhamdoun (J-5)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 106,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.628859081645544,
+              33.504542897548447
+            ],
+            [
+              35.752137745356094,
+              33.505757965804776
+            ],
+            [
+              35.752108954213099,
+              33.585491846729894
+            ],
+            [
+              35.628415390752252,
+              33.584096607490153
+            ],
+            [
+              35.628859081645544,
+              33.504542897548447
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 106,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Machghara (G-5)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Machghara (G-5)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 107,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.62794534734735,
+              33.668375318774281
+            ],
+            [
+              35.752078568037575,
+              33.669642993547598
+            ],
+            [
+              35.752049070945702,
+              33.751331921676694
+            ],
+            [
+              35.627491659107307,
+              33.749721551496748
+            ],
+            [
+              35.62794534734735,
+              33.668375318774281
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 107,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Barouk (I-5)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Barouk (I-5)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 108,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.627030243027889,
+              33.832453384606879
+            ],
+            [
+              35.752019401975303,
+              33.833496848425682
+            ],
+            [
+              35.751990312236501,
+              33.914057657387616
+            ],
+            [
+              35.626582405986881,
+              33.912750498223943
+            ],
+            [
+              35.627030243027889,
+              33.832453384606879
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 108,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Dhour Ech Choueir (K-5)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Dhour Ech Choueir (K-5)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 109,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.626582405986881,
+              33.912750498223943
+            ],
+            [
+              35.626106270255661,
+              33.99812156268024
+            ],
+            [
+              35.502374297952485,
+              33.996979421397498
+            ],
+            [
+              35.502012619879565,
+              33.911452075003979
+            ],
+            [
+              35.626582405986881,
+              33.912750498223943
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 109,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Jounie (L-4)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Jounie (L-4)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 110,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.503530029139483,
+              33.4187862823822
+            ],
+            [
+              35.50328413099129,
+              33.503305196459053
+            ],
+            [
+              35.503221674154418,
+              33.503304580867393
+            ],
+            [
+              35.378671063469426,
+              33.502076975953514
+            ],
+            [
+              35.379088706251139,
+              33.417293878703504
+            ],
+            [
+              35.503530029139483,
+              33.4187862823822
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 110,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Jernaya (F-3)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Jernaya (F-3)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 111,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.503771247700342,
+              33.335875813309372
+            ],
+            [
+              35.503530029139483,
+              33.4187862823822
+            ],
+            [
+              35.379088706251139,
+              33.417293878703504
+            ],
+            [
+              35.379497688095626,
+              33.334268985145115
+            ],
+            [
+              35.503771247700342,
+              33.335875813309372
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 111,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Nabatiye (E-3)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Nabatiye (E-3)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 112,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.504009088454211,
+              33.254126347606757
+            ],
+            [
+              35.503771247700342,
+              33.335875813309372
+            ],
+            [
+              35.379497688095796,
+              33.334268985145115
+            ],
+            [
+              35.379900936196464,
+              33.252408063697089
+            ],
+            [
+              35.504009088454211,
+              33.254126347606757
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 112,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Srifa (D-3)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Srifa (D-3)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 113,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.504256934201521,
+              33.168938014263688
+            ],
+            [
+              35.504009088454211,
+              33.254126347606757
+            ],
+            [
+              35.379900936196464,
+              33.252408063697089
+            ],
+            [
+              35.380319360480485,
+              33.167466318449613
+            ],
+            [
+              35.504256934201521,
+              33.168938014263688
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 113,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Tibnine (C-3)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Tibnine (C-3)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 114,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.504500183644495,
+              33.085329500274213
+            ],
+            [
+              35.504256934201521,
+              33.168938014263688
+            ],
+            [
+              35.380319360480485,
+              33.167466318449613
+            ],
+            [
+              35.380731545275069,
+              33.083791213654706
+            ],
+            [
+              35.504500183644495,
+              33.085329500274213
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 114,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Bent Jbail (B-3)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Bent Jbail (B-3)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 115,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.503053191638116,
+              33.582682546365959
+            ],
+            [
+              35.628415390752252,
+              33.584096607490153
+            ],
+            [
+              35.62794534734735,
+              33.668375318774281
+            ],
+            [
+              35.502807596283901,
+              33.667097385523675
+            ],
+            [
+              35.503053191638116,
+              33.582682546365959
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 115,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Mazraat Ech Choof (H-4)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Mazraat Ech Choof (H-4)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 116,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.50328413099129,
+              33.50330519645928
+            ],
+            [
+              35.503053191638116,
+              33.582682546365959
+            ],
+            [
+              35.378095057046437,
+              33.581273043010697
+            ],
+            [
+              35.378671063469426,
+              33.502076975953514
+            ],
+            [
+              35.50328413099129,
+              33.50330519645928
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 116,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Maghdouche (G-3)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Maghdouche (G-3)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 117,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.502807596283901,
+              33.667097385523675
+            ],
+            [
+              35.62794534734735,
+              33.668375318774281
+            ],
+            [
+              35.627491659107307,
+              33.749721551496748
+            ],
+            [
+              35.502571909506969,
+              33.748106496746516
+            ],
+            [
+              35.502807596283901,
+              33.667097385523675
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 117,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Beit Ed Dine (I-4)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Beit Ed Dine (I-4)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 118,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.256121134176738,
+              33.250694325813924
+            ],
+            [
+              35.379900936196464,
+              33.252408063697089
+            ],
+            [
+              35.379497688095796,
+              33.334268985145115
+            ],
+            [
+              35.255745266453346,
+              33.332668895173299
+            ],
+            [
+              35.256121134176738,
+              33.250694325813924
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 118,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Maarake (D-2)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Maarake (D-2)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 119,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.256509490161932,
+              33.16599613904873
+            ],
+            [
+              35.380319360480598,
+              33.167466318449726
+            ],
+            [
+              35.379900936196577,
+              33.252408063697203
+            ],
+            [
+              35.256121134176851,
+              33.250694325814038
+            ],
+            [
+              35.256509490161932,
+              33.16599613904873
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 119,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Jouaiya (C-2)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Jouaiya (C-2)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 120,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.256893471377794,
+              33.082252064040119
+            ],
+            [
+              35.380731545275182,
+              33.08379121365482
+            ],
+            [
+              35.380319360480598,
+              33.167466318449726
+            ],
+            [
+              35.256509490161932,
+              33.16599613904873
+            ],
+            [
+              35.256893471377794,
+              33.082252064040119
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 120,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s20 .L42",
+        "title" : "Carte du Liban 1:20,000",
+        "year" : "1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990050707350203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Aita Ech Chaab (B-2)",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+Aita Ech Chaab (B-2)"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 121,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+        ]
+      },
+      "properties" : {
+        "FID" : 121,
+        "Id" : 0,
+        "available" : " ",
+        "recordIdentifier" : " ",
+        "title" : " ",
+        "year" : " ",
+        "websiteUrl" : " ",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : " ",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990050707350203941&sublib=MAP&collection=LC&callnum=G7470+s20+L42&title=Carte+du+Liban+1:20,000&description=sheet+"
+      }
+    }
+  ]
+}
