@@ -1,0 +1,1236 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 0,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.501294756548418,
+              34.251416808341673
+            ],
+            [
+              35.753517623166431,
+              34.252606538844589
+            ],
+            [
+              35.754707353669346,
+              34.500070483450941
+            ],
+            [
+              35.501621932436763,
+              34.500774407331903
+            ],
+            [
+              35.501294756548418,
+              34.251416808341673
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 0,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s50 .L4",
+        "title" : "Liban 1:50,000e",
+        "year" : "1963-1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143155870203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Batroun",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143155870203941&sublib=MAP&collection=LC&callnum=G7470+s50+L4&title=Liban+1:50,000e&description=sheet+Batroun"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.507658390923496,
+              34.250897700687119
+            ],
+            [
+              36.75393346225303,
+              34.250339656012841
+            ],
+            [
+              36.754378408743889,
+              34.498360245853064
+            ],
+            [
+              36.509888790394825,
+              34.500144841607437
+            ],
+            [
+              36.507658390923496,
+              34.250897700687119
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 1,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s50 .L4",
+        "title" : "Liban 1:50,000e",
+        "year" : "1963-1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143155870203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Joussie",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143155870203941&sublib=MAP&collection=LC&callnum=G7470+s50+L4&title=Liban+1:50,000e&description=sheet+Joussie"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.505427301008865,
+              34.001573402729605
+            ],
+            [
+              36.753486110866675,
+              34.000978537478147
+            ],
+            [
+              36.75393346225303,
+              34.250339656012841
+            ],
+            [
+              36.507658390923496,
+              34.250897700687119
+            ],
+            [
+              36.505427301008865,
+              34.001573402729605
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 2,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s50 .L4",
+        "title" : "Liban 1:50,000e",
+        "year" : "1963-1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143155870203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Nebeck",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143155870203941&sublib=MAP&collection=LC&callnum=G7470+s50+L4&title=Liban+1:50,000e&description=sheet+Nebeck"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.258069501646958,
+              34.50012004648255
+            ],
+            [
+              36.509888790394825,
+              34.500144841607437
+            ],
+            [
+              36.511673386149198,
+              34.746419055710874
+            ],
+            [
+              36.259682210753624,
+              34.748202012140666
+            ],
+            [
+              36.258069501646958,
+              34.50012004648255
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 3,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s50 .L4",
+        "title" : "Liban 1:50,000e",
+        "year" : "1963-1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143155870203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Tell-Ralakh",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143155870203941&sublib=MAP&collection=LC&callnum=G7470+s50+L4&title=Liban+1:50,000e&description=sheet+Tell-Ralakh"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.253204434390852,
+              33.751729997117422
+            ],
+            [
+              36.50423757050595,
+              33.753514592871795
+            ],
+            [
+              36.505427301008865,
+              34.001573402729605
+            ],
+            [
+              36.254830525415912,
+              34.001870494342597
+            ],
+            [
+              36.253204434390852,
+              33.751729997117422
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 4,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s50 .L4",
+        "title" : "Liban 1:50,000e",
+        "year" : "1963-1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143155870203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Aassal-El-Ouard",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143155870203941&sublib=MAP&collection=LC&callnum=G7470+s50+L4&title=Liban+1:50,000e&description=sheet+Aassal-El-Ouard"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.256453079569496,
+              34.251466916992342
+            ],
+            [
+              36.507658390923496,
+              34.250897700687119
+            ],
+            [
+              36.509888790394825,
+              34.500144841607437
+            ],
+            [
+              36.258069501647128,
+              34.50012004648255
+            ],
+            [
+              36.256453079569496,
+              34.251466916992342
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 5,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s50 .L4",
+        "title" : "Liban 1:50,000e",
+        "year" : "1963-1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143155870203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Hermel",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143155870203941&sublib=MAP&collection=LC&callnum=G7470+s50+L4&title=Liban+1:50,000e&description=sheet+Hermel"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.254830525415912,
+              34.001870494342597
+            ],
+            [
+              36.505427301008865,
+              34.001573402729605
+            ],
+            [
+              36.507658390923496,
+              34.250897700687119
+            ],
+            [
+              36.256453079569496,
+              34.251466916992342
+            ],
+            [
+              36.254830525415912,
+              34.001870494342597
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 6,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s50 .L4",
+        "title" : "Liban 1:50,000e",
+        "year" : "1963-1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143155870203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Aarsal",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143155870203941&sublib=MAP&collection=LC&callnum=G7470+s50+L4&title=Liban+1:50,000e&description=sheet+Aarsal"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.00098156777284,
+              33.50426605251107
+            ],
+            [
+              36.250230108133564,
+              33.503671187259613
+            ],
+            [
+              36.253204434390852,
+              33.751729997117422
+            ],
+            [
+              36.002295677243865,
+              33.751359104645644
+            ],
+            [
+              36.00098156777284,
+              33.50426605251107
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 7,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s50 .L4",
+        "title" : "Liban 1:50,000e",
+        "year" : "1963-1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143155870203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Zebedani",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143155870203941&sublib=MAP&collection=LC&callnum=G7470+s50+L4&title=Liban+1:50,000e&description=sheet+Zebedani"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.006277664016352,
+              34.500095254060568
+            ],
+            [
+              36.258069501646958,
+              34.50012004648255
+            ],
+            [
+              36.259682210753624,
+              34.748202012140666
+            ],
+            [
+              36.007606650089713,
+              34.749985565635995
+            ],
+            [
+              36.006277664016352,
+              34.500095254060568
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 8,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s50 .L4",
+        "title" : "Liban 1:50,000e",
+        "year" : "1963-1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143155870203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Halba",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143155870203941&sublib=MAP&collection=LC&callnum=G7470+s50+L4&title=Liban+1:50,000e&description=sheet+Halba"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.007606650089713,
+              34.749985565635995
+            ],
+            [
+              35.75500478629516,
+              34.751772842973992
+            ],
+            [
+              35.754707353669403,
+              34.500070483451054
+            ],
+            [
+              36.006277664016352,
+              34.500095254060568
+            ],
+            [
+              36.007606650089713,
+              34.749985565635995
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 9,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s50 .L4",
+        "title" : "Liban 1:50,000e",
+        "year" : "1963-1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143155870203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Hamidieh",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143155870203941&sublib=MAP&collection=LC&callnum=G7470+s50+L4&title=Liban+1:50,000e&description=sheet+Hamidieh"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.002295677243865,
+              33.751359104645644
+            ],
+            [
+              36.253204434390852,
+              33.751729997117422
+            ],
+            [
+              36.254830525415912,
+              34.001870494342597
+            ],
+            [
+              36.003629550208473,
+              34.002168302256393
+            ],
+            [
+              36.002295677243865,
+              33.751359104645644
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 10,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s50 .L4",
+        "title" : "Liban 1:50,000e",
+        "year" : "1963-1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143155870203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Rayak",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143155870203941&sublib=MAP&collection=LC&callnum=G7470+s50+L4&title=Liban+1:50,000e&description=sheet+Rayak"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.004958420210983,
+              34.25203678894303
+            ],
+            [
+              36.006277664016352,
+              34.500095254060568
+            ],
+            [
+              35.754707353669403,
+              34.500070483451054
+            ],
+            [
+              35.753517623166488,
+              34.252606538844702
+            ],
+            [
+              36.004958420210983,
+              34.25203678894303
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 11,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s50 .L4",
+        "title" : "Liban 1:50,000e",
+        "year" : "1963-1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143155870203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Tripoli",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143155870203941&sublib=MAP&collection=LC&callnum=G7470+s50+L4&title=Liban+1:50,000e&description=sheet+Tripoli"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.004958420210983,
+              34.25203678894303
+            ],
+            [
+              36.256453079569496,
+              34.251466916992342
+            ],
+            [
+              36.258069501647128,
+              34.50012004648255
+            ],
+            [
+              36.006277664016352,
+              34.500095254060568
+            ],
+            [
+              36.004958420210983,
+              34.25203678894303
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 12,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s50 .L4",
+        "title" : "Liban 1:50,000e",
+        "year" : "1963-1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143155870203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Sir-Ed-Danie",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143155870203941&sublib=MAP&collection=LC&callnum=G7470+s50+L4&title=Liban+1:50,000e&description=sheet+Sir-Ed-Danie"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              36.003629550208473,
+              34.002168302256393
+            ],
+            [
+              36.254830525415912,
+              34.001870494342597
+            ],
+            [
+              36.256453079569496,
+              34.251466916992342
+            ],
+            [
+              36.004958420211153,
+              34.25203678894303
+            ],
+            [
+              36.003629550208473,
+              34.002168302256393
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 13,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s50 .L4",
+        "title" : "Liban 1:50,000e",
+        "year" : "1963-1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143155870203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Baalbek",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143155870203941&sublib=MAP&collection=LC&callnum=G7470+s50+L4&title=Liban+1:50,000e&description=sheet+Baalbek"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.75530221892086,
+              33.2514483206416
+            ],
+            [
+              36.000386702521382,
+              33.252638051144515
+            ],
+            [
+              36.00098156777284,
+              33.50426605251107
+            ],
+            [
+              35.754852259829192,
+              33.50387537106991
+            ],
+            [
+              35.75530221892086,
+              33.2514483206416
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 14,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s50 .L4",
+        "title" : "Liban 1:50,000e",
+        "year" : "1963-1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143155870203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Hermon",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143155870203941&sublib=MAP&collection=LC&callnum=G7470+s50+L4&title=Liban+1:50,000e&description=sheet+Hermon"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.754852259829192,
+              33.50387537106991
+            ],
+            [
+              36.00098156777284,
+              33.50426605251107
+            ],
+            [
+              36.002295677243865,
+              33.751359104645644
+            ],
+            [
+              35.754411765511179,
+              33.750992683490153
+            ],
+            [
+              35.754852259829192,
+              33.50387537106991
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 15,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s50 .L4",
+        "title" : "Liban 1:50,000e",
+        "year" : "1963-1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143155870203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Rachaiya",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143155870203941&sublib=MAP&collection=LC&callnum=G7470+s50+L4&title=Liban+1:50,000e&description=sheet+Rachaiya"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.754411765511179,
+              33.750992683490153
+            ],
+            [
+              36.002295677243865,
+              33.751359104645644
+            ],
+            [
+              36.003629550208473,
+              34.002168302256393
+            ],
+            [
+              35.753963509527409,
+              34.002464290449268
+            ],
+            [
+              35.754411765511179,
+              33.750992683490153
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 16,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s50 .L4",
+        "title" : "Liban 1:50,000e",
+        "year" : "1963-1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143155870203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Zahle",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143155870203941&sublib=MAP&collection=LC&callnum=G7470+s50+L4&title=Liban+1:50,000e&description=sheet+Zahle"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.753963509527409,
+              34.002464290449268
+            ],
+            [
+              35.501889621799933,
+              34.00276313323252
+            ],
+            [
+              35.448946614420208,
+              34.003357998483978
+            ],
+            [
+              35.448351749168751,
+              33.750540266614507
+            ],
+            [
+              35.754411765511179,
+              33.750992683490153
+            ],
+            [
+              35.753963509527409,
+              34.002464290449268
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 17,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s50 .L4",
+        "title" : "Liban 1:50,000e",
+        "year" : "1963-1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143155870203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Beyrouth",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143155870203941&sublib=MAP&collection=LC&callnum=G7470+s50+L4&title=Liban+1:50,000e&description=sheet+Beyrouth"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.753963509527409,
+              34.002464290449268
+            ],
+            [
+              36.003629550208473,
+              34.002168302256393
+            ],
+            [
+              36.004958420211153,
+              34.25203678894303
+            ],
+            [
+              35.753517623166488,
+              34.252606538844702
+            ],
+            [
+              35.753963509527409,
+              34.002464290449268
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 18,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s50 .L4",
+        "title" : "Liban 1:50,000e",
+        "year" : "1963-1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143155870203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Qartaba",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143155870203941&sublib=MAP&collection=LC&callnum=G7470+s50+L4&title=Liban+1:50,000e&description=sheet+Qartaba"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 19,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.753963509527409,
+              34.002464290449268
+            ],
+            [
+              35.753517623166488,
+              34.252606538844702
+            ],
+            [
+              35.501294756548475,
+              34.251416808341787
+            ],
+            [
+              35.501889621799933,
+              34.00276313323252
+            ],
+            [
+              35.753963509527409,
+              34.002464290449268
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 19,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s50 .L4",
+        "title" : "Liban 1:50,000e",
+        "year" : "1963-1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143155870203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Jebail",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143155870203941&sublib=MAP&collection=LC&callnum=G7470+s50+L4&title=Liban+1:50,000e&description=sheet+Jebail"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 20,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.504120098810517,
+              33.00277809267385
+            ],
+            [
+              35.75530221892086,
+              33.005174106538163
+            ],
+            [
+              35.75530221892086,
+              33.2514483206416
+            ],
+            [
+              35.503151183054172,
+              33.250408522555517
+            ],
+            [
+              35.504120098810517,
+              33.00277809267385
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 20,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s50 .L4",
+        "title" : "Liban 1:50,000e",
+        "year" : "1963-1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143155870203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Houle",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143155870203941&sublib=MAP&collection=LC&callnum=G7470+s50+L4&title=Liban+1:50,000e&description=sheet+Houle"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 21,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.503151183054172,
+              33.250408522555517
+            ],
+            [
+              35.75530221892086,
+              33.2514483206416
+            ],
+            [
+              35.754852259829192,
+              33.50387537106991
+            ],
+            [
+              35.502161000248748,
+              33.503474273832524
+            ],
+            [
+              35.503151183054172,
+              33.250408522555517
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 21,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s50 .L4",
+        "title" : "Liban 1:50,000e",
+        "year" : "1963-1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143155870203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Majayoun",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143155870203941&sublib=MAP&collection=LC&callnum=G7470+s50+L4&title=Liban+1:50,000e&description=sheet+Majayoun"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 22,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.503151183054172,
+              33.250408522555517
+            ],
+            [
+              35.502161000248748,
+              33.503474273832524
+            ],
+            [
+              35.251451350936293,
+              33.503076322008155
+            ],
+            [
+              35.177688059755553,
+              33.503076322008155
+            ],
+            [
+              35.178282925007011,
+              33.24906885963577
+            ],
+            [
+              35.503151183054172,
+              33.250408522555517
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 22,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s50 .L4",
+        "title" : "Liban 1:50,000e",
+        "year" : "1963-1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143155870203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Tyr-Nabatiye",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143155870203941&sublib=MAP&collection=LC&callnum=G7470+s50+L4&title=Liban+1:50,000e&description=sheet+Tyr-Nabatiye"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 23,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.502161000248748,
+              33.503474273832524
+            ],
+            [
+              35.501193987363479,
+              33.750618377831358
+            ],
+            [
+              35.448351749168751,
+              33.750540266614507
+            ],
+            [
+              35.25204621618775,
+              33.748755670860135
+            ],
+            [
+              35.251451350936293,
+              33.503076322008155
+            ],
+            [
+              35.502161000248748,
+              33.503474273832524
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 23,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s50 .L4",
+        "title" : "Liban 1:50,000e",
+        "year" : "1963-1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143155870203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Saida",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143155870203941&sublib=MAP&collection=LC&callnum=G7470+s50+L4&title=Liban+1:50,000e&description=sheet+Saida"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 24,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.502161000248748,
+              33.503474273832524
+            ],
+            [
+              35.754852259829192,
+              33.50387537106991
+            ],
+            [
+              35.754411765511179,
+              33.750992683490153
+            ],
+            [
+              35.501193987363479,
+              33.750618377831358
+            ],
+            [
+              35.502161000248748,
+              33.503474273832524
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 24,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s50 .L4",
+        "title" : "Liban 1:50,000e",
+        "year" : "1963-1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143155870203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Jezzine",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143155870203941&sublib=MAP&collection=LC&callnum=G7470+s50+L4&title=Liban+1:50,000e&description=sheet+Jezzine"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 25,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.257059197110038,
+              33.000421390908912
+            ],
+            [
+              35.504120098810517,
+              33.00277809267385
+            ],
+            [
+              35.503151183054172,
+              33.250408522555517
+            ],
+            [
+              35.257046978096525,
+              33.249393659854661
+            ],
+            [
+              35.257059197110038,
+              33.000421390908912
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 25,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s50 .L4",
+        "title" : "Liban 1:50,000e",
+        "year" : "1963-1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143155870203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Bent Jbail",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143155870203941&sublib=MAP&collection=LC&callnum=G7470+s50+L4&title=Liban+1:50,000e&description=sheet+Bent Jbail"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 26,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              35.257059197110038,
+              33.000421390908912
+            ],
+            [
+              35.257046978096525,
+              33.249393659854661
+            ],
+            [
+              35.178282925007011,
+              33.24906885963577
+            ],
+            [
+              35.004582271581398,
+              33.247284263881397
+            ],
+            [
+              35.006961732587229,
+              32.998035723520672
+            ],
+            [
+              35.257059197110038,
+              33.000421390908912
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 26,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7470 s50 .L4",
+        "title" : "Liban 1:50,000e",
+        "year" : "1963-1966",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143155870203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Naqoura",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143155870203941&sublib=MAP&collection=LC&callnum=G7470+s50+L4&title=Liban+1:50,000e&description=sheet+Naqoura"
+      }
+    }
+  ]
+}
