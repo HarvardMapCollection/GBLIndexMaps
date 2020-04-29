@@ -1,0 +1,426 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 0,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.8964964978671754,
+              7.3931536160709426
+            ],
+            [
+              3.8624964978671756,
+              7.3940536160709431
+            ],
+            [
+              3.8625964978671754,
+              7.3716536160709429
+            ],
+            [
+              3.8965964978671757,
+              7.371253616070943
+            ],
+            [
+              3.8964964978671754,
+              7.3931536160709426
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 0,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8844.I2 s4 .N5",
+        "title" : " Nigeria 1:4,800 : Ibadan",
+        "year" : "[1954-1955",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143856410203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "25",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143856410203941&sublib=MAP&collection=LC&callnum=G8844I2+s4+N5&title=+Nigeria+1:4,800+:+Ibadan&description=sheet+25"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.9302964978671757,
+              7.3635536160709432
+            ],
+            [
+              3.9301964978671755,
+              7.370853616070943
+            ],
+            [
+              3.8965964978671757,
+              7.371253616070943
+            ],
+            [
+              3.8966964978671754,
+              7.3485536160709426
+            ],
+            [
+              3.9305964978671755,
+              7.3480536160709429
+            ],
+            [
+              3.9302964978671757,
+              7.3635536160709432
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 1,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8844.I2 s4 .N5",
+        "title" : " Nigeria 1:4,800 : Ibadan",
+        "year" : "[1954-1955",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143856410203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "33",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143856410203941&sublib=MAP&collection=LC&callnum=G8844I2+s4+N5&title=+Nigeria+1:4,800+:+Ibadan&description=sheet+33"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.8965964978671757,
+              7.371253616070943
+            ],
+            [
+              3.8625964978671754,
+              7.3716536160709429
+            ],
+            [
+              3.8625964978671754,
+              7.3645536160709426
+            ],
+            [
+              3.8626964978671756,
+              7.349153616070943
+            ],
+            [
+              3.8966964978671754,
+              7.3485536160709426
+            ],
+            [
+              3.8965964978671757,
+              7.371253616070943
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 2,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8844.I2 s4 .N5",
+        "title" : " Nigeria 1:4,800 : Ibadan",
+        "year" : "[1954-1955",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143856410203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "32",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143856410203941&sublib=MAP&collection=LC&callnum=G8844I2+s4+N5&title=+Nigeria+1:4,800+:+Ibadan&description=sheet+32"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.8625964978671754,
+              7.3645536160709426
+            ],
+            [
+              3.8625964978671754,
+              7.3716536160709429
+            ],
+            [
+              3.8281964978671756,
+              7.3720536160709429
+            ],
+            [
+              3.8282964978671754,
+              7.3497536160709434
+            ],
+            [
+              3.8626964978671756,
+              7.349153616070943
+            ],
+            [
+              3.8625964978671754,
+              7.3645536160709426
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 3,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8844.I2 s4 .N5",
+        "title" : " Nigeria 1:4,800 : Ibadan",
+        "year" : "[1954-1955",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143856410203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "31",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143856410203941&sublib=MAP&collection=LC&callnum=G8844I2+s4+N5&title=+Nigeria+1:4,800+:+Ibadan&description=sheet+31"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.9300964978671757,
+              7.392953616070943
+            ],
+            [
+              3.8964964978671754,
+              7.3931536160709426
+            ],
+            [
+              3.8965964978671757,
+              7.371253616070943
+            ],
+            [
+              3.9301964978671755,
+              7.370853616070943
+            ],
+            [
+              3.9300964978671757,
+              7.392953616070943
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 4,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8844 .I2 s4 .N5",
+        "title" : " Nigeria 1:4,800 : Ibadan",
+        "year" : "[1954-1955",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143856410203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "26",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143856410203941&sublib=MAP&collection=LC&callnum=G8844+I2+s4+N5&title=+Nigeria+1:4,800+:+Ibadan&description=sheet+26"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.8624964978671756,
+              7.3940536160709431
+            ],
+            [
+              3.8281964978671756,
+              7.3945536160709429
+            ],
+            [
+              3.8281964978671756,
+              7.3878536160709434
+            ],
+            [
+              3.8281964978671756,
+              7.3720536160709429
+            ],
+            [
+              3.8625964978671754,
+              7.3716536160709429
+            ],
+            [
+              3.8624964978671756,
+              7.3940536160709431
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 5,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8844.I2 s4 .N5",
+        "title" : " Nigeria 1:4,800 : Ibadan",
+        "year" : "[1954-1955",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143856410203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "24",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143856410203941&sublib=MAP&collection=LC&callnum=G8844I2+s4+N5&title=+Nigeria+1:4,800+:+Ibadan&description=sheet+24"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.9298964978671753,
+              7.4155536160709428
+            ],
+            [
+              3.8965964978671757,
+              7.4160536160709434
+            ],
+            [
+              3.8964964978671754,
+              7.3931536160709426
+            ],
+            [
+              3.9300964978671757,
+              7.392953616070943
+            ],
+            [
+              3.9298964978671753,
+              7.4155536160709428
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 6,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8844.I2 s4 .N5",
+        "title" : " Nigeria 1:4,800 : Ibadan",
+        "year" : "[1954-1955",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143856410203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "19",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143856410203941&sublib=MAP&collection=LC&callnum=G8844+I2+s4+N5&title=+Nigeria+1:4,800+:+Ibadan&description=sheet+19"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.8965964978671757,
+              7.4160536160709434
+            ],
+            [
+              3.8623964978671754,
+              7.4166536160709429
+            ],
+            [
+              3.8624964978671756,
+              7.3940536160709431
+            ],
+            [
+              3.8964964978671754,
+              7.3931536160709426
+            ],
+            [
+              3.8965964978671757,
+              7.4160536160709434
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 7,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8844.I2 s4 .N5",
+        "title" : " Nigeria 1:4,800 : Ibadan",
+        "year" : "[1954-1955",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143856410203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "18",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143856410203941&sublib=MAP&collection=LC&callnum=G8844I2+s4+N5&title=+Nigeria+1:4,800+:+Ibadan&description=sheet+18"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.8623964978671754,
+              7.4166536160709429
+            ],
+            [
+              3.8281964978671756,
+              7.4171536160709426
+            ],
+            [
+              3.8281964978671756,
+              7.3945536160709429
+            ],
+            [
+              3.8624964978671756,
+              7.3940536160709431
+            ],
+            [
+              3.8623964978671754,
+              7.4166536160709429
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 8,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8844.I2 s4 .N5",
+        "title" : " Nigeria 1:4,800 : Ibadan",
+        "year" : "[1954-1955",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143856410203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "17",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143856410203941&sublib=MAP&collection=LC&callnum=G8844+I2+s4+N5&title=+Nigeria+1:4,800+:+Ibadan&description=sheet+17"
+      }
+    }
+  ]
+}
