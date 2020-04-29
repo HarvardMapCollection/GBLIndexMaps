@@ -1,0 +1,275 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 0,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.1363269642243496,
+              4.7326313814204335
+            ],
+            [
+              7.0327269642243495,
+              4.7338313814204334
+            ],
+            [
+              7.0320269642243494,
+              4.666931381420433
+            ],
+            [
+              7.1351269642243498,
+              4.666531381420433
+            ],
+            [
+              7.1363269642243496,
+              4.7326313814204335
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 0,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8844 .P6 s4 .G7",
+        "title" : "1:4800 Eastern Nigeria. Port Harcourt",
+        "year" : "[1965?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143853100203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "6",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143853100203941&sublib=MAP&collection=LC&callnum=G8844+P6+s4+G7&title=1:4800+Eastern+Nigeria.+Port+Harcourt&description=sheet+6"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.0327269642243495,
+              4.7338313814204334
+            ],
+            [
+              6.9312269642243498,
+              4.7350313814204332
+            ],
+            [
+              6.9303269642243492,
+              4.6673313814204329
+            ],
+            [
+              7.0320269642243494,
+              4.666931381420433
+            ],
+            [
+              7.0327269642243495,
+              4.7338313814204334
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 1,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8844 .P6 s4 .G7",
+        "title" : "1:4800 Eastern Nigeria. Port Harcourt",
+        "year" : "[1965?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143853100203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "5",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143853100203941&sublib=MAP&collection=LC&callnum=G8844+P6+s4+G7&title=1:4800+Eastern+Nigeria.+Port+Harcourt&description=sheet+5"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.1375269642243495,
+              4.7989313814204326
+            ],
+            [
+              7.0334269642243497,
+              4.7997313814204334
+            ],
+            [
+              7.0327269642243495,
+              4.7338313814204334
+            ],
+            [
+              7.1363269642243496,
+              4.7326313814204335
+            ],
+            [
+              7.1375269642243495,
+              4.7989313814204326
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 2,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8844 .P6 s4 .G7",
+        "title" : "1:4800 Eastern Nigeria. Port Harcourt",
+        "year" : "[1965?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143853100203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "4",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143853100203941&sublib=MAP&collection=LC&callnum=G8844+P6+s4+G7&title=1:4800+Eastern+Nigeria.+Port+Harcourt&description=sheet+4"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.0334269642243497,
+              4.7997313814204334
+            ],
+            [
+              6.9321269642243495,
+              4.8004313814204327
+            ],
+            [
+              6.9312269642243498,
+              4.7350313814204332
+            ],
+            [
+              7.0327269642243495,
+              4.7338313814204334
+            ],
+            [
+              7.0334269642243497,
+              4.7997313814204334
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 3,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8844 .P6 s4 .G7",
+        "title" : "1:4800 Eastern Nigeria. Port Harcourt",
+        "year" : "[1965?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143853100203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143853100203941&sublib=MAP&collection=LC&callnum=G8844+P6+s4+G7&title=1:4800+Eastern+Nigeria.+Port+Harcourt&description=sheet+3"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.1386269642243496,
+              4.8652313814204327
+            ],
+            [
+              7.0340269642243491,
+              4.8659313814204328
+            ],
+            [
+              7.0334269642243497,
+              4.7997313814204334
+            ],
+            [
+              7.1375269642243495,
+              4.7989313814204326
+            ],
+            [
+              7.1386269642243496,
+              4.8652313814204327
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 4,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8844 .P6 s4 .G7",
+        "title" : "1:4800 Eastern Nigeria. Port Harcourt",
+        "year" : "[1965?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143853100203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "2",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143853100203941&sublib=MAP&collection=LC&callnum=G8844+P6+s4+G7&title=1:4800+Eastern+Nigeria.+Port+Harcourt&description=sheet+2"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.0340269642243491,
+              4.8659313814204328
+            ],
+            [
+              6.9331269642243498,
+              4.8666313814204329
+            ],
+            [
+              6.9321269642243495,
+              4.8004313814204327
+            ],
+            [
+              7.0334269642243497,
+              4.7997313814204334
+            ],
+            [
+              7.0340269642243491,
+              4.8659313814204328
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 5,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8844 .P6 s4 .G7",
+        "title" : "1:4800 Eastern Nigeria. Port Harcourt",
+        "year" : "[1965?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143853100203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "1",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143853100203941&sublib=MAP&collection=LC&callnum=G8844+P6+s4+G7&title=1:4800+Eastern+Nigeria.+Port+Harcourt&description=sheet+1"
+      }
+    }
+  ]
+}
