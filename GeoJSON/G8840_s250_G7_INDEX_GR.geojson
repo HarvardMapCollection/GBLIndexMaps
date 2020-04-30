@@ -1,0 +1,5401 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 0,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              8.9406630969872438,
+              4.0026723145384739
+            ],
+            [
+              8.9434630969872444,
+              4.9756723145384729
+            ],
+            [
+              7.4797630969872451,
+              4.9756723145384729
+            ],
+            [
+              7.4840630969872439,
+              4.4473723145384731
+            ],
+            [
+              7.493163096987244,
+              4.0050723145384737
+            ],
+            [
+              8.9406630969872438,
+              4.0026723145384739
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 0,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "74-N",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+74-N"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              10.503563096987245,
+              4.5401723145384736
+            ],
+            [
+              10.503563096987245,
+              4.9756723145384729
+            ],
+            [
+              8.9434630969872444,
+              4.9756723145384729
+            ],
+            [
+              8.9406630969872438,
+              4.0026723145384739
+            ],
+            [
+              9.7611630969872447,
+              4.0012723145384737
+            ],
+            [
+              10.505863096987245,
+              4.0022723145384731
+            ],
+            [
+              10.503563096987245,
+              4.5401723145384736
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 1,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "74-O",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              11.970563096987245,
+              4.5294723145384737
+            ],
+            [
+              11.970563096987245,
+              4.9770723145384732
+            ],
+            [
+              11.817063096987244,
+              4.9756723145384729
+            ],
+            [
+              10.503563096987245,
+              4.9756723145384729
+            ],
+            [
+              10.503563096987245,
+              4.5401723145384736
+            ],
+            [
+              10.505863096987245,
+              4.0022723145384731
+            ],
+            [
+              11.969463096987244,
+              4.0042723145384738
+            ],
+            [
+              11.970563096987245,
+              4.5294723145384737
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 2,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "74-P",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.7951630969872454,
+              4.9756723145384729
+            ],
+            [
+              6.0002630969872452,
+              4.9790723145384739
+            ],
+            [
+              6.0054630969872456,
+              4.0075723145384732
+            ],
+            [
+              7.493163096987244,
+              4.0050723145384737
+            ],
+            [
+              7.4840630969872439,
+              4.4473723145384731
+            ],
+            [
+              7.4797630969872451,
+              4.9756723145384729
+            ],
+            [
+              6.7951630969872454,
+              4.9756723145384729
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 3,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "74-M",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+74-M"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.0002630969872452,
+              4.9790723145384739
+            ],
+            [
+              4.4899630969872444,
+              4.9855723145384729
+            ],
+            [
+              4.4952630969872445,
+              4.0101723145384742
+            ],
+            [
+              6.0054630969872456,
+              4.0075723145384732
+            ],
+            [
+              6.0002630969872452,
+              4.9790723145384739
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 4,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "73-P",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+73-P"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              13.420463096987245,
+              4.0061723145384729
+            ],
+            [
+              13.422863096987246,
+              4.9898723145384736
+            ],
+            [
+              11.970563096987245,
+              4.9770723145384732
+            ],
+            [
+              11.970563096987245,
+              4.5294723145384737
+            ],
+            [
+              11.969463096987244,
+              4.0042723145384738
+            ],
+            [
+              13.420463096987245,
+              4.0061723145384729
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 5,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "75-M",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.4899630969872444,
+              4.9855723145384729
+            ],
+            [
+              3.0318630969872444,
+              4.9917723145384727
+            ],
+            [
+              3.038463096987245,
+              4.0149723145384737
+            ],
+            [
+              3.4330630969872447,
+              4.0119723145384736
+            ],
+            [
+              4.4952630969872445,
+              4.0101723145384742
+            ],
+            [
+              4.4899630969872444,
+              4.9855723145384729
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 6,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "73-O",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.6193630969872448,
+              4.0258723145384732
+            ],
+            [
+              1.5850630969872448,
+              4.9970723145384728
+            ],
+            [
+              0.034863096987244546,
+              4.9970723145384728
+            ],
+            [
+              0.056463096987244832,
+              4.0378723145384736
+            ],
+            [
+              1.6193630969872448,
+              4.0258723145384732
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 7,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "73-M",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.0318630969872444,
+              4.9917723145384727
+            ],
+            [
+              1.780463096987245,
+              4.9970723145384728
+            ],
+            [
+              1.5850630969872448,
+              4.9970723145384728
+            ],
+            [
+              1.6193630969872448,
+              4.0258723145384732
+            ],
+            [
+              3.038463096987245,
+              4.0149723145384737
+            ],
+            [
+              3.0318630969872444,
+              4.9917723145384727
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 8,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "73-N",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              13.425363096987244,
+              5.9781723145384742
+            ],
+            [
+              11.970563096987245,
+              5.980972314538473
+            ],
+            [
+              11.970563096987245,
+              4.9770723145384732
+            ],
+            [
+              13.422863096987246,
+              4.9898723145384736
+            ],
+            [
+              13.425363096987244,
+              5.9781723145384742
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 9,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "75-",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              8.9434630969872444,
+              4.9756723145384729
+            ],
+            [
+              8.9463630969872447,
+              5.9821723145384738
+            ],
+            [
+              7.4715630969872446,
+              5.9821723145384738
+            ],
+            [
+              7.4797630969872451,
+              4.9756723145384729
+            ],
+            [
+              8.9434630969872444,
+              4.9756723145384729
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 10,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "74-J",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+74-J"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              10.503563096987245,
+              4.9756723145384729
+            ],
+            [
+              10.503563096987245,
+              5.9821723145384738
+            ],
+            [
+              8.9463630969872447,
+              5.9821723145384738
+            ],
+            [
+              8.9434630969872444,
+              4.9756723145384729
+            ],
+            [
+              10.503563096987245,
+              4.9756723145384729
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 11,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "74-K",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+74-K"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              11.970563096987245,
+              5.980972314538473
+            ],
+            [
+              11.360163096987245,
+              5.9821723145384738
+            ],
+            [
+              10.503563096987245,
+              5.9821723145384738
+            ],
+            [
+              10.503563096987245,
+              4.9756723145384729
+            ],
+            [
+              11.817063096987244,
+              4.9756723145384729
+            ],
+            [
+              11.970563096987245,
+              4.9770723145384732
+            ],
+            [
+              11.970563096987245,
+              5.980972314538473
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 12,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "74-L",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.5738630969872442,
+              5.9821723145384738
+            ],
+            [
+              5.9948630969872454,
+              5.9851723145384739
+            ],
+            [
+              6.0002630969872452,
+              4.9790723145384739
+            ],
+            [
+              6.7951630969872454,
+              4.9756723145384729
+            ],
+            [
+              7.4797630969872451,
+              4.9756723145384729
+            ],
+            [
+              7.4715630969872446,
+              5.9821723145384738
+            ],
+            [
+              6.5738630969872442,
+              5.9821723145384738
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 13,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "74-I",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+74-I"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.9948630969872454,
+              5.9851723145384739
+            ],
+            [
+              4.4844630969872448,
+              5.9928723145384737
+            ],
+            [
+              4.4899630969872444,
+              4.9855723145384729
+            ],
+            [
+              6.0002630969872452,
+              4.9790723145384739
+            ],
+            [
+              5.9948630969872454,
+              5.9851723145384739
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 14,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "73-L",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+73-L"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.4844630969872448,
+              5.9928723145384737
+            ],
+            [
+              3.0241630969872446,
+              6.0002723145384742
+            ],
+            [
+              3.0261630969872444,
+              5.8322723145384732
+            ],
+            [
+              3.0318630969872444,
+              4.9917723145384727
+            ],
+            [
+              4.4899630969872444,
+              4.9855723145384729
+            ],
+            [
+              4.4844630969872448,
+              5.9928723145384737
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 15,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "73-K",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.3872630969872448,
+              6.0035723145384736
+            ],
+            [
+              1.5492630969872447,
+              6.0101723145384742
+            ],
+            [
+              1.5850630969872448,
+              4.9970723145384728
+            ],
+            [
+              1.780463096987245,
+              4.9970723145384728
+            ],
+            [
+              3.0318630969872444,
+              4.9917723145384727
+            ],
+            [
+              3.0261630969872444,
+              5.8322723145384732
+            ],
+            [
+              3.0241630969872446,
+              6.0002723145384742
+            ],
+            [
+              2.3872630969872448,
+              6.0035723145384736
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 16,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "73-J",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.5492630969872447,
+              6.0101723145384742
+            ],
+            [
+              0.011663096987244437,
+              6.0221723145384729
+            ],
+            [
+              0.034863096987244546,
+              4.9970723145384728
+            ],
+            [
+              1.5850630969872448,
+              4.9970723145384728
+            ],
+            [
+              1.5492630969872447,
+              6.0101723145384742
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 17,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "73-I",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.4715630969872446,
+              5.9821723145384738
+            ],
+            [
+              7.4632630969872444,
+              6.9993723145384728
+            ],
+            [
+              5.9857630969872453,
+              6.9993723145384728
+            ],
+            [
+              5.9921630969872446,
+              6.4961723145384731
+            ],
+            [
+              5.9948630969872454,
+              5.9851723145384739
+            ],
+            [
+              6.5738630969872442,
+              5.9821723145384738
+            ],
+            [
+              7.4715630969872446,
+              5.9821723145384738
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 18,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "74-E",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+74-E"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 19,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              8.947463096987244,
+              6.381872314538473
+            ],
+            [
+              8.9448630969872447,
+              6.9993723145384728
+            ],
+            [
+              7.4632630969872444,
+              6.9993723145384728
+            ],
+            [
+              7.4715630969872446,
+              5.9821723145384738
+            ],
+            [
+              8.9463630969872447,
+              5.9821723145384738
+            ],
+            [
+              8.947463096987244,
+              6.381872314538473
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 19,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "74-F",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+74-F"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 20,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              10.503563096987245,
+              5.9821723145384738
+            ],
+            [
+              10.503563096987245,
+              6.9993723145384728
+            ],
+            [
+              8.9448630969872447,
+              6.9993723145384728
+            ],
+            [
+              8.947463096987244,
+              6.381872314538473
+            ],
+            [
+              8.9463630969872447,
+              5.9821723145384738
+            ],
+            [
+              10.503563096987245,
+              5.9821723145384738
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 20,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "74-G",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+74-G"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 21,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.4924630969872439,
+              6.9993723145384728
+            ],
+            [
+              4.4755630969872442,
+              7.0022723145384731
+            ],
+            [
+              4.4823630969872443,
+              6.3783723145384741
+            ],
+            [
+              4.4844630969872448,
+              5.9928723145384737
+            ],
+            [
+              5.9948630969872454,
+              5.9851723145384739
+            ],
+            [
+              5.9921630969872446,
+              6.4961723145384731
+            ],
+            [
+              5.9857630969872453,
+              6.9993723145384728
+            ],
+            [
+              5.4924630969872439,
+              6.9993723145384728
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 21,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "73-H",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+73-H"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 22,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              11.970563096987245,
+              5.980972314538473
+            ],
+            [
+              11.970563096987245,
+              7.0032723145384725
+            ],
+            [
+              10.828363096987244,
+              6.9993723145384728
+            ],
+            [
+              10.503563096987245,
+              6.9993723145384728
+            ],
+            [
+              10.503563096987245,
+              5.9821723145384738
+            ],
+            [
+              11.360163096987245,
+              5.9821723145384738
+            ],
+            [
+              11.970563096987245,
+              5.980972314538473
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 22,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "74-H",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 23,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.4755630969872442,
+              7.0022723145384731
+            ],
+            [
+              3.0119630969872446,
+              7.0064723145384722
+            ],
+            [
+              3.0241630969872446,
+              6.0002723145384742
+            ],
+            [
+              4.4844630969872448,
+              5.9928723145384737
+            ],
+            [
+              4.4823630969872443,
+              6.3783723145384741
+            ],
+            [
+              4.4755630969872442,
+              7.0022723145384731
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 23,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "73-G",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+73-G"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 24,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              13.426763096987244,
+              6.556772314538474
+            ],
+            [
+              13.422863096987246,
+              7.0081723145384736
+            ],
+            [
+              11.970563096987245,
+              7.0032723145384725
+            ],
+            [
+              11.970563096987245,
+              5.980972314538473
+            ],
+            [
+              13.425363096987244,
+              5.9781723145384742
+            ],
+            [
+              13.426763096987244,
+              6.556772314538474
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 24,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "75-E",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 25,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.0119630969872446,
+              7.0064723145384722
+            ],
+            [
+              1.5170630969872443,
+              7.0106723145384731
+            ],
+            [
+              1.5341630969872444,
+              6.4354723145384742
+            ],
+            [
+              1.5492630969872447,
+              6.0101723145384742
+            ],
+            [
+              2.3872630969872448,
+              6.0035723145384736
+            ],
+            [
+              3.0241630969872446,
+              6.0002723145384742
+            ],
+            [
+              3.0119630969872446,
+              7.0064723145384722
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 25,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "73-F",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+73-F"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 26,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.4777630969872444,
+              7.0136723145384732
+            ],
+            [
+              -0.0055369030127554453,
+              7.0156723145384721
+            ],
+            [
+              -0.00053690301275555186,
+              6.564072314538473
+            ],
+            [
+              0.011663096987244437,
+              6.0221723145384729
+            ],
+            [
+              1.5492630969872447,
+              6.0101723145384742
+            ],
+            [
+              1.5341630969872444,
+              6.4354723145384742
+            ],
+            [
+              1.5170630969872443,
+              7.0106723145384731
+            ],
+            [
+              0.4777630969872444,
+              7.0136723145384732
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 26,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "73-E",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 27,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              8.9407630969872454,
+              7.9707723145384737
+            ],
+            [
+              7.4626630969872441,
+              7.9727723145384726
+            ],
+            [
+              7.4626630969872441,
+              7.0778723145384728
+            ],
+            [
+              7.4632630969872444,
+              6.9993723145384728
+            ],
+            [
+              8.9448630969872447,
+              6.9993723145384728
+            ],
+            [
+              8.9407630969872454,
+              7.9707723145384737
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 27,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "74-B",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+74-B"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 28,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.4626630969872441,
+              7.9727723145384726
+            ],
+            [
+              5.9732630969872442,
+              7.9747723145384732
+            ],
+            [
+              5.9857630969872453,
+              6.9993723145384728
+            ],
+            [
+              7.4632630969872444,
+              6.9993723145384728
+            ],
+            [
+              7.4626630969872441,
+              7.0778723145384728
+            ],
+            [
+              7.4626630969872441,
+              7.9727723145384726
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 28,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "74-A",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+74-A"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 29,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.9732630969872442,
+              7.9747723145384732
+            ],
+            [
+              4.464963096987244,
+              7.9767723145384721
+            ],
+            [
+              4.4755630969872442,
+              7.0022723145384731
+            ],
+            [
+              5.4924630969872439,
+              6.9993723145384728
+            ],
+            [
+              5.9857630969872453,
+              6.9993723145384728
+            ],
+            [
+              5.9732630969872442,
+              7.9747723145384732
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 29,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "73-D",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+73-D"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 30,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.5170630969872443,
+              7.0106723145384731
+            ],
+            [
+              1.4884630969872443,
+              7.9773723145384725
+            ],
+            [
+              -0.016336903012755144,
+              7.9773723145384725
+            ],
+            [
+              -0.0055369030127554453,
+              7.0156723145384721
+            ],
+            [
+              0.4777630969872444,
+              7.0136723145384732
+            ],
+            [
+              1.5170630969872443,
+              7.0106723145384731
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 30,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "73-A",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 31,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              3.0119630969872446,
+              7.0064723145384722
+            ],
+            [
+              3.0001630969872446,
+              7.9773723145384725
+            ],
+            [
+              1.4884630969872443,
+              7.9773723145384725
+            ],
+            [
+              1.5170630969872443,
+              7.0106723145384731
+            ],
+            [
+              3.0119630969872446,
+              7.0064723145384722
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 31,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "73-B",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+73-B"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 32,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.464963096987244,
+              7.9767723145384721
+            ],
+            [
+              4.0433630969872443,
+              7.9773723145384725
+            ],
+            [
+              3.0001630969872446,
+              7.9773723145384725
+            ],
+            [
+              3.0119630969872446,
+              7.0064723145384722
+            ],
+            [
+              4.4755630969872442,
+              7.0022723145384731
+            ],
+            [
+              4.464963096987244,
+              7.9767723145384721
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 32,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "73-C",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+73-C"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 33,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              10.503563096987245,
+              7.0279723145384736
+            ],
+            [
+              10.500863096987244,
+              7.9783723145384737
+            ],
+            [
+              9.4078630969872439,
+              7.9701723145384733
+            ],
+            [
+              8.9407630969872454,
+              7.9707723145384737
+            ],
+            [
+              8.9448630969872447,
+              6.9993723145384728
+            ],
+            [
+              10.503563096987245,
+              6.9993723145384728
+            ],
+            [
+              10.503563096987245,
+              7.0279723145384736
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 33,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "74-C",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+74-C"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 34,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              11.970563096987245,
+              7.4455723145384738
+            ],
+            [
+              11.968963096987245,
+              7.9894723145384727
+            ],
+            [
+              10.500863096987244,
+              7.9783723145384737
+            ],
+            [
+              10.503563096987245,
+              7.0279723145384736
+            ],
+            [
+              10.503563096987245,
+              6.9993723145384728
+            ],
+            [
+              10.828363096987244,
+              6.9993723145384728
+            ],
+            [
+              11.970563096987245,
+              7.0032723145384725
+            ],
+            [
+              11.970563096987245,
+              7.4455723145384738
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 34,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "74-D",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+74-D"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 35,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              13.422863096987246,
+              7.0081723145384736
+            ],
+            [
+              13.414263096987245,
+              8.0003723145384722
+            ],
+            [
+              11.968963096987245,
+              7.9894723145384727
+            ],
+            [
+              11.970563096987245,
+              7.4455723145384738
+            ],
+            [
+              11.970563096987245,
+              7.0032723145384725
+            ],
+            [
+              13.422863096987246,
+              7.0081723145384736
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 35,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "75-",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+75-"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 36,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.4626630969872441,
+              7.9727723145384726
+            ],
+            [
+              7.4626630969872441,
+              8.9740723145384731
+            ],
+            [
+              5.9604630969872439,
+              8.9706723145384721
+            ],
+            [
+              5.9732630969872442,
+              7.9747723145384732
+            ],
+            [
+              7.4626630969872441,
+              7.9727723145384726
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 36,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "62-M",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+62-M"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 37,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.4888630969872452,
+              8.9695723145384729
+            ],
+            [
+              4.4540630969872446,
+              8.9749723145384728
+            ],
+            [
+              4.464963096987244,
+              7.9767723145384721
+            ],
+            [
+              5.9732630969872442,
+              7.9747723145384732
+            ],
+            [
+              5.9604630969872439,
+              8.9706723145384721
+            ],
+            [
+              5.4888630969872452,
+              8.9695723145384729
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 37,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "61-P",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+61-P"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 38,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              8.9407630969872454,
+              7.9707723145384737
+            ],
+            [
+              8.9365630969872445,
+              8.9773723145384725
+            ],
+            [
+              7.4626630969872441,
+              8.9740723145384731
+            ],
+            [
+              7.4626630969872441,
+              7.9727723145384726
+            ],
+            [
+              8.9407630969872454,
+              7.9707723145384737
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 38,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "62-N",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+62-N"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 39,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              10.500863096987244,
+              7.9783723145384737
+            ],
+            [
+              10.497963096987245,
+              8.980972314538473
+            ],
+            [
+              8.9365630969872445,
+              8.9773723145384725
+            ],
+            [
+              8.9407630969872454,
+              7.9707723145384737
+            ],
+            [
+              9.4078630969872439,
+              7.9701723145384733
+            ],
+            [
+              10.500863096987244,
+              7.9783723145384737
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 39,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "62-O",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+62-O"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 40,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.4540630969872446,
+              8.9749723145384728
+            ],
+            [
+              2.9899630969872444,
+              8.9826723145384726
+            ],
+            [
+              2.990463096987245,
+              8.7696723145384734
+            ],
+            [
+              3.0001630969872446,
+              7.9773723145384725
+            ],
+            [
+              4.0433630969872443,
+              7.9773723145384725
+            ],
+            [
+              4.464963096987244,
+              7.9767723145384721
+            ],
+            [
+              4.4540630969872446,
+              8.9749723145384728
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 40,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "61-O",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+61-O"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 41,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              11.968963096987245,
+              7.9894723145384727
+            ],
+            [
+              11.966063096987245,
+              8.9853723145384734
+            ],
+            [
+              11.745663096987244,
+              8.9838723145384733
+            ],
+            [
+              10.497963096987245,
+              8.980972314538473
+            ],
+            [
+              10.500863096987244,
+              7.9783723145384737
+            ],
+            [
+              11.968963096987245,
+              7.9894723145384727
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 41,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "62-P",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+62-P"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 42,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.9899630969872444,
+              8.9826723145384726
+            ],
+            [
+              1.458463096987245,
+              8.9907723145384733
+            ],
+            [
+              1.4884630969872443,
+              7.9773723145384725
+            ],
+            [
+              3.0001630969872446,
+              7.9773723145384725
+            ],
+            [
+              2.990463096987245,
+              8.7696723145384734
+            ],
+            [
+              2.9899630969872444,
+              8.9826723145384726
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 42,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "61-N",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 43,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              13.414263096987245,
+              8.0003723145384722
+            ],
+            [
+              13.405563096987244,
+              8.9949723145384723
+            ],
+            [
+              11.966063096987245,
+              8.9853723145384734
+            ],
+            [
+              11.968963096987245,
+              7.9894723145384727
+            ],
+            [
+              13.414263096987245,
+              8.0003723145384722
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 43,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "63-M",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+63-M"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 44,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.458463096987245,
+              8.9907723145384733
+            ],
+            [
+              -0.027736903012755221,
+              8.9985723145384728
+            ],
+            [
+              -0.016336903012755144,
+              7.9773723145384725
+            ],
+            [
+              1.4884630969872443,
+              7.9773723145384725
+            ],
+            [
+              1.458463096987245,
+              8.9907723145384733
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 44,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "61-M",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 45,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              8.9315630969872455,
+              10.002172314538473
+            ],
+            [
+              7.4594630969872444,
+              10.004172314538472
+            ],
+            [
+              7.4626630969872441,
+              9.2872723145384732
+            ],
+            [
+              7.4626630969872441,
+              8.9740723145384731
+            ],
+            [
+              8.9365630969872445,
+              8.9773723145384725
+            ],
+            [
+              8.9331630969872453,
+              9.7904723145384729
+            ],
+            [
+              8.9315630969872455,
+              10.002172314538473
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 45,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "62-J",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+62-J"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 46,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.4594630969872444,
+              10.004172314538472
+            ],
+            [
+              5.9525630969872445,
+              10.006272314538473
+            ],
+            [
+              5.9564630969872443,
+              9.2836723145384727
+            ],
+            [
+              5.9604630969872439,
+              8.9706723145384721
+            ],
+            [
+              7.4626630969872441,
+              8.9740723145384731
+            ],
+            [
+              7.4626630969872441,
+              9.2872723145384732
+            ],
+            [
+              7.4594630969872444,
+              10.004172314538472
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 46,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "62-I",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+62-I"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 47,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              10.496463096987245,
+              9.5013723145384734
+            ],
+            [
+              10.492163096987245,
+              10.006372314538472
+            ],
+            [
+              9.6862630969872452,
+              10.001072314538472
+            ],
+            [
+              8.9315630969872455,
+              10.002172314538473
+            ],
+            [
+              8.9331630969872453,
+              9.7904723145384729
+            ],
+            [
+              8.9365630969872445,
+              8.9773723145384725
+            ],
+            [
+              10.497963096987245,
+              8.980972314538473
+            ],
+            [
+              10.496463096987245,
+              9.5013723145384734
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 47,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "62-K",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+62-K"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 48,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.6500630969872443,
+              10.008172314538474
+            ],
+            [
+              4.4565630969872441,
+              10.008672314538472
+            ],
+            [
+              4.446663096987244,
+              9.6512723145384722
+            ],
+            [
+              4.4540630969872446,
+              8.9749723145384728
+            ],
+            [
+              5.4888630969872452,
+              8.9695723145384729
+            ],
+            [
+              5.9604630969872439,
+              8.9706723145384721
+            ],
+            [
+              5.9564630969872443,
+              9.2836723145384727
+            ],
+            [
+              5.9525630969872445,
+              10.006272314538473
+            ],
+            [
+              4.6500630969872443,
+              10.008172314538474
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 48,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "61-L",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+61-L"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 49,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.4565630969872441,
+              10.008672314538472
+            ],
+            [
+              2.9873630969872451,
+              10.012272314538473
+            ],
+            [
+              2.9899630969872444,
+              8.9826723145384726
+            ],
+            [
+              4.4540630969872446,
+              8.9749723145384728
+            ],
+            [
+              4.446663096987244,
+              9.6512723145384722
+            ],
+            [
+              4.4565630969872441,
+              10.008672314538472
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 49,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "61-K",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+61-K"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 50,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.9873630969872451,
+              10.012272314538473
+            ],
+            [
+              1.4510630969872444,
+              10.015972314538473
+            ],
+            [
+              1.4485630969872449,
+              9.3229723145384735
+            ],
+            [
+              1.458463096987245,
+              8.9907723145384733
+            ],
+            [
+              2.9899630969872444,
+              8.9826723145384726
+            ],
+            [
+              2.9873630969872451,
+              10.012272314538473
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 50,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "61-J",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 51,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              11.963363096987244,
+              9.9046723145384732
+            ],
+            [
+              11.962763096987246,
+              10.016172314538473
+            ],
+            [
+              10.492163096987245,
+              10.006372314538472
+            ],
+            [
+              10.496463096987245,
+              9.5013723145384734
+            ],
+            [
+              10.497963096987245,
+              8.980972314538473
+            ],
+            [
+              11.745663096987244,
+              8.9838723145384733
+            ],
+            [
+              11.966063096987245,
+              8.9853723145384734
+            ],
+            [
+              11.963363096987244,
+              9.9046723145384732
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 51,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "62-L",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+62-L"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 52,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.4510630969872444,
+              10.015972314538473
+            ],
+            [
+              -0.03933690301275572,
+              10.019572314538474
+            ],
+            [
+              -0.029036903012754856,
+              9.1160723145384726
+            ],
+            [
+              -0.027736903012755221,
+              8.9985723145384728
+            ],
+            [
+              1.458463096987245,
+              8.9907723145384733
+            ],
+            [
+              1.4485630969872449,
+              9.3229723145384735
+            ],
+            [
+              1.4510630969872444,
+              10.015972314538473
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 52,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "61-I",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 53,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              13.405363096987244,
+              9.0159723145384731
+            ],
+            [
+              13.390963096987246,
+              10.025672314538474
+            ],
+            [
+              11.962763096987246,
+              10.016172314538473
+            ],
+            [
+              11.963363096987244,
+              9.9046723145384732
+            ],
+            [
+              11.966063096987245,
+              8.9853723145384734
+            ],
+            [
+              13.405563096987244,
+              8.9949723145384723
+            ],
+            [
+              13.405363096987244,
+              9.0159723145384731
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 53,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "63-I",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+63-I"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 54,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.4554630969872449,
+              10.904072314538473
+            ],
+            [
+              7.4548630969872445,
+              11.014772314538472
+            ],
+            [
+              5.9471630969872447,
+              11.014772314538472
+            ],
+            [
+              5.9525630969872445,
+              10.006272314538473
+            ],
+            [
+              7.4594630969872444,
+              10.004172314538472
+            ],
+            [
+              7.4554630969872449,
+              10.904072314538473
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 54,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "62-E",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+62-E"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 55,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              8.9315630969872455,
+              10.002172314538473
+            ],
+            [
+              8.9239630969872454,
+              11.014772314538472
+            ],
+            [
+              7.4548630969872445,
+              11.014772314538472
+            ],
+            [
+              7.4554630969872449,
+              10.904072314538473
+            ],
+            [
+              7.4594630969872444,
+              10.004172314538472
+            ],
+            [
+              8.9315630969872455,
+              10.002172314538473
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 55,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "62-F",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+62-F"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 56,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              10.492163096987245,
+              10.006372314538472
+            ],
+            [
+              10.483463096987245,
+              11.014772314538472
+            ],
+            [
+              8.9239630969872454,
+              11.014772314538472
+            ],
+            [
+              8.9315630969872455,
+              10.002172314538473
+            ],
+            [
+              9.6862630969872452,
+              10.001072314538472
+            ],
+            [
+              10.492163096987245,
+              10.006372314538472
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 56,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "62-G",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+62-G"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 57,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.2889630969872439,
+              11.014772314538472
+            ],
+            [
+              4.4847630969872441,
+              11.019172314538473
+            ],
+            [
+              4.4565630969872441,
+              10.008672314538472
+            ],
+            [
+              4.6500630969872443,
+              10.008172314538474
+            ],
+            [
+              5.9525630969872445,
+              10.006272314538473
+            ],
+            [
+              5.9471630969872447,
+              11.014772314538472
+            ],
+            [
+              5.2889630969872439,
+              11.014772314538472
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 57,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "61-H",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+61-H"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 58,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              11.962763096987246,
+              10.016172314538473
+            ],
+            [
+              11.957063096987245,
+              11.019672314538473
+            ],
+            [
+              11.281663096987245,
+              11.014772314538472
+            ],
+            [
+              10.483463096987245,
+              11.014772314538472
+            ],
+            [
+              10.492163096987245,
+              10.006372314538472
+            ],
+            [
+              11.962763096987246,
+              10.016172314538473
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 58,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "62-H",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+62-H"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 59,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.4847630969872441,
+              11.019172314538473
+            ],
+            [
+              2.9848630969872447,
+              11.027272314538473
+            ],
+            [
+              2.9873630969872451,
+              10.012272314538473
+            ],
+            [
+              4.4565630969872441,
+              10.008672314538472
+            ],
+            [
+              4.4847630969872441,
+              11.019172314538473
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 59,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "61-G",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+61-G"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 60,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              13.390963096987246,
+              10.025672314538474
+            ],
+            [
+              13.376663096987244,
+              11.029972314538472
+            ],
+            [
+              11.957063096987245,
+              11.019672314538473
+            ],
+            [
+              11.962763096987246,
+              10.016172314538473
+            ],
+            [
+              13.390963096987246,
+              10.025672314538474
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 60,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "63-E",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+63-E"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 61,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.9848630969872447,
+              11.027272314538473
+            ],
+            [
+              1.4547630969872447,
+              11.035572314538474
+            ],
+            [
+              1.4510630969872444,
+              10.015972314538473
+            ],
+            [
+              2.9873630969872451,
+              10.012272314538473
+            ],
+            [
+              2.9848630969872447,
+              11.027272314538473
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 61,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "61-F",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 62,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.4547630969872447,
+              11.035572314538474
+            ],
+            [
+              -0.051036903012755097,
+              11.043672314538473
+            ],
+            [
+              -0.03933690301275572,
+              10.019572314538474
+            ],
+            [
+              1.4510630969872444,
+              10.015972314538473
+            ],
+            [
+              1.4547630969872447,
+              11.035572314538474
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 62,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "61-E",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 63,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.4556630969872444,
+              11.289572314538473
+            ],
+            [
+              1.4608630969872447,
+              12.039072314538473
+            ],
+            [
+              -0.053136903012755532,
+              12.039072314538473
+            ],
+            [
+              -0.057636903012755702,
+              11.618072314538473
+            ],
+            [
+              -0.051036903012755097,
+              11.043672314538473
+            ],
+            [
+              1.4547630969872447,
+              11.035572314538474
+            ],
+            [
+              1.4556630969872444,
+              11.289572314538473
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 63,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "61-A",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 64,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.9832630969872449,
+              11.650072314538473
+            ],
+            [
+              2.9815630969872444,
+              12.039072314538473
+            ],
+            [
+              1.4608630969872447,
+              12.039072314538473
+            ],
+            [
+              1.4556630969872444,
+              11.289572314538473
+            ],
+            [
+              1.4547630969872447,
+              11.035572314538474
+            ],
+            [
+              2.9848630969872447,
+              11.027272314538473
+            ],
+            [
+              2.9832630969872449,
+              11.650072314538473
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 64,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "61-B",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 65,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.4894630969872455,
+              11.189572314538474
+            ],
+            [
+              4.4998630969872444,
+              12.042172314538472
+            ],
+            [
+              3.714963096987244,
+              12.039072314538473
+            ],
+            [
+              2.9815630969872444,
+              12.039072314538473
+            ],
+            [
+              2.9832630969872449,
+              11.650072314538473
+            ],
+            [
+              2.9848630969872447,
+              11.027272314538473
+            ],
+            [
+              4.4847630969872441,
+              11.019172314538473
+            ],
+            [
+              4.4894630969872455,
+              11.189572314538474
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 65,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "61-C",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+61-C"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 66,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.9421630969872439,
+              11.964172314538473
+            ],
+            [
+              5.9426630969872445,
+              12.047972314538473
+            ],
+            [
+              4.4998630969872444,
+              12.042172314538472
+            ],
+            [
+              4.4894630969872455,
+              11.189572314538474
+            ],
+            [
+              4.4847630969872441,
+              11.019172314538473
+            ],
+            [
+              5.2889630969872439,
+              11.014772314538472
+            ],
+            [
+              5.9471630969872447,
+              11.014772314538472
+            ],
+            [
+              5.9421630969872439,
+              11.964172314538473
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 66,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "61-D",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+61-D"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 67,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.4548630969872445,
+              11.014772314538472
+            ],
+            [
+              7.4490630969872456,
+              12.053972314538473
+            ],
+            [
+              5.9426630969872445,
+              12.047972314538473
+            ],
+            [
+              5.9421630969872439,
+              11.964172314538473
+            ],
+            [
+              5.9471630969872447,
+              11.014772314538472
+            ],
+            [
+              7.4548630969872445,
+              11.014772314538472
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 67,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "62-A",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+62-A"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 68,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              8.9239630969872454,
+              11.014772314538472
+            ],
+            [
+              8.9160630969872443,
+              12.059772314538472
+            ],
+            [
+              7.4490630969872456,
+              12.053972314538473
+            ],
+            [
+              7.4548630969872445,
+              11.014772314538472
+            ],
+            [
+              8.9239630969872454,
+              11.014772314538472
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 68,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "62-B",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+62-B"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 69,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              10.475063096987245,
+              11.989072314538474
+            ],
+            [
+              10.474663096987245,
+              12.068572314538473
+            ],
+            [
+              9.0794630969872454,
+              12.060472314538472
+            ],
+            [
+              8.9160630969872443,
+              12.059772314538472
+            ],
+            [
+              8.9239630969872454,
+              11.014772314538472
+            ],
+            [
+              10.483463096987245,
+              11.014772314538472
+            ],
+            [
+              10.475063096987245,
+              11.989072314538474
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 69,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "62-C",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+62-C"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 70,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              11.957063096987245,
+              11.019672314538473
+            ],
+            [
+              11.951163096987244,
+              12.077072314538473
+            ],
+            [
+              10.474663096987245,
+              12.068572314538473
+            ],
+            [
+              10.475063096987245,
+              11.989072314538474
+            ],
+            [
+              10.483463096987245,
+              11.014772314538472
+            ],
+            [
+              11.281663096987245,
+              11.014772314538472
+            ],
+            [
+              11.957063096987245,
+              11.019672314538473
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 70,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "62-D",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+62-D"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 71,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              13.369663096987246,
+              11.517972314538474
+            ],
+            [
+              13.358163096987244,
+              12.085172314538474
+            ],
+            [
+              11.951163096987244,
+              12.077072314538473
+            ],
+            [
+              11.957063096987245,
+              11.019672314538473
+            ],
+            [
+              13.376663096987244,
+              11.029972314538472
+            ],
+            [
+              13.369663096987246,
+              11.517972314538474
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 71,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "63-A",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+63-A"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 72,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              10.469263096987245,
+              13.053372314538473
+            ],
+            [
+              8.9069630969872442,
+              13.055372314538474
+            ],
+            [
+              8.9117630969872454,
+              12.635172314538472
+            ],
+            [
+              8.9160630969872443,
+              12.059772314538472
+            ],
+            [
+              9.0794630969872454,
+              12.060472314538472
+            ],
+            [
+              10.474663096987245,
+              12.068572314538473
+            ],
+            [
+              10.469263096987245,
+              13.053372314538473
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 72,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "51-O",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+51-O"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 73,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              8.9069630969872442,
+              13.055372314538474
+            ],
+            [
+              7.4434630969872444,
+              13.057272314538473
+            ],
+            [
+              7.4490630969872456,
+              12.053972314538473
+            ],
+            [
+              8.9160630969872443,
+              12.059772314538472
+            ],
+            [
+              8.9117630969872454,
+              12.635172314538472
+            ],
+            [
+              8.9069630969872442,
+              13.055372314538474
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 73,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "51-N",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+51-N"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 74,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              11.949063096987246,
+              12.442372314538472
+            ],
+            [
+              11.941963096987244,
+              13.058772314538473
+            ],
+            [
+              10.967563096987245,
+              13.052772314538473
+            ],
+            [
+              10.469263096987245,
+              13.053372314538473
+            ],
+            [
+              10.474663096987245,
+              12.068572314538473
+            ],
+            [
+              11.951163096987244,
+              12.077072314538473
+            ],
+            [
+              11.949063096987246,
+              12.442372314538472
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 74,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "51-P",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+51-P"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 75,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.4434630969872444,
+              13.057272314538473
+            ],
+            [
+              5.9483630969872454,
+              13.059272314538473
+            ],
+            [
+              5.9426630969872445,
+              12.047972314538473
+            ],
+            [
+              7.4490630969872456,
+              12.053972314538473
+            ],
+            [
+              7.4434630969872444,
+              13.057272314538473
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 75,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "51-M",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+51-M"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 76,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.4603630969872441,
+              13.059872314538472
+            ],
+            [
+              4.5123630969872455,
+              13.061872314538473
+            ],
+            [
+              4.4998630969872444,
+              12.042172314538472
+            ],
+            [
+              5.9426630969872445,
+              12.047972314538473
+            ],
+            [
+              5.9483630969872454,
+              13.059272314538473
+            ],
+            [
+              5.4603630969872441,
+              13.059872314538472
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 76,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "50-P",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+50-P"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 77,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.5123630969872455,
+              13.061872314538473
+            ],
+            [
+              2.9770630969872451,
+              13.065072314538472
+            ],
+            [
+              2.9815630969872444,
+              12.039072314538473
+            ],
+            [
+              3.714963096987244,
+              12.039072314538473
+            ],
+            [
+              4.4998630969872444,
+              12.042172314538472
+            ],
+            [
+              4.5123630969872455,
+              13.061872314538473
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 77,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "50-O",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+50-O"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 78,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              13.358163096987244,
+              12.085172314538474
+            ],
+            [
+              13.338363096987244,
+              13.067472314538472
+            ],
+            [
+              11.941963096987244,
+              13.058772314538473
+            ],
+            [
+              11.949063096987246,
+              12.442372314538472
+            ],
+            [
+              11.951163096987244,
+              12.077072314538473
+            ],
+            [
+              13.358163096987244,
+              12.085172314538474
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 78,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "52-M",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+52-M"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 79,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.9770630969872451,
+              13.065072314538472
+            ],
+            [
+              1.4680630969872448,
+              13.068272314538472
+            ],
+            [
+              1.4608630969872447,
+              12.039072314538473
+            ],
+            [
+              2.9815630969872444,
+              12.039072314538473
+            ],
+            [
+              2.9770630969872451,
+              13.065072314538472
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 79,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "50-N",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 80,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.4680630969872448,
+              13.068272314538472
+            ],
+            [
+              -0.042136903012755411,
+              13.071472314538473
+            ],
+            [
+              -0.053136903012755532,
+              12.039072314538473
+            ],
+            [
+              1.4608630969872447,
+              12.039072314538473
+            ],
+            [
+              1.4680630969872448,
+              13.068272314538472
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 80,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "50-M",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 81,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              8.895963096987245,
+              14.010672314538473
+            ],
+            [
+              7.4503630969872443,
+              14.014672314538473
+            ],
+            [
+              7.4412630969872442,
+              13.448872314538473
+            ],
+            [
+              7.4434630969872444,
+              13.057272314538473
+            ],
+            [
+              8.9069630969872442,
+              13.055372314538474
+            ],
+            [
+              8.895963096987245,
+              14.010672314538473
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 81,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "51-J",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+51-J"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 82,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              10.469263096987245,
+              13.053372314538473
+            ],
+            [
+              10.463963096987245,
+              14.015872314538473
+            ],
+            [
+              9.4149630969872451,
+              14.009272314538473
+            ],
+            [
+              8.895963096987245,
+              14.010672314538473
+            ],
+            [
+              8.9069630969872442,
+              13.055372314538474
+            ],
+            [
+              10.469263096987245,
+              13.053372314538473
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 82,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "51-K",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+51-K"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 83,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.4503630969872443,
+              14.014672314538473
+            ],
+            [
+              5.9537630969872453,
+              14.018772314538474
+            ],
+            [
+              5.9483630969872454,
+              13.059272314538473
+            ],
+            [
+              7.4434630969872444,
+              13.057272314538473
+            ],
+            [
+              7.4412630969872442,
+              13.448872314538473
+            ],
+            [
+              7.4503630969872443,
+              14.014672314538473
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 83,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "51-I",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+51-I"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 84,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.9537630969872453,
+              14.018772314538474
+            ],
+            [
+              4.5221630969872439,
+              14.022772314538473
+            ],
+            [
+              4.5180630969872446,
+              13.527472314538473
+            ],
+            [
+              4.5123630969872455,
+              13.061872314538473
+            ],
+            [
+              5.4603630969872441,
+              13.059872314538472
+            ],
+            [
+              5.9483630969872454,
+              13.059272314538473
+            ],
+            [
+              5.9537630969872453,
+              14.018772314538474
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 84,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "50-L",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+50-L"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 85,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              11.941963096987244,
+              13.058772314538473
+            ],
+            [
+              11.930863096987245,
+              14.025072314538473
+            ],
+            [
+              10.463963096987245,
+              14.015872314538473
+            ],
+            [
+              10.469263096987245,
+              13.053372314538473
+            ],
+            [
+              10.967563096987245,
+              13.052772314538473
+            ],
+            [
+              11.941963096987244,
+              13.058772314538473
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 85,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "51-L",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+51-L"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 86,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.2432630969872456,
+              14.023572314538473
+            ],
+            [
+              2.9727630969872445,
+              14.026872314538473
+            ],
+            [
+              2.9770630969872451,
+              13.065072314538472
+            ],
+            [
+              4.5123630969872455,
+              13.061872314538473
+            ],
+            [
+              4.5180630969872446,
+              13.527472314538473
+            ],
+            [
+              4.5221630969872439,
+              14.022772314538473
+            ],
+            [
+              4.2432630969872456,
+              14.023572314538473
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 86,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "50-K",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+50-K"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 87,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.9727630969872445,
+              14.026872314538473
+            ],
+            [
+              1.4748630969872449,
+              14.030672314538473
+            ],
+            [
+              1.4680630969872448,
+              13.068272314538472
+            ],
+            [
+              2.9770630969872451,
+              13.065072314538472
+            ],
+            [
+              2.9727630969872445,
+              14.026872314538473
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 87,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "50-J",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 88,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              13.319663096987245,
+              13.991472314538473
+            ],
+            [
+              13.319563096987245,
+              14.033772314538473
+            ],
+            [
+              11.930863096987245,
+              14.025072314538473
+            ],
+            [
+              11.941963096987244,
+              13.058772314538473
+            ],
+            [
+              13.338363096987244,
+              13.067472314538472
+            ],
+            [
+              13.319663096987245,
+              13.991472314538473
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 88,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "52-I",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+52-I"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 89,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.4748630969872449,
+              14.030672314538473
+            ],
+            [
+              -0.031836903012755435,
+              14.034572314538472
+            ],
+            [
+              -0.042136903012755411,
+              13.071472314538473
+            ],
+            [
+              1.4680630969872448,
+              13.068272314538472
+            ],
+            [
+              1.4748630969872449,
+              14.030672314538473
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 89,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "50-I",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 90,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              8.895963096987245,
+              14.010672314538473
+            ],
+            [
+              8.8843630969872454,
+              15.012172314538471
+            ],
+            [
+              7.4662630969872446,
+              15.012172314538471
+            ],
+            [
+              7.4503630969872443,
+              14.014672314538473
+            ],
+            [
+              8.895963096987245,
+              14.010672314538473
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 90,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "51-F",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 91,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              10.460763096987245,
+              14.583872314538473
+            ],
+            [
+              10.454563096987245,
+              15.012172314538471
+            ],
+            [
+              8.8843630969872454,
+              15.012172314538471
+            ],
+            [
+              8.895963096987245,
+              14.010672314538473
+            ],
+            [
+              9.4149630969872451,
+              14.009272314538473
+            ],
+            [
+              10.463963096987245,
+              14.015872314538473
+            ],
+            [
+              10.460763096987245,
+              14.583872314538473
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 91,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "51-G",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 92,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              11.920563096987244,
+              14.922972314538473
+            ],
+            [
+              11.919763096987246,
+              15.012172314538471
+            ],
+            [
+              10.454563096987245,
+              15.012172314538471
+            ],
+            [
+              10.460763096987245,
+              14.583872314538473
+            ],
+            [
+              10.463963096987245,
+              14.015872314538473
+            ],
+            [
+              11.930863096987245,
+              14.025072314538473
+            ],
+            [
+              11.920563096987244,
+              14.922972314538473
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 92,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "51-H",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 93,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.9450630969872442,
+              15.012172314538471
+            ],
+            [
+              5.9591630969872451,
+              15.013772314538471
+            ],
+            [
+              5.9564630969872443,
+              14.508972314538473
+            ],
+            [
+              5.9537630969872453,
+              14.018772314538474
+            ],
+            [
+              7.4503630969872443,
+              14.014672314538473
+            ],
+            [
+              7.4662630969872446,
+              15.012172314538471
+            ],
+            [
+              6.9450630969872442,
+              15.012172314538471
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 93,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "51-E",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 94,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.9591630969872451,
+              15.013772314538471
+            ],
+            [
+              4.5304630969872441,
+              15.016072314538473
+            ],
+            [
+              4.5221630969872439,
+              14.022772314538473
+            ],
+            [
+              5.9537630969872453,
+              14.018772314538474
+            ],
+            [
+              5.9564630969872443,
+              14.508972314538473
+            ],
+            [
+              5.9591630969872451,
+              15.013772314538471
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 94,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "50-H",
+        "thumbnailUrl" : "",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143867480203941&sublib=MAP&collection=LC&callnum=G8840+s250+G7&title=Africa+1:250,000:Northern+Nigeria;Lagos;Southern+Nigeria&description=sheet+50-H"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 95,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.5304630969872441,
+              15.016072314538473
+            ],
+            [
+              2.9699630969872448,
+              15.018672314538474
+            ],
+            [
+              2.9690630969872451,
+              14.858772314538474
+            ],
+            [
+              2.9727630969872445,
+              14.026872314538473
+            ],
+            [
+              4.2432630969872456,
+              14.023572314538473
+            ],
+            [
+              4.5221630969872439,
+              14.022772314538473
+            ],
+            [
+              4.5304630969872441,
+              15.016072314538473
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 95,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "50-G",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 96,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              13.319563096987245,
+              14.033772314538473
+            ],
+            [
+              13.316663096987245,
+              15.024172314538472
+            ],
+            [
+              12.281063096987246,
+              15.012172314538471
+            ],
+            [
+              11.919763096987246,
+              15.012172314538471
+            ],
+            [
+              11.920563096987244,
+              14.922972314538473
+            ],
+            [
+              11.930863096987245,
+              14.025072314538473
+            ],
+            [
+              13.319563096987245,
+              14.033772314538473
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 96,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "52-E",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 97,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.5728630969872448,
+              15.019372314538472
+            ],
+            [
+              1.4818630969872446,
+              15.025172314538473
+            ],
+            [
+              1.4748630969872449,
+              14.030672314538473
+            ],
+            [
+              2.9727630969872445,
+              14.026872314538473
+            ],
+            [
+              2.9690630969872451,
+              14.858772314538474
+            ],
+            [
+              2.9699630969872448,
+              15.018672314538474
+            ],
+            [
+              2.5728630969872448,
+              15.019372314538472
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 97,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "50-F",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 98,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.4818630969872446,
+              15.025172314538473
+            ],
+            [
+              -0.018436903012755579,
+              15.033072314538472
+            ],
+            [
+              -0.029036903012754856,
+              14.291272314538473
+            ],
+            [
+              -0.031836903012755435,
+              14.034572314538472
+            ],
+            [
+              1.4748630969872449,
+              14.030672314538473
+            ],
+            [
+              1.4818630969872446,
+              15.025172314538473
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 98,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "50-E",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 99,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              8.8984630969872445,
+              16.005072314538474
+            ],
+            [
+              7.4822630969872446,
+              16.007272314538472
+            ],
+            [
+              7.4662630969872446,
+              15.012172314538471
+            ],
+            [
+              8.8843630969872454,
+              15.012172314538471
+            ],
+            [
+              8.8831630969872446,
+              15.115772314538471
+            ],
+            [
+              8.8984630969872445,
+              16.005072314538474
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 99,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "51-B",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 100,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              10.454563096987245,
+              15.012172314538471
+            ],
+            [
+              10.440163096987245,
+              16.007472314538472
+            ],
+            [
+              9.2936630969872454,
+              16.004472314538472
+            ],
+            [
+              8.8984630969872445,
+              16.005072314538474
+            ],
+            [
+              8.8831630969872446,
+              15.115772314538471
+            ],
+            [
+              8.8843630969872454,
+              15.012172314538471
+            ],
+            [
+              10.454563096987245,
+              15.012172314538471
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 100,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "51-C",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 101,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.4822630969872446,
+              16.007272314538472
+            ],
+            [
+              5.964563096987245,
+              16.009572314538474
+            ],
+            [
+              5.9591630969872451,
+              15.013772314538471
+            ],
+            [
+              6.9450630969872442,
+              15.012172314538471
+            ],
+            [
+              7.4662630969872446,
+              15.012172314538471
+            ],
+            [
+              7.4822630969872446,
+              16.007272314538472
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 101,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "51-A",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 102,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              11.919763096987246,
+              15.012172314538471
+            ],
+            [
+              11.911163096987245,
+              16.011372314538473
+            ],
+            [
+              10.440163096987245,
+              16.007472314538472
+            ],
+            [
+              10.454563096987245,
+              15.012172314538471
+            ],
+            [
+              11.919763096987246,
+              15.012172314538471
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 102,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "51-D",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 103,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.6643630969872447,
+              16.011572314538473
+            ],
+            [
+              4.5388630969872441,
+              16.012272314538475
+            ],
+            [
+              4.5304630969872441,
+              15.016072314538473
+            ],
+            [
+              5.9591630969872451,
+              15.013772314538471
+            ],
+            [
+              5.964563096987245,
+              16.009572314538474
+            ],
+            [
+              4.6643630969872447,
+              16.011572314538473
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 103,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "50-D",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 104,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              13.316663096987245,
+              15.024172314538472
+            ],
+            [
+              13.313763096987245,
+              16.015072314538472
+            ],
+            [
+              11.911163096987245,
+              16.011372314538473
+            ],
+            [
+              11.919763096987246,
+              15.012172314538471
+            ],
+            [
+              12.281063096987246,
+              15.012172314538471
+            ],
+            [
+              13.316663096987245,
+              15.024172314538472
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 104,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "52-A",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 105,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.5388630969872441,
+              16.012272314538475
+            ],
+            [
+              2.9755630969872451,
+              16.020372314538474
+            ],
+            [
+              2.9699630969872448,
+              15.018672314538474
+            ],
+            [
+              4.5304630969872441,
+              15.016072314538473
+            ],
+            [
+              4.5388630969872441,
+              16.012272314538475
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 105,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "50-C",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 106,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.9755630969872451,
+              16.020372314538474
+            ],
+            [
+              1.4883630969872446,
+              16.028072314538473
+            ],
+            [
+              1.4842630969872443,
+              15.372672314538473
+            ],
+            [
+              1.4818630969872446,
+              15.025172314538473
+            ],
+            [
+              2.5728630969872448,
+              15.019372314538472
+            ],
+            [
+              2.9699630969872448,
+              15.018672314538474
+            ],
+            [
+              2.9755630969872451,
+              16.020372314538474
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 106,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "50-B",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 107,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.4883630969872446,
+              16.028072314538473
+            ],
+            [
+              -0.0040369030127553884,
+              16.035772314538473
+            ],
+            [
+              -0.018436903012755579,
+              15.033072314538472
+            ],
+            [
+              1.4818630969872446,
+              15.025172314538473
+            ],
+            [
+              1.4842630969872443,
+              15.372672314538473
+            ],
+            [
+              1.4883630969872446,
+              16.028072314538473
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 107,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s250 .G7",
+        "title" : "Africa 1:250,000 : Northern Nigeria ; Lagos ; Southern Nigeria",
+        "year" : "1904-",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143867480203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "50-A",
+        "thumbnailUrl" : "",
+        "note" : " "
+      }
+    }
+  ]
+}
