@@ -1,0 +1,7436 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 0,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.25,
+              4.0000000000000568
+            ],
+            [
+              6.5000000000001137,
+              4.0000000000000568
+            ],
+            [
+              6.5000000000001137,
+              4.2500000000000568
+            ],
+            [
+              6.25,
+              4.2500000000000568
+            ],
+            [
+              6.0000000000000568,
+              4.2500000000000568
+            ],
+            [
+              6.0000000000000568,
+              4.0000000000000568
+            ],
+            [
+              6.25,
+              4.0000000000000568
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 0,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "334",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.7500000000000568,
+              4.0000000000000568
+            ],
+            [
+              7,
+              4.0000000000000568
+            ],
+            [
+              7,
+              4.2500000000000568
+            ],
+            [
+              6.7500000000000568,
+              4.2500000000000568
+            ],
+            [
+              6.5000000000001137,
+              4.2500000000000568
+            ],
+            [
+              6.5000000000001137,
+              4.0000000000000568
+            ],
+            [
+              6.7500000000000568,
+              4.0000000000000568
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 1,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "335",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+335"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.2499999999999432,
+              4.0000000000000568
+            ],
+            [
+              7.5000000000001137,
+              4.0000000000000568
+            ],
+            [
+              7.5000000000001137,
+              4.2500000000000568
+            ],
+            [
+              7.2499999999999432,
+              4.2500000000000568
+            ],
+            [
+              7,
+              4.2500000000000568
+            ],
+            [
+              7,
+              4.0000000000000568
+            ],
+            [
+              7.2499999999999432,
+              4.0000000000000568
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 2,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "336",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.7500000000000568,
+              4.0000000000000568
+            ],
+            [
+              8,
+              4.0000000000000568
+            ],
+            [
+              8,
+              4.2500000000000568
+            ],
+            [
+              8,
+              4.5
+            ],
+            [
+              7.7500000000000568,
+              4.5
+            ],
+            [
+              7.7500000000000568,
+              4.2500000000000568
+            ],
+            [
+              7.5000000000001137,
+              4.2500000000000568
+            ],
+            [
+              7.5000000000001137,
+              4.0000000000000568
+            ],
+            [
+              7.7500000000000568,
+              4.0000000000000568
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 3,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "337",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6,
+              4.25
+            ],
+            [
+              6.25,
+              4.25
+            ],
+            [
+              6.25,
+              4.5
+            ],
+            [
+              6,
+              4.5
+            ],
+            [
+              6,
+              4.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 4,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "334",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.25,
+              4.25
+            ],
+            [
+              6.5,
+              4.25
+            ],
+            [
+              6.5,
+              4.5
+            ],
+            [
+              6.25,
+              4.5
+            ],
+            [
+              6.25,
+              4.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 5,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "334",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.5,
+              4.25
+            ],
+            [
+              6.75,
+              4.25
+            ],
+            [
+              6.75,
+              4.5
+            ],
+            [
+              6.5,
+              4.5
+            ],
+            [
+              6.5,
+              4.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 6,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "335",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+335"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.75,
+              4.25
+            ],
+            [
+              7,
+              4.25
+            ],
+            [
+              7,
+              4.5
+            ],
+            [
+              6.75,
+              4.5
+            ],
+            [
+              6.75,
+              4.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 7,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "335",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+335"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7,
+              4.25
+            ],
+            [
+              7.25,
+              4.25
+            ],
+            [
+              7.25,
+              4.5
+            ],
+            [
+              7,
+              4.5
+            ],
+            [
+              7,
+              4.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 8,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "336",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.25,
+              4.25
+            ],
+            [
+              7.5,
+              4.25
+            ],
+            [
+              7.5,
+              4.5
+            ],
+            [
+              7.25,
+              4.5
+            ],
+            [
+              7.25,
+              4.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 9,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "336",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.5,
+              4.25
+            ],
+            [
+              7.75,
+              4.25
+            ],
+            [
+              7.75,
+              4.5
+            ],
+            [
+              7.5,
+              4.5
+            ],
+            [
+              7.5,
+              4.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 10,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "337",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5,
+              4.5
+            ],
+            [
+              5.25,
+              4.5
+            ],
+            [
+              5.25,
+              4.75
+            ],
+            [
+              5,
+              4.75
+            ],
+            [
+              5,
+              4.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 11,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "325",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+325"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.25,
+              4.5
+            ],
+            [
+              5.5,
+              4.5
+            ],
+            [
+              5.5,
+              4.75
+            ],
+            [
+              5.25,
+              4.75
+            ],
+            [
+              5.25,
+              4.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 12,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "325",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+325"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.5,
+              4.5
+            ],
+            [
+              5.75,
+              4.5
+            ],
+            [
+              5.75,
+              4.75
+            ],
+            [
+              5.5,
+              4.75
+            ],
+            [
+              5.5,
+              4.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 13,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "326",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+326"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.75,
+              4.5
+            ],
+            [
+              6,
+              4.5
+            ],
+            [
+              6,
+              4.75
+            ],
+            [
+              5.75,
+              4.75
+            ],
+            [
+              5.75,
+              4.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 14,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "326",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+326"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6,
+              4.5
+            ],
+            [
+              6.25,
+              4.5
+            ],
+            [
+              6.25,
+              4.75
+            ],
+            [
+              6,
+              4.75
+            ],
+            [
+              6,
+              4.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 15,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "327",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+327"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.25,
+              4.5
+            ],
+            [
+              6.5,
+              4.5
+            ],
+            [
+              6.5,
+              4.75
+            ],
+            [
+              6.25,
+              4.75
+            ],
+            [
+              6.25,
+              4.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 16,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "327",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+327"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.5,
+              4.5
+            ],
+            [
+              6.75,
+              4.5
+            ],
+            [
+              6.75,
+              4.75
+            ],
+            [
+              6.5,
+              4.75
+            ],
+            [
+              6.5,
+              4.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 17,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "328",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+328"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.75,
+              4.5
+            ],
+            [
+              7,
+              4.5
+            ],
+            [
+              7,
+              4.75
+            ],
+            [
+              6.75,
+              4.75
+            ],
+            [
+              6.75,
+              4.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 18,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "328",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+328"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 19,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7,
+              4.5
+            ],
+            [
+              7.25,
+              4.5
+            ],
+            [
+              7.25,
+              4.75
+            ],
+            [
+              7,
+              4.75
+            ],
+            [
+              7,
+              4.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 19,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "329",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 20,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.25,
+              4.5
+            ],
+            [
+              7.5,
+              4.5
+            ],
+            [
+              7.5,
+              4.75
+            ],
+            [
+              7.25,
+              4.75
+            ],
+            [
+              7.25,
+              4.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 20,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "329",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 21,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.5,
+              4.5
+            ],
+            [
+              7.75,
+              4.5
+            ],
+            [
+              7.75,
+              4.75
+            ],
+            [
+              7.5,
+              4.75
+            ],
+            [
+              7.5,
+              4.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 21,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "330",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+330"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 22,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.75,
+              4.5
+            ],
+            [
+              8,
+              4.5
+            ],
+            [
+              8,
+              4.75
+            ],
+            [
+              7.75,
+              4.75
+            ],
+            [
+              7.75,
+              4.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 22,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "330",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+330"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 23,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              8,
+              4.5
+            ],
+            [
+              8.25,
+              4.5
+            ],
+            [
+              8.25,
+              4.75
+            ],
+            [
+              8,
+              4.75
+            ],
+            [
+              8,
+              4.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 23,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "331",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 24,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              8.25,
+              4.5
+            ],
+            [
+              8.5,
+              4.5
+            ],
+            [
+              8.5,
+              4.75
+            ],
+            [
+              8.25,
+              4.75
+            ],
+            [
+              8.25,
+              4.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 24,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "331",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 25,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              8.5,
+              4.5
+            ],
+            [
+              8.75,
+              4.5
+            ],
+            [
+              8.75,
+              4.75
+            ],
+            [
+              8.5,
+              4.75
+            ],
+            [
+              8.5,
+              4.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 25,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "332",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+332"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 26,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              9,
+              4.5
+            ],
+            [
+              9,
+              4.7500000000001137
+            ],
+            [
+              9,
+              5.0000000000000568
+            ],
+            [
+              8.75,
+              5.0000000000000568
+            ],
+            [
+              8.75,
+              4.7500000000001137
+            ],
+            [
+              8.75,
+              4.5
+            ],
+            [
+              9,
+              4.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 26,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "332",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+332"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 27,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5,
+              4.75
+            ],
+            [
+              5.25,
+              4.75
+            ],
+            [
+              5.25,
+              5
+            ],
+            [
+              5,
+              5
+            ],
+            [
+              5,
+              4.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 27,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "325",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+325"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 28,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.25,
+              4.75
+            ],
+            [
+              5.5,
+              4.75
+            ],
+            [
+              5.5,
+              5
+            ],
+            [
+              5.25,
+              5
+            ],
+            [
+              5.25,
+              4.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 28,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "325",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+325"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 29,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.5,
+              4.75
+            ],
+            [
+              5.75,
+              4.75
+            ],
+            [
+              5.75,
+              5
+            ],
+            [
+              5.5,
+              5
+            ],
+            [
+              5.5,
+              4.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 29,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "326",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+326"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 30,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.75,
+              4.75
+            ],
+            [
+              6,
+              4.75
+            ],
+            [
+              6,
+              5
+            ],
+            [
+              5.75,
+              5
+            ],
+            [
+              5.75,
+              4.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 30,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "326",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+326"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 31,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6,
+              4.75
+            ],
+            [
+              6.25,
+              4.75
+            ],
+            [
+              6.25,
+              5
+            ],
+            [
+              6,
+              5
+            ],
+            [
+              6,
+              4.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 31,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "327",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+327"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 32,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.25,
+              4.75
+            ],
+            [
+              6.5,
+              4.75
+            ],
+            [
+              6.5,
+              5
+            ],
+            [
+              6.25,
+              5
+            ],
+            [
+              6.25,
+              4.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 32,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "327",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+327"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 33,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.5,
+              4.75
+            ],
+            [
+              6.75,
+              4.75
+            ],
+            [
+              6.75,
+              5
+            ],
+            [
+              6.5,
+              5
+            ],
+            [
+              6.5,
+              4.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 33,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "328",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+328"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 34,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.75,
+              4.75
+            ],
+            [
+              7,
+              4.75
+            ],
+            [
+              7,
+              5
+            ],
+            [
+              6.75,
+              5
+            ],
+            [
+              6.75,
+              4.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 34,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "328",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+328"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 35,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7,
+              4.75
+            ],
+            [
+              7.25,
+              4.75
+            ],
+            [
+              7.25,
+              5
+            ],
+            [
+              7,
+              5
+            ],
+            [
+              7,
+              4.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 35,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "329",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 36,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.25,
+              4.75
+            ],
+            [
+              7.5,
+              4.75
+            ],
+            [
+              7.5,
+              5
+            ],
+            [
+              7.25,
+              5
+            ],
+            [
+              7.25,
+              4.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 36,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "329",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 37,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.5,
+              4.75
+            ],
+            [
+              7.75,
+              4.75
+            ],
+            [
+              7.75,
+              5
+            ],
+            [
+              7.5,
+              5
+            ],
+            [
+              7.5,
+              4.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 37,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "330",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+330"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 38,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.75,
+              4.75
+            ],
+            [
+              8,
+              4.75
+            ],
+            [
+              8,
+              5
+            ],
+            [
+              7.75,
+              5
+            ],
+            [
+              7.75,
+              4.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 38,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "330",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+330"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 39,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              8,
+              4.75
+            ],
+            [
+              8.25,
+              4.75
+            ],
+            [
+              8.25,
+              5
+            ],
+            [
+              8,
+              5
+            ],
+            [
+              8,
+              4.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 39,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "331",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 40,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              8.25,
+              4.75
+            ],
+            [
+              8.5,
+              4.75
+            ],
+            [
+              8.5,
+              5
+            ],
+            [
+              8.25,
+              5
+            ],
+            [
+              8.25,
+              4.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 40,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "331",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 41,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              8.5,
+              4.75
+            ],
+            [
+              8.75,
+              4.75
+            ],
+            [
+              8.75,
+              5
+            ],
+            [
+              8.5,
+              5
+            ],
+            [
+              8.5,
+              4.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 41,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "332",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+332"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 42,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5,
+              5
+            ],
+            [
+              5.25,
+              5
+            ],
+            [
+              5.25,
+              5.25
+            ],
+            [
+              5,
+              5.25
+            ],
+            [
+              5,
+              5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 42,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "317",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+317"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 43,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.25,
+              5
+            ],
+            [
+              5.5,
+              5
+            ],
+            [
+              5.5,
+              5.25
+            ],
+            [
+              5.25,
+              5.25
+            ],
+            [
+              5.25,
+              5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 43,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "317",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+317"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 44,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.5,
+              5
+            ],
+            [
+              5.75,
+              5
+            ],
+            [
+              5.75,
+              5.25
+            ],
+            [
+              5.5,
+              5.25
+            ],
+            [
+              5.5,
+              5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 44,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "318",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+318"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 45,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.75,
+              5
+            ],
+            [
+              6,
+              5
+            ],
+            [
+              6,
+              5.25
+            ],
+            [
+              5.75,
+              5.25
+            ],
+            [
+              5.75,
+              5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 45,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "318",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+318"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 46,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6,
+              5
+            ],
+            [
+              6.25,
+              5
+            ],
+            [
+              6.25,
+              5.25
+            ],
+            [
+              6,
+              5.25
+            ],
+            [
+              6,
+              5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 46,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "319",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+319"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 47,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.25,
+              5
+            ],
+            [
+              6.5,
+              5
+            ],
+            [
+              6.5,
+              5.25
+            ],
+            [
+              6.25,
+              5.25
+            ],
+            [
+              6.25,
+              5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 47,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "319",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+319"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 48,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.5,
+              5
+            ],
+            [
+              6.75,
+              5
+            ],
+            [
+              6.75,
+              5.25
+            ],
+            [
+              6.5,
+              5.25
+            ],
+            [
+              6.5,
+              5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 48,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "320",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 49,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.75,
+              5
+            ],
+            [
+              7,
+              5
+            ],
+            [
+              7,
+              5.25
+            ],
+            [
+              6.75,
+              5.25
+            ],
+            [
+              6.75,
+              5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 49,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "320",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 50,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7,
+              5
+            ],
+            [
+              7.25,
+              5
+            ],
+            [
+              7.25,
+              5.25
+            ],
+            [
+              7,
+              5.25
+            ],
+            [
+              7,
+              5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 50,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "321",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 51,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.25,
+              5
+            ],
+            [
+              7.5,
+              5
+            ],
+            [
+              7.5,
+              5.25
+            ],
+            [
+              7.25,
+              5.25
+            ],
+            [
+              7.25,
+              5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 51,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "321",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 52,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.5,
+              5
+            ],
+            [
+              7.75,
+              5
+            ],
+            [
+              7.75,
+              5.25
+            ],
+            [
+              7.5,
+              5.25
+            ],
+            [
+              7.5,
+              5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 52,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "322",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+322"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 53,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.75,
+              5
+            ],
+            [
+              8,
+              5
+            ],
+            [
+              8,
+              5.25
+            ],
+            [
+              7.75,
+              5.25
+            ],
+            [
+              7.75,
+              5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 53,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "322",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+322"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 54,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              8,
+              5
+            ],
+            [
+              8.25,
+              5
+            ],
+            [
+              8.25,
+              5.25
+            ],
+            [
+              8,
+              5.25
+            ],
+            [
+              8,
+              5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 54,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "323",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+323"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 55,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              8.25,
+              5
+            ],
+            [
+              8.5,
+              5
+            ],
+            [
+              8.5,
+              5.25
+            ],
+            [
+              8.25,
+              5.25
+            ],
+            [
+              8.25,
+              5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 55,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "323",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+323"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 56,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              8.5,
+              5
+            ],
+            [
+              8.75,
+              5
+            ],
+            [
+              8.75,
+              5.25
+            ],
+            [
+              8.5,
+              5.25
+            ],
+            [
+              8.5,
+              5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 56,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "324",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 57,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              8.75,
+              5
+            ],
+            [
+              9,
+              5
+            ],
+            [
+              9,
+              5.25
+            ],
+            [
+              8.75,
+              5.25
+            ],
+            [
+              8.75,
+              5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 57,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "324",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 58,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5,
+              5.25
+            ],
+            [
+              5.25,
+              5.25
+            ],
+            [
+              5.25,
+              5.5
+            ],
+            [
+              5,
+              5.5
+            ],
+            [
+              5,
+              5.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 58,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "317",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+317"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 59,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.25,
+              5.25
+            ],
+            [
+              5.5,
+              5.25
+            ],
+            [
+              5.5,
+              5.5
+            ],
+            [
+              5.25,
+              5.5
+            ],
+            [
+              5.25,
+              5.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 59,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "317",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+317"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 60,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.5,
+              5.25
+            ],
+            [
+              5.75,
+              5.25
+            ],
+            [
+              5.75,
+              5.5
+            ],
+            [
+              5.5,
+              5.5
+            ],
+            [
+              5.5,
+              5.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 60,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "318",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+318"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 61,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.75,
+              5.25
+            ],
+            [
+              6,
+              5.25
+            ],
+            [
+              6,
+              5.5
+            ],
+            [
+              5.75,
+              5.5
+            ],
+            [
+              5.75,
+              5.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 61,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "318",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+318"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 62,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6,
+              5.25
+            ],
+            [
+              6.25,
+              5.25
+            ],
+            [
+              6.25,
+              5.5
+            ],
+            [
+              6,
+              5.5
+            ],
+            [
+              6,
+              5.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 62,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "319",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+319"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 63,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.25,
+              5.25
+            ],
+            [
+              6.5,
+              5.25
+            ],
+            [
+              6.5,
+              5.5
+            ],
+            [
+              6.25,
+              5.5
+            ],
+            [
+              6.25,
+              5.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 63,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "319",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+319"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 64,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.5,
+              5.25
+            ],
+            [
+              6.75,
+              5.25
+            ],
+            [
+              6.75,
+              5.5
+            ],
+            [
+              6.5,
+              5.5
+            ],
+            [
+              6.5,
+              5.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 64,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "320",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 65,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.75,
+              5.25
+            ],
+            [
+              7,
+              5.25
+            ],
+            [
+              7,
+              5.5
+            ],
+            [
+              6.75,
+              5.5
+            ],
+            [
+              6.75,
+              5.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 65,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "320",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 66,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7,
+              5.25
+            ],
+            [
+              7.25,
+              5.25
+            ],
+            [
+              7.25,
+              5.5
+            ],
+            [
+              7,
+              5.5
+            ],
+            [
+              7,
+              5.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 66,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "321",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 67,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.25,
+              5.25
+            ],
+            [
+              7.5,
+              5.25
+            ],
+            [
+              7.5,
+              5.5
+            ],
+            [
+              7.25,
+              5.5
+            ],
+            [
+              7.25,
+              5.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 67,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "321",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 68,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.5,
+              5.25
+            ],
+            [
+              7.75,
+              5.25
+            ],
+            [
+              7.75,
+              5.5
+            ],
+            [
+              7.5,
+              5.5
+            ],
+            [
+              7.5,
+              5.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 68,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "322",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+322"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 69,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.75,
+              5.25
+            ],
+            [
+              8,
+              5.25
+            ],
+            [
+              8,
+              5.5
+            ],
+            [
+              7.75,
+              5.5
+            ],
+            [
+              7.75,
+              5.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 69,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "322",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+322"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 70,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              8,
+              5.25
+            ],
+            [
+              8.25,
+              5.25
+            ],
+            [
+              8.25,
+              5.5
+            ],
+            [
+              8,
+              5.5
+            ],
+            [
+              8,
+              5.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 70,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "323",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+323"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 71,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              8.25,
+              5.25
+            ],
+            [
+              8.5,
+              5.25
+            ],
+            [
+              8.5,
+              5.5
+            ],
+            [
+              8.25,
+              5.5
+            ],
+            [
+              8.25,
+              5.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 71,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "323",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+323"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 72,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              8.5,
+              5.25
+            ],
+            [
+              8.75,
+              5.25
+            ],
+            [
+              8.75,
+              5.5
+            ],
+            [
+              8.5,
+              5.5
+            ],
+            [
+              8.5,
+              5.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 72,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "324",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 73,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              8.75,
+              5.25
+            ],
+            [
+              9,
+              5.25
+            ],
+            [
+              9,
+              5.5
+            ],
+            [
+              8.75,
+              5.5
+            ],
+            [
+              8.75,
+              5.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 73,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "324",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 74,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.7500000000001137,
+              5.4999999999999432
+            ],
+            [
+              5.0000000000000568,
+              5.4999999999999432
+            ],
+            [
+              5.0000000000000568,
+              5.7500000000001137
+            ],
+            [
+              4.7500000000001137,
+              5.7500000000001137
+            ],
+            [
+              4.5,
+              5.7500000000001137
+            ],
+            [
+              4.5,
+              5.4999999999999432
+            ],
+            [
+              4.7500000000001137,
+              5.4999999999999432
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 74,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "307",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+307"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 75,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5,
+              5.5
+            ],
+            [
+              5.25,
+              5.5
+            ],
+            [
+              5.25,
+              5.75
+            ],
+            [
+              5,
+              5.75
+            ],
+            [
+              5,
+              5.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 75,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "308",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+308"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 76,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.25,
+              5.5
+            ],
+            [
+              5.5,
+              5.5
+            ],
+            [
+              5.5,
+              5.75
+            ],
+            [
+              5.25,
+              5.75
+            ],
+            [
+              5.25,
+              5.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 76,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "308",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+308"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 77,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.5,
+              5.5
+            ],
+            [
+              5.75,
+              5.5
+            ],
+            [
+              5.75,
+              5.75
+            ],
+            [
+              5.5,
+              5.75
+            ],
+            [
+              5.5,
+              5.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 77,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "309",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+309"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 78,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.75,
+              5.5
+            ],
+            [
+              6,
+              5.5
+            ],
+            [
+              6,
+              5.75
+            ],
+            [
+              5.75,
+              5.75
+            ],
+            [
+              5.75,
+              5.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 78,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "309",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+309"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 79,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6,
+              5.5
+            ],
+            [
+              6.25,
+              5.5
+            ],
+            [
+              6.25,
+              5.75
+            ],
+            [
+              6,
+              5.75
+            ],
+            [
+              6,
+              5.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 79,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : " ",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet++"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 80,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.25,
+              5.5
+            ],
+            [
+              6.5,
+              5.5
+            ],
+            [
+              6.5,
+              5.75
+            ],
+            [
+              6.25,
+              5.75
+            ],
+            [
+              6.25,
+              5.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 80,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : " ",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet++"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 81,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.5,
+              5.5
+            ],
+            [
+              6.75,
+              5.5
+            ],
+            [
+              6.75,
+              5.75
+            ],
+            [
+              6.5,
+              5.75
+            ],
+            [
+              6.5,
+              5.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 81,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "311",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+311"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 82,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.75,
+              5.5
+            ],
+            [
+              7,
+              5.5
+            ],
+            [
+              7,
+              5.75
+            ],
+            [
+              6.75,
+              5.75
+            ],
+            [
+              6.75,
+              5.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 82,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "311",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+311"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 83,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7,
+              5.5
+            ],
+            [
+              7.25,
+              5.5
+            ],
+            [
+              7.25,
+              5.75
+            ],
+            [
+              7,
+              5.75
+            ],
+            [
+              7,
+              5.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 83,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "312",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 84,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.25,
+              5.5
+            ],
+            [
+              7.5,
+              5.5
+            ],
+            [
+              7.5,
+              5.75
+            ],
+            [
+              7.25,
+              5.75
+            ],
+            [
+              7.25,
+              5.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 84,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "312",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 85,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.5,
+              5.5
+            ],
+            [
+              7.75,
+              5.5
+            ],
+            [
+              7.75,
+              5.75
+            ],
+            [
+              7.5,
+              5.75
+            ],
+            [
+              7.5,
+              5.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 85,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "313",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+313"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 86,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.75,
+              5.5
+            ],
+            [
+              8,
+              5.5
+            ],
+            [
+              8,
+              5.75
+            ],
+            [
+              7.75,
+              5.75
+            ],
+            [
+              7.75,
+              5.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 86,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "313",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+313"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 87,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              8,
+              5.5
+            ],
+            [
+              8.25,
+              5.5
+            ],
+            [
+              8.25,
+              5.75
+            ],
+            [
+              8,
+              5.75
+            ],
+            [
+              8,
+              5.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 87,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "314",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+314"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 88,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              8.25,
+              5.5
+            ],
+            [
+              8.5,
+              5.5
+            ],
+            [
+              8.5,
+              5.75
+            ],
+            [
+              8.25,
+              5.75
+            ],
+            [
+              8.25,
+              5.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 88,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "314",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+314"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 89,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              8.5,
+              5.5
+            ],
+            [
+              8.75,
+              5.5
+            ],
+            [
+              8.75,
+              5.75
+            ],
+            [
+              8.5,
+              5.75
+            ],
+            [
+              8.5,
+              5.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 89,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "315",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 90,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              8.75,
+              5.5
+            ],
+            [
+              9,
+              5.5
+            ],
+            [
+              9,
+              5.75
+            ],
+            [
+              8.75,
+              5.75
+            ],
+            [
+              8.75,
+              5.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 90,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "315",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 91,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              9.2500000000001137,
+              5.4999999999999432
+            ],
+            [
+              9.5000000000000568,
+              5.4999999999999432
+            ],
+            [
+              9.5000000000000568,
+              5.7500000000001137
+            ],
+            [
+              9.5000000000000568,
+              6.0000000000000568
+            ],
+            [
+              9.2500000000001137,
+              6.0000000000000568
+            ],
+            [
+              9.2500000000001137,
+              5.7500000000001137
+            ],
+            [
+              9,
+              5.7500000000001137
+            ],
+            [
+              9,
+              5.4999999999999432
+            ],
+            [
+              9.2500000000001137,
+              5.4999999999999432
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 91,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "316",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 92,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.5,
+              5.75
+            ],
+            [
+              4.75,
+              5.75
+            ],
+            [
+              4.75,
+              6
+            ],
+            [
+              4.5,
+              6
+            ],
+            [
+              4.5,
+              5.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 92,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "307",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+307"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 93,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.75,
+              5.75
+            ],
+            [
+              5,
+              5.75
+            ],
+            [
+              5,
+              6
+            ],
+            [
+              4.75,
+              6
+            ],
+            [
+              4.75,
+              5.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 93,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "307",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+307"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 94,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5,
+              5.75
+            ],
+            [
+              5.25,
+              5.75
+            ],
+            [
+              5.25,
+              6
+            ],
+            [
+              5,
+              6
+            ],
+            [
+              5,
+              5.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 94,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "308",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+308"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 95,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.25,
+              5.75
+            ],
+            [
+              5.5,
+              5.75
+            ],
+            [
+              5.5,
+              6
+            ],
+            [
+              5.25,
+              6
+            ],
+            [
+              5.25,
+              5.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 95,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "308",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+308"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 96,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.5,
+              5.75
+            ],
+            [
+              5.75,
+              5.75
+            ],
+            [
+              5.75,
+              6
+            ],
+            [
+              5.5,
+              6
+            ],
+            [
+              5.5,
+              5.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 96,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "309",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+309"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 97,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.75,
+              5.75
+            ],
+            [
+              6,
+              5.75
+            ],
+            [
+              6,
+              6
+            ],
+            [
+              5.75,
+              6
+            ],
+            [
+              5.75,
+              5.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 97,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "309",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+309"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 98,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6,
+              5.75
+            ],
+            [
+              6.25,
+              5.75
+            ],
+            [
+              6.25,
+              6
+            ],
+            [
+              6,
+              6
+            ],
+            [
+              6,
+              5.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 98,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : " ",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet++"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 99,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.25,
+              5.75
+            ],
+            [
+              6.5,
+              5.75
+            ],
+            [
+              6.5,
+              6
+            ],
+            [
+              6.25,
+              6
+            ],
+            [
+              6.25,
+              5.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 99,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : " ",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet++"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 100,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.5,
+              5.75
+            ],
+            [
+              6.75,
+              5.75
+            ],
+            [
+              6.75,
+              6
+            ],
+            [
+              6.5,
+              6
+            ],
+            [
+              6.5,
+              5.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 100,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "311",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+311"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 101,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.75,
+              5.75
+            ],
+            [
+              7,
+              5.75
+            ],
+            [
+              7,
+              6
+            ],
+            [
+              6.75,
+              6
+            ],
+            [
+              6.75,
+              5.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 101,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "311",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+311"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 102,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7,
+              5.75
+            ],
+            [
+              7.25,
+              5.75
+            ],
+            [
+              7.25,
+              6
+            ],
+            [
+              7,
+              6
+            ],
+            [
+              7,
+              5.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 102,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "312",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 103,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.25,
+              5.75
+            ],
+            [
+              7.5,
+              5.75
+            ],
+            [
+              7.5,
+              6
+            ],
+            [
+              7.25,
+              6
+            ],
+            [
+              7.25,
+              5.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 103,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "312",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 104,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.5,
+              5.75
+            ],
+            [
+              7.75,
+              5.75
+            ],
+            [
+              7.75,
+              6
+            ],
+            [
+              7.5,
+              6
+            ],
+            [
+              7.5,
+              5.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 104,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "313",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+313"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 105,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.75,
+              5.75
+            ],
+            [
+              8,
+              5.75
+            ],
+            [
+              8,
+              6
+            ],
+            [
+              7.75,
+              6
+            ],
+            [
+              7.75,
+              5.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 105,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "313",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+313"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 106,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              8,
+              5.75
+            ],
+            [
+              8.25,
+              5.75
+            ],
+            [
+              8.25,
+              6
+            ],
+            [
+              8,
+              6
+            ],
+            [
+              8,
+              5.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 106,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "314",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+314"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 107,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              8.25,
+              5.75
+            ],
+            [
+              8.5,
+              5.75
+            ],
+            [
+              8.5,
+              6
+            ],
+            [
+              8.25,
+              6
+            ],
+            [
+              8.25,
+              5.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 107,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "314",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+314"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 108,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              8.5,
+              5.75
+            ],
+            [
+              8.75,
+              5.75
+            ],
+            [
+              8.75,
+              6
+            ],
+            [
+              8.5,
+              6
+            ],
+            [
+              8.5,
+              5.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 108,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "315",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 109,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              8.75,
+              5.75
+            ],
+            [
+              9,
+              5.75
+            ],
+            [
+              9,
+              6
+            ],
+            [
+              8.75,
+              6
+            ],
+            [
+              8.75,
+              5.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 109,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "315",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 110,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              9,
+              5.75
+            ],
+            [
+              9.25,
+              5.75
+            ],
+            [
+              9.25,
+              6
+            ],
+            [
+              9,
+              6
+            ],
+            [
+              9,
+              5.75
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 110,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "316",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 111,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.2500000000000568,
+              6.0000000000000568
+            ],
+            [
+              4.5,
+              6.0000000000000568
+            ],
+            [
+              4.5,
+              6.25
+            ],
+            [
+              4.2500000000000568,
+              6.25
+            ],
+            [
+              4.0000000000000568,
+              6.25
+            ],
+            [
+              4.0000000000000568,
+              6.0000000000000568
+            ],
+            [
+              4.2500000000000568,
+              6.0000000000000568
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 111,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "281A",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 112,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.5,
+              6
+            ],
+            [
+              4.75,
+              6
+            ],
+            [
+              4.75,
+              6.25
+            ],
+            [
+              4.5,
+              6.25
+            ],
+            [
+              4.5,
+              6
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 112,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "296",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 113,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.75,
+              6
+            ],
+            [
+              5,
+              6
+            ],
+            [
+              5,
+              6.25
+            ],
+            [
+              4.75,
+              6.25
+            ],
+            [
+              4.75,
+              6
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 113,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "296",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 114,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5,
+              6
+            ],
+            [
+              5.25,
+              6
+            ],
+            [
+              5.25,
+              6.25
+            ],
+            [
+              5,
+              6.25
+            ],
+            [
+              5,
+              6
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 114,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "297",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 115,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.25,
+              6
+            ],
+            [
+              5.5,
+              6
+            ],
+            [
+              5.5,
+              6.25
+            ],
+            [
+              5.25,
+              6.25
+            ],
+            [
+              5.25,
+              6
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 115,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "297",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 116,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.5,
+              6
+            ],
+            [
+              5.75,
+              6
+            ],
+            [
+              5.75,
+              6.25
+            ],
+            [
+              5.5,
+              6.25
+            ],
+            [
+              5.5,
+              6
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 116,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "298",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 117,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.75,
+              6
+            ],
+            [
+              6,
+              6
+            ],
+            [
+              6,
+              6.25
+            ],
+            [
+              5.75,
+              6.25
+            ],
+            [
+              5.75,
+              6
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 117,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "298",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 118,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6,
+              6
+            ],
+            [
+              6.25,
+              6
+            ],
+            [
+              6.25,
+              6.25
+            ],
+            [
+              6,
+              6.25
+            ],
+            [
+              6,
+              6
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 118,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "299",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 119,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.25,
+              6
+            ],
+            [
+              6.5,
+              6
+            ],
+            [
+              6.5,
+              6.25
+            ],
+            [
+              6.25,
+              6.25
+            ],
+            [
+              6.25,
+              6
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 119,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "299",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 120,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.5,
+              6
+            ],
+            [
+              6.75,
+              6
+            ],
+            [
+              6.75,
+              6.25
+            ],
+            [
+              6.5,
+              6.25
+            ],
+            [
+              6.5,
+              6
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 120,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "300",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 121,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.75,
+              6
+            ],
+            [
+              7,
+              6
+            ],
+            [
+              7,
+              6.25
+            ],
+            [
+              6.75,
+              6.25
+            ],
+            [
+              6.75,
+              6
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 121,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "300",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 122,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7,
+              6
+            ],
+            [
+              7.25,
+              6
+            ],
+            [
+              7.25,
+              6.25
+            ],
+            [
+              7,
+              6.25
+            ],
+            [
+              7,
+              6
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 122,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "301",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 123,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.25,
+              6
+            ],
+            [
+              7.5,
+              6
+            ],
+            [
+              7.5,
+              6.25
+            ],
+            [
+              7.25,
+              6.25
+            ],
+            [
+              7.25,
+              6
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 123,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "301",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 124,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.5,
+              6
+            ],
+            [
+              7.75,
+              6
+            ],
+            [
+              7.75,
+              6.25
+            ],
+            [
+              7.5,
+              6.25
+            ],
+            [
+              7.5,
+              6
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 124,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "302",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 125,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.75,
+              6
+            ],
+            [
+              8,
+              6
+            ],
+            [
+              8,
+              6.25
+            ],
+            [
+              7.75,
+              6.25
+            ],
+            [
+              7.75,
+              6
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 125,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "302",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 126,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              8,
+              6
+            ],
+            [
+              8.25,
+              6
+            ],
+            [
+              8.25,
+              6.25
+            ],
+            [
+              8,
+              6.25
+            ],
+            [
+              8,
+              6
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 126,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "303",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 127,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              8.25,
+              6
+            ],
+            [
+              8.5,
+              6
+            ],
+            [
+              8.5,
+              6.25
+            ],
+            [
+              8.25,
+              6.25
+            ],
+            [
+              8.25,
+              6
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 127,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "303",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 128,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              8.5,
+              6
+            ],
+            [
+              8.75,
+              6
+            ],
+            [
+              8.75,
+              6.25
+            ],
+            [
+              8.5,
+              6.25
+            ],
+            [
+              8.5,
+              6
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 128,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "304",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 129,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              8.75,
+              6
+            ],
+            [
+              9,
+              6
+            ],
+            [
+              9,
+              6.25
+            ],
+            [
+              8.75,
+              6.25
+            ],
+            [
+              8.75,
+              6
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 129,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "304",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 130,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              9,
+              6
+            ],
+            [
+              9.25,
+              6
+            ],
+            [
+              9.25,
+              6.25
+            ],
+            [
+              9,
+              6.25
+            ],
+            [
+              9,
+              6
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 130,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 131,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              9.25,
+              6
+            ],
+            [
+              9.5,
+              6
+            ],
+            [
+              9.5,
+              6.25
+            ],
+            [
+              9.25,
+              6.25
+            ],
+            [
+              9.25,
+              6
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 131,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 132,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              9.75,
+              6.0000000000000568
+            ],
+            [
+              9.9999999999999432,
+              6.0000000000000568
+            ],
+            [
+              9.9999999999999432,
+              6.25
+            ],
+            [
+              9.9999999999999432,
+              6.5000000000001137
+            ],
+            [
+              9.75,
+              6.5000000000001137
+            ],
+            [
+              9.75,
+              6.25
+            ],
+            [
+              9.5000000000000568,
+              6.25
+            ],
+            [
+              9.5000000000000568,
+              6.0000000000000568
+            ],
+            [
+              9.75,
+              6.0000000000000568
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 132,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "306",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 133,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              10,
+              6
+            ],
+            [
+              10.25,
+              6
+            ],
+            [
+              10.25,
+              6.25
+            ],
+            [
+              10,
+              6.25
+            ],
+            [
+              10,
+              6
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 133,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "307",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 134,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              10.25,
+              6
+            ],
+            [
+              10.5,
+              6
+            ],
+            [
+              10.5,
+              6.25
+            ],
+            [
+              10.25,
+              6.25
+            ],
+            [
+              10.25,
+              6
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 134,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "307",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 135,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4,
+              6.25
+            ],
+            [
+              4.25,
+              6.25
+            ],
+            [
+              4.25,
+              6.5
+            ],
+            [
+              4,
+              6.5
+            ],
+            [
+              4,
+              6.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 135,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "281A",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 136,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.25,
+              6.25
+            ],
+            [
+              4.5,
+              6.25
+            ],
+            [
+              4.5,
+              6.5
+            ],
+            [
+              4.25,
+              6.5
+            ],
+            [
+              4.25,
+              6.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 136,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "281A",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 137,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.5,
+              6.25
+            ],
+            [
+              4.75,
+              6.25
+            ],
+            [
+              4.75,
+              6.5
+            ],
+            [
+              4.5,
+              6.5
+            ],
+            [
+              4.5,
+              6.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 137,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "296",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 138,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.75,
+              6.25
+            ],
+            [
+              5,
+              6.25
+            ],
+            [
+              5,
+              6.5
+            ],
+            [
+              4.75,
+              6.5
+            ],
+            [
+              4.75,
+              6.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 138,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "296",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 139,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5,
+              6.25
+            ],
+            [
+              5.25,
+              6.25
+            ],
+            [
+              5.25,
+              6.5
+            ],
+            [
+              5,
+              6.5
+            ],
+            [
+              5,
+              6.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 139,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "297",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 140,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.25,
+              6.25
+            ],
+            [
+              5.5,
+              6.25
+            ],
+            [
+              5.5,
+              6.5
+            ],
+            [
+              5.25,
+              6.5
+            ],
+            [
+              5.25,
+              6.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 140,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "297",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 141,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.5,
+              6.25
+            ],
+            [
+              5.75,
+              6.25
+            ],
+            [
+              5.75,
+              6.5
+            ],
+            [
+              5.5,
+              6.5
+            ],
+            [
+              5.5,
+              6.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 141,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "298",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 142,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.75,
+              6.25
+            ],
+            [
+              6,
+              6.25
+            ],
+            [
+              6,
+              6.5
+            ],
+            [
+              5.75,
+              6.5
+            ],
+            [
+              5.75,
+              6.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 142,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "298",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 143,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6,
+              6.25
+            ],
+            [
+              6.25,
+              6.25
+            ],
+            [
+              6.25,
+              6.5
+            ],
+            [
+              6,
+              6.5
+            ],
+            [
+              6,
+              6.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 143,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "299",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 144,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.25,
+              6.25
+            ],
+            [
+              6.5,
+              6.25
+            ],
+            [
+              6.5,
+              6.5
+            ],
+            [
+              6.25,
+              6.5
+            ],
+            [
+              6.25,
+              6.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 144,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "299",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 145,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.5,
+              6.25
+            ],
+            [
+              6.75,
+              6.25
+            ],
+            [
+              6.75,
+              6.5
+            ],
+            [
+              6.5,
+              6.5
+            ],
+            [
+              6.5,
+              6.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 145,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "300",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 146,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              6.75,
+              6.25
+            ],
+            [
+              7,
+              6.25
+            ],
+            [
+              7,
+              6.5
+            ],
+            [
+              6.75,
+              6.5
+            ],
+            [
+              6.75,
+              6.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 146,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "300",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 147,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7,
+              6.25
+            ],
+            [
+              7.25,
+              6.25
+            ],
+            [
+              7.25,
+              6.5
+            ],
+            [
+              7,
+              6.5
+            ],
+            [
+              7,
+              6.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 147,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "301",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 148,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.25,
+              6.25
+            ],
+            [
+              7.5,
+              6.25
+            ],
+            [
+              7.5,
+              6.5
+            ],
+            [
+              7.25,
+              6.5
+            ],
+            [
+              7.25,
+              6.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 148,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "301",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 149,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.5,
+              6.25
+            ],
+            [
+              7.75,
+              6.25
+            ],
+            [
+              7.75,
+              6.5
+            ],
+            [
+              7.5,
+              6.5
+            ],
+            [
+              7.5,
+              6.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 149,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "302",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 150,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.75,
+              6.25
+            ],
+            [
+              8,
+              6.25
+            ],
+            [
+              8,
+              6.5
+            ],
+            [
+              7.75,
+              6.5
+            ],
+            [
+              7.75,
+              6.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 150,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "302",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 151,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              8,
+              6.25
+            ],
+            [
+              8.25,
+              6.25
+            ],
+            [
+              8.25,
+              6.5
+            ],
+            [
+              8,
+              6.5
+            ],
+            [
+              8,
+              6.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 151,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "303",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 152,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              8.25,
+              6.25
+            ],
+            [
+              8.5,
+              6.25
+            ],
+            [
+              8.5,
+              6.5
+            ],
+            [
+              8.25,
+              6.5
+            ],
+            [
+              8.25,
+              6.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 152,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "303",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 153,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              8.5,
+              6.25
+            ],
+            [
+              8.75,
+              6.25
+            ],
+            [
+              8.75,
+              6.5
+            ],
+            [
+              8.5,
+              6.5
+            ],
+            [
+              8.5,
+              6.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 153,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "304",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 154,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              8.75,
+              6.25
+            ],
+            [
+              9,
+              6.25
+            ],
+            [
+              9,
+              6.5
+            ],
+            [
+              8.75,
+              6.5
+            ],
+            [
+              8.75,
+              6.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 154,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "304",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 155,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              9,
+              6.25
+            ],
+            [
+              9.25,
+              6.25
+            ],
+            [
+              9.25,
+              6.5
+            ],
+            [
+              9,
+              6.5
+            ],
+            [
+              9,
+              6.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 155,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 156,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              9.25,
+              6.25
+            ],
+            [
+              9.5,
+              6.25
+            ],
+            [
+              9.5,
+              6.5
+            ],
+            [
+              9.25,
+              6.5
+            ],
+            [
+              9.25,
+              6.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 156,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 157,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              9.5,
+              6.25
+            ],
+            [
+              9.75,
+              6.25
+            ],
+            [
+              9.75,
+              6.5
+            ],
+            [
+              9.5,
+              6.5
+            ],
+            [
+              9.5,
+              6.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 157,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "306",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 158,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              10,
+              6.25
+            ],
+            [
+              10.25,
+              6.25
+            ],
+            [
+              10.25,
+              6.5
+            ],
+            [
+              10,
+              6.5
+            ],
+            [
+              10,
+              6.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 158,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "307",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 159,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              10.25,
+              6.25
+            ],
+            [
+              10.5,
+              6.25
+            ],
+            [
+              10.5,
+              6.5
+            ],
+            [
+              10.25,
+              6.5
+            ],
+            [
+              10.25,
+              6.25
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 159,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : "",
+        "iiifUrl" : "",
+        "label" : "307",
+        "thumbnailUrl" : "",
+        "note" : ""
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 160,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.4999999999999432,
+              4.5
+            ],
+            [
+              5.4999999999999432,
+              4.2467805278512287
+            ],
+            [
+              5.6719009594748968,
+              4.2467805278512287
+            ],
+            [
+              5.6719009594748968,
+              4.5
+            ],
+            [
+              5.4999999999999432,
+              4.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 160,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "333",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+333"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 161,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.6719009594748968,
+              4.2467805278512287
+            ],
+            [
+              6.0024528890622264,
+              4.2500240689763586
+            ],
+            [
+              6.0000000000000568,
+              4.5
+            ],
+            [
+              5.6694480704128978,
+              4.4967564588750406
+            ],
+            [
+              5.6719009594748968,
+              4.2467805278512287
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 161,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "333",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+333"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 162,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              5.4999999999999432,
+              4.2467805278512287
+            ],
+            [
+              5.5016096693375403,
+              3.9967908924225526
+            ],
+            [
+              6.0000000000000568,
+              4.0000000000000568
+            ],
+            [
+              5.9983903306626871,
+              4.2499896354287898
+            ],
+            [
+              5.4999999999999432,
+              4.2467805278512287
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 162,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8840 s100 .N5",
+        "title" : "Nigeria 1:100,000 alternate enumeration",
+        "year" : "1950",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143848310203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "333",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143848310203941&sublib=MAP&collection=LC&callnum=G8840+s100+N5&title=Nigeria+1:100,000+amended+enumeration&description=sheet+333"
+      }
+    }
+  ]
+}
