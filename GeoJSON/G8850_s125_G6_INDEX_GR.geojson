@@ -1,0 +1,4741 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 0,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -3,
+              5
+            ],
+            [
+              -2.5,
+              5
+            ],
+            [
+              -2.5,
+              5.5
+            ],
+            [
+              -3,
+              5.5
+            ],
+            [
+              -3,
+              5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 0,
+        "Index_ID" : "Tanoso",
+        "Collection" : "Available",
+        "available" : true,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Tanoso",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143865990203941&sublib=MAP&collection=LC&callnum=G8850+s125+G6&title=Gold+Coast+1:125,000+:+Ghana&description=sheet+Tanoso"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -2.5,
+              5
+            ],
+            [
+              -2,
+              5
+            ],
+            [
+              -2,
+              5.5
+            ],
+            [
+              -2.5,
+              5.5
+            ],
+            [
+              -2.5,
+              5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 1,
+        "Index_ID" : "Prestea",
+        "Collection" : "Available",
+        "available" : true,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Prestea",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143865990203941&sublib=MAP&collection=LC&callnum=G8850+s125+G6&title=Gold+Coast+1:125,000+:+Ghana&description=sheet+Prestea"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.5,
+              5.0001220703125
+            ],
+            [
+              -1.5,
+              5.5001220703125
+            ],
+            [
+              -2,
+              5.5001220703125
+            ],
+            [
+              -2,
+              5.0001220703125
+            ],
+            [
+              -1.72589111328125,
+              5.0001220703125
+            ],
+            [
+              -1.72589111328125,
+              4.89947509765625
+            ],
+            [
+              -1.5,
+              4.89947509765625
+            ],
+            [
+              -1.5,
+              5.0001220703125
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 2,
+        "Index_ID" : "Tarkwa",
+        "Collection" : "Available",
+        "available" : true,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Tarkwa",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143865990203941&sublib=MAP&collection=LC&callnum=G8850+s125+G6&title=Gold+Coast+1:125,000+:+Ghana&description=sheet+Tarkwa"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.5,
+              5
+            ],
+            [
+              -1,
+              5
+            ],
+            [
+              -1,
+              5.5
+            ],
+            [
+              -1.5,
+              5.5
+            ],
+            [
+              -1.5,
+              5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 3,
+        "Index_ID" : "Cape Coast",
+        "Collection" : "Available",
+        "available" : true,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Cape Coast",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143865990203941&sublib=MAP&collection=LC&callnum=G8850+s125+G6&title=Gold+Coast+1:125,000+:+Ghana&description=sheet+Cape Coast"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -2.5,
+              5.5
+            ],
+            [
+              -2.5,
+              6
+            ],
+            [
+              -2.9999999999999996,
+              6
+            ],
+            [
+              -2.9999999999999996,
+              5.9780357978951084
+            ],
+            [
+              -2.9999999999999996,
+              5.9774984818737966
+            ],
+            [
+              -2.9999999999999996,
+              5.5
+            ],
+            [
+              -2.5,
+              5.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 4,
+        "Index_ID" : "Enchi",
+        "Collection" : "Available",
+        "available" : true,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Enchi",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143865990203941&sublib=MAP&collection=LC&callnum=G8850+s125+G6&title=Gold+Coast+1:125,000+:+Ghana&description=sheet+Enchi"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -2.5,
+              5.5
+            ],
+            [
+              -2,
+              5.5
+            ],
+            [
+              -2,
+              6
+            ],
+            [
+              -2.5,
+              6
+            ],
+            [
+              -2.5,
+              5.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 5,
+        "Index_ID" : "Asankrangwa",
+        "Collection" : "Available",
+        "available" : true,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Asankrangwa",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143865990203941&sublib=MAP&collection=LC&callnum=G8850+s125+G6&title=Gold+Coast+1:125,000+:+Ghana&description=sheet+Asankrangwa"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -2,
+              5.5
+            ],
+            [
+              -1.5,
+              5.5
+            ],
+            [
+              -1.5,
+              6
+            ],
+            [
+              -2,
+              6
+            ],
+            [
+              -2,
+              5.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 6,
+        "Index_ID" : "Dunkwa",
+        "Collection" : "Available",
+        "available" : true,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Dunkwa",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143865990203941&sublib=MAP&collection=LC&callnum=G8850+s125+G6&title=Gold+Coast+1:125,000+:+Ghana&description=sheet+Dunkwa"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.5,
+              5.5
+            ],
+            [
+              -1,
+              5.5
+            ],
+            [
+              -1,
+              6
+            ],
+            [
+              -1.5,
+              6
+            ],
+            [
+              -1.5,
+              5.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 7,
+        "Index_ID" : "Prasu",
+        "Collection" : "Available",
+        "available" : true,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Prasu",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143865990203941&sublib=MAP&collection=LC&callnum=G8850+s125+G6&title=Gold+Coast+1:125,000+:+Ghana&description=sheet+Prasu"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1,
+              5.5
+            ],
+            [
+              -0.5,
+              5.5
+            ],
+            [
+              -0.5,
+              6
+            ],
+            [
+              -1,
+              6
+            ],
+            [
+              -1,
+              5.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 8,
+        "Index_ID" : "Nsaba",
+        "Collection" : "Available",
+        "available" : true,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Nsaba",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143865990203941&sublib=MAP&collection=LC&callnum=G8850+s125+G6&title=Gold+Coast+1:125,000+:+Ghana&description=sheet+Nsaba"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.5,
+              5.5
+            ],
+            [
+              0,
+              5.5
+            ],
+            [
+              0,
+              6
+            ],
+            [
+              -0.5,
+              6
+            ],
+            [
+              -0.5,
+              5.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 9,
+        "Index_ID" : "Accra",
+        "Collection" : "Available",
+        "available" : true,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Accra",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143865990203941&sublib=MAP&collection=LC&callnum=G8850+s125+G6&title=Gold+Coast+1:125,000+:+Ghana&description=sheet+Accra"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0,
+              5.5
+            ],
+            [
+              0.5,
+              5.5
+            ],
+            [
+              0.5,
+              6
+            ],
+            [
+              0,
+              6
+            ],
+            [
+              0,
+              5.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 10,
+        "Index_ID" : "Prampram",
+        "Collection" : "Available",
+        "available" : true,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Prampram",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143865990203941&sublib=MAP&collection=LC&callnum=G8850+s125+G6&title=Gold+Coast+1:125,000+:+Ghana&description=sheet+Prampram"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -3,
+              6
+            ],
+            [
+              -2.5,
+              6
+            ],
+            [
+              -2.5,
+              6.5
+            ],
+            [
+              -3,
+              6.5
+            ],
+            [
+              -3,
+              6
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 11,
+        "Index_ID" : "Asafo",
+        "Collection" : "Available",
+        "available" : true,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Asafo",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143865990203941&sublib=MAP&collection=LC&callnum=G8850+s125+G6&title=Gold+Coast+1:125,000+:+Ghana&description=sheet+Asafo"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -2.5,
+              6
+            ],
+            [
+              -2,
+              6
+            ],
+            [
+              -2,
+              6.5
+            ],
+            [
+              -2.5,
+              6.5
+            ],
+            [
+              -2.5,
+              6
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 12,
+        "Index_ID" : "Wiawso",
+        "Collection" : "Available",
+        "available" : true,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Wiawso",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143865990203941&sublib=MAP&collection=LC&callnum=G8850+s125+G6&title=Gold+Coast+1:125,000+:+Ghana&description=sheet+Wiawso"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -2,
+              6
+            ],
+            [
+              -1.5,
+              6
+            ],
+            [
+              -1.5,
+              6.5
+            ],
+            [
+              -2,
+              6.5
+            ],
+            [
+              -2,
+              6
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 13,
+        "Index_ID" : "Obuasi",
+        "Collection" : "Available",
+        "available" : true,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Obuasi",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143865990203941&sublib=MAP&collection=LC&callnum=G8850+s125+G6&title=Gold+Coast+1:125,000+:+Ghana&description=sheet+Obuasi"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.5,
+              6
+            ],
+            [
+              -1,
+              6
+            ],
+            [
+              -1,
+              6.5
+            ],
+            [
+              -1.5,
+              6.5
+            ],
+            [
+              -1.5,
+              6
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 14,
+        "Index_ID" : "Fumso",
+        "Collection" : "Available",
+        "available" : true,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Fumso",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143865990203941&sublib=MAP&collection=LC&callnum=G8850+s125+G6&title=Gold+Coast+1:125,000+:+Ghana&description=sheet+Fumso"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.50000000000000089,
+              6.0001220703125
+            ],
+            [
+              -0.50000000000000089,
+              6.5
+            ],
+            [
+              -1,
+              6.5
+            ],
+            [
+              -1,
+              6
+            ],
+            [
+              -0.50000000000000089,
+              6
+            ],
+            [
+              -0.50000000000000089,
+              6.0001220703125
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 15,
+        "Index_ID" : "Kibi",
+        "Collection" : "Available",
+        "available" : true,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Kibi",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143865990203941&sublib=MAP&collection=LC&callnum=G8850+s125+G6&title=Gold+Coast+1:125,000+:+Ghana&description=sheet+Kibi"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              8.8817841970012523e-16,
+              6.5
+            ],
+            [
+              8.8817841970012523e-16,
+              6.5001220703125
+            ],
+            [
+              -0.50000000000000089,
+              6.5001220703125
+            ],
+            [
+              -0.50000000000000089,
+              6.5
+            ],
+            [
+              -0.50000000000000089,
+              6.0001220703125
+            ],
+            [
+              8.8817841970012523e-16,
+              6.0001220703125
+            ],
+            [
+              0.17187500000000178,
+              6.0001220703125
+            ],
+            [
+              0.17187500000000178,
+              6.25848388671875
+            ],
+            [
+              8.8817841970012523e-16,
+              6.25848388671875
+            ],
+            [
+              8.8817841970012523e-16,
+              6.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 16,
+        "Index_ID" : "Koforidua",
+        "Collection" : "Available",
+        "available" : true,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Koforidua",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143865990203941&sublib=MAP&collection=LC&callnum=G8850+s125+G6&title=Gold+Coast+1:125,000+:+Ghana&description=sheet+Koforidua"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.0000000000000027,
+              6.0000000000000018
+            ],
+            [
+              1,
+              6.5
+            ],
+            [
+              0.50000000000000089,
+              6.5
+            ],
+            [
+              0.50000000000000089,
+              6.0000000000000018
+            ],
+            [
+              1.0000000000000027,
+              6.0000000000000018
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 17,
+        "Index_ID" : "Dzodze",
+        "Collection" : "Available",
+        "available" : true,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Dzodze",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143865990203941&sublib=MAP&collection=LC&callnum=G8850+s125+G6&title=Gold+Coast+1:125,000+:+Ghana&description=sheet+Dzodze"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -2.5,
+              6.5
+            ],
+            [
+              -2.5,
+              7
+            ],
+            [
+              -2.9999999999999996,
+              7
+            ],
+            [
+              -2.9999999999999996,
+              6.998111841546101
+            ],
+            [
+              -2.9999999999999996,
+              6.9826680982607758
+            ],
+            [
+              -2.9999999999999996,
+              6.5
+            ],
+            [
+              -2.5,
+              6.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 18,
+        "Index_ID" : "Goaso",
+        "Collection" : "Available",
+        "available" : true,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Goaso",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143865990203941&sublib=MAP&collection=LC&callnum=G8850+s125+G6&title=Gold+Coast+1:125,000+:+Ghana&description=sheet+Goaso"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 19,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -2.5,
+              6.5
+            ],
+            [
+              -2,
+              6.5
+            ],
+            [
+              -2,
+              7
+            ],
+            [
+              -2.5,
+              7
+            ],
+            [
+              -2.5,
+              6.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 19,
+        "Index_ID" : "Kukuom",
+        "Collection" : "Available",
+        "available" : true,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Kukuom",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143865990203941&sublib=MAP&collection=LC&callnum=G8850+s125+G6&title=Gold+Coast+1:125,000+:+Ghana&description=sheet+Kukuom"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 20,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -2,
+              6.5
+            ],
+            [
+              -1.5,
+              6.5
+            ],
+            [
+              -1.5,
+              7
+            ],
+            [
+              -2,
+              7
+            ],
+            [
+              -2,
+              6.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 20,
+        "Index_ID" : "Kumasi",
+        "Collection" : "Available",
+        "available" : true,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Kumasi",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143865990203941&sublib=MAP&collection=LC&callnum=G8850+s125+G6&title=Gold+Coast+1:125,000+:+Ghana&description=sheet+Kumasi"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 21,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.5,
+              6.5
+            ],
+            [
+              -1,
+              6.5
+            ],
+            [
+              -1,
+              7
+            ],
+            [
+              -1.5,
+              7
+            ],
+            [
+              -1.5,
+              6.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 21,
+        "Index_ID" : "Bompata",
+        "Collection" : "Available",
+        "available" : true,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Bompata",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143865990203941&sublib=MAP&collection=LC&callnum=G8850+s125+G6&title=Gold+Coast+1:125,000+:+Ghana&description=sheet+Bompata"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 22,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.50000000000000089,
+              6.5001220703125
+            ],
+            [
+              -0.50000000000000089,
+              7
+            ],
+            [
+              -1,
+              7
+            ],
+            [
+              -1,
+              6.5
+            ],
+            [
+              -0.50000000000000089,
+              6.5
+            ],
+            [
+              -0.50000000000000089,
+              6.5001220703125
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 22,
+        "Index_ID" : "Abetifi",
+        "Collection" : "Available",
+        "available" : true,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Abetifi",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143865990203941&sublib=MAP&collection=LC&callnum=G8850+s125+G6&title=Gold+Coast+1:125,000+:+Ghana&description=sheet+Abetifi"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 23,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              8.8817841970012523e-16,
+              6.5
+            ],
+            [
+              8.8817841970012523e-16,
+              6.5001220703125
+            ],
+            [
+              8.8817841970012523e-16,
+              7
+            ],
+            [
+              -0.50000000000000089,
+              7
+            ],
+            [
+              -0.50000000000000089,
+              6.5001220703125
+            ],
+            [
+              -0.50000000000000089,
+              6.5
+            ],
+            [
+              8.8817841970012523e-16,
+              6.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 23,
+        "Index_ID" : "Afram",
+        "Collection" : "Available",
+        "available" : true,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Afram",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143865990203941&sublib=MAP&collection=LC&callnum=G8850+s125+G6&title=Gold+Coast+1:125,000+:+Ghana&description=sheet+Afram"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 24,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.50000000000000089,
+              6.5
+            ],
+            [
+              0.50000000000000089,
+              7
+            ],
+            [
+              8.8817841970012523e-16,
+              7
+            ],
+            [
+              8.8817841970012523e-16,
+              6.5001220703125
+            ],
+            [
+              8.8817841970012523e-16,
+              6.5
+            ],
+            [
+              0.50000000000000089,
+              6.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 24,
+        "Index_ID" : "Ho",
+        "Collection" : "Available",
+        "available" : true,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Ho",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143865990203941&sublib=MAP&collection=LC&callnum=G8850+s125+G6&title=Gold+Coast+1:125,000+:+Ghana&description=sheet+Ho"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 25,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1,
+              6.9985471087402056
+            ],
+            [
+              1,
+              7
+            ],
+            [
+              0.50000000000000089,
+              7
+            ],
+            [
+              0.50000000000000089,
+              6.5
+            ],
+            [
+              1,
+              6.5
+            ],
+            [
+              1,
+              6.9985471087402056
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 25,
+        "Index_ID" : "Honuta",
+        "Collection" : "Available",
+        "available" : true,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Honuta",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143865990203941&sublib=MAP&collection=LC&callnum=G8850+s125+G6&title=Gold+Coast+1:125,000+:+Ghana&description=sheet+Honuta"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 26,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -2.5,
+              7.5000000000000009
+            ],
+            [
+              -2.9999999999999996,
+              7.5000000000000018
+            ],
+            [
+              -2.9999999999999996,
+              7
+            ],
+            [
+              -2.5,
+              7
+            ],
+            [
+              -2.5,
+              7.5000000000000009
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 26,
+        "Index_ID" : "Berekum",
+        "Collection" : "Available",
+        "available" : true,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Berekum",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143865990203941&sublib=MAP&collection=LC&callnum=G8850+s125+G6&title=Gold+Coast+1:125,000+:+Ghana&description=sheet+Berekum"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 27,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.9999999999999991,
+              7
+            ],
+            [
+              -1.9999999999999991,
+              7.5000000000000018
+            ],
+            [
+              -2.5,
+              7.5000000000000018
+            ],
+            [
+              -2.5,
+              7
+            ],
+            [
+              -1.9999999999999991,
+              7
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 27,
+        "Index_ID" : "Sunyani",
+        "Collection" : "Available",
+        "available" : true,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Sunyani",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143865990203941&sublib=MAP&collection=LC&callnum=G8850+s125+G6&title=Gold+Coast+1:125,000+:+Ghana&description=sheet+Sunyani"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 28,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.5,
+              7
+            ],
+            [
+              -1.5,
+              7.5000000000000018
+            ],
+            [
+              -1.9999999999999991,
+              7.5000000000000009
+            ],
+            [
+              -1.9999999999999991,
+              7
+            ],
+            [
+              -1.5,
+              7
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 28,
+        "Index_ID" : "Sekodumasi",
+        "Collection" : "Available",
+        "available" : true,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Sekodumasi",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143865990203941&sublib=MAP&collection=LC&callnum=G8850+s125+G6&title=Gold+Coast+1:125,000+:+Ghana&description=sheet+Sekodumasi"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 29,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1,
+              7
+            ],
+            [
+              -1,
+              7.5000000000000018
+            ],
+            [
+              -1.5,
+              7.5000000000000009
+            ],
+            [
+              -1.5,
+              7
+            ],
+            [
+              -1,
+              7
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 29,
+        "Index_ID" : "Mampong",
+        "Collection" : "Available",
+        "available" : true,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Mampong",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143865990203941&sublib=MAP&collection=LC&callnum=G8850+s125+G6&title=Gold+Coast+1:125,000+:+Ghana&description=sheet+Mampong"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 30,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.50000000000000089,
+              7
+            ],
+            [
+              0.50000000000000089,
+              7.5000000000000009
+            ],
+            [
+              8.8817841970012523e-16,
+              7.5000000000000009
+            ],
+            [
+              8.8817841970012523e-16,
+              7.4901783623576872
+            ],
+            [
+              8.8817841970012523e-16,
+              7
+            ],
+            [
+              0.50000000000000089,
+              7
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 30,
+        "Index_ID" : "Hohoe",
+        "Collection" : "Available",
+        "available" : true,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Hohoe",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143865990203941&sublib=MAP&collection=LC&callnum=G8850+s125+G6&title=Gold+Coast+1:125,000+:+Ghana&description=sheet+Hohoe"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 31,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -2.5,
+              7.5000000000000009
+            ],
+            [
+              -2.5,
+              8
+            ],
+            [
+              -2.9999999999999996,
+              8
+            ],
+            [
+              -2.9999999999999996,
+              7.9956831453361907
+            ],
+            [
+              -2.9999999999999996,
+              7.5000000000000018
+            ],
+            [
+              -2.5,
+              7.5000000000000009
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 31,
+        "Index_ID" : "Sampa",
+        "Collection" : "Available",
+        "available" : true,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Sampa",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143865990203941&sublib=MAP&collection=LC&callnum=G8850+s125+G6&title=Gold+Coast+1:125,000+:+Ghana&description=sheet+Sampa"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 32,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.9999999999999991,
+              7.5000000000000018
+            ],
+            [
+              -1.9999999999999991,
+              8
+            ],
+            [
+              -2.5,
+              8
+            ],
+            [
+              -2.5,
+              7.5000000000000018
+            ],
+            [
+              -1.9999999999999991,
+              7.5000000000000018
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 32,
+        "Index_ID" : "Wenchi",
+        "Collection" : "Available",
+        "available" : true,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Wenchi",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143865990203941&sublib=MAP&collection=LC&callnum=G8850+s125+G6&title=Gold+Coast+1:125,000+:+Ghana&description=sheet+Wenchi"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 33,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.5,
+              7.5000000000000018
+            ],
+            [
+              -1.5,
+              8
+            ],
+            [
+              -1.9999999999999991,
+              8
+            ],
+            [
+              -1.9999999999999991,
+              7.5000000000000009
+            ],
+            [
+              -1.5,
+              7.5000000000000018
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 33,
+        "Index_ID" : "Nkoranza",
+        "Collection" : "Available",
+        "available" : true,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Nkoranza",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143865990203941&sublib=MAP&collection=LC&callnum=G8850+s125+G6&title=Gold+Coast+1:125,000+:+Ghana&description=sheet+Nkoranza"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 34,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1,
+              7.5000000000000018
+            ],
+            [
+              -1,
+              8
+            ],
+            [
+              -1.5,
+              8
+            ],
+            [
+              -1.5,
+              7.5000000000000009
+            ],
+            [
+              -1,
+              7.5000000000000018
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 34,
+        "Index_ID" : "Abeasi",
+        "Collection" : "Available",
+        "available" : true,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Abeasi",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143865990203941&sublib=MAP&collection=LC&callnum=G8850+s125+G6&title=Gold+Coast+1:125,000+:+Ghana&description=sheet+Abeasi"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 35,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.50000000000000089,
+              7.5010430968025963
+            ],
+            [
+              -0.50000000000000089,
+              8
+            ],
+            [
+              -1,
+              8
+            ],
+            [
+              -1,
+              7.5000000000000009
+            ],
+            [
+              -0.50000000000000089,
+              7.5000000000000009
+            ],
+            [
+              -0.50000000000000089,
+              7.5010430968025963
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 35,
+        "Index_ID" : "Atebubu",
+        "Collection" : "Available",
+        "available" : true,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Atebubu",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143865990203941&sublib=MAP&collection=LC&callnum=G8850+s125+G6&title=Gold+Coast+1:125,000+:+Ghana&description=sheet+Atebubu"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 36,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.9999999999999991,
+              8
+            ],
+            [
+              -1.9999999999999991,
+              8.4936451038236545
+            ],
+            [
+              -1.9999999999999991,
+              8.5
+            ],
+            [
+              -2.4828520775820415,
+              8.5
+            ],
+            [
+              -2.5,
+              8.5
+            ],
+            [
+              -2.5,
+              8.4924976626050253
+            ],
+            [
+              -2.5,
+              8.4924392706338949
+            ],
+            [
+              -2.5,
+              8.4893624485774026
+            ],
+            [
+              -2.5,
+              8
+            ],
+            [
+              -1.9999999999999991,
+              8
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 36,
+        "Index_ID" : "Banda",
+        "Collection" : "Available",
+        "available" : true,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Banda",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143865990203941&sublib=MAP&collection=LC&callnum=G8850+s125+G6&title=Gold+Coast+1:125,000+:+Ghana&description=sheet+Banda"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 37,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.5,
+              8
+            ],
+            [
+              -1.5,
+              8.4979277590699063
+            ],
+            [
+              -1.5,
+              8.5
+            ],
+            [
+              -1.9999999999999991,
+              8.5
+            ],
+            [
+              -1.9999999999999991,
+              8.4936451038236545
+            ],
+            [
+              -1.9999999999999991,
+              8
+            ],
+            [
+              -1.5,
+              8
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 37,
+        "Index_ID" : "Kintampo",
+        "Collection" : "Available",
+        "available" : true,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Kintampo",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143865990203941&sublib=MAP&collection=LC&callnum=G8850+s125+G6&title=Gold+Coast+1:125,000+:+Ghana&description=sheet+Kintampo"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 38,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1,
+              8
+            ],
+            [
+              -1,
+              8.5
+            ],
+            [
+              -1.258065871411346,
+              8.5
+            ],
+            [
+              -1.5,
+              8.5
+            ],
+            [
+              -1.5,
+              8.4979277590699063
+            ],
+            [
+              -1.5,
+              8
+            ],
+            [
+              -1,
+              8
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 38,
+        "Index_ID" : "Kamompa",
+        "Collection" : "Available",
+        "available" : true,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Kamompa",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143865990203941&sublib=MAP&collection=LC&callnum=G8850+s125+G6&title=Gold+Coast+1:125,000+:+Ghana&description=sheet+Kamompa"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 39,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.50000000000000089,
+              8.4980250899551173
+            ],
+            [
+              -0.50000000000000089,
+              8.5
+            ],
+            [
+              -1,
+              8.5
+            ],
+            [
+              -1,
+              8
+            ],
+            [
+              -0.50000000000000089,
+              8
+            ],
+            [
+              -0.50000000000000089,
+              8.4971548058590116
+            ],
+            [
+              -0.50000000000000089,
+              8.4980250899551173
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 39,
+        "Index_ID" : "Yeji",
+        "Collection" : "Available",
+        "available" : true,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Yeji",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143865990203941&sublib=MAP&collection=LC&callnum=G8850+s125+G6&title=Gold+Coast+1:125,000+:+Ghana&description=sheet+Yeji"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 40,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.50000000000000089,
+              9
+            ],
+            [
+              -0.50000000000000089,
+              9.5
+            ],
+            [
+              -1,
+              9.5
+            ],
+            [
+              -1,
+              9.0065514405926699
+            ],
+            [
+              -1,
+              9
+            ],
+            [
+              -0.50000000000000089,
+              9
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 40,
+        "Index_ID" : "Tamale",
+        "Collection" : "Available",
+        "available" : true,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Tamale",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143865990203941&sublib=MAP&collection=LC&callnum=G8850+s125+G6&title=Gold+Coast+1:125,000+:+Ghana&description=sheet+Tamale"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 41,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              8.8817841970012523e-16,
+              9.0114745311771856
+            ],
+            [
+              8.8817841970012523e-16,
+              9.5
+            ],
+            [
+              -0.50000000000000089,
+              9.5
+            ],
+            [
+              -0.50000000000000089,
+              9
+            ],
+            [
+              -0.48801050492165388,
+              9
+            ],
+            [
+              -0.48575965604168214,
+              9
+            ],
+            [
+              8.8817841970012523e-16,
+              9
+            ],
+            [
+              8.8817841970012523e-16,
+              9.0114745311771856
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 41,
+        "Index_ID" : "Yendi",
+        "Collection" : "Available",
+        "available" : true,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Yendi",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143865990203941&sublib=MAP&collection=LC&callnum=G8850+s125+G6&title=Gold+Coast+1:125,000+:+Ghana&description=sheet+Yendi"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 42,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.50000000000000089,
+              9.5
+            ],
+            [
+              -0.50000000000000089,
+              10
+            ],
+            [
+              -1,
+              10
+            ],
+            [
+              -1,
+              9.5108639069312026
+            ],
+            [
+              -1,
+              9.5
+            ],
+            [
+              -0.50000000000000089,
+              9.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 42,
+        "Index_ID" : "Savelugu",
+        "Collection" : "Available",
+        "available" : true,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Savelugu",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143865990203941&sublib=MAP&collection=LC&callnum=G8850+s125+G6&title=Gold+Coast+1:125,000+:+Ghana&description=sheet+Savelugu"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 43,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.5,
+              9.5
+            ],
+            [
+              0,
+              9.5
+            ],
+            [
+              0,
+              10
+            ],
+            [
+              -0.5,
+              10
+            ],
+            [
+              -0.5,
+              9.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 43,
+        "Index_ID" : "Karaga",
+        "Collection" : "Available",
+        "available" : true,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Karaga",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143865990203941&sublib=MAP&collection=LC&callnum=G8850+s125+G6&title=Gold+Coast+1:125,000+:+Ghana&description=sheet+Karaga"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 44,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.50000000000000089,
+              9.5062335966059983
+            ],
+            [
+              0.50000000000000089,
+              10
+            ],
+            [
+              8.8817841970012523e-16,
+              10
+            ],
+            [
+              8.8817841970012523e-16,
+              9.5
+            ],
+            [
+              0.50000000000000089,
+              9.5
+            ],
+            [
+              0.50000000000000089,
+              9.5062335966059983
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 44,
+        "Index_ID" : "Wapuli",
+        "Collection" : "Available",
+        "available" : true,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Wapuli",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143865990203941&sublib=MAP&collection=LC&callnum=G8850+s125+G6&title=Gold+Coast+1:125,000+:+Ghana&description=sheet+Wapuli"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 45,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1,
+              10
+            ],
+            [
+              -0.5,
+              10
+            ],
+            [
+              -0.5,
+              10.5
+            ],
+            [
+              -1,
+              10.5
+            ],
+            [
+              -1,
+              10
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 45,
+        "Index_ID" : "Walewale",
+        "Collection" : "Available",
+        "available" : true,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Walewale",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143865990203941&sublib=MAP&collection=LC&callnum=G8850+s125+G6&title=Gold+Coast+1:125,000+:+Ghana&description=sheet+Walewale"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 46,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.5,
+              10
+            ],
+            [
+              0,
+              10
+            ],
+            [
+              0,
+              10.5
+            ],
+            [
+              -0.5,
+              10.5
+            ],
+            [
+              -0.5,
+              10
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 46,
+        "Index_ID" : "Bongo-Da",
+        "Collection" : "Available",
+        "available" : true,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Bongo-Da",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143865990203941&sublib=MAP&collection=LC&callnum=G8850+s125+G6&title=Gold+Coast+1:125,000+:+Ghana&description=sheet+Bongo-Da"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 47,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0,
+              10
+            ],
+            [
+              0.5,
+              10
+            ],
+            [
+              0.5,
+              10.5
+            ],
+            [
+              0,
+              10.5
+            ],
+            [
+              0,
+              10
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 47,
+        "Index_ID" : "Chereponi",
+        "Collection" : "Available",
+        "available" : true,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Chereponi",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143865990203941&sublib=MAP&collection=LC&callnum=G8850+s125+G6&title=Gold+Coast+1:125,000+:+Ghana&description=sheet+Chereponi"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 48,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.5,
+              10.5
+            ],
+            [
+              -1.5,
+              11
+            ],
+            [
+              -1.9999999999999991,
+              11
+            ],
+            [
+              -1.9999999999999991,
+              10.998816354808206
+            ],
+            [
+              -1.9999999999999991,
+              10.506345142759894
+            ],
+            [
+              -1.9999999999999991,
+              10.5
+            ],
+            [
+              -1.5,
+              10.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 48,
+        "Index_ID" : "Tumu",
+        "Collection" : "Available",
+        "available" : true,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Tumu",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143865990203941&sublib=MAP&collection=LC&callnum=G8850+s125+G6&title=Gold+Coast+1:125,000+:+Ghana&description=sheet+Tumu"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 49,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.5,
+              10.5
+            ],
+            [
+              -1,
+              10.5
+            ],
+            [
+              -1,
+              11
+            ],
+            [
+              -1.5,
+              11
+            ],
+            [
+              -1.5,
+              10.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 49,
+        "Index_ID" : "Navrongo",
+        "Collection" : "Available",
+        "available" : true,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Navrongo",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143865990203941&sublib=MAP&collection=LC&callnum=G8850+s125+G6&title=Gold+Coast+1:125,000+:+Ghana&description=sheet+Navrongo"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 50,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1,
+              10.5
+            ],
+            [
+              -0.5,
+              10.5
+            ],
+            [
+              -0.5,
+              11
+            ],
+            [
+              -1,
+              11
+            ],
+            [
+              -1,
+              10.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 50,
+        "Index_ID" : "Zuarungu",
+        "Collection" : "Available",
+        "available" : true,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Zuarungu",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143865990203941&sublib=MAP&collection=LC&callnum=G8850+s125+G6&title=Gold+Coast+1:125,000+:+Ghana&description=sheet+Zuarungu"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 51,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.5,
+              10.5
+            ],
+            [
+              0,
+              10.5
+            ],
+            [
+              0,
+              11
+            ],
+            [
+              -0.5,
+              11
+            ],
+            [
+              -0.5,
+              10.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 51,
+        "Index_ID" : "Gambaga",
+        "Collection" : "Available",
+        "available" : true,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Gambaga",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143865990203941&sublib=MAP&collection=LC&callnum=G8850+s125+G6&title=Gold+Coast+1:125,000+:+Ghana&description=sheet+Gambaga"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 52,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1,
+              5.5
+            ],
+            [
+              -1,
+              5.1248967966046264
+            ],
+            [
+              -0.34221292142729798,
+              5.1248967966046264
+            ],
+            [
+              -0.34221292142729798,
+              5.5
+            ],
+            [
+              -1,
+              5.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 52,
+        "Index_ID" : "Winneba",
+        "Collection" : "Available",
+        "available" : true,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Winneba",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143865990203941&sublib=MAP&collection=LC&callnum=G8850+s125+G6&title=Gold+Coast+1:125,000+:+Ghana&description=sheet+Winneba"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 53,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              8.8817841970012523e-16,
+              11
+            ],
+            [
+              8.8817841970012523e-16,
+              11.148539172568974
+            ],
+            [
+              -0.49999999999999822,
+              11.148539172568974
+            ],
+            [
+              -0.50000000000000089,
+              11
+            ],
+            [
+              8.8817841970012523e-16,
+              11
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 53,
+        "Index_ID" : "Bawku",
+        "Collection" : "Available",
+        "available" : true,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Bawku",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143865990203941&sublib=MAP&collection=LC&callnum=G8850+s125+G6&title=Gold+Coast+1:125,000+:+Ghana&description=sheet+Bawku"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 54,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -2.4999999999999996,
+              5
+            ],
+            [
+              -2.500906572229558,
+              4.6596231322164794
+            ],
+            [
+              -1.9973143332051997,
+              4.6582818461828737
+            ],
+            [
+              -1.996407760975643,
+              4.9986587139663943
+            ],
+            [
+              -2.4999999999999996,
+              5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 54,
+        "Index_ID" : "Axim",
+        "Collection" : "Available",
+        "available" : true,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Axim",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143865990203941&sublib=MAP&collection=LC&callnum=G8850+s125+G6&title=Gold+Coast+1:125,000+:+Ghana&description=sheet+Axim"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 55,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.9973143332051997,
+              4.6582818461828737
+            ],
+            [
+              -1.5,
+              4.6663718209221452
+            ],
+            [
+              -1.5,
+              4.89947509765625
+            ],
+            [
+              -1.72589111328125,
+              4.89947509765625
+            ],
+            [
+              -1.72589111328125,
+              5.0001220703125
+            ],
+            [
+              -2,
+              5
+            ],
+            [
+              -1.9973143332051997,
+              4.6582818461828737
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 55,
+        "Index_ID" : "Sekondi",
+        "Collection" : "Available",
+        "available" : true,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Sekondi",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143865990203941&sublib=MAP&collection=LC&callnum=G8850+s125+G6&title=Gold+Coast+1:125,000+:+Ghana&description=sheet+Sekondi"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 56,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.0000000000000027,
+              6.0000000000000018
+            ],
+            [
+              1.126656801467611,
+              6.0000000000000018
+            ],
+            [
+              1.126656801467611,
+              6.5
+            ],
+            [
+              1,
+              6.5
+            ],
+            [
+              1.0000000000000027,
+              6.0000000000000018
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 56,
+        "Index_ID" : "Aflao",
+        "Collection" : "Available",
+        "available" : true,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Aflao",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143865990203941&sublib=MAP&collection=LC&callnum=G8850+s125+G6&title=Gold+Coast+1:125,000+:+Ghana&description=sheet+Aflao"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 57,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0,
+              6.5
+            ],
+            [
+              0,
+              6.25848388671875
+            ],
+            [
+              0.17187500000000089,
+              6.25848388671875
+            ],
+            [
+              0.17187500000000089,
+              6.0001220703125
+            ],
+            [
+              0.50000000000000089,
+              6.0000000000000009
+            ],
+            [
+              0.50000000000000089,
+              6.5
+            ],
+            [
+              0,
+              6.5
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 57,
+        "Index_ID" : "Akuse",
+        "Collection" : "Available",
+        "available" : true,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Akuse",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143865990203941&sublib=MAP&collection=LC&callnum=G8850+s125+G6&title=Gold+Coast+1:125,000+:+Ghana&description=sheet+Akuse"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 58,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -2.5,
+              8.4924392706338949
+            ],
+            [
+              -2.5,
+              8.4924976626050253
+            ],
+            [
+              -2.5058842334373099,
+              8.492468257005509
+            ],
+            [
+              -2.5,
+              8.4924392706338949
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 58,
+        "Index_ID" : " ",
+        "Collection" : false,
+        "available" : false,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : " ",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 59,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.55980098600002748,
+              8.5042020810000736
+            ],
+            [
+              0.55855914100004611,
+              8.5004765480000515
+            ],
+            [
+              0.58761622400004399,
+              8.5043508260000635
+            ],
+            [
+              0.55980098600002748,
+              8.5042020810000736
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 59,
+        "Index_ID" : " ",
+        "Collection" : false,
+        "available" : false,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : " ",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 60,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -2.4961403119999659,
+              10.507130175000043
+            ],
+            [
+              -2.5095504539999638,
+              10.999952930000063
+            ],
+            [
+              -2.9984187239999756,
+              10.996839119000072
+            ],
+            [
+              -2.9921144989999675,
+              10.509837781000044
+            ],
+            [
+              -2.9920896079999579,
+              10.507914905000064
+            ],
+            [
+              -2.4961403119999659,
+              10.507130175000043
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 60,
+        "Index_ID" : "Lawra",
+        "Collection" : false,
+        "available" : false,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Lawra",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 61,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -2.4961403119999659,
+              10.507130175000043
+            ],
+            [
+              -1.9999999999999432,
+              10.506345143000033
+            ],
+            [
+              -1.9999999999999432,
+              10.998816355000031
+            ],
+            [
+              -2.0047475059999442,
+              11.003168235000032
+            ],
+            [
+              -2.5095504539999638,
+              10.999952930000063
+            ],
+            [
+              -2.4961403119999659,
+              10.507130175000043
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 61,
+        "Index_ID" : "Han",
+        "Collection" : false,
+        "available" : false,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Han",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 62,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -2.4980746209999438,
+              10.009908204000055
+            ],
+            [
+              -2.5020764829999393,
+              10.507139568000071
+            ],
+            [
+              -2.9920896079999579,
+              10.507914905000064
+            ],
+            [
+              -2.9921144989999675,
+              10.509837781000044
+            ],
+            [
+              -2.9939685639999425,
+              10.507321550000029
+            ],
+            [
+              -2.9964042469999299,
+              10.014095848000068
+            ],
+            [
+              -2.4980746209999438,
+              10.009908204000055
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 62,
+        "Index_ID" : "Tappo",
+        "Collection" : false,
+        "available" : false,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Tappo",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 63,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.9982692849999353,
+              10.005708159000051
+            ],
+            [
+              -2.0032359719999704,
+              10.506350263000058
+            ],
+            [
+              -2.5020764829999393,
+              10.507139568000071
+            ],
+            [
+              -2.4980746209999438,
+              10.009908204000055
+            ],
+            [
+              -1.9982692849999353,
+              10.005708159000051
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 63,
+        "Index_ID" : "Wa",
+        "Collection" : false,
+        "available" : false,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Wa",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 64,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.4911676879999618,
+              10.017437713000049
+            ],
+            [
+              -1.4921289669999283,
+              10.500000000000057
+            ],
+            [
+              -1.4999999999999432,
+              10.500000000000057
+            ],
+            [
+              -1.9999999999999432,
+              10.500000000000057
+            ],
+            [
+              -1.9999999999999432,
+              10.506345143000033
+            ],
+            [
+              -2.0032359719999704,
+              10.506350263000058
+            ],
+            [
+              -1.998385649999932,
+              10.017437713000049
+            ],
+            [
+              -1.4911676879999618,
+              10.017437713000049
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 64,
+        "Index_ID" : "Funsi",
+        "Collection" : false,
+        "available" : false,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Funsi",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 65,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -2.4980746209999438,
+              10.009908204000055
+            ],
+            [
+              -2.9964042469999299,
+              10.014095848000068
+            ],
+            [
+              -2.9989131859999247,
+              9.5060356140000408
+            ],
+            [
+              -2.9939446779999344,
+              9.5060476150000568
+            ],
+            [
+              -2.4940291229999616,
+              9.5072551410000301
+            ],
+            [
+              -2.4980746209999438,
+              10.009908204000055
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 65,
+        "Index_ID" : "Kalba",
+        "Collection" : false,
+        "available" : false,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Kalba",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 66,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.9982692849999353,
+              10.005708159000051
+            ],
+            [
+              -2.4980746209999438,
+              10.009908204000055
+            ],
+            [
+              -2.4940291229999616,
+              9.5072551410000301
+            ],
+            [
+              -1.9933363129999293,
+              9.5084645440000486
+            ],
+            [
+              -1.9982692849999353,
+              10.005708159000051
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 66,
+        "Index_ID" : "Tanina",
+        "Collection" : false,
+        "available" : false,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Tanina",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 67,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.998385649999932,
+              10.017437713000049
+            ],
+            [
+              -1.9933363129999293,
+              9.5084645440000486
+            ],
+            [
+              -1.4901562179999246,
+              9.5096799550000242
+            ],
+            [
+              -1.4911676879999618,
+              10.017437713000049
+            ],
+            [
+              -1.998385649999932,
+              10.017437713000049
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 67,
+        "Index_ID" : "Ducie",
+        "Collection" : false,
+        "available" : false,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Ducie",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 68,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.99999999999994316,
+              10.009820646000037
+            ],
+            [
+              -0.99999999999994316,
+              10.500000000000057
+            ],
+            [
+              -1.4921289669999283,
+              10.500000000000057
+            ],
+            [
+              -1.4911671899999419,
+              10.017188154000053
+            ],
+            [
+              -0.99999999999994316,
+              10.009820646000037
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 68,
+        "Index_ID" : "Yagaba",
+        "Collection" : false,
+        "available" : false,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Yagaba",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 69,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.99999999999994316,
+              10.009820646000037
+            ],
+            [
+              -1.4911671899999419,
+              10.017188154000053
+            ],
+            [
+              -1.4901562179999246,
+              9.5096799550000242
+            ],
+            [
+              -0.99999999999994316,
+              9.5108639070000436
+            ],
+            [
+              -0.99999999999994316,
+              10.000000000000057
+            ],
+            [
+              -0.99999999999994316,
+              10.009820646000037
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 69,
+        "Index_ID" : "Daboya",
+        "Collection" : false,
+        "available" : false,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Daboya",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 70,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -2.4899550659999363,
+              9.0010534510000753
+            ],
+            [
+              -2.494029123999951,
+              9.5072551410000301
+            ],
+            [
+              -2.9939446779999344,
+              9.5060476150000568
+            ],
+            [
+              -2.9891271189999316,
+              9.0098390920000497
+            ],
+            [
+              -2.9891055699999356,
+              9.0076195680000524
+            ],
+            [
+              -2.9890239419999602,
+              8.9992118690000211
+            ],
+            [
+              -2.4899550659999363,
+              9.0010534510000753
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 70,
+        "Index_ID" : "Mandara",
+        "Collection" : false,
+        "available" : false,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Mandara",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 71,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.9883208359999571,
+              9.0029045000000565
+            ],
+            [
+              -1.9933363129999293,
+              9.5084645440000486
+            ],
+            [
+              -2.494029123999951,
+              9.5072551410000301
+            ],
+            [
+              -2.4899550659999363,
+              9.0010534510000753
+            ],
+            [
+              -2.4856591889999322,
+              9.0010693030000652
+            ],
+            [
+              -1.9883208359999571,
+              9.0029045000000565
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 71,
+        "Index_ID" : "Bole",
+        "Collection" : false,
+        "available" : false,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Bole",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 72,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.4891503749999515,
+              9.0047464580000565
+            ],
+            [
+              -1.4901562179999246,
+              9.5096799550000242
+            ],
+            [
+              -1.9933363129999293,
+              9.5084645440000486
+            ],
+            [
+              -1.9883208359999571,
+              9.0029045000000565
+            ],
+            [
+              -1.4891503749999515,
+              9.0047464580000565
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 72,
+        "Index_ID" : "Damongo",
+        "Collection" : false,
+        "available" : false,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Damongo",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 73,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.4891503749999515,
+              9.0047464580000565
+            ],
+            [
+              -0.99999999999994316,
+              9.006551441000056
+            ],
+            [
+              -0.99999999999994316,
+              9.5000000000000568
+            ],
+            [
+              -0.99999999999994316,
+              9.5108639070000436
+            ],
+            [
+              -1.4901562179999246,
+              9.5096799550000242
+            ],
+            [
+              -1.4891503749999515,
+              9.0047464580000565
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 73,
+        "Index_ID" : "Tamale Port",
+        "Collection" : false,
+        "available" : false,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Tamale Port",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 74,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.9833317039999656,
+              8.5000000000000568
+            ],
+            [
+              -1.9883208359999571,
+              9.0029045000000565
+            ],
+            [
+              -2.4856591889999322,
+              9.0010693030000652
+            ],
+            [
+              -2.4899550649999469,
+              9.0010534510000753
+            ],
+            [
+              -2.4859224419999464,
+              8.5000000000000568
+            ],
+            [
+              -2.4828520779999508,
+              8.5000000000000568
+            ],
+            [
+              -1.9999999999999432,
+              8.5000000000000568
+            ],
+            [
+              -1.9833317039999656,
+              8.5000000000000568
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 74,
+        "Index_ID" : "Waluwe",
+        "Collection" : false,
+        "available" : false,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Waluwe",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 75,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -1.4881449039999666,
+              8.5000000000000568
+            ],
+            [
+              -1.4891503749999515,
+              9.0047464580000565
+            ],
+            [
+              -1.9883208359999571,
+              9.0029045000000565
+            ],
+            [
+              -1.9833317039999656,
+              8.5000000000000568
+            ],
+            [
+              -1.4999999999999432,
+              8.5000000000000568
+            ],
+            [
+              -1.4881449039999666,
+              8.5000000000000568
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 75,
+        "Index_ID" : "Buipe",
+        "Collection" : false,
+        "available" : false,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Buipe",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 76,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.98466973299997562,
+              9.0000000000000568
+            ],
+            [
+              -0.99999999999994316,
+              9.0000000000000568
+            ],
+            [
+              -0.99999999999994316,
+              9.006551441000056
+            ],
+            [
+              -1.4891503749999515,
+              9.0047464580000565
+            ],
+            [
+              -1.4881449039999666,
+              8.5000000000000568
+            ],
+            [
+              -1.2580658709999284,
+              8.5000000000000568
+            ],
+            [
+              -0.97740555699994047,
+              8.5024039430000471
+            ],
+            [
+              -0.98466973299997562,
+              9.0000000000000568
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 76,
+        "Index_ID" : "Mpaha",
+        "Collection" : false,
+        "available" : false,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Mpaha",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 77,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.97740555699994047,
+              8.5024039430000471
+            ],
+            [
+              -0.4855558619999556,
+              8.5066167880000307
+            ],
+            [
+              -0.488010504999977,
+              9.0000000000000568
+            ],
+            [
+              -0.49999999999994316,
+              9.0000000000000568
+            ],
+            [
+              -0.98466973299997562,
+              9.0000000000000568
+            ],
+            [
+              -0.97740555699994047,
+              8.5024039430000471
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 77,
+        "Index_ID" : "Salaga",
+        "Collection" : false,
+        "available" : false,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Salaga",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 78,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.0071250020000661607,
+              8.5100462330000255
+            ],
+            [
+              0.006165327000076104,
+              9.0090772940000647
+            ],
+            [
+              0.0049446220000390895,
+              9.0091011130000425
+            ],
+            [
+              5.6843418860808015e-14,
+              9.011474531000033
+            ],
+            [
+              5.6843418860808015e-14,
+              9.0000000000000568
+            ],
+            [
+              -0.48575965599997062,
+              9.0000000000000568
+            ],
+            [
+              -0.488010504999977,
+              9.0000000000000568
+            ],
+            [
+              -0.50128677399993649,
+              8.5150800130000448
+            ],
+            [
+              0.0071250020000661607,
+              8.5100462330000255
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 78,
+        "Index_ID" : "Wangasi-Turu",
+        "Collection" : false,
+        "available" : false,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Wangasi-Turu",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 79,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.50437240521804849,
+              8.9993561803050159
+            ],
+            [
+              0.51176836726704256,
+              8.9992118688504004
+            ],
+            [
+              0.51164821295472862,
+              9.007342310650376
+            ],
+            [
+              0.50435143440809949,
+              9.5010909923055173
+            ],
+            [
+              0.50000000000000089,
+              9.5062335966059983
+            ],
+            [
+              0.50000000000000089,
+              9.5
+            ],
+            [
+              8.8817841970012523e-16,
+              9.5
+            ],
+            [
+              8.8817841970012523e-16,
+              9.0114745311771856
+            ],
+            [
+              0.0049446219059623431,
+              9.0091011126623251
+            ],
+            [
+              0.50437240521804849,
+              8.9993561803050159
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 79,
+        "Index_ID" : "Zabzugu",
+        "Collection" : false,
+        "available" : false,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Zabzugu",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 80,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.5096665980000239,
+              8.5069962660000442
+            ],
+            [
+              0.50437240500002645,
+              8.9993561800000634
+            ],
+            [
+              0.006165327000076104,
+              9.0090772940000647
+            ],
+            [
+              0.0071266290000266963,
+              8.5092003880000675
+            ],
+            [
+              0.5096665980000239,
+              8.5069962660000442
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 80,
+        "Index_ID" : "Bimbila",
+        "Collection" : false,
+        "available" : false,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Bimbila",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 81,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.0081215860000725115,
+              7.9918224100000543
+            ],
+            [
+              0.0071250020000661607,
+              8.5100462330000255
+            ],
+            [
+              -0.50128677399993649,
+              8.5150800130000448
+            ],
+            [
+              -0.50169963899998038,
+              8.5000000000000568
+            ],
+            [
+              -0.49999999999994316,
+              8.5000000000000568
+            ],
+            [
+              -0.49999999999994316,
+              8.4980250900000556
+            ],
+            [
+              -0.49999999999994316,
+              8.4971548060000259
+            ],
+            [
+              -0.49999999999994316,
+              8.0000000000000568
+            ],
+            [
+              -0.49999999999994316,
+              7.9988471320000372
+            ],
+            [
+              0.0081215860000725115,
+              7.9918224100000543
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 81,
+        "Index_ID" : "Kpandai",
+        "Collection" : false,
+        "available" : false,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Kpandai",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 82,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.5096665980000239,
+              8.5069962660000442
+            ],
+            [
+              0.0071266290000266963,
+              8.5092003880000675
+            ],
+            [
+              0.0081120310000528661,
+              7.9967910870000765
+            ],
+            [
+              0.51274850700002617,
+              7.9955199630000493
+            ],
+            [
+              0.51582784100003209,
+              8.4943720770000368
+            ],
+            [
+              0.52332167400004437,
+              8.5040070050000622
+            ],
+            [
+              0.50969952400004104,
+              8.503934159000039
+            ],
+            [
+              0.5096665980000239,
+              8.5069962660000442
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 82,
+        "Index_ID" : "Dutukpene",
+        "Collection" : false,
+        "available" : false,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Dutukpene",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 83,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.55980098600002748,
+              8.5042020810000736
+            ],
+            [
+              0.52332167400004437,
+              8.5040070050000622
+            ],
+            [
+              0.51582784100003209,
+              8.4943720770000368
+            ],
+            [
+              0.51274850700002617,
+              7.9955199630000493
+            ],
+            [
+              1.0095180720000485,
+              7.9942686540000523
+            ],
+            [
+              1.0113511600000606,
+              8.5066167880000307
+            ],
+            [
+              0.58761622400004399,
+              8.5043508260000635
+            ],
+            [
+              0.55855914100004611,
+              8.5004765480000515
+            ],
+            [
+              0.55980098600002748,
+              8.5042020810000736
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 83,
+        "Index_ID" : "Nkwanta",
+        "Collection" : false,
+        "available" : false,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Nkwanta",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 84,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.0081215860000725115,
+              7.9918224100000543
+            ],
+            [
+              -0.49999999999994316,
+              7.9988471320000372
+            ],
+            [
+              -0.49999999999994316,
+              7.5010430970000357
+            ],
+            [
+              -0.49092111999993904,
+              7.4952656280000269
+            ],
+            [
+              5.6843418860808015e-14,
+              7.4901783620000515
+            ],
+            [
+              5.6843418860808015e-14,
+              7.5000000000000568
+            ],
+            [
+              0.009067399000059595,
+              7.5000000000000568
+            ],
+            [
+              0.0081215860000725115,
+              7.9918224100000543
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 84,
+        "Index_ID" : "Kete Krachi",
+        "Collection" : false,
+        "available" : false,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Kete Krachi",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 85,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              0.51274850700002617,
+              7.9955199630000493
+            ],
+            [
+              0.0081120310000528661,
+              7.9967910870000765
+            ],
+            [
+              0.009067399000059595,
+              7.5000000000000568
+            ],
+            [
+              0.50000000000005684,
+              7.5000000000000568
+            ],
+            [
+              0.50000000000005684,
+              7.4945089060000214
+            ],
+            [
+              0.50972336900002801,
+              7.5054476960000329
+            ],
+            [
+              0.51274850700002617,
+              7.9955199630000493
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 85,
+        "Index_ID" : "Worawora",
+        "Collection" : false,
+        "available" : false,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Worawora",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 86,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.0077273070000388,
+              7.4937499260000209
+            ],
+            [
+              1.0095180720000485,
+              7.9942686540000523
+            ],
+            [
+              0.51274850700002617,
+              7.9955199630000493
+            ],
+            [
+              0.50972336900002801,
+              7.5054476960000329
+            ],
+            [
+              0.50142835700006572,
+              7.49611580800007
+            ],
+            [
+              1.0077273070000388,
+              7.4937499260000209
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 86,
+        "Index_ID" : "Ahamansu",
+        "Collection" : false,
+        "available" : false,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Ahamansu",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 87,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.49140995499993778,
+              7.4955767050000759
+            ],
+            [
+              -0.49999999999994316,
+              7.5010430970000357
+            ],
+            [
+              -0.49999999999994316,
+              7.5000000000000568
+            ],
+            [
+              -0.99999999999994316,
+              7.5000000000000568
+            ],
+            [
+              -0.99999999999994316,
+              7.0000000000000568
+            ],
+            [
+              -0.49999999999994316,
+              7.0000000000000568
+            ],
+            [
+              -0.49140995499993778,
+              7.0000000000000568
+            ],
+            [
+              -0.49140995499993778,
+              7.4955767050000759
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 87,
+        "Index_ID" : "Sabuso",
+        "Collection" : false,
+        "available" : false,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Sabuso",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 88,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.49140995499993778,
+              7.0000000000000568
+            ],
+            [
+              5.6843418860808015e-14,
+              7.0000000000000568
+            ],
+            [
+              5.6843418860808015e-14,
+              7.4901783620000515
+            ],
+            [
+              -0.49092111999993904,
+              7.4952656280000269
+            ],
+            [
+              -0.49140995499993778,
+              7.4955767050000759
+            ],
+            [
+              -0.49140995499993778,
+              7.0000000000000568
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 88,
+        "Index_ID" : "Obosum",
+        "Collection" : false,
+        "available" : false,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Obosum",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 89,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              1.0077273070000388,
+              7.4937499260000209
+            ],
+            [
+              0.50142835700006572,
+              7.49611580800007
+            ],
+            [
+              0.50000000000005684,
+              7.4945089060000214
+            ],
+            [
+              0.50000000000005684,
+              7.0000000000000568
+            ],
+            [
+              1.0000000000000568,
+              7.0000000000000568
+            ],
+            [
+              1.0000000000000568,
+              6.9985471090000715
+            ],
+            [
+              1.0059859020000204,
+              7.0070271370000228
+            ],
+            [
+              1.0077273070000388,
+              7.4937499260000209
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 89,
+        "Index_ID" : "Baglo",
+        "Collection" : false,
+        "available" : false,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Baglo",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 90,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -3.0105160421313837,
+              5.9774984818737966
+            ],
+            [
+              -3.1782320359505434,
+              5.9774984818737966
+            ],
+            [
+              -3.192358923603615,
+              6.7827310780988279
+            ],
+            [
+              -3.2016732064676963,
+              5.9677313274916486
+            ],
+            [
+              -3.0105160421313837,
+              5.9774984818737966
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 90,
+        "Index_ID" : " ",
+        "Collection" : false,
+        "available" : false,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : " ",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 91,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -2.9999999999999996,
+              6.9826680982607758
+            ],
+            [
+              -2.9999999999999996,
+              6.998111841546101
+            ],
+            [
+              -3.1899526212091205,
+              6.9932825376170555
+            ],
+            [
+              -3.1901078769226427,
+              6.9796976626838578
+            ],
+            [
+              -2.9999999999999996,
+              6.9826680982607758
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 91,
+        "Index_ID" : " ",
+        "Collection" : false,
+        "available" : false,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : " ",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 92,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -2.9999999999999432,
+              6.5021402960000501
+            ],
+            [
+              -2.9999999999999432,
+              6.9826680980000333
+            ],
+            [
+              -3.1901078769999458,
+              6.9796976630000245
+            ],
+            [
+              -3.1958129139999301,
+              6.9796085210000456
+            ],
+            [
+              -3.1923589239999615,
+              6.7827310780000403
+            ],
+            [
+              -3.187422043999959,
+              6.5013289450000684
+            ],
+            [
+              -2.9999999999999432,
+              6.5021402960000501
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 92,
+        "Index_ID" : "Debiso",
+        "Collection" : false,
+        "available" : false,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Debiso",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 93,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -3.187422043999959,
+              6.5013289450000684
+            ],
+            [
+              -3.1782320359999403,
+              5.9774984820000441
+            ],
+            [
+              -3.0105160419999493,
+              5.9774984820000441
+            ],
+            [
+              -2.9999999999999432,
+              5.9774984820000441
+            ],
+            [
+              -2.9999999999999432,
+              5.9780357980000645
+            ],
+            [
+              -2.9999999999999432,
+              6.0000000000000568
+            ],
+            [
+              -2.9999999999999432,
+              6.5000000000000568
+            ],
+            [
+              -2.9999999999999432,
+              6.5021402960000501
+            ],
+            [
+              -3.187422043999959,
+              6.5013289450000684
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 93,
+        "Index_ID" : "Dadiaso",
+        "Collection" : false,
+        "available" : false,
+        "recordIdentifier" : "G8850 s125 G6",
+        "title" : "Gold Coast 1:125,000 : Ghana",
+        "year" : "1922",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143865990203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "Dadiaso",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    }
+  ]
+}
