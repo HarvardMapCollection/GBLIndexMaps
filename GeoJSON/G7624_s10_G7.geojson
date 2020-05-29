@@ -1,0 +1,4891 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 0,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.350145632245415,
+              35.853061891418292
+            ],
+            [
+              51.300823048456664,
+              35.853398713253966
+            ],
+            [
+              51.3011760640739,
+              35.803858854955138
+            ],
+            [
+              51.35040146009851,
+              35.803711601261853
+            ],
+            [
+              51.350145632245415,
+              35.853061891418292
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 0,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "1",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+1"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.35040146009834,
+              35.803711601261853
+            ],
+            [
+              51.3011760640739,
+              35.803858854955138
+            ],
+            [
+              51.301535435848393,
+              35.753427015942918
+            ],
+            [
+              51.35066353775909,
+              35.753155696393321
+            ],
+            [
+              51.35040146009834,
+              35.803711601261853
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 1,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "6",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+6"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.35066353775909,
+              35.753155696393321
+            ],
+            [
+              51.301535435848393,
+              35.753427015942918
+            ],
+            [
+              51.301898488571908,
+              35.702478617089866
+            ],
+            [
+              51.350927797784664,
+              35.702178803979734
+            ],
+            [
+              51.35066353775909,
+              35.753155696393321
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 2,
+        "Id" : 0,
+        "available" : " ",
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "13",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.350927797784664,
+              35.702178803979734
+            ],
+            [
+              51.301898488571908,
+              35.702478617089866
+            ],
+            [
+              51.302250725060048,
+              35.653048096562998
+            ],
+            [
+              51.35118356018171,
+              35.6528411405626
+            ],
+            [
+              51.350927797784664,
+              35.702178803979734
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 3,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "30",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+30"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.400462032385349,
+              35.652593521016172
+            ],
+            [
+              51.35118356018171,
+              35.6528411405626
+            ],
+            [
+              51.351485085480476,
+              35.603692516881097
+            ],
+            [
+              51.40078447181105,
+              35.603390991582501
+            ],
+            [
+              51.400462032385349,
+              35.652593521016172
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 4,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "46",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+46"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.399150494097228,
+              35.852727239292165
+            ],
+            [
+              51.350145632245415,
+              35.853061891418292
+            ],
+            [
+              51.35040146009851,
+              35.803711601261853
+            ],
+            [
+              51.399472670742398,
+              35.803564808801184
+            ],
+            [
+              51.399150494097228,
+              35.852727239292165
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 5,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "2",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+2"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.399472670742398,
+              35.803564808801184
+            ],
+            [
+              51.35040146009834,
+              35.803711601261853
+            ],
+            [
+              51.35066353775909,
+              35.753155696393321
+            ],
+            [
+              51.399804795797706,
+              35.752884304186296
+            ],
+            [
+              51.399472670742398,
+              35.803564808801184
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 6,
+        "Id" : 0,
+        "available" : " ",
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "7",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.399804795797706,
+              35.752884304186296
+            ],
+            [
+              51.35066353775909,
+              35.753155696393321
+            ],
+            [
+              51.350927797784664,
+              35.702178803979734
+            ],
+            [
+              51.400139056716341,
+              35.70187787825131
+            ],
+            [
+              51.399804795797706,
+              35.752884304186296
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 7,
+        "Id" : 0,
+        "available" : " ",
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "14",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.400139056716569,
+              35.70187787825131
+            ],
+            [
+              51.350927797784664,
+              35.702178803979734
+            ],
+            [
+              51.35118356018171,
+              35.6528411405626
+            ],
+            [
+              51.400462032385349,
+              35.652593521016172
+            ],
+            [
+              51.400139056716569,
+              35.70187787825131
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 8,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "31",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+31"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.449846606460596,
+              35.603083249749091
+            ],
+            [
+              51.40078447181105,
+              35.603390991582501
+            ],
+            [
+              51.40078447181105,
+              35.553639317303691
+            ],
+            [
+              51.450083858141852,
+              35.553488554654393
+            ],
+            [
+              51.449846606460596,
+              35.603083249749091
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 9,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "61",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+61"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.449610940097728,
+              35.652346552518793
+            ],
+            [
+              51.400462032385349,
+              35.652593521016172
+            ],
+            [
+              51.40078447181105,
+              35.603390991582501
+            ],
+            [
+              51.449846606460596,
+              35.603083249749091
+            ],
+            [
+              51.449610940097728,
+              35.652346552518793
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 10,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "47",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+47"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.448653973831142,
+              35.852389182125592
+            ],
+            [
+              51.399150494097228,
+              35.852727239292165
+            ],
+            [
+              51.399472670742398,
+              35.803564808801184
+            ],
+            [
+              51.448888247593686,
+              35.80341698619759
+            ],
+            [
+              51.448653973831142,
+              35.852389182125592
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 11,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+3"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.448888247593686,
+              35.80341698619759
+            ],
+            [
+              51.498827906250426,
+              35.803267595846478
+            ],
+            [
+              51.498827906250426,
+              35.852046546465999
+            ],
+            [
+              51.448653973831142,
+              35.852389182125592
+            ],
+            [
+              51.448888247593686,
+              35.80341698619759
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 12,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "4",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+4"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.448888247593686,
+              35.80341698619759
+            ],
+            [
+              51.399472670742398,
+              35.803564808801184
+            ],
+            [
+              51.399804795797706,
+              35.752884304186296
+            ],
+            [
+              51.449131289610762,
+              35.752611888978606
+            ],
+            [
+              51.448888247593686,
+              35.80341698619759
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 13,
+        "Id" : 0,
+        "available" : " ",
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "8",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.449131289610762,
+              35.752611888978606
+            ],
+            [
+              51.399804795797706,
+              35.752884304186296
+            ],
+            [
+              51.400139056716341,
+              35.70187787825131
+            ],
+            [
+              51.449375431870237,
+              35.701576798937651
+            ],
+            [
+              51.449131289610762,
+              35.752611888978606
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 14,
+        "Id" : 0,
+        "available" : " ",
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "15",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.449375431870237,
+              35.701576798937651
+            ],
+            [
+              51.400139056716569,
+              35.70187787825131
+            ],
+            [
+              51.400462032385349,
+              35.652593521016172
+            ],
+            [
+              51.449610940097728,
+              35.652346552518793
+            ],
+            [
+              51.449375431870237,
+              35.701576798937651
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 15,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "32",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+32"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.499766255409838,
+              35.553239665124806
+            ],
+            [
+              51.450083858141852,
+              35.553488554654393
+            ],
+            [
+              51.450156791689039,
+              35.505717081246019
+            ],
+            [
+              51.499945724002032,
+              35.505419341195136
+            ],
+            [
+              51.499766255409838,
+              35.553239665124806
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 16,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "75",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+75"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.499945724002032,
+              35.505419341195136
+            ],
+            [
+              51.450156791689039,
+              35.505717081246019
+            ],
+            [
+              51.45023462079115,
+              35.454739019343776
+            ],
+            [
+              51.500137057719257,
+              35.454437494044953
+            ],
+            [
+              51.499945724002032,
+              35.505419341195136
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 17,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "83",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+83"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.499580364324402,
+              35.602771295164416
+            ],
+            [
+              51.449846606460596,
+              35.603083249749091
+            ],
+            [
+              51.450083858141852,
+              35.553488554654393
+            ],
+            [
+              51.499766255409668,
+              35.553239665124806
+            ],
+            [
+              51.499580364324402,
+              35.602771295164416
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 18,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "62",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+62"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 19,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.499395248356507,
+              35.652096391195357
+            ],
+            [
+              51.449610940097728,
+              35.652346552518793
+            ],
+            [
+              51.449846606460596,
+              35.603083249749091
+            ],
+            [
+              51.499580364324402,
+              35.602771295164416
+            ],
+            [
+              51.499395248356507,
+              35.652096391195357
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 19,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "48",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+48"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 20,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.498827906250426,
+              35.803267595846478
+            ],
+            [
+              51.448888247593686,
+              35.80341698619759
+            ],
+            [
+              51.449131289610762,
+              35.752611888978606
+            ],
+            [
+              51.499019049971878,
+              35.752336374066545
+            ],
+            [
+              51.498827906250426,
+              35.803267595846478
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 20,
+        "Id" : 0,
+        "available" : " ",
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "9",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 21,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.499019049971878,
+              35.752336374066545
+            ],
+            [
+              51.449131289610762,
+              35.752611888978606
+            ],
+            [
+              51.449375431870237,
+              35.701576798937651
+            ],
+            [
+              51.499210693195153,
+              35.701272057448705
+            ],
+            [
+              51.499019049971878,
+              35.752336374066545
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 21,
+        "Id" : 0,
+        "available" : " ",
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "16",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 22,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.499210693195323,
+              35.701272057448705
+            ],
+            [
+              51.449375431870237,
+              35.701576798937651
+            ],
+            [
+              51.449610940097728,
+              35.652346552518793
+            ],
+            [
+              51.499395248356507,
+              35.652096391195357
+            ],
+            [
+              51.499210693195323,
+              35.701272057448705
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 22,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "33",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+33"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 23,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.549809383943568,
+              35.454200332130711
+            ],
+            [
+              51.500137057719257,
+              35.454437494044953
+            ],
+            [
+              51.500313237637386,
+              35.405529723050279
+            ],
+            [
+              51.549930308199748,
+              35.405149569985326
+            ],
+            [
+              51.549809383943568,
+              35.454200332130711
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 23,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "92",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+92"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 24,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.549930308199748,
+              35.405149569985326
+            ],
+            [
+              51.500313237637386,
+              35.405529723050279
+            ],
+            [
+              51.500494327646834,
+              35.355258904449443
+            ],
+            [
+              51.550054238052098,
+              35.354879641555442
+            ],
+            [
+              51.549930308199748,
+              35.405149569985326
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 24,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "100",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+100"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 25,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.550180663079345,
+              35.303597590046877
+            ],
+            [
+              51.500679668617352,
+              35.303808013602975
+            ],
+            [
+              51.500851349416337,
+              35.256149203797179
+            ],
+            [
+              51.510740816189845,
+              35.255995817504271
+            ],
+            [
+              51.520630357754662,
+              35.255847331622704
+            ],
+            [
+              51.53051997168253,
+              35.255703746188942
+            ],
+            [
+              51.540409655545204,
+              35.255565061238244
+            ],
+            [
+              51.550299406914405,
+              35.255431276804643
+            ],
+            [
+              51.550180663079345,
+              35.303597590046877
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 25,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "116",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+116"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 26,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.550054238052098,
+              35.354879641555442
+            ],
+            [
+              51.500494327646834,
+              35.355258904449443
+            ],
+            [
+              51.500679668617352,
+              35.303808013602975
+            ],
+            [
+              51.550180663079345,
+              35.303597590046877
+            ],
+            [
+              51.550054238052098,
+              35.354879641555442
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 26,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "108",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+108"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 27,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.549565838494175,
+              35.552990188539638
+            ],
+            [
+              51.499766255409838,
+              35.553239665124806
+            ],
+            [
+              51.499945724002032,
+              35.505419341195136
+            ],
+            [
+              51.549683847600079,
+              35.505121904982559
+            ],
+            [
+              51.549565838494175,
+              35.552990188539638
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 27,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "76",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+76"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 28,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.549683847600079,
+              35.505121904982559
+            ],
+            [
+              51.499945724002032,
+              35.505419341195136
+            ],
+            [
+              51.500137057719257,
+              35.454437494044953
+            ],
+            [
+              51.549809383943568,
+              35.454200332130711
+            ],
+            [
+              51.549683847600079,
+              35.505121904982559
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 28,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "84",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+84"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 29,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.549443884792765,
+              35.602458526644909
+            ],
+            [
+              51.499580364324402,
+              35.602771295164416
+            ],
+            [
+              51.499766255409668,
+              35.553239665124806
+            ],
+            [
+              51.549565838493947,
+              35.552990188539638
+            ],
+            [
+              51.549443884792765,
+              35.602458526644909
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 29,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "63",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+63"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 30,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.549322131645852,
+              35.651845513446176
+            ],
+            [
+              51.499395248356507,
+              35.652096391195357
+            ],
+            [
+              51.499580364324402,
+              35.602771295164416
+            ],
+            [
+              51.549443884792765,
+              35.602458526644909
+            ],
+            [
+              51.549322131645852,
+              35.651845513446176
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 30,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "49",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+49"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 31,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.548949078252349,
+              35.80316795136946
+            ],
+            [
+              51.498827906250426,
+              35.803267595846478
+            ],
+            [
+              51.499019049971878,
+              35.752336374066545
+            ],
+            [
+              51.549075074245536,
+              35.752059929884126
+            ],
+            [
+              51.548949078252349,
+              35.80316795136946
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 31,
+        "Id" : 0,
+        "available" : " ",
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "10",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 32,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.549075074245536,
+              35.752059929884126
+            ],
+            [
+              51.499019049971878,
+              35.752336374066545
+            ],
+            [
+              51.499210693195153,
+              35.701272057448705
+            ],
+            [
+              51.549201034592386,
+              35.700966367648675
+            ],
+            [
+              51.549075074245536,
+              35.752059929884126
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 32,
+        "Id" : 0,
+        "available" : " ",
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "17",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 33,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.549201034592386,
+              35.700966367648675
+            ],
+            [
+              51.499210693195323,
+              35.701272057448705
+            ],
+            [
+              51.499395248356507,
+              35.652096391195357
+            ],
+            [
+              51.549322131645852,
+              35.651845513446176
+            ],
+            [
+              51.549201034592386,
+              35.700966367648675
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 33,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "34",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+34"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 34,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.59965018252251,
+              35.453962365840482
+            ],
+            [
+              51.549809383943568,
+              35.454200332130711
+            ],
+            [
+              51.549930308199748,
+              35.405149569985326
+            ],
+            [
+              51.599778643235879,
+              35.404767645032166
+            ],
+            [
+              51.59965018252251,
+              35.453962365840482
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 34,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "93",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+93"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 35,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.599778643235879,
+              35.404767645032166
+            ],
+            [
+              51.549930308199748,
+              35.405149569985326
+            ],
+            [
+              51.550054238052098,
+              35.354879641555442
+            ],
+            [
+              51.599909910565827,
+              35.354498115308047
+            ],
+            [
+              51.599778643235879,
+              35.404767645032166
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 35,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "101",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+101"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 36,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.600043379083843,
+              35.303385628850208
+            ],
+            [
+              51.550180663079345,
+              35.303597590046877
+            ],
+            [
+              51.550299406914405,
+              35.255431276804643
+            ],
+            [
+              51.560273436614501,
+              35.255301316501345
+            ],
+            [
+              51.570247530014967,
+              35.255176340593323
+            ],
+            [
+              51.580221684624924,
+              35.255056349111811
+            ],
+            [
+              51.590195897953457,
+              35.254941342086759
+            ],
+            [
+              51.600170167509646,
+              35.254831319546895
+            ],
+            [
+              51.600043379083843,
+              35.303385628850208
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 36,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "117",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+117"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 37,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.599909910565998,
+              35.354498115308047
+            ],
+            [
+              51.550054238052098,
+              35.354879641555442
+            ],
+            [
+              51.550180663079345,
+              35.303597590046877
+            ],
+            [
+              51.600043379083843,
+              35.303385628850208
+            ],
+            [
+              51.599909910565998,
+              35.354498115308047
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 37,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "109",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+109"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 38,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.599392245911588,
+              35.55274057757498
+            ],
+            [
+              51.549565838494175,
+              35.552990188539638
+            ],
+            [
+              51.549683847600079,
+              35.505121904982559
+            ],
+            [
+              51.599517369313162,
+              35.504823898284826
+            ],
+            [
+              51.599392245911588,
+              35.55274057757498
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 38,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "77",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+77"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 39,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.599517369313162,
+              35.504823898284826
+            ],
+            [
+              51.549683847600079,
+              35.505121904982559
+            ],
+            [
+              51.549809383943568,
+              35.454200332130711
+            ],
+            [
+              51.599650182522339,
+              35.453962365840482
+            ],
+            [
+              51.599517369313162,
+              35.504823898284826
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 39,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "85",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+85"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 40,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.599263234907426,
+              35.60214603518358
+            ],
+            [
+              51.549443884792765,
+              35.602458526644909
+            ],
+            [
+              51.549565838493947,
+              35.552990188539638
+            ],
+            [
+              51.599392245911588,
+              35.55274057757498
+            ],
+            [
+              51.599263234907426,
+              35.60214603518358
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 40,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "64",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+64"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 41,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.599134109737633,
+              35.65159521308442
+            ],
+            [
+              51.549322131645852,
+              35.651845513446176
+            ],
+            [
+              51.549443884792765,
+              35.602458526644909
+            ],
+            [
+              51.599263234907426,
+              35.60214603518358
+            ],
+            [
+              51.599134109737633,
+              35.65159521308442
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 41,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "50",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+50"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 42,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.598738570824366,
+              35.803068966294745
+            ],
+            [
+              51.548949078252349,
+              35.80316795136946
+            ],
+            [
+              51.549075074245536,
+              35.752059929884126
+            ],
+            [
+              51.598872487347251,
+              35.751784913932454
+            ],
+            [
+              51.598738570824366,
+              35.803068966294745
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 42,
+        "Id" : 0,
+        "available" : " ",
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "11",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 43,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.598872487347251,
+              35.751784913932454
+            ],
+            [
+              51.648734839449219,
+              35.751509539342294
+            ],
+            [
+              51.648436516991978,
+              35.802970163220721
+            ],
+            [
+              51.598738570824366,
+              35.803068966294745
+            ],
+            [
+              51.598872487347251,
+              35.751784913932454
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 43,
+        "Id" : 0,
+        "available" : " ",
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "12",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 44,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.598872487347421,
+              35.751784913932454
+            ],
+            [
+              51.549075074245536,
+              35.752059929884126
+            ],
+            [
+              51.549201034592386,
+              35.700966367648675
+            ],
+            [
+              51.59900598358638,
+              35.700661811518842
+            ],
+            [
+              51.598872487347421,
+              35.751784913932454
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 44,
+        "Id" : 0,
+        "available" : " ",
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "18",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 45,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.59900598358638,
+              35.700661811518842
+            ],
+            [
+              51.649031382243436,
+              35.700355907344317
+            ],
+            [
+              51.648734839449219,
+              35.751509539342294
+            ],
+            [
+              51.598872487347421,
+              35.751784913932454
+            ],
+            [
+              51.59900598358638,
+              35.700661811518842
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 45,
+        "Id" : 0,
+        "available" : " ",
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "19",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 46,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.59900598358638,
+              35.700661811518842
+            ],
+            [
+              51.549201034592386,
+              35.700966367648675
+            ],
+            [
+              51.549322131645852,
+              35.651845513446176
+            ],
+            [
+              51.599134109737633,
+              35.65159521308442
+            ],
+            [
+              51.59900598358638,
+              35.700661811518842
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 46,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "35",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+35"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 47,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.649646415017514,
+              35.453723657426565
+            ],
+            [
+              51.59965018252251,
+              35.453962365840482
+            ],
+            [
+              51.599778643235879,
+              35.404767645032166
+            ],
+            [
+              51.649769452940632,
+              35.404384628475214
+            ],
+            [
+              51.649646415017514,
+              35.453723657426565
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 47,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "94",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+94"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 48,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.649769452940632,
+              35.404384628475214
+            ],
+            [
+              51.599778643235879,
+              35.404767645032166
+            ],
+            [
+              51.599909910565827,
+              35.354498115308047
+            ],
+            [
+              51.649894810025728,
+              35.354115600136709
+            ],
+            [
+              51.649769452940632,
+              35.404384628475214
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 48,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "102",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+102"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 49,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.650021846374955,
+              35.303173175606958
+            ],
+            [
+              51.600043379083843,
+              35.303385628850208
+            ],
+            [
+              51.600170167509646,
+              35.254831319546895
+            ],
+            [
+              51.61016475314063,
+              35.254726073213945
+            ],
+            [
+              51.620159390220728,
+              35.254625831692131
+            ],
+            [
+              51.630154076243784,
+              35.254530595006599
+            ],
+            [
+              51.6401488087036,
+              35.254440363181232
+            ],
+            [
+              51.650143585093986,
+              35.254355136238644
+            ],
+            [
+              51.650021846374955,
+              35.303173175606958
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 49,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "118",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+118"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 50,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.649894810025728,
+              35.354115600136709
+            ],
+            [
+              51.599909910565998,
+              35.354498115308047
+            ],
+            [
+              51.600043379083843,
+              35.303385628850208
+            ],
+            [
+              51.650021846374955,
+              35.303173175606958
+            ],
+            [
+              51.649894810025728,
+              35.354115600136709
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 50,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "110",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+110"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 51,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.649400118869778,
+              35.552490057538478
+            ],
+            [
+              51.599392245911588,
+              35.55274057757498
+            ],
+            [
+              51.599517369313162,
+              35.504823898284826
+            ],
+            [
+              51.649519730781947,
+              35.504524881917803
+            ],
+            [
+              51.649400118869778,
+              35.552490057538478
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 51,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "78",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+78"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 52,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.649519730781947,
+              35.504524881917803
+            ],
+            [
+              51.599517369313162,
+              35.504823898284826
+            ],
+            [
+              51.599650182522339,
+              35.453962365840482
+            ],
+            [
+              51.649646415017344,
+              35.453723657426565
+            ],
+            [
+              51.649519730781947,
+              35.504524881917803
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 52,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "86",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+86"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 53,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.649277072873588,
+              35.601832323798874
+            ],
+            [
+              51.599263234907426,
+              35.60214603518358
+            ],
+            [
+              51.599392245911588,
+              35.55274057757498
+            ],
+            [
+              51.649400118869778,
+              35.552490057538478
+            ],
+            [
+              51.649277072873588,
+              35.601832323798874
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 53,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "65",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+65"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 54,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.649153604740093,
+              35.651343869970276
+            ],
+            [
+              51.599134109737633,
+              35.65159521308442
+            ],
+            [
+              51.599263234907426,
+              35.60214603518358
+            ],
+            [
+              51.649277072873588,
+              35.601832323798874
+            ],
+            [
+              51.649153604740093,
+              35.651343869970276
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 54,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "51",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+51"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 55,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.649031382243436,
+              35.700355907344317
+            ],
+            [
+              51.59900598358638,
+              35.700661811518842
+            ],
+            [
+              51.599134109737633,
+              35.65159521308442
+            ],
+            [
+              51.649153604739922,
+              35.651343869970276
+            ],
+            [
+              51.649031382243436,
+              35.700355907344317
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 55,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "36",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+36"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 56,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.698403628198491,
+              35.453490864745049
+            ],
+            [
+              51.649646415017514,
+              35.453723657426565
+            ],
+            [
+              51.649769452940632,
+              35.404384628475214
+            ],
+            [
+              51.698635290467791,
+              35.404010231161863
+            ],
+            [
+              51.698403628198491,
+              35.453490864745049
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 56,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "95",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+95"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 57,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.698635290467791,
+              35.404010231161863
+            ],
+            [
+              51.649769452940632,
+              35.404384628475214
+            ],
+            [
+              51.649894810025728,
+              35.354115600136709
+            ],
+            [
+              51.698870645758234,
+              35.353740806941119
+            ],
+            [
+              51.698635290467791,
+              35.404010231161863
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 57,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "103",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+103"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 58,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.699108374146533,
+              35.302964513905351
+            ],
+            [
+              51.650021846374955,
+              35.303173175606958
+            ],
+            [
+              51.650143585093986,
+              35.254355136238644
+            ],
+            [
+              51.659982313308525,
+              35.254276128558956
+            ],
+            [
+              51.669821079273056,
+              35.254201970699881
+            ],
+            [
+              51.679659880596958,
+              35.254132662679439
+            ],
+            [
+              51.689498714889595,
+              35.254068204514468
+            ],
+            [
+              51.699337579760311,
+              35.254008596220615
+            ],
+            [
+              51.699108374146533,
+              35.302964513905351
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 58,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "119",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+119"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 59,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.698870645758234,
+              35.353740806941119
+            ],
+            [
+              51.649894810025728,
+              35.354115600136709
+            ],
+            [
+              51.650021846374955,
+              35.303173175606958
+            ],
+            [
+              51.699108374146533,
+              35.302964513905351
+            ],
+            [
+              51.698870645758234,
+              35.353740806941119
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 59,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "111",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+111"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 60,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.697941264599535,
+              35.552246885236059
+            ],
+            [
+              51.649400118869778,
+              35.552490057538478
+            ],
+            [
+              51.649519730781947,
+              35.504524881917803
+            ],
+            [
+              51.698166055169168,
+              35.504233974713543
+            ],
+            [
+              51.697941264599535,
+              35.552246885236059
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 60,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "79",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+79"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 61,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.698166055169168,
+              35.504233974713543
+            ],
+            [
+              51.649519730781947,
+              35.504524881917803
+            ],
+            [
+              51.649646415017344,
+              35.453723657426565
+            ],
+            [
+              51.698403628198321,
+              35.453490864745049
+            ],
+            [
+              51.698166055169168,
+              35.504233974713543
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 61,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "87",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+87"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 62,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.697710533993359,
+              35.601528525314905
+            ],
+            [
+              51.649277072873588,
+              35.601832323798874
+            ],
+            [
+              51.649400118869778,
+              35.552490057538478
+            ],
+            [
+              51.697941264599365,
+              35.552246885236059
+            ],
+            [
+              51.697710533993359,
+              35.601528525314905
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 62,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "66",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+66"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 63,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.697478441536987,
+              35.651101042349296
+            ],
+            [
+              51.649153604740093,
+              35.651343869970276
+            ],
+            [
+              51.649277072873588,
+              35.601832323798874
+            ],
+            [
+              51.697710533993359,
+              35.601528525314905
+            ],
+            [
+              51.697478441536987,
+              35.651101042349296
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 63,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "52",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+52"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 64,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.697249258737713,
+              35.700052087070674
+            ],
+            [
+              51.649031382243436,
+              35.700355907344317
+            ],
+            [
+              51.649153604739922,
+              35.651343869970276
+            ],
+            [
+              51.697478441536816,
+              35.651101042349296
+            ],
+            [
+              51.697249258737713,
+              35.700052087070674
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 64,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "37",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+37"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 65,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.748537310740232,
+              35.453251500072099
+            ],
+            [
+              51.698403628198491,
+              35.453490864745049
+            ],
+            [
+              51.698635290467791,
+              35.404010231161863
+            ],
+            [
+              51.748801456112119,
+              35.403625871073416
+            ],
+            [
+              51.748537310740232,
+              35.453251500072099
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 65,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "96",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+96"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 66,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.748801456112119,
+              35.403625871073416
+            ],
+            [
+              51.698635290467791,
+              35.404010231161863
+            ],
+            [
+              51.698870645758234,
+              35.353740806941119
+            ],
+            [
+              51.749069027127973,
+              35.353356658074972
+            ],
+            [
+              51.748801456112119,
+              35.403625871073416
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 66,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "104",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+104"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 67,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.749338389006539,
+              35.302750991359574
+            ],
+            [
+              51.699108374146533,
+              35.302964513905351
+            ],
+            [
+              51.699337579760311,
+              35.254008596220615
+            ],
+            [
+              51.709389825394396,
+              35.253952704123435
+            ],
+            [
+              51.719442097902053,
+              35.253901874542038
+            ],
+            [
+              51.729494394733685,
+              35.253856107489327
+            ],
+            [
+              51.73954671333972,
+              35.253815402976912
+            ],
+            [
+              51.749599051170549,
+              35.253779761015096
+            ],
+            [
+              51.749338389006539,
+              35.302750991359574
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 67,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "120",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+120"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 68,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.749069027127973,
+              35.353356658074972
+            ],
+            [
+              51.698870645758234,
+              35.353740806941119
+            ],
+            [
+              51.699108374146533,
+              35.302964513905351
+            ],
+            [
+              51.749338389006539,
+              35.302750991359574
+            ],
+            [
+              51.749069027127973,
+              35.353356658074972
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 68,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "112",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+112"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 69,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.748011717073496,
+              35.551996051700428
+            ],
+            [
+              51.697941264599535,
+              35.552246885236059
+            ],
+            [
+              51.698166055169168,
+              35.504233974713543
+            ],
+            [
+              51.748267537950881,
+              35.503934365596649
+            ],
+            [
+              51.748011717073496,
+              35.551996051700428
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 69,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "80",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+80"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 70,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.748267537950881,
+              35.503934365596649
+            ],
+            [
+              51.698166055169168,
+              35.504233974713543
+            ],
+            [
+              51.698403628198321,
+              35.453490864745049
+            ],
+            [
+              51.748537310740232,
+              35.453251500072099
+            ],
+            [
+              51.748267537950881,
+              35.503934365596649
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 70,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "88",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+88"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 71,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.747749738203254,
+              35.601214654820694
+            ],
+            [
+              51.697710533993359,
+              35.601528525314905
+            ],
+            [
+              51.697941264599365,
+              35.552246885236059
+            ],
+            [
+              51.748011717073496,
+              35.551996051700428
+            ],
+            [
+              51.747749738203254,
+              35.601214654820694
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 71,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "67",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+67"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 72,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.747485542383743,
+              35.650849761514621
+            ],
+            [
+              51.697478441536987,
+              35.651101042349296
+            ],
+            [
+              51.697710533993359,
+              35.601528525314905
+            ],
+            [
+              51.747749738203083,
+              35.601214654820694
+            ],
+            [
+              51.747485542383743,
+              35.650849761514621
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 72,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "53",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+53"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 73,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.747225326285104,
+              35.699737188455742
+            ],
+            [
+              51.697249258737713,
+              35.700052087070674
+            ],
+            [
+              51.697478441536816,
+              35.651101042349296
+            ],
+            [
+              51.747485542383743,
+              35.650849761514621
+            ],
+            [
+              51.747225326285104,
+              35.699737188455742
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 73,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "38",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+38"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 74,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.799569497145285,
+              35.403236899572562
+            ],
+            [
+              51.849357323650736,
+              35.402855438219717
+            ],
+            [
+              51.849187814350955,
+              35.45277094142034
+            ],
+            [
+              51.799469853435824,
+              35.453008321218874
+            ],
+            [
+              51.799569497145285,
+              35.403236899572562
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 74,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "98",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+98"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 75,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.799469853435824,
+              35.453008321218874
+            ],
+            [
+              51.748537310740232,
+              35.453251500072099
+            ],
+            [
+              51.748801456112119,
+              35.403625871073416
+            ],
+            [
+              51.799569497145285,
+              35.403236899572562
+            ],
+            [
+              51.799469853435824,
+              35.453008321218874
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 75,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "97",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+97"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 76,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.799670133961286,
+              35.352969427306107
+            ],
+            [
+              51.84952802848909,
+              35.352587884054515
+            ],
+            [
+              51.849357323650736,
+              35.402855438219717
+            ],
+            [
+              51.799569497145285,
+              35.403236899572562
+            ],
+            [
+              51.799670133961286,
+              35.352969427306107
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 76,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "106",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+106"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 77,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.799569497145285,
+              35.403236899572562
+            ],
+            [
+              51.748801456112119,
+              35.403625871073416
+            ],
+            [
+              51.749069027127973,
+              35.353356658074972
+            ],
+            [
+              51.799670133961286,
+              35.352969427306107
+            ],
+            [
+              51.799569497145285,
+              35.403236899572562
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 77,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "105",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+105"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 78,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.799868919072878,
+              35.253677483548245
+            ],
+            [
+              51.809867905485667,
+              35.253672235637296
+            ],
+            [
+              51.819866893272774,
+              35.253671996656301
+            ],
+            [
+              51.829865879924995,
+              35.253676766605309
+            ],
+            [
+              51.839864862933155,
+              35.253686545483134
+            ],
+            [
+              51.849863839788043,
+              35.253701333287324
+            ],
+            [
+              51.849698719607204,
+              35.302324370078338
+            ],
+            [
+              51.799771101808176,
+              35.302536607165962
+            ],
+            [
+              51.799868919072878,
+              35.253677483548245
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 78,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "122",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+122"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 79,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.799771101808176,
+              35.302536607165962
+            ],
+            [
+              51.749338389006539,
+              35.302750991359574
+            ],
+            [
+              51.749599051170549,
+              35.253779761015096
+            ],
+            [
+              51.759653001593335,
+              35.253749177160046
+            ],
+            [
+              51.76970696614579,
+              35.253723657480009
+            ],
+            [
+              51.779760942277079,
+              35.253703201981452
+            ],
+            [
+              51.789814927436389,
+              35.253687810669561
+            ],
+            [
+              51.799868919072878,
+              35.253677483548245
+            ],
+            [
+              51.799771101808176,
+              35.302536607165962
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 79,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "121",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+121"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 80,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.799771101808176,
+              35.302536607165962
+            ],
+            [
+              51.849698719607204,
+              35.302324370078338
+            ],
+            [
+              51.84952802848909,
+              35.352587884054515
+            ],
+            [
+              51.799670133961286,
+              35.352969427306107
+            ],
+            [
+              51.799771101808176,
+              35.302536607165962
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 80,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "114",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+114"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 81,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.799670133961286,
+              35.352969427306107
+            ],
+            [
+              51.749069027127973,
+              35.353356658074972
+            ],
+            [
+              51.749338389006539,
+              35.302750991359574
+            ],
+            [
+              51.799771101808176,
+              35.302536607165962
+            ],
+            [
+              51.799670133961286,
+              35.352969427306107
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 81,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "113",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+113"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 82,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.799368509932265,
+              35.503628779489475
+            ],
+            [
+              51.849016113185485,
+              35.503331884592342
+            ],
+            [
+              51.848852568860593,
+              35.551490878167044
+            ],
+            [
+              51.799272191477883,
+              35.55173925661677
+            ],
+            [
+              51.799368509932265,
+              35.503628779489475
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 82,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "82",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+82"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 83,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.799272191477883,
+              35.55173925661677
+            ],
+            [
+              51.748011717073496,
+              35.551996051700428
+            ],
+            [
+              51.748267537950881,
+              35.503934365596649
+            ],
+            [
+              51.799368509932265,
+              35.503628779489475
+            ],
+            [
+              51.799272191477883,
+              35.55173925661677
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 83,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "81",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+81"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 84,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.799469853435596,
+              35.453008321218874
+            ],
+            [
+              51.849187814350955,
+              35.45277094142034
+            ],
+            [
+              51.849016113185485,
+              35.503331884592342
+            ],
+            [
+              51.799368509932265,
+              35.503628779489475
+            ],
+            [
+              51.799469853435596,
+              35.453008321218874
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 84,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "90",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+90"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 85,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.799368509932265,
+              35.503628779489475
+            ],
+            [
+              51.748267537950881,
+              35.503934365596649
+            ],
+            [
+              51.748537310740232,
+              35.453251500072099
+            ],
+            [
+              51.799469853435596,
+              35.453008321218874
+            ],
+            [
+              51.799368509932265,
+              35.503628779489475
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 85,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "89",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+89"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 86,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.799173786182621,
+              35.600892097905273
+            ],
+            [
+              51.747749738203254,
+              35.601214654820694
+            ],
+            [
+              51.748011717073496,
+              35.551996051700428
+            ],
+            [
+              51.799272191477712,
+              35.55173925661677
+            ],
+            [
+              51.799173786182621,
+              35.600892097905273
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 86,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "68",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+68"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 87,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.799074288593943,
+              35.650590533065213
+            ],
+            [
+              51.747485542383743,
+              35.650849761514621
+            ],
+            [
+              51.747749738203083,
+              35.601214654820694
+            ],
+            [
+              51.799173786182621,
+              35.600892097905273
+            ],
+            [
+              51.799074288593943,
+              35.650590533065213
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 87,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "54",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+54"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 88,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.798976548511405,
+              35.699411104612068
+            ],
+            [
+              51.747225326285104,
+              35.699737188455742
+            ],
+            [
+              51.747485542383743,
+              35.650849761514621
+            ],
+            [
+              51.799074288593772,
+              35.650590533065213
+            ],
+            [
+              51.798976548511405,
+              35.699411104612068
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 88,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "39",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+39"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 89,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.848687390841917,
+              35.600581524229881
+            ],
+            [
+              51.799173786182621,
+              35.600892097905273
+            ],
+            [
+              51.799272191477712,
+              35.55173925661677
+            ],
+            [
+              51.848852568860593,
+              35.551490878167044
+            ],
+            [
+              51.848687390841917,
+              35.600581524229881
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 89,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "69",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+69"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 90,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.848519958763404,
+              35.650342073365323
+            ],
+            [
+              51.799074288593943,
+              35.650590533065213
+            ],
+            [
+              51.799173786182621,
+              35.600892097905273
+            ],
+            [
+              51.848687390841917,
+              35.600581524229881
+            ],
+            [
+              51.848519958763404,
+              35.650342073365323
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 90,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "55",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+55"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 91,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.848355900378976,
+              35.699099965895698
+            ],
+            [
+              51.798976548511405,
+              35.699411104612068
+            ],
+            [
+              51.799074288593772,
+              35.650590533065213
+            ],
+            [
+              51.848519958763404,
+              35.650342073365323
+            ],
+            [
+              51.848355900378976,
+              35.699099965895698
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 91,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "40",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+40"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 92,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.899510656606367,
+              35.600262735715887
+            ],
+            [
+              51.848687390841917,
+              35.600581524229881
+            ],
+            [
+              51.848852568860593,
+              35.551490878167044
+            ],
+            [
+              51.900111928329068,
+              35.550945469128578
+            ],
+            [
+              51.899510656606367,
+              35.600262735715887
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 92,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "70",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+70"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 93,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.898903180416994,
+              35.650088902560071
+            ],
+            [
+              51.848519958763404,
+              35.650342073365323
+            ],
+            [
+              51.848687390841917,
+              35.600581524229881
+            ],
+            [
+              51.899510656606367,
+              35.600262735715887
+            ],
+            [
+              51.898903180416994,
+              35.650088902560071
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 93,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "56",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+56"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 94,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.898309479385375,
+              35.69878520898078
+            ],
+            [
+              51.848355900378976,
+              35.699099965895698
+            ],
+            [
+              51.848519958763404,
+              35.650342073365323
+            ],
+            [
+              51.898903180416994,
+              35.650088902560071
+            ],
+            [
+              51.898309479385375,
+              35.69878520898078
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 94,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "41",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+41"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 95,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.948789542771294,
+              35.599953634310282
+            ],
+            [
+              51.899510656606367,
+              35.600262735715887
+            ],
+            [
+              51.900111928329068,
+              35.550945469128578
+            ],
+            [
+              51.949489648188319,
+              35.550420081082621
+            ],
+            [
+              51.948789542771294,
+              35.599953634310282
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 95,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "71",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+71"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 96,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.948084425676598,
+              35.649841771569584
+            ],
+            [
+              51.898903180416994,
+              35.650088902560071
+            ],
+            [
+              51.899510656606367,
+              35.600262735715887
+            ],
+            [
+              51.948789542771294,
+              35.599953634310282
+            ],
+            [
+              51.948084425676598,
+              35.649841771569584
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 96,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "57",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+57"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 97,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.947397032570791,
+              35.698475908884461
+            ],
+            [
+              51.946807813071132,
+              35.698479621549666
+            ],
+            [
+              51.898309479385375,
+              35.69878520898078
+            ],
+            [
+              51.898903180416994,
+              35.650088902560071
+            ],
+            [
+              51.948084425676598,
+              35.649841771569584
+            ],
+            [
+              51.947397032570791,
+              35.698475908884461
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 97,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "42",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+42"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 98,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.998751417471965,
+              35.599640248864659
+            ],
+            [
+              51.948789542771294,
+              35.599953634310282
+            ],
+            [
+              51.949489648188319,
+              35.550420081082621
+            ],
+            [
+              51.999148945104821,
+              35.549891697004796
+            ],
+            [
+              51.998751417471965,
+              35.599640248864659
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 98,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "72",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+72"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 99,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.999148945104821,
+              35.549891697004796
+            ],
+            [
+              52.050119278038721,
+              35.54934936326174
+            ],
+            [
+              52.050119278038721,
+              35.599318044384177
+            ],
+            [
+              51.998751417471965,
+              35.599640248864659
+            ],
+            [
+              51.999148945104821,
+              35.549891697004796
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 99,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "73",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+73"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 100,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.998352288657372,
+              35.649589180430439
+            ],
+            [
+              51.948084425676598,
+              35.649841771569584
+            ],
+            [
+              51.948789542771294,
+              35.599953634310282
+            ],
+            [
+              51.998751417471965,
+              35.599640248864659
+            ],
+            [
+              51.998352288657372,
+              35.649589180430439
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 100,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "58",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+58"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 101,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              51.997964193662824,
+              35.698157285796015
+            ],
+            [
+              51.947397032570791,
+              35.698475908884461
+            ],
+            [
+              51.948084425676598,
+              35.649841771569584
+            ],
+            [
+              51.998352288657372,
+              35.649589180430439
+            ],
+            [
+              51.997964193662824,
+              35.698157285796015
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 101,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "43",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+43"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 102,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              52.050119278038721,
+              35.599318044384177
+            ],
+            [
+              52.098660282557717,
+              35.598961125233416
+            ],
+            [
+              52.098055248671471,
+              35.649088182720106
+            ],
+            [
+              52.049454624243083,
+              35.649332396147372
+            ],
+            [
+              52.050119278038721,
+              35.599318044384177
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 102,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "60",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+60"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 103,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              52.049454624243083,
+              35.649332396147372
+            ],
+            [
+              51.998352288657372,
+              35.649589180430439
+            ],
+            [
+              51.998751417471965,
+              35.599640248864659
+            ],
+            [
+              52.050119278038721,
+              35.599318044384177
+            ],
+            [
+              52.049454624243083,
+              35.649332396147372
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 103,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "59",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+59"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 104,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              52.049454624243083,
+              35.649332396147372
+            ],
+            [
+              52.098055248671471,
+              35.649088182720106
+            ],
+            [
+              52.097470552054801,
+              35.697530297399908
+            ],
+            [
+              52.048810035121278,
+              35.697836906745977
+            ],
+            [
+              52.049454624243083,
+              35.649332396147372
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 104,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "45",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+45"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 105,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              52.048810035121278,
+              35.697836906745977
+            ],
+            [
+              51.997964193662824,
+              35.698157285796015
+            ],
+            [
+              51.998352288657372,
+              35.649589180430439
+            ],
+            [
+              52.049454624243083,
+              35.649332396147372
+            ],
+            [
+              52.048810035121278,
+              35.697836906745977
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 105,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G7624 s10 .G7",
+        "title" : "Lar valley 1/10,000",
+        "year" : "[1947?]",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143332120203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "44",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143332120203941&sublib=MAP&collection=LC&callnum=G7624+s10+G7&title=Lar+valley+1:10,000&description=sheet+44"
+      }
+    }
+  ]
+}
