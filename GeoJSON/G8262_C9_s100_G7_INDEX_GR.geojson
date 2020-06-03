@@ -1,0 +1,1820 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 0,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              20.473917393070337,
+              32.33180329065533
+            ],
+            [
+              19.967423510424965,
+              32.335949240865148
+            ],
+            [
+              19.970577457821889,
+              31.972431368301727
+            ],
+            [
+              20.476450791222931,
+              31.969417654826316
+            ],
+            [
+              20.473917393070337,
+              32.33180329065533
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 0,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8262.C9 s100 .G7",
+        "title" : "Cyrenaica 1:100,000",
+        "year" : "1942",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143629930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "12",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143629930203941&sublib=MAP&collection=LC&callnum=G8262C9+s100+G7&title=Cyrenaica+1:100,000&description=sheet+12"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              21.470753754989232,
+              33.006688100972497
+            ],
+            [
+              20.969951080270619,
+              33.013445558352487
+            ],
+            [
+              20.970028097211525,
+              32.66894448302196
+            ],
+            [
+              21.473637226344067,
+              32.662949136246652
+            ],
+            [
+              21.470753754989232,
+              33.006688100972497
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 1,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8262.C9 s100 .G7",
+        "title" : "Cyrenaica 1:100,000",
+        "year" : "1942",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143629930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "1",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143629930203941&sublib=MAP&collection=LC&callnum=G8262C9+s100+G7&title=Cyrenaica+1:100,000&description=sheet+1"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              19.970577457821832,
+              31.972431368301613
+            ],
+            [
+              19.976786363884003,
+              31.650163118324485
+            ],
+            [
+              20.476473175108367,
+              31.64659392681574
+            ],
+            [
+              20.476450791222874,
+              31.969417654826032
+            ],
+            [
+              19.970577457821832,
+              31.972431368301613
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 2,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8262.C9 s100 .G7",
+        "title" : "Cyrenaica 1:100,000",
+        "year" : "1942",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143629930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "AVIIN",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143629930203941&sublib=MAP&collection=LC&callnum=G8262C9+s100+G7&title=Cyrenaica+1:100,000&description=sheet+AVIIN"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              23.473307587056865,
+              31.634627785529176
+            ],
+            [
+              22.975799529107178,
+              31.634770979943028
+            ],
+            [
+              22.979368720615923,
+              31.288559403594718
+            ],
+            [
+              23.482011591599928,
+              31.285241687677967
+            ],
+            [
+              23.473307587056865,
+              31.634627785529176
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 3,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8262.C9 s100 .G7",
+        "title" : "Cyrenaica 1:100,000",
+        "year" : "1942",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143629930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "37",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143629930203941&sublib=MAP&collection=LC&callnum=G8262C9+s100+G7&title=Cyrenaica+1:100,000&description=sheet+37"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              24.49861258602067,
+              31.647331270660743
+            ],
+            [
+              24.489790506773602,
+              31.977489730274101
+            ],
+            [
+              24.389009550861658,
+              31.976855887783984
+            ],
+            [
+              24.388083994224075,
+              32.03455165934821
+            ],
+            [
+              23.967967891093679,
+              32.035455216627156
+            ],
+            [
+              23.969261678119835,
+              31.974215964056157
+            ],
+            [
+              23.979230193041587,
+              31.640896145002273
+            ],
+            [
+              24.49861258602067,
+              31.647331270660743
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 4,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8262.C9 s100 .G7",
+        "title" : "Cyrenaica 1:100,000",
+        "year" : "1942",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143629930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "29",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143629930203941&sublib=MAP&collection=LC&callnum=G8262C9+s100+G7&title=Cyrenaica+1:100,000&description=sheet+29"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              25.49177144409947,
+              31.659636466479924
+            ],
+            [
+              25.482598877827797,
+              31.983733808079421
+            ],
+            [
+              24.992469173509676,
+              31.980651231322724
+            ],
+            [
+              24.999388432977071,
+              31.653535862009051
+            ],
+            [
+              25.49177144409947,
+              31.659636466479924
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 5,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8262.C9 s100 .G7",
+        "title" : "Cyrenaica 1:100,000",
+        "year" : "1942",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143629930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "30A",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143629930203941&sublib=MAP&collection=LC&callnum=G8262C9+s100+G7&title=Cyrenaica+1:100,000&description=sheet+30A"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              24.999388432977184,
+              31.653535862009164
+            ],
+            [
+              24.992469173509733,
+              31.980651231322781
+            ],
+            [
+              24.862480335515954,
+              31.979833691461238
+            ],
+            [
+              24.862459288998707,
+              32.038859475210813
+            ],
+            [
+              24.589773057730611,
+              32.03671796030568
+            ],
+            [
+              24.589768975061304,
+              31.978118525672073
+            ],
+            [
+              24.489790506773602,
+              31.977489730274101
+            ],
+            [
+              24.49861258602067,
+              31.647331270660914
+            ],
+            [
+              24.999388432977184,
+              31.653535862009164
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 6,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8262.C9 s100 .G7",
+        "title" : "Cyrenaica 1:100,000",
+        "year" : "1942",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143629930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "30",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143629930203941&sublib=MAP&collection=LC&callnum=G8262C9+s100+G7&title=Cyrenaica+1:100,000&description=sheet+30"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              23.98964188203604,
+              31.292757799525248
+            ],
+            [
+              23.979230193041531,
+              31.640896145002159
+            ],
+            [
+              23.473307587056922,
+              31.634627785529233
+            ],
+            [
+              23.482011591600042,
+              31.285241687678024
+            ],
+            [
+              23.98964188203604,
+              31.292757799525248
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 7,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8262.C9 s100 .G7",
+        "title" : "Cyrenaica 1:100,000",
+        "year" : "1942",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143629930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "38",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143629930203941&sublib=MAP&collection=LC&callnum=G8262C9+s100+G7&title=Cyrenaica+1:100,000&description=sheet+38"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              24.507882018795499,
+              31.300431003636618
+            ],
+            [
+              24.498612586020556,
+              31.647331270660629
+            ],
+            [
+              23.979230193041531,
+              31.640896145002159
+            ],
+            [
+              23.98964188203604,
+              31.292757799525248
+            ],
+            [
+              24.507882018795499,
+              31.300431003636618
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 8,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8262.C9 s100 .G7",
+        "title" : "Cyrenaica 1:100,000",
+        "year" : "1942",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143629930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "39",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143629930203941&sublib=MAP&collection=LC&callnum=G8262C9+s100+G7&title=Cyrenaica+1:100,000&description=sheet+39"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              25.006701207350318,
+              31.307816655918032
+            ],
+            [
+              25.013845059679227,
+              30.97008341959571
+            ],
+            [
+              25.511152409897761,
+              30.974842341607371
+            ],
+            [
+              25.501521256475769,
+              31.315143095855774
+            ],
+            [
+              25.006701207350318,
+              31.307816655918032
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 9,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8262.C9 s100 .G7",
+        "title" : "Cyrenaica 1:100,000",
+        "year" : "1942",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143629930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "50A",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143629930203941&sublib=MAP&collection=LC&callnum=G8262C9+s100+G7&title=Cyrenaica+1:100,000&description=sheet+50A"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              25.501521256475769,
+              31.315143095855774
+            ],
+            [
+              25.49177144409947,
+              31.659636466479924
+            ],
+            [
+              24.999388432977071,
+              31.653535862009051
+            ],
+            [
+              25.006701207350318,
+              31.307816655918032
+            ],
+            [
+              25.501521256475769,
+              31.315143095855774
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 10,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8262.C9 s100 .G7",
+        "title" : "Cyrenaica 1:100,000",
+        "year" : "1942",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143629930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "40A",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143629930203941&sublib=MAP&collection=LC&callnum=G8262C9+s100+G7&title=Cyrenaica+1:100,000&description=sheet+40A"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              25.006701207350318,
+              31.307816655918032
+            ],
+            [
+              24.999388432977071,
+              31.653535862009051
+            ],
+            [
+              24.498612586020556,
+              31.6473312706608
+            ],
+            [
+              24.507882018795499,
+              31.300431003636618
+            ],
+            [
+              25.006701207350318,
+              31.307816655918032
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 11,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8262.C9 s100 .G7",
+        "title" : "Cyrenaica 1:100,000",
+        "year" : "1942",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143629930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "40",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143629930203941&sublib=MAP&collection=LC&callnum=G8262C9+s100+G7&title=Cyrenaica+1:100,000&description=sheet+40"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              23.999884151660638,
+              30.950284373467753
+            ],
+            [
+              23.98964188203604,
+              31.292757799525248
+            ],
+            [
+              23.482011591600042,
+              31.285241687678024
+            ],
+            [
+              23.490603880673859,
+              30.940339943167032
+            ],
+            [
+              23.999884151660638,
+              30.950284373467753
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 12,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8262.C9 s100 .G7",
+        "title" : "Cyrenaica 1:100,000",
+        "year" : "1942",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143629930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "48",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143629930203941&sublib=MAP&collection=LC&callnum=G8262C9+s100+G7&title=Cyrenaica+1:100,000&description=sheet+48"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              24.516968402429427,
+              30.960381187705991
+            ],
+            [
+              24.507882018795499,
+              31.300431003636618
+            ],
+            [
+              23.98964188203604,
+              31.292757799525248
+            ],
+            [
+              23.999884151660467,
+              30.950284373467753
+            ],
+            [
+              24.516968402429427,
+              30.960381187705991
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 13,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8262.C9 s100 .G7",
+        "title" : "Cyrenaica 1:100,000",
+        "year" : "1942",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143629930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "49",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143629930203941&sublib=MAP&collection=LC&callnum=G8262C9+s100+G7&title=Cyrenaica+1:100,000&description=sheet+49"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              24.516968402429427,
+              30.960381187705991
+            ],
+            [
+              24.526055553484014,
+              30.620302651738655
+            ],
+            [
+              25.013845059679227,
+              30.634579417773637
+            ],
+            [
+              25.013845059679227,
+              30.97008341959571
+            ],
+            [
+              24.516968402429427,
+              30.960381187705991
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 14,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8262.C9 s100 .G7",
+        "title" : "Cyrenaica 1:100,000",
+        "year" : "1942",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143629930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "60",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143629930203941&sublib=MAP&collection=LC&callnum=G8262C9+s100+G7&title=Cyrenaica+1:100,000&description=sheet+60"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              25.013845059679227,
+              30.97008341959571
+            ],
+            [
+              25.006701207350318,
+              31.307816655918032
+            ],
+            [
+              24.507882018795499,
+              31.300431003636618
+            ],
+            [
+              24.516968402429427,
+              30.960381187705991
+            ],
+            [
+              25.013845059679227,
+              30.97008341959571
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 15,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8262.C9 s100 .G7",
+        "title" : "Cyrenaica 1:100,000",
+        "year" : "1942",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143629930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "50",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143629930203941&sublib=MAP&collection=LC&callnum=G8262C9+s100+G7&title=Cyrenaica+1:100,000&description=sheet+50"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              23.499275261075297,
+              30.592263405924541
+            ],
+            [
+              23.507646242988642,
+              30.256245117846618
+            ],
+            [
+              24.020108459550158,
+              30.274038944810627
+            ],
+            [
+              24.010174150963394,
+              30.606214997775055
+            ],
+            [
+              23.499275261075297,
+              30.592263405924541
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 16,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8262.C9 s100 .G7",
+        "title" : "Cyrenaica 1:100,000",
+        "year" : "1942",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143629930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "70",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143629930203941&sublib=MAP&collection=LC&callnum=G8262C9+s100+G7&title=Cyrenaica+1:100,000&description=sheet+70"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              24.010174150963394,
+              30.606214997775055
+            ],
+            [
+              23.999884151660638,
+              30.950284373467753
+            ],
+            [
+              23.490603880673859,
+              30.940339943167032
+            ],
+            [
+              23.499275261075297,
+              30.592263405924541
+            ],
+            [
+              24.010174150963394,
+              30.606214997775055
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 17,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8262.C9 s100 .G7",
+        "title" : "Cyrenaica 1:100,000",
+        "year" : "1942",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143629930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "58",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143629930203941&sublib=MAP&collection=LC&callnum=G8262C9+s100+G7&title=Cyrenaica+1:100,000&description=sheet+58"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              24.010174150963394,
+              30.606214997775055
+            ],
+            [
+              24.020108459550158,
+              30.274038944810627
+            ],
+            [
+              24.535573397507335,
+              30.291937032934072
+            ],
+            [
+              24.526055553484014,
+              30.620302651738655
+            ],
+            [
+              24.010174150963394,
+              30.606214997775055
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 18,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8262.C9 s100 .G7",
+        "title" : "Cyrenaica 1:100,000",
+        "year" : "1942",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143629930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "71",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143629930203941&sublib=MAP&collection=LC&callnum=G8262C9+s100+G7&title=Cyrenaica+1:100,000&description=sheet+71"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 19,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              24.526055553484014,
+              30.620302651738655
+            ],
+            [
+              24.516968402429427,
+              30.960381187705991
+            ],
+            [
+              23.999884151660467,
+              30.950284373467753
+            ],
+            [
+              24.010174150963394,
+              30.606214997775055
+            ],
+            [
+              24.526055553484014,
+              30.620302651738655
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 19,
+        "Id" : 0,
+        "available" : false,
+        "recordIdentifier" : "G8262.C9 s100 .G7",
+        "title" : "Cyrenaica 1:100,000",
+        "year" : "1942",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143629930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "59",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 20,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              23.465410810135154,
+              31.951611084500712
+            ],
+            [
+              23.473307587056922,
+              31.634627785529233
+            ],
+            [
+              23.979230193041531,
+              31.640896145002159
+            ],
+            [
+              23.969861634574215,
+              31.954155064474037
+            ],
+            [
+              23.465410810135154,
+              31.951611084500712
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 20,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8262.C9 s100 .G7",
+        "title" : "Cyrenaica 1:100,000",
+        "year" : "1942",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143629930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "28",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143629930203941&sublib=MAP&collection=LC&callnum=G8262C9+s100+G7&title=Cyrenaica+1:100,000&description=sheet+28"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 21,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              23.465410810135268,
+              31.951611084500769
+            ],
+            [
+              23.969861634574272,
+              31.954155064474151
+            ],
+            [
+              23.969261678119835,
+              31.974215964056157
+            ],
+            [
+              23.967967891093679,
+              32.035455216627156
+            ],
+            [
+              24.034977708371628,
+              32.035311096447742
+            ],
+            [
+              24.034971980958801,
+              32.144006865616404
+            ],
+            [
+              23.965675314090049,
+              32.143970528131206
+            ],
+            [
+              23.962123295102344,
+              32.31209942688406
+            ],
+            [
+              23.46243648387798,
+              32.3073405048724
+            ],
+            [
+              23.465410810135268,
+              31.951611084500769
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 21,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8262.C9 s100 .G7",
+        "title" : "Cyrenaica 1:100,000",
+        "year" : "1942",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143629930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "19",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143629930203941&sublib=MAP&collection=LC&callnum=G8262C9+s100+G7&title=Cyrenaica+1:100,000&description=sheet+19"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 22,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              22.46995959830906,
+              32.651088155628031
+            ],
+            [
+              22.953905818181283,
+              32.64532689110564
+            ],
+            [
+              22.953826693881638,
+              32.986676622036896
+            ],
+            [
+              22.464118265159755,
+              32.993284381944648
+            ],
+            [
+              22.46995959830906,
+              32.651088155628031
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 22,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8262.C9 s100 .G7",
+        "title" : "Cyrenaica 1:100,000",
+        "year" : "1942",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143629930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "4",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143629930203941&sublib=MAP&collection=LC&callnum=G8262C9+s100+G7&title=Cyrenaica+1:100,000&description=sheet+4"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 23,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              21.977210433419771,
+              32.656954217114901
+            ],
+            [
+              22.46995959830906,
+              32.651088155628031
+            ],
+            [
+              22.464118265159755,
+              32.993284381944648
+            ],
+            [
+              21.973323390679468,
+              32.999906801540476
+            ],
+            [
+              21.977210433419771,
+              32.656954217114901
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 23,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8262.C9 s100 .G7",
+        "title" : "Cyrenaica 1:100,000",
+        "year" : "1942",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143629930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "3",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143629930203941&sublib=MAP&collection=LC&callnum=G8262C9+s100+G7&title=Cyrenaica+1:100,000&description=sheet+3"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 24,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              21.473637226344067,
+              32.662949136246652
+            ],
+            [
+              21.977210433419771,
+              32.656954217114901
+            ],
+            [
+              21.973323390679468,
+              32.999906801540476
+            ],
+            [
+              21.470753754989232,
+              33.006688100972497
+            ],
+            [
+              21.473637226344067,
+              32.662949136246652
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 24,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8262.C9 s100 .G7",
+        "title" : "Cyrenaica 1:100,000",
+        "year" : "1942",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143629930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "2",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143629930203941&sublib=MAP&collection=LC&callnum=G8262C9+s100+G7&title=Cyrenaica+1:100,000&description=sheet+2"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 25,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              23.462436483877866,
+              32.307340504872343
+            ],
+            [
+              23.462238195460714,
+              32.639275315185671
+            ],
+            [
+              22.953905818181283,
+              32.64532689110564
+            ],
+            [
+              22.95863710584905,
+              32.311464398977819
+            ],
+            [
+              23.462436483877866,
+              32.307340504872343
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 25,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8262.C9 s100 .G7",
+        "title" : "Cyrenaica 1:100,000",
+        "year" : "1942",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143629930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "11",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143629930203941&sublib=MAP&collection=LC&callnum=G8262C9+s100+G7&title=Cyrenaica+1:100,000&description=sheet+11"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 26,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              23.462436483877866,
+              32.307340504872343
+            ],
+            [
+              22.95863710584905,
+              32.311464398977819
+            ],
+            [
+              22.963694361488763,
+              31.954600033556574
+            ],
+            [
+              23.465410810135154,
+              31.951611084500712
+            ],
+            [
+              23.462436483877866,
+              32.307340504872343
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 26,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8262.C9 s100 .G7",
+        "title" : "Cyrenaica 1:100,000",
+        "year" : "1942",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143629930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "18",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143629930203941&sublib=MAP&collection=LC&callnum=G8262C9+s100+G7&title=Cyrenaica+1:100,000&description=sheet+18"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 27,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              22.95863710584905,
+              32.311464398977648
+            ],
+            [
+              22.953905818181283,
+              32.64532689110564
+            ],
+            [
+              22.46995959830906,
+              32.651088155628031
+            ],
+            [
+              22.475689537279266,
+              32.315417608763312
+            ],
+            [
+              22.95863710584905,
+              32.311464398977648
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 27,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8262.C9 s100 .G7",
+        "title" : "Cyrenaica 1:100,000",
+        "year" : "1942",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143629930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "10",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143629930203941&sublib=MAP&collection=LC&callnum=G8262C9+s100+G7&title=Cyrenaica+1:100,000&description=sheet+10"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 28,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              22.475689537279266,
+              32.315417608763482
+            ],
+            [
+              22.46995959830906,
+              32.651088155628031
+            ],
+            [
+              21.977210433419771,
+              32.656954217114901
+            ],
+            [
+              21.981035535448655,
+              32.31946664258777
+            ],
+            [
+              22.475689537279266,
+              32.315417608763482
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 28,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8262.C9 s100 .G7",
+        "title" : "Cyrenaica 1:100,000",
+        "year" : "1942",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143629930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "9",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143629930203941&sublib=MAP&collection=LC&callnum=G8262C9+s100+G7&title=Cyrenaica+1:100,000&description=sheet+9"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 29,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              22.475689537279266,
+              32.315417608763482
+            ],
+            [
+              21.981035535448655,
+              32.31946664258777
+            ],
+            [
+              21.985104876567334,
+              31.960429928360497
+            ],
+            [
+              22.481799733251592,
+              31.957470895171696
+            ],
+            [
+              22.475689537279266,
+              32.315417608763482
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 29,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8262.C9 s100 .G7",
+        "title" : "Cyrenaica 1:100,000",
+        "year" : "1942",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143629930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "16",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143629930203941&sublib=MAP&collection=LC&callnum=G8262C9+s100+G7&title=Cyrenaica+1:100,000&description=sheet+16"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 30,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              21.981035535448655,
+              32.31946664258777
+            ],
+            [
+              21.977210433419771,
+              32.656954217114901
+            ],
+            [
+              21.473637226344067,
+              32.662949136246652
+            ],
+            [
+              21.476483901134714,
+              32.323596694353057
+            ],
+            [
+              21.981035535448655,
+              32.31946664258777
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 30,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8262.C9 s100 .G7",
+        "title" : "Cyrenaica 1:100,000",
+        "year" : "1942",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143629930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "8",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143629930203941&sublib=MAP&collection=LC&callnum=G8262C9+s100+G7&title=Cyrenaica+1:100,000&description=sheet+8"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 31,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              21.981035535448655,
+              32.31946664258777
+            ],
+            [
+              21.476483901134714,
+              32.323596694353057
+            ],
+            [
+              21.479505076548719,
+              31.96344201227555
+            ],
+            [
+              21.985104876567334,
+              31.960429928360497
+            ],
+            [
+              21.981035535448655,
+              32.31946664258777
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 31,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8262.C9 s100 .G7",
+        "title" : "Cyrenaica 1:100,000",
+        "year" : "1942",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143629930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "15",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143629930203941&sublib=MAP&collection=LC&callnum=G8262C9+s100+G7&title=Cyrenaica+1:100,000&description=sheet+15"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 32,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              21.476483901134714,
+              32.323596694353057
+            ],
+            [
+              21.473637226344067,
+              32.662949136246652
+            ],
+            [
+              20.970028097211525,
+              32.66894448302213
+            ],
+            [
+              20.973321602111298,
+              32.327715373592184
+            ],
+            [
+              21.476483901134714,
+              32.323596694353057
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 32,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8262.C9 s100 .G7",
+        "title" : "Cyrenaica 1:100,000",
+        "year" : "1942",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143629930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "7",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143629930203941&sublib=MAP&collection=LC&callnum=G8262C9+s100+G7&title=Cyrenaica+1:100,000&description=sheet+7"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 33,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              20.973321602111355,
+              32.327715373592241
+            ],
+            [
+              20.970028097211639,
+              32.668944483022244
+            ],
+            [
+              20.970012047214368,
+              32.740737015997297
+            ],
+            [
+              20.822491420249776,
+              32.740738506800483
+            ],
+            [
+              20.822473456631485,
+              32.670701085886094
+            ],
+            [
+              20.471518987685727,
+              32.674879115278429
+            ],
+            [
+              20.473917393070451,
+              32.331803290655444
+            ],
+            [
+              20.973321602111355,
+              32.327715373592241
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 33,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8262.C9 s100 .G7",
+        "title" : "Cyrenaica 1:100,000",
+        "year" : "1942",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143629930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "6",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143629930203941&sublib=MAP&collection=LC&callnum=G8262C9+s100+G7&title=Cyrenaica+1:100,000&description=sheet+6"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 34,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              20.973321602111298,
+              32.327715373592184
+            ],
+            [
+              20.473917393070337,
+              32.33180329065533
+            ],
+            [
+              20.476450791222931,
+              31.969417654826316
+            ],
+            [
+              20.976808622182205,
+              31.966436799663256
+            ],
+            [
+              20.973321602111298,
+              32.327715373592184
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 34,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8262.C9 s100 .G7",
+        "title" : "Cyrenaica 1:100,000",
+        "year" : "1942",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143629930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "13",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143629930203941&sublib=MAP&collection=LC&callnum=G8262C9+s100+G7&title=Cyrenaica+1:100,000&description=sheet+13"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 35,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              20.473917393070337,
+              32.33180329065533
+            ],
+            [
+              20.47151898768567,
+              32.674879115278316
+            ],
+            [
+              19.964430516890161,
+              32.680915882787701
+            ],
+            [
+              19.967423510424965,
+              32.335949240865148
+            ],
+            [
+              20.473917393070337,
+              32.33180329065533
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 35,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8262.C9 s100 .G7",
+        "title" : "Cyrenaica 1:100,000",
+        "year" : "1942",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143629930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "5",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143629930203941&sublib=MAP&collection=LC&callnum=G8262C9+s100+G7&title=Cyrenaica+1:100,000&description=sheet+5"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 36,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              22.963694361488876,
+              31.954600033556687
+            ],
+            [
+              22.975799529107178,
+              31.634770979943028
+            ],
+            [
+              23.473307587056865,
+              31.634627785529176
+            ],
+            [
+              23.465410810135268,
+              31.951611084500769
+            ],
+            [
+              22.963694361488876,
+              31.954600033556687
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 36,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8262.C9 s100 .G7",
+        "title" : "Cyrenaica 1:100,000",
+        "year" : "1941",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143629930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "27",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143629930203941&sublib=MAP&collection=LC&callnum=G8262C9+s100+G7&title=Cyrenaica+1:100,000&description=sheet+27"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 37,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              22.481799733251648,
+              31.957470895171809
+            ],
+            [
+              22.48510996069939,
+              31.63561880004761
+            ],
+            [
+              22.975799529107178,
+              31.634770979943028
+            ],
+            [
+              22.963694361488876,
+              31.954600033556687
+            ],
+            [
+              22.481799733251648,
+              31.957470895171809
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 37,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8262.C9 s100 .G7",
+        "title" : "Cyrenaica 1:100,000",
+        "year" : "1941",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143629930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "26",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143629930203941&sublib=MAP&collection=LC&callnum=G8262C9+s100+G7&title=Cyrenaica+1:100,000&description=sheet+26"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 38,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              22.48510996069939,
+              31.63561880004761
+            ],
+            [
+              22.484768904621774,
+              31.287444168369632
+            ],
+            [
+              22.979368720615923,
+              31.288559403594718
+            ],
+            [
+              22.975799529107178,
+              31.634770979943028
+            ],
+            [
+              22.48510996069939,
+              31.63561880004761
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 38,
+        "Id" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8262.C9 s100 .G7",
+        "title" : "Cyrenaica 1:100,000",
+        "year" : "1941",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143629930203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "36",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143629930203941&sublib=MAP&collection=LC&callnum=G8262C9+s100+G7&title=Cyrenaica+1:100,000&description=sheet+36"
+      }
+    }
+  ]
+}
