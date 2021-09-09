@@ -1,0 +1,1985 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 0,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              31.509612094256774,
+              30.60099547688435
+            ],
+            [
+              31.510547332518797,
+              30.012168570108809
+            ],
+            [
+              32.012630928250559,
+              30.008394295681171
+            ],
+            [
+              32.008521133647974,
+              30.408233774165375
+            ],
+            [
+              32.006653857885297,
+              30.59698881118139
+            ],
+            [
+              31.509612094256774,
+              30.60099547688435
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 0,
+        "available" : true,
+        "recordIdentifier" : "G8300 s100.G7",
+        "title" : "Egypt 1/100000",
+        "year" : "1914",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143635770203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665546?buttons=y",
+        "label" : "C16",
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665546?width=200",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143635770203941&sublib=MAP&collection=LC&callnum=G8300+s100+G7&description=sheet+C16"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              31.005699041993907,
+              30.60311159438432
+            ],
+            [
+              31.001793564370061,
+              30.014031488370176
+            ],
+            [
+              31.510547332518797,
+              30.012168570108809
+            ],
+            [
+              31.509612094256774,
+              30.60099547688435
+            ],
+            [
+              31.005699041993907,
+              30.60311159438432
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 1,
+        "available" : true,
+        "recordIdentifier" : "G8300 s100.G7",
+        "title" : "Egypt 1/100000",
+        "year" : "1914",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143635770203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665544?buttons=y",
+        "label" : "C15",
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665544?width=200",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143635770203941&sublib=MAP&collection=LC&callnum=G8300+s100+G7&description=sheet+C15"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              31.005699041993907,
+              30.60311159438432
+            ],
+            [
+              31.01014443223232,
+              31.200840952891834
+            ],
+            [
+              30.513954680435567,
+              31.202635277755974
+            ],
+            [
+              30.50641267497986,
+              30.603276812375782
+            ],
+            [
+              31.005699041993907,
+              30.60311159438432
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 2,
+        "available" : true,
+        "recordIdentifier" : "G8300 s100.G7",
+        "title" : "Egypt 1/100000",
+        "year" : "1914",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143635770203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665532?buttons=y",
+        "label" : "C9",
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665532?width=200",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143635770203941&sublib=MAP&collection=LC&callnum=G8300+s100+G7&description=sheet+C9"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              30.50641267497986,
+              30.603276812375782
+            ],
+            [
+              30.513954680435567,
+              31.202635277755974
+            ],
+            [
+              30.00016128087244,
+              31.202471395503558
+            ],
+            [
+              29.997931068901472,
+              30.706809849344921
+            ],
+            [
+              29.997488758065902,
+              30.601467497125046
+            ],
+            [
+              30.50641267497986,
+              30.603276812375782
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 3,
+        "available" : true,
+        "recordIdentifier" : "G8300 s100.G7",
+        "title" : "Egypt 1/100000",
+        "year" : "1914",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143635770203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665530?buttons=y",
+        "label" : "C8",
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665530?width=200",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143635770203941&sublib=MAP&collection=LC&callnum=G8300+s100+G7&description=sheet+C8"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              29.507246798252737,
+              30.706012504083152
+            ],
+            [
+              29.511483548712501,
+              31.19228852422399
+            ],
+            [
+              29.002616466082085,
+              31.192259539359664
+            ],
+            [
+              29.000795788534393,
+              30.587388481077898
+            ],
+            [
+              29.50331152723238,
+              30.589517842076653
+            ],
+            [
+              29.507246798252737,
+              30.706012504083152
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 4,
+        "available" : false,
+        "recordIdentifier" : "G8300 s100.G7",
+        "title" : "Egypt 1/100000",
+        "year" : "1914",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143635770203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "C6",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              29.997931068901472,
+              30.706809849344921
+            ],
+            [
+              30.000674575115376,
+              31.30934470096118
+            ],
+            [
+              29.51244220887688,
+              31.298884245433875
+            ],
+            [
+              29.511483548712501,
+              31.19228852422399
+            ],
+            [
+              29.507246798252737,
+              30.706012504083152
+            ],
+            [
+              29.997931068901472,
+              30.706809849344921
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 5,
+        "available" : true,
+        "recordIdentifier" : "G8300 s100.G7",
+        "title" : "Egypt 1/100000",
+        "year" : "1914",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143635770203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665528?buttons=y",
+        "label" : "C7",
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665528?width=200",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143635770203941&sublib=MAP&collection=LC&callnum=G8300+s100+G7&description=sheet+C7"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              31.4909155718222,
+              28.808356117281303
+            ],
+            [
+              31.500333272940573,
+              29.40458764893371
+            ],
+            [
+              31.125504957603017,
+              29.400158298530386
+            ],
+            [
+              31.003046866962745,
+              29.39848133718019
+            ],
+            [
+              31.003254457352259,
+              29.31360638395353
+            ],
+            [
+              31.003766687414934,
+              29.117309334649963
+            ],
+            [
+              31.004673355983069,
+              28.805135347455618
+            ],
+            [
+              31.4909155718222,
+              28.808356117281303
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 6,
+        "available" : true,
+        "recordIdentifier" : "G8300 s100.G7",
+        "title" : "Egypt 1/100000",
+        "year" : "1914",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143635770203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665560?buttons=y",
+        "label" : "C36",
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665560?width=200",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143635770203941&sublib=MAP&collection=LC&callnum=G8300+s100+G7&description=sheet+C36"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              31.004114903813974,
+              28.619622027575584
+            ],
+            [
+              31.004673355983069,
+              28.805135347455618
+            ],
+            [
+              31.003766687414934,
+              29.117309334649963
+            ],
+            [
+              30.993926084671724,
+              29.1173629665128
+            ],
+            [
+              30.502643976999089,
+              29.119119688181819
+            ],
+            [
+              30.50022094368207,
+              28.616445657124665
+            ],
+            [
+              31.004114903813974,
+              28.619622027575584
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 7,
+        "available" : true,
+        "recordIdentifier" : "G8300 s100.G7",
+        "title" : "Egypt 1/100000",
+        "year" : "1914",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143635770203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665562?buttons=y",
+        "label" : "C37",
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665562?width=200",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143635770203941&sublib=MAP&collection=LC&callnum=G8300+s100+G7&description=sheet+C37"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              31.003047234694183,
+              28.214605759018177
+            ],
+            [
+              31.004114903813974,
+              28.619622027575584
+            ],
+            [
+              30.50022094368207,
+              28.616445657124665
+            ],
+            [
+              30.498472954339316,
+              28.209748705770409
+            ],
+            [
+              31.003047234694183,
+              28.214605759018177
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 8,
+        "available" : true,
+        "recordIdentifier" : "G8300 s100.G7",
+        "title" : "Egypt 1/100000",
+        "year" : "1914",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143635770203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665490?buttons=y",
+        "label" : "10N",
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665490?width=200",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143635770203941&sublib=MAP&collection=LC&callnum=G8300+s100+G7&description=sheet+10N"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              31.002177391571596,
+              27.804984949061161
+            ],
+            [
+              31.003047234694183,
+              28.214605759018177
+            ],
+            [
+              30.498472954339316,
+              28.209748705770409
+            ],
+            [
+              30.496924955110625,
+              27.806356410438823
+            ],
+            [
+              31.002177391571596,
+              27.804984949061161
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 9,
+        "available" : true,
+        "recordIdentifier" : "G8300 s100.G7",
+        "title" : "Egypt 1/100000",
+        "year" : "1914",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143635770203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665492?buttons=y",
+        "label" : "11N",
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665492?width=200",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143635770203941&sublib=MAP&collection=LC&callnum=G8300+s100+G7&description=sheet+11N"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              31.001533652847726,
+              27.407606166004761
+            ],
+            [
+              31.002177391571596,
+              27.804984949061161
+            ],
+            [
+              30.496924955110625,
+              27.806356410438823
+            ],
+            [
+              30.49557404273391,
+              27.407306907261272
+            ],
+            [
+              30.750393602750453,
+              27.407687858736409
+            ],
+            [
+              31.001533652847726,
+              27.407606166004761
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 10,
+        "available" : true,
+        "recordIdentifier" : "G8300 s100.G7",
+        "title" : "Egypt 1/100000",
+        "year" : "1914",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143635770203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665494?buttons=y",
+        "label" : "12N",
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665494?width=200",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143635770203941&sublib=MAP&collection=LC&callnum=G8300+s100+G7&description=sheet+12N"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              31.50500280608539,
+              27.007383459188116
+            ],
+            [
+              31.505824587558955,
+              27.413837767879127
+            ],
+            [
+              31.001533652847726,
+              27.407606166004761
+            ],
+            [
+              30.750393602750453,
+              27.407687858736409
+            ],
+            [
+              30.75409699525191,
+              27.004698442244788
+            ],
+            [
+              31.241055666494319,
+              27.00689806170265
+            ],
+            [
+              31.50500280608539,
+              27.007383459188116
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 11,
+        "available" : true,
+        "recordIdentifier" : "G8300 s100.G7",
+        "title" : "Egypt 1/100000",
+        "year" : "1914",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143635770203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665496?buttons=y",
+        "label" : "13N-O",
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665496?width=200",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143635770203941&sublib=MAP&collection=LC&callnum=G8300+s100+G7&description=sheet+13N-O"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              31.927812111730098,
+              26.613120274473118
+            ],
+            [
+              31.927802975966539,
+              27.01019284627947
+            ],
+            [
+              31.50500280608539,
+              27.007383459188116
+            ],
+            [
+              31.241055666494319,
+              27.00689806170265
+            ],
+            [
+              31.237906197675727,
+              26.601383690257236
+            ],
+            [
+              31.506574433032501,
+              26.606355282976743
+            ],
+            [
+              31.927812111730098,
+              26.613120274473118
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 12,
+        "available" : true,
+        "recordIdentifier" : "G8300 s100.G7",
+        "title" : "Egypt 1/100000",
+        "year" : "1914",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143635770203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665498?buttons=y",
+        "label" : "14P-O",
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665498?width=200",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143635770203941&sublib=MAP&collection=LC&callnum=G8300+s100+G7&description=sheet+14P-O"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              32.513814762741767,
+              26.250061175990197
+            ],
+            [
+              32.515153528080269,
+              26.390771076859757
+            ],
+            [
+              32.012752434528615,
+              26.390713752958099
+            ],
+            [
+              32.011633945426802,
+              26.007660181174842
+            ],
+            [
+              32.012159968943074,
+              25.979832774099574
+            ],
+            [
+              32.501055413461877,
+              25.984711196671
+            ],
+            [
+              32.511389669389118,
+              25.984796325416255
+            ],
+            [
+              32.513814762741767,
+              26.250061175990197
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 13,
+        "available" : true,
+        "recordIdentifier" : "G8300 s100.G7",
+        "title" : "Egypt 1/100000",
+        "year" : "1914",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143635770203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665502?buttons=y",
+        "label" : "15-16Q",
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665502?width=200",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143635770203941&sublib=MAP&collection=LC&callnum=G8300+s100+G7&description=sheet+15-16Q"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              32.012752434528615,
+              26.390713752958099
+            ],
+            [
+              32.01348614807069,
+              26.607030215421183
+            ],
+            [
+              31.927812111730098,
+              26.613120274473118
+            ],
+            [
+              31.506574433032501,
+              26.606355282976743
+            ],
+            [
+              31.51220262062478,
+              26.005601130696643
+            ],
+            [
+              32.011633945426802,
+              26.007660181174842
+            ],
+            [
+              32.012752434528615,
+              26.390713752958099
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 14,
+        "available" : true,
+        "recordIdentifier" : "G8300 s100.G7",
+        "title" : "Egypt 1/100000",
+        "year" : "1914",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143635770203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665500?buttons=y",
+        "label" : "15-16P",
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665500?width=200",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143635770203941&sublib=MAP&collection=LC&callnum=G8300+s100+G7&description=sheet+15-16P"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              31.125504957603017,
+              29.400158298530386
+            ],
+            [
+              31.500333272940573,
+              29.40458764893371
+            ],
+            [
+              31.510547332518797,
+              30.012168570108809
+            ],
+            [
+              31.001793564370061,
+              30.014031488370176
+            ],
+            [
+              31.002564765767467,
+              29.610628564358002
+            ],
+            [
+              31.002568935766977,
+              29.608688660842006
+            ],
+            [
+              31.003046866962745,
+              29.39848133718019
+            ],
+            [
+              31.125504957603017,
+              29.400158298530386
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 15,
+        "available" : true,
+        "recordIdentifier" : "G8300 s100.G7",
+        "title" : "Egypt 1/100000",
+        "year" : "1914",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143635770203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665556?buttons=y",
+        "label" : "C34",
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665556?width=200",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143635770203941&sublib=MAP&collection=LC&callnum=G8300+s100+G7&description=sheet+C34"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              30.993926084671724,
+              29.1173629665128
+            ],
+            [
+              31.003254457352259,
+              29.31360638395353
+            ],
+            [
+              31.122299583268898,
+              29.314589841899572
+            ],
+            [
+              31.125504957603017,
+              29.400158298530386
+            ],
+            [
+              31.133393839620272,
+              29.609113373452029
+            ],
+            [
+              31.002564765767467,
+              29.610628564358002
+            ],
+            [
+              30.248961328121645,
+              29.61683867596955
+            ],
+            [
+              30.24396378591009,
+              29.111909167105669
+            ],
+            [
+              30.502643976999089,
+              29.119119688181819
+            ],
+            [
+              30.993073136529514,
+              29.099332158923833
+            ],
+            [
+              30.993926084671724,
+              29.1173629665128
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 16,
+        "available" : true,
+        "recordIdentifier" : "G8300 s100.G7",
+        "title" : "Egypt 1/100000",
+        "year" : "1914",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143635770203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "SS1",
+        "thumbnailUrl" : " ",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143635770203941&sublib=MAP&collection=LC&callnum=G8300+s100+G7&description=sheet+SS1"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              32.504023109587514,
+              31.190021967145803
+            ],
+            [
+              32.504826220545198,
+              31.58259367905621
+            ],
+            [
+              32.003404566262432,
+              31.583317654684897
+            ],
+            [
+              32.001079343191954,
+              31.191512482407195
+            ],
+            [
+              32.002833031123352,
+              30.999028443832401
+            ],
+            [
+              32.503724566918585,
+              30.996849568138259
+            ],
+            [
+              32.504023109587514,
+              31.190021967145803
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 17,
+        "available" : true,
+        "recordIdentifier" : "G8300 s100.G7",
+        "title" : "Egypt 1/100000",
+        "year" : "1914",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143635770203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665526?buttons=y",
+        "label" : "C5",
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665526?width=200",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143635770203941&sublib=MAP&collection=LC&callnum=G8300+s100+G7&description=sheet+C5"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              32.503202511099616,
+              30.402959957994113
+            ],
+            [
+              32.503204523771899,
+              30.408209538741133
+            ],
+            [
+              32.503302931989992,
+              30.590234374635319
+            ],
+            [
+              32.503724566918585,
+              30.996849568138259
+            ],
+            [
+              32.002833031123352,
+              30.999028443832401
+            ],
+            [
+              32.008521133647974,
+              30.408233774165375
+            ],
+            [
+              32.503202511099616,
+              30.402959957994113
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 18,
+        "available" : true,
+        "recordIdentifier" : "G8300 s100.G7",
+        "title" : "Egypt 1/100000",
+        "year" : "1914",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143635770203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665538?buttons=y",
+        "label" : "C12",
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665538?width=200",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143635770203941&sublib=MAP&collection=LC&callnum=G8300+s100+G7&description=sheet+C12"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 19,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              32.994887125783194,
+              30.579083973108787
+            ],
+            [
+              32.993887958687154,
+              31.180338146266738
+            ],
+            [
+              32.504023109587514,
+              31.190021967145803
+            ],
+            [
+              32.503724566918585,
+              30.996849568138259
+            ],
+            [
+              32.503302931989992,
+              30.590234374635319
+            ],
+            [
+              32.994887125783194,
+              30.579083973108787
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 19,
+        "available" : true,
+        "recordIdentifier" : "G8300 s100.G7",
+        "title" : "Egypt 1/100000",
+        "year" : "1914",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143635770203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665550?buttons=y",
+        "label" : "C18",
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665550?width=200",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143635770203941&sublib=MAP&collection=LC&callnum=G8300+s100+G7&description=sheet+C18"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 20,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              32.626795762804733,
+              29.999466223861909
+            ],
+            [
+              32.99645252763716,
+              30.000912515585938
+            ],
+            [
+              32.994887125783194,
+              30.579083973108787
+            ],
+            [
+              32.503302931989992,
+              30.590234374635319
+            ],
+            [
+              32.503204523771899,
+              30.408209538741133
+            ],
+            [
+              32.503202511099616,
+              30.402959957994113
+            ],
+            [
+              32.50076179061562,
+              29.998733839654889
+            ],
+            [
+              32.626795762804733,
+              29.999466223861909
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 20,
+        "available" : true,
+        "recordIdentifier" : "G8300 s100.G7",
+        "title" : "Egypt 1/100000",
+        "year" : "1914",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143635770203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665552?buttons=y",
+        "label" : "C19",
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665552?width=200",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143635770203941&sublib=MAP&collection=LC&callnum=G8300+s100+G7&description=sheet+C19"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 21,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              32.998730358701906,
+              29.393066076832266
+            ],
+            [
+              32.99645252763716,
+              30.000912515585938
+            ],
+            [
+              32.626795762804733,
+              29.999466223861909
+            ],
+            [
+              32.50076179061562,
+              29.998733839654889
+            ],
+            [
+              32.499685875051206,
+              29.803192693819014
+            ],
+            [
+              32.499664734571311,
+              29.799222563238704
+            ],
+            [
+              32.497671481800168,
+              29.397860911785898
+            ],
+            [
+              32.998730358701906,
+              29.393066076832266
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 21,
+        "available" : true,
+        "recordIdentifier" : "G8300 s100.G7",
+        "title" : "Egypt 1/100000",
+        "year" : "1914",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143635770203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665554?buttons=y",
+        "label" : "C20",
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665554?width=200",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143635770203941&sublib=MAP&collection=LC&callnum=G8300+s100+G7&description=sheet+C20"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 22,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              32.499664734571311,
+              29.799222563238704
+            ],
+            [
+              32.624584232847447,
+              29.797843320554186
+            ],
+            [
+              32.626795762804733,
+              29.999466223861909
+            ],
+            [
+              32.631516969648622,
+              30.407895207648284
+            ],
+            [
+              32.503204523771899,
+              30.408209538741133
+            ],
+            [
+              32.008521133647974,
+              30.408233774165375
+            ],
+            [
+              32.012630928250559,
+              30.008394295681171
+            ],
+            [
+              32.005125541677856,
+              29.803517735661181
+            ],
+            [
+              32.499664734571311,
+              29.799222563238704
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 22,
+        "available" : true,
+        "recordIdentifier" : "G8300 s100.G7",
+        "title" : "Egypt 1/100000",
+        "year" : "1914",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143635770203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665548?buttons=y",
+        "label" : "C17",
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665548?width=200",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143635770203941&sublib=MAP&collection=LC&callnum=G8300+s100+G7&description=sheet+C17"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 23,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              32.996452524000055,
+              30.000912515506915
+            ],
+            [
+              32.998730358701906,
+              29.393066076832266
+            ],
+            [
+              33.364917386586455,
+              29.392896647692268
+            ],
+            [
+              33.367576614800015,
+              30.001707350770243
+            ],
+            [
+              32.996452524000055,
+              30.000912515506915
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 23,
+        "available" : false,
+        "recordIdentifier" : "G8300 s100.G7",
+        "title" : "Egypt 1/100000",
+        "year" : "1914",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143635770203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "C23",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 24,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              32.99488712205283,
+              30.579083973044813
+            ],
+            [
+              32.996452524000055,
+              30.000912515506915
+            ],
+            [
+              33.367576614800015,
+              30.001707350770243
+            ],
+            [
+              33.370807791310092,
+              30.581221238148547
+            ],
+            [
+              32.99488712205283,
+              30.579083973044813
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 24,
+        "available" : false,
+        "recordIdentifier" : "G8300 s100.G7",
+        "title" : "Egypt 1/100000",
+        "year" : "1914",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143635770203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "C22",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 25,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              33.370807791310092,
+              30.581221238148547
+            ],
+            [
+              33.375170363577098,
+              31.21981155765641
+            ],
+            [
+              32.994134128408071,
+              31.228560860626949
+            ],
+            [
+              32.993887958687154,
+              31.180338146266738
+            ],
+            [
+              32.99488712205283,
+              30.579083973044813
+            ],
+            [
+              33.370807791310092,
+              30.581221238148547
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 25,
+        "available" : false,
+        "recordIdentifier" : "G8300 s100.G7",
+        "title" : "Egypt 1/100000",
+        "year" : "1914",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143635770203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : " ",
+        "label" : "C21",
+        "thumbnailUrl" : " ",
+        "note" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 26,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              32.001079346528684,
+              31.191512482203606
+            ],
+            [
+              32.003404566262432,
+              31.583317654684897
+            ],
+            [
+              32.004716796711463,
+              31.787515859068158
+            ],
+            [
+              31.509149321096974,
+              31.791716869704967
+            ],
+            [
+              31.509139544979035,
+              31.197100801692461
+            ],
+            [
+              32.001079346528684,
+              31.191512482203606
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 26,
+        "available" : true,
+        "recordIdentifier" : "G8300 s100.G7",
+        "title" : "Egypt 1/100000",
+        "year" : "1914",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143635770203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665524?buttons=y",
+        "label" : "C4",
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665524?width=200",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143635770203941&sublib=MAP&collection=LC&callnum=G8300+s100+G7&description=sheet+C4"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 27,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              31.509139544979035,
+              31.197100801692461
+            ],
+            [
+              31.509149321096974,
+              31.791716869704967
+            ],
+            [
+              31.015043975472746,
+              31.793977915695827
+            ],
+            [
+              31.01014443223232,
+              31.200840952891834
+            ],
+            [
+              31.509139544979035,
+              31.197100801692461
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 27,
+        "available" : true,
+        "recordIdentifier" : "G8300 s100.G7",
+        "title" : "Egypt 1/100000",
+        "year" : "1914",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143635770203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:4266522?buttons=y",
+        "label" : "C3",
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:4266522?width=200",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143635770203941&sublib=MAP&collection=LC&callnum=G8300+s100+G7&description=sheet+C3"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 28,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              31.01014443223232,
+              31.200840952891834
+            ],
+            [
+              31.015043975472746,
+              31.793977915695827
+            ],
+            [
+              30.521872610118809,
+              31.794316324312287
+            ],
+            [
+              30.513954680435567,
+              31.202635277755974
+            ],
+            [
+              31.01014443223232,
+              31.200840952891834
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 28,
+        "available" : true,
+        "recordIdentifier" : "G8300 s100.G7",
+        "title" : "Egypt 1/100000",
+        "year" : "1914",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143635770203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665520?buttons=y",
+        "label" : "C2",
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665520?width=200",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143635770203941&sublib=MAP&collection=LC&callnum=G8300+s100+G7&description=sheet+C2"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 29,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              30.513954680435567,
+              31.202635277755974
+            ],
+            [
+              30.521872610118809,
+              31.794316324312287
+            ],
+            [
+              30.003140545254013,
+              31.792605029198825
+            ],
+            [
+              30.000674575115376,
+              31.30934470096118
+            ],
+            [
+              30.00016128087244,
+              31.202471395503558
+            ],
+            [
+              30.513954680435567,
+              31.202635277755974
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 29,
+        "available" : true,
+        "recordIdentifier" : "G8300 s100.G7",
+        "title" : "Egypt 1/100000",
+        "year" : "1914",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143635770203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665518?buttons=y",
+        "label" : "C1",
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665518?width=200",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143635770203941&sublib=MAP&collection=LC&callnum=G8300+s100+G7&description=sheet+C1"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 30,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              32.006653857885297,
+              30.59698881118139
+            ],
+            [
+              32.002833031123352,
+              30.999028443832401
+            ],
+            [
+              32.001079346528684,
+              31.191512482203606
+            ],
+            [
+              31.509139544979035,
+              31.197100801692461
+            ],
+            [
+              31.509612094256774,
+              30.60099547688435
+            ],
+            [
+              32.006653857885297,
+              30.59698881118139
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 30,
+        "available" : true,
+        "recordIdentifier" : "G8300 s100.G7",
+        "title" : "Egypt 1/100000",
+        "year" : "1914",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143635770203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665536?buttons=y",
+        "label" : "C11",
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665536?width=200",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143635770203941&sublib=MAP&collection=LC&callnum=G8300+s100+G7&description=sheet+C11"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 31,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              31.509612094256774,
+              30.60099547688435
+            ],
+            [
+              31.509139544979035,
+              31.197100801692461
+            ],
+            [
+              31.01014443223232,
+              31.200840952891834
+            ],
+            [
+              31.005699041993907,
+              30.60311159438432
+            ],
+            [
+              31.509612094256774,
+              30.60099547688435
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 31,
+        "available" : true,
+        "recordIdentifier" : "G8300 s100.G7",
+        "title" : "Egypt 1/100000",
+        "year" : "1914",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143635770203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665534?buttons=y",
+        "label" : "C10",
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665534?width=200",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143635770203941&sublib=MAP&collection=LC&callnum=G8300+s100+G7&description=sheet+C10"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 32,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              30.50641267497986,
+              30.603276812375782
+            ],
+            [
+              30.499457676955412,
+              30.013934610192724
+            ],
+            [
+              31.001793564370061,
+              30.014031488370176
+            ],
+            [
+              31.005699041993907,
+              30.60311159438432
+            ],
+            [
+              30.50641267497986,
+              30.603276812375782
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 32,
+        "available" : true,
+        "recordIdentifier" : "G8300 s100.G7",
+        "title" : "Egypt 1/100000",
+        "year" : "1914",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143635770203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665542?buttons=y",
+        "label" : "C14",
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665542?width=200",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143635770203941&sublib=MAP&collection=LC&callnum=G8300+s100+G7&description=sheet+C14"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 33,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              29.997488758065902,
+              30.601467497125046
+            ],
+            [
+              29.995216229345171,
+              30.011903258211056
+            ],
+            [
+              30.499457676955412,
+              30.013934610192724
+            ],
+            [
+              30.50641267497986,
+              30.603276812375782
+            ],
+            [
+              29.997488758065902,
+              30.601467497125046
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 33,
+        "available" : true,
+        "recordIdentifier" : "G8300 s100.G7",
+        "title" : "Egypt 1/100000",
+        "year" : "1914",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143635770203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665540?buttons=y",
+        "label" : "C13",
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665540?width=200",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143635770203941&sublib=MAP&collection=LC&callnum=G8300+s100+G7&description=sheet+C13"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 34,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              32.900124986515088,
+              25.800176704039611
+            ],
+            [
+              33.000153888888896,
+              25.800037988694768
+            ],
+            [
+              33.000153888888889,
+              26.250037863904826
+            ],
+            [
+              32.513814762741767,
+              26.250061175990197
+            ],
+            [
+              32.511389669389118,
+              25.984796325416255
+            ],
+            [
+              32.501055413461877,
+              25.984711196671
+            ],
+            [
+              32.500153888888889,
+              25.800037988694779
+            ],
+            [
+              32.900124986515088,
+              25.800176704039611
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 34,
+        "available" : false,
+        "recordIdentifier" : "G8300 s100 .G7",
+        "title" : "Egypt 1/100000",
+        "year" : "1914",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143635770203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665504?buttons=y",
+        "label" : "16R",
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665504?width=200",
+        "note" : "Only available on-line.  No paper copy."
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 35,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              32.900153888888909,
+              25.400038097421653
+            ],
+            [
+              32.900153888888873,
+              25.800037988694768
+            ],
+            [
+              32.900124986515088,
+              25.800176704039611
+            ],
+            [
+              32.500153888888889,
+              25.800037988694779
+            ],
+            [
+              32.400153888888902,
+              25.800037988694783
+            ],
+            [
+              32.400153888888902,
+              25.400038097421636
+            ],
+            [
+              32.450162411589922,
+              25.40011522058068
+            ],
+            [
+              32.900153888888909,
+              25.400038097421653
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 35,
+        "available" : false,
+        "recordIdentifier" : "G8300 s100 .G7",
+        "title" : "Egypt 1/100000",
+        "year" : "1914",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143635770203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665506?buttons=y",
+        "label" : "17R",
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665506?width=200",
+        "note" : "Only available on-line.  No paper copy."
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 36,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              32.450162411589922,
+              25.40011522058068
+            ],
+            [
+              32.450153888888899,
+              25.400038097421636
+            ],
+            [
+              32.450153888888899,
+              25.00003820407634
+            ],
+            [
+              32.950153888888906,
+              25.000038204076301
+            ],
+            [
+              32.950153888888913,
+              25.400871430530632
+            ],
+            [
+              32.900153888888909,
+              25.400038097421653
+            ],
+            [
+              32.450162411589922,
+              25.40011522058068
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 36,
+        "available" : false,
+        "recordIdentifier" : "G8300 s100 .G7",
+        "title" : "Egypt 1/100000",
+        "year" : "1914",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143635770203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665508?buttons=y",
+        "label" : "18R",
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665508?width=200",
+        "note" : "Only available on-line.  No paper copy."
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 37,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              32.450153888888899,
+              25.00003820407634
+            ],
+            [
+              32.450153888888892,
+              24.600038308655048
+            ],
+            [
+              32.950153888888906,
+              24.600038308655048
+            ],
+            [
+              32.950153888888906,
+              25.000038204076301
+            ],
+            [
+              32.450153888888899,
+              25.00003820407634
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 37,
+        "available" : " ",
+        "recordIdentifier" : "G8300 s100 .G7",
+        "title" : "Egypt 1/100000",
+        "year" : "19141",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143635770203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665510?buttons=y",
+        "label" : "19R",
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665510?width=200",
+        "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990143635770203941&sublib=MAP&collection=LC&callnum=G8300+s100+G7&description=sheet+19R"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 38,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              32.450153888888892,
+              24.600038308655048
+            ],
+            [
+              32.450153888888913,
+              24.200038411154406
+            ],
+            [
+              32.950153888888892,
+              24.200038411154399
+            ],
+            [
+              32.950153888888906,
+              24.600038308655048
+            ],
+            [
+              32.450153888888892,
+              24.600038308655048
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 38,
+        "available" : false,
+        "recordIdentifier" : "G8300 s100 .G7",
+        "title" : "Egypt 1/100000",
+        "year" : "1914",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143635770203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665512\r\n?buttons=y",
+        "label" : "20R",
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665512\r\n?width=200",
+        "note" : "Only available on-line.  No paper copy."
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 39,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              32.450153888888913,
+              24.200038411154406
+            ],
+            [
+              32.450153888888899,
+              23.800038511570961
+            ],
+            [
+              32.950153888888892,
+              23.800038511570961
+            ],
+            [
+              32.950153888888892,
+              24.200038411154399
+            ],
+            [
+              32.450153888888913,
+              24.200038411154406
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "FID" : 39,
+        "available" : false,
+        "recordIdentifier" : "G8300 s100 .G7",
+        "title" : "Egypt 1/100000",
+        "year" : "1914",
+        "websiteUrl" : "http://id.lib.harvard.edu/alma/990143635770203941/catalog",
+        "downloadUrl" : " ",
+        "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665514?buttons=y",
+        "label" : "21R",
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42665514?width=200",
+        "note" : "Only available on-line.  No paper copy."
+      }
+    }
+  ]
+}
