@@ -138,7 +138,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42611582?buttons=y",
         "label" : "Marle",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Marle",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42611582?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42611582?width=200"
       }
     },
     {
@@ -182,7 +182,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42403624?buttons=y",
         "label" : "Vervins",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Vervins",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42403624?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42403624?width=200"
       }
     },
     {
@@ -226,7 +226,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:39726459?buttons=y",
         "label" : "Le Nouvion",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Le Nouvion",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:39726459?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:39726459?width=200"
       }
     },
     {
@@ -270,7 +270,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:38596440?buttons=y",
         "label" : "Bavay",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Bavay",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:38596440?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:38596440?width=200"
       }
     },
     {
@@ -314,7 +314,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42611602?buttons=y",
         "label" : "Montcornet",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Montcornet",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42611602?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42611602?width=200"
       }
     },
     {
@@ -362,7 +362,7 @@
         "iiifUrl" : " ",
         "label" : "Aubenton",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -406,7 +406,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:41401365?buttons=y",
         "label" : "Hirson",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Hirson",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:41401365?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:41401365?width=200"
       }
     },
     {
@@ -450,7 +450,7 @@
         "iiifUrl" : " ",
         "label" : "Signy-le-Petit",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Signy-le-Petit",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -494,7 +494,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42403482?buttons=y",
         "label" : "Maubeuge",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Maubeuge",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42403482?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42403482?width=200"
       }
     },
     {
@@ -538,7 +538,7 @@
         "iiifUrl" : " ",
         "label" : "Cousolre",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -582,7 +582,7 @@
         "iiifUrl" : " ",
         "label" : "Mons",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -626,7 +626,7 @@
         "iiifUrl" : " ",
         "label" : "Binche",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -670,7 +670,7 @@
         "iiifUrl" : " ",
         "label" : "Grammont",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -714,7 +714,7 @@
         "iiifUrl" : " ",
         "label" : "Assche",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -758,7 +758,7 @@
         "iiifUrl" : " ",
         "label" : "Chateauneuf sur Loire",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -802,7 +802,7 @@
         "iiifUrl" : " ",
         "label" : "Sully",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -846,7 +846,7 @@
         "iiifUrl" : " ",
         "label" : "Le Moulinet",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -890,7 +890,7 @@
         "iiifUrl" : " ",
         "label" : "Chatillon-Coligny",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -934,7 +934,7 @@
         "iiifUrl" : " ",
         "label" : "le Charme",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -978,7 +978,7 @@
         "iiifUrl" : " ",
         "label" : "Grandchamp",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -1026,7 +1026,7 @@
         "iiifUrl" : " ",
         "label" : "Toucy",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -1070,7 +1070,7 @@
         "iiifUrl" : " ",
         "label" : "Combreux",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -1114,7 +1114,7 @@
         "iiifUrl" : " ",
         "label" : "Bellegarde",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -1158,7 +1158,7 @@
         "iiifUrl" : " ",
         "label" : "Chevillon",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -1202,7 +1202,7 @@
         "iiifUrl" : " ",
         "label" : "Montargis",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -1246,7 +1246,7 @@
         "iiifUrl" : " ",
         "label" : "Chateau Renard",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -1290,7 +1290,7 @@
         "iiifUrl" : " ",
         "label" : "Courtenay",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -1334,7 +1334,7 @@
         "iiifUrl" : " ",
         "label" : "Joigny",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -1378,7 +1378,7 @@
         "iiifUrl" : " ",
         "label" : "Pithiviers",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -1422,7 +1422,7 @@
         "iiifUrl" : " ",
         "label" : "Beaune la Rolande",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -1466,7 +1466,7 @@
         "iiifUrl" : " ",
         "label" : "Mondreville",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -1510,7 +1510,7 @@
         "iiifUrl" : " ",
         "label" : "Ferrieres Gatinais",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -1554,7 +1554,7 @@
         "iiifUrl" : " ",
         "label" : "Cheroy",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -1598,7 +1598,7 @@
         "iiifUrl" : " ",
         "label" : "St. Valerien",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -1642,7 +1642,7 @@
         "iiifUrl" : " ",
         "label" : "Sens",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -1686,7 +1686,7 @@
         "iiifUrl" : " ",
         "label" : "Sermaises",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -1730,7 +1730,7 @@
         "iiifUrl" : " ",
         "label" : "Etampes",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -1774,7 +1774,7 @@
         "iiifUrl" : " ",
         "label" : "Malesherbes",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -1818,7 +1818,7 @@
         "iiifUrl" : " ",
         "label" : "Nemours",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -1862,7 +1862,7 @@
         "iiifUrl" : " ",
         "label" : "Fontainebleau",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -1906,7 +1906,7 @@
         "iiifUrl" : " ",
         "label" : "Montereau",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -1950,7 +1950,7 @@
         "iiifUrl" : " ",
         "label" : "Pont sur Yonne",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -1994,7 +1994,7 @@
         "iiifUrl" : " ",
         "label" : "Sergines",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -2038,7 +2038,7 @@
         "iiifUrl" : " ",
         "label" : "La Ferte Alais",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -2082,7 +2082,7 @@
         "iiifUrl" : " ",
         "label" : "Melun",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -2126,7 +2126,7 @@
         "iiifUrl" : " ",
         "label" : "Sivry",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -2170,7 +2170,7 @@
         "iiifUrl" : " ",
         "label" : "Nancis",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -2214,7 +2214,7 @@
         "iiifUrl" : " ",
         "label" : "Donnemarie",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -2258,7 +2258,7 @@
         "iiifUrl" : " ",
         "label" : "Provins",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -2302,7 +2302,7 @@
         "iiifUrl" : " ",
         "label" : "Chevreuse",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -2346,7 +2346,7 @@
         "iiifUrl" : " ",
         "label" : "Rambouillet",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -2390,7 +2390,7 @@
         "iiifUrl" : " ",
         "label" : "Palaissau",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -2434,7 +2434,7 @@
         "iiifUrl" : " ",
         "label" : "Corbeil",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Corbeil",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -2478,7 +2478,7 @@
         "iiifUrl" : " ",
         "label" : "Brie-Comte-Robert",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Brie-Comte-Robert",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -2522,7 +2522,7 @@
         "iiifUrl" : " ",
         "label" : "Tournan",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Tournan",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -2566,7 +2566,7 @@
         "iiifUrl" : " ",
         "label" : "Lumigny",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -2610,7 +2610,7 @@
         "iiifUrl" : " ",
         "label" : "Amillis",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -2654,7 +2654,7 @@
         "iiifUrl" : " ",
         "label" : "Villiers-St. Georges",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -2698,7 +2698,7 @@
         "iiifUrl" : " ",
         "label" : "Versailles",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Versailles",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -2742,7 +2742,7 @@
         "iiifUrl" : " ",
         "label" : "Maule",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -2786,7 +2786,7 @@
         "iiifUrl" : "https://nrs.harvard.edu/urn-3:FHCL:101323828?buttons=y",
         "label" : "Sevres",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Sevres",
-        "thumbnailUrlnailUrl" : "https://nrs.harvard.edu/urn-3:FHCL:101323828?width=200"
+        "thumbnailUrl" : "https://nrs.harvard.edu/urn-3:FHCL:101323828?width=200"
       }
     },
     {
@@ -2830,7 +2830,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:100488651?buttons=y",
         "label" : "Saint Denis",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Saint Denis",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:100488651?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:100488651?width=200"
       }
     },
     {
@@ -2874,7 +2874,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:39726465?buttons=y",
         "label" : "Le Raincy",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Le Raincy",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:39726465?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:39726465?width=200"
       }
     },
     {
@@ -2918,7 +2918,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:41245976?buttons=y",
         "label" : "Lagny",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Lagny",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:41245976?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:41245976?width=200"
       }
     },
     {
@@ -2962,7 +2962,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42611592?buttons=y",
         "label" : "Meaux - Crecy-en-Brie",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Meaux - Crecy-en-Brie",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42611592?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42611592?width=200"
       }
     },
     {
@@ -3006,7 +3006,7 @@
         "iiifUrl" : " ",
         "label" : "Coulommiers",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Coulommiers",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -3050,7 +3050,7 @@
         "iiifUrl" : " ",
         "label" : "La Ferte Gaucher",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -3094,7 +3094,7 @@
         "iiifUrl" : " ",
         "label" : "Mantes",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -3138,7 +3138,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:100488617?buttons=y",
         "label" : "Pontoise",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Pontoise",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:100488617?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:100488617?width=200"
       }
     },
     {
@@ -3182,7 +3182,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42611598?buttons=y",
         "label" : "Meulan",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Meulan",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42611598?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42611598?width=200"
       }
     },
     {
@@ -3226,7 +3226,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42611606?buttons=y",
         "label" : "Montmorency",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Montmorency",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42611606?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42611606?width=200"
       }
     },
     {
@@ -3270,7 +3270,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:39726473?buttons=y",
         "label" : "Luzarches",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Luzarches",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:39726473?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:39726473?width=200"
       }
     },
     {
@@ -3314,7 +3314,7 @@
         "iiifUrl" : " ",
         "label" : "Dammartin-en-Goele",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Dammartin-en-Goele",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -3358,7 +3358,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42403512?buttons=y",
         "label" : "Montge",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Montge",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42403512?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42403512?width=200"
       }
     },
     {
@@ -3402,7 +3402,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:41246001?buttons=y",
         "label" : "Lizy-sur-Ourcq",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Lizy-sur-Ourcq",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:41246001?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:41246001?width=200"
       }
     },
     {
@@ -3446,7 +3446,7 @@
         "iiifUrl" : "https://nrs.harvard.edu/urn-3:FHCL:101323814?buttons=y",
         "label" : "Sainte-Aulde",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Sainte-Aulde",
-        "thumbnailUrlnailUrl" : "https://nrs.harvard.edu/urn-3:FHCL:101323814?width=200"
+        "thumbnailUrl" : "https://nrs.harvard.edu/urn-3:FHCL:101323814?width=200"
       }
     },
     {
@@ -3490,7 +3490,7 @@
         "iiifUrl" : " ",
         "label" : "Chateau-Thierry",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Chateau-Thierry",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -3534,7 +3534,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:41563659?buttons=y",
         "label" : "Etrepagny-Ecos",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Etrepagny-Ecos",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:41563659?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:41563659?width=200"
       }
     },
     {
@@ -3578,7 +3578,7 @@
         "iiifUrl" : " http://nrs.harvard.edu/urn-3:FHCL:41401341?buttons=y",
         "label" : "Gisors-Magney-en-Vexin",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Gisors-Magney-en-Vexin",
-        "thumbnailUrlnailUrl" : " http://nrs.harvard.edu/urn-3:FHCL:41401341?width=200"
+        "thumbnailUrl" : " http://nrs.harvard.edu/urn-3:FHCL:41401341?width=200"
       }
     },
     {
@@ -3622,7 +3622,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42403488?buttons=y",
         "label" : "Meru",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Meru",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42403488?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42403488?width=200"
       }
     },
     {
@@ -3666,7 +3666,7 @@
         "iiifUrl" : " ",
         "label" : "Chaumont-en-Vexin-Chars",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Chaumont-en-Vexin-Chars",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -3710,7 +3710,7 @@
         "iiifUrl" : " ",
         "label" : "Beaumont-sur-Oise",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Beaumont-sur-Oise",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -3754,7 +3754,7 @@
         "iiifUrl" : " ",
         "label" : "Crell",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Crell",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -3798,7 +3798,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:100488615?buttons=y",
         "label" : "Pont-Ste.-Maxence-Senlis",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Pont-Ste.-Maxence-Senlis",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:100488615?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:100488615?width=200"
       }
     },
     {
@@ -3842,7 +3842,7 @@
         "iiifUrl" : " ",
         "label" : "Verberie",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Verberie",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -3886,7 +3886,7 @@
         "iiifUrl" : " ",
         "label" : "Crepy-en-Valois",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Crepy-en-Valois",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -3930,7 +3930,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42403648?buttons=y",
         "label" : "Villers-Cotterets",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Villers-Cotterets",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42403648?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42403648?width=200"
       }
     },
     {
@@ -3974,7 +3974,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42403544?buttons=y",
         "label" : "Oulchy-le-Chateau",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Oulchy-le-Chateau",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42403544?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42403544?width=200"
       }
     },
     {
@@ -4018,7 +4018,7 @@
         "iiifUrl" : " ",
         "label" : "Lyons la Foret",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -4062,7 +4062,7 @@
         "iiifUrl" : " ",
         "label" : "Gournay en Bray",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -4106,7 +4106,7 @@
         "iiifUrl" : " ",
         "label" : "Beauvais",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Beauvais",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -4150,7 +4150,7 @@
         "iiifUrl" : " ",
         "label" : "La Coudray",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -4194,7 +4194,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:41563667?buttons=y",
         "label" : "Fay-St. Quentin-Hermes",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Fay-St. Quentin-Hermes",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:41563667?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:41563667?width=200"
       }
     },
     {
@@ -4238,7 +4238,7 @@
         "iiifUrl" : " ",
         "label" : "Clermont",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Clermont",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -4282,7 +4282,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:41563639?buttons=y",
         "label" : "Estrees-St. Denis - Sacy-le-Petit",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Estrees-St. Denis - Sacy-le-Petit",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:41563639?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:41563639?width=200"
       }
     },
     {
@@ -4326,7 +4326,7 @@
         "iiifUrl" : " ",
         "label" : "Compiegne",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Compiegne",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -4370,7 +4370,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:100488611?buttons=y",
         "label" : "Pierrefonds",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Pierrefonds",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:100488611?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:100488611?width=200"
       }
     },
     {
@@ -4414,7 +4414,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42403630?buttons=y",
         "label" : "Vic-sur-Aisne",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Vic-sur-Aisne",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42403630?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42403630?width=200"
       }
     },
     {
@@ -4458,7 +4458,7 @@
         "iiifUrl" : " ",
         "label" : "Soissons",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Soissons",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -4502,7 +4502,7 @@
         "iiifUrl" : " ",
         "label" : "Forges les Eaux",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -4546,7 +4546,7 @@
         "iiifUrl" : " ",
         "label" : "Formerie",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -4590,7 +4590,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:39726411?buttons=y",
         "label" : "Crevecoeur-le-Grand",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Crevecoeur-le-Grand",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:39726411?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:39726411?width=200"
       }
     },
     {
@@ -4634,7 +4634,7 @@
         "iiifUrl" : " ",
         "label" : "Grandvillers",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -4678,7 +4678,7 @@
         "iiifUrl" : " ",
         "label" : "Breteuil",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Breteuil",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -4722,7 +4722,7 @@
         "iiifUrl" : "https://nrs.harvard.edu/urn-3:FHCL:101323836?buttons=y",
         "label" : "St. Just-en-Chaussee",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+St. Just-en-Chaussee",
-        "thumbnailUrlnailUrl" : "https://nrs.harvard.edu/urn-3:FHCL:101323836?width=200"
+        "thumbnailUrl" : "https://nrs.harvard.edu/urn-3:FHCL:101323836?width=200"
       }
     },
     {
@@ -4766,7 +4766,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42611604?buttons=y",
         "label" : "Montdidier",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Montdidier",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42611604?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42611604?width=200"
       }
     },
     {
@@ -4810,7 +4810,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:41245987?buttons=y",
         "label" : "Lassigny",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Lassigny",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:41245987?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:41245987?width=200"
       }
     },
     {
@@ -4854,7 +4854,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42611630?buttons=y",
         "label" : "Noyon",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Noyon",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42611630?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42611630?width=200"
       }
     },
     {
@@ -4898,7 +4898,7 @@
         "iiifUrl" : " ",
         "label" : "Chauny",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Chauny",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -4942,7 +4942,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:39726445?buttons=y",
         "label" : "La Fere",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+La Fere",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:39726445?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:39726445?width=200"
       }
     },
     {
@@ -4986,7 +4986,7 @@
         "iiifUrl" : " ",
         "label" : "Neufchatel",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -5030,7 +5030,7 @@
         "iiifUrl" : " ",
         "label" : "Aumale",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -5074,7 +5074,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42403564?buttons=y",
         "label" : "Poix",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Poix",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42403564?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42403564?width=200"
       }
     },
     {
@@ -5118,7 +5118,7 @@
         "iiifUrl" : " ",
         "label" : "Hornoy",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -5162,7 +5162,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:100488607?buttons=y",
         "label" : "Oresmaux",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Oresmaux",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:100488607?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:100488607?width=200"
       }
     },
     {
@@ -5206,7 +5206,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42611610?buttons=y",
         "label" : "Moreuil",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Moreuil",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42611610?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42611610?width=200"
       }
     },
     {
@@ -5250,7 +5250,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:41401359?buttons=y",
         "label" : "Hangest",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Hangest",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:41401359?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:41401359?width=200"
       }
     },
     {
@@ -5294,7 +5294,7 @@
         "iiifUrl" : " ",
         "label" : "Chaulnes",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Chaulnes",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -5338,7 +5338,7 @@
         "iiifUrl" : " ",
         "label" : "Nesle",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Nesle",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -5382,7 +5382,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:41401357?buttons=y",
         "label" : "Ham",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Ham",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:41401357?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:41401357?width=200"
       }
     },
     {
@@ -5426,7 +5426,7 @@
         "iiifUrl" : "https://nrs.harvard.edu/urn-3:FHCL:101323844?buttons=y",
         "label" : "St. Quentin",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+St. Quentin",
-        "thumbnailUrlnailUrl" : "https://nrs.harvard.edu/urn-3:FHCL:101323844?width=200"
+        "thumbnailUrl" : "https://nrs.harvard.edu/urn-3:FHCL:101323844?width=200"
       }
     },
     {
@@ -5470,7 +5470,7 @@
         "iiifUrl" : " ",
         "label" : "Gamaches",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -5514,7 +5514,7 @@
         "iiifUrl" : " ",
         "label" : "Oisemont",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -5558,7 +5558,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42403560?buttons=y",
         "label" : "Picquigny",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Picquigny",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42403560?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42403560?width=200"
       }
     },
     {
@@ -5602,7 +5602,7 @@
         "iiifUrl" : " ",
         "label" : "Hallencourt",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -5646,7 +5646,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:38596414?buttons=y",
         "label" : "Amiens",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Amiens",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:38596414?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:38596414?width=200"
       }
     },
     {
@@ -5690,7 +5690,7 @@
         "iiifUrl" : " ",
         "label" : "Corbie",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Corbie",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -5734,7 +5734,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:38596406?buttons=y",
         "label" : "Albert",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Albert",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:38596406?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:38596406?width=200"
       }
     },
     {
@@ -5778,7 +5778,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42403552?buttons=y",
         "label" : "Peronne",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Peronne",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42403552?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42403552?width=200"
       }
     },
     {
@@ -5822,7 +5822,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:100488645?buttons=y",
         "label" : "Roisel",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Roisel",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:100488645?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:100488645?width=200"
       }
     },
     {
@@ -5866,7 +5866,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:39726455?buttons=y",
         "label" : "Le Catelet",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Le Catelet",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:39726455?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:39726455?width=200"
       }
     },
     {
@@ -5910,7 +5910,7 @@
         "iiifUrl" : " ",
         "label" : "Ault",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -5954,7 +5954,7 @@
         "iiifUrl" : " ",
         "label" : "St. Valery sur Somme",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -5998,7 +5998,7 @@
         "iiifUrl" : " ",
         "label" : "Domart en Ponthieu",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -6042,7 +6042,7 @@
         "iiifUrl" : " ",
         "label" : "Abbeville",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -6086,7 +6086,7 @@
         "iiifUrl" : " ",
         "label" : "Bernaville",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Bernaville",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -6130,7 +6130,7 @@
         "iiifUrl" : " ",
         "label" : "Doullens",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Doullens",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -6174,7 +6174,7 @@
         "iiifUrl" : " ",
         "label" : "Acheux",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Acheux",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -6218,7 +6218,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:38596432?buttons=y",
         "label" : "Bapaume",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Bapaume",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:38596432?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:38596432?width=200"
       }
     },
     {
@@ -6262,7 +6262,7 @@
         "iiifUrl" : " ",
         "label" : "Cambrai",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Cambrai",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -6306,7 +6306,7 @@
         "iiifUrl" : " ",
         "label" : "Clary",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Clary",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -6350,7 +6350,7 @@
         "iiifUrl" : " ",
         "label" : "Fort-Mahon",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -6394,7 +6394,7 @@
         "iiifUrl" : " ",
         "label" : "Rue",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -6438,7 +6438,7 @@
         "iiifUrl" : " ",
         "label" : "Hesdin",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -6482,7 +6482,7 @@
         "iiifUrl" : " ",
         "label" : "Crecy en Ponthieu",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -6526,7 +6526,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:39726433?buttons=y",
         "label" : "Frevent",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Frevent",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:39726433?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:39726433?width=200"
       }
     },
     {
@@ -6570,7 +6570,7 @@
         "iiifUrl" : "https://nrs.harvard.edu/urn-3:FHCL:101323838?buttons=y",
         "label" : "St. Michel",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+St. Michel",
-        "thumbnailUrlnailUrl" : "https://nrs.harvard.edu/urn-3:FHCL:101323838?width=200"
+        "thumbnailUrl" : "https://nrs.harvard.edu/urn-3:FHCL:101323838?width=200"
       }
     },
     {
@@ -6614,7 +6614,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:38596422?buttons=y",
         "label" : "Aubigny",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Aubigny",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:38596422?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:38596422?width=200"
       }
     },
     {
@@ -6658,7 +6658,7 @@
         "iiifUrl" : " ",
         "label" : "Arras",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Arras",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -6702,7 +6702,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:39726417?buttons=y",
         "label" : "Douai",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Douai",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:39726417?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:39726417?width=200"
       }
     },
     {
@@ -6746,7 +6746,7 @@
         "iiifUrl" : " ",
         "label" : "Denain",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Denain",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -6790,7 +6790,7 @@
         "iiifUrl" : " ",
         "label" : "Berck",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -6834,7 +6834,7 @@
         "iiifUrl" : " ",
         "label" : "Montreuil",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -6878,7 +6878,7 @@
         "iiifUrl" : " ",
         "label" : "Fruges",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -6922,7 +6922,7 @@
         "iiifUrl" : " ",
         "label" : "Hucqueliers",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -6966,7 +6966,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:39726441?buttons=y",
         "label" : "Heuchin",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Heuchin",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:39726441?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:39726441?width=200"
       }
     },
     {
@@ -7010,7 +7010,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:41245999?buttons=y",
         "label" : "Lillers",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Lillers",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:41245999?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:41245999?width=200"
       }
     },
     {
@@ -7054,7 +7054,7 @@
         "iiifUrl" : " ",
         "label" : "Bethune",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Bethune",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -7098,7 +7098,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:39726461?buttons=y",
         "label" : "Lens",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Lens",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:39726461?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:39726461?width=200"
       }
     },
     {
@@ -7142,7 +7142,7 @@
         "iiifUrl" : " ",
         "label" : "Pont-a-Marcq",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -7190,7 +7190,7 @@
         "iiifUrl" : " ",
         "label" : "Orchies",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -7238,7 +7238,7 @@
         "iiifUrl" : " ",
         "label" : "Cap Gris-Nez",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -7282,7 +7282,7 @@
         "iiifUrl" : " ",
         "label" : "Boulogne",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -7326,7 +7326,7 @@
         "iiifUrl" : " ",
         "label" : "Samer",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -7374,7 +7374,7 @@
         "iiifUrl" : " ",
         "label" : "Marquise",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -7418,7 +7418,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:41246016?buttons=y",
         "label" : "Lumbres",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Lumbres",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:41246016?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:41246016?width=200"
       }
     },
     {
@@ -7462,7 +7462,7 @@
         "iiifUrl" : " ",
         "label" : "Desvres",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -7506,7 +7506,7 @@
         "iiifUrl" : "https://nrs.harvard.edu/urn-3:FHCL:101323842?buttons=y",
         "label" : "St. Omer",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+St. Omer",
-        "thumbnailUrlnailUrl" : "https://nrs.harvard.edu/urn-3:FHCL:101323842?width=200"
+        "thumbnailUrl" : "https://nrs.harvard.edu/urn-3:FHCL:101323842?width=200"
       }
     },
     {
@@ -7550,7 +7550,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:38596404?buttons=y",
         "label" : "Aire",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Aire",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:38596404?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:38596404?width=200"
       }
     },
     {
@@ -7594,7 +7594,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:39726439?buttons=y",
         "label" : "Hazebrouck",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Hazebrouck",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:39726439?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:39726439?width=200"
       }
     },
     {
@@ -7638,7 +7638,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:39726453?buttons=y",
         "label" : "Lavente",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Lavente",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:39726453?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:39726453?width=200"
       }
     },
     {
@@ -7682,7 +7682,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:41401351?buttons=y",
         "label" : "Gravelines",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Gravelines",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:41401351?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:41401351?width=200"
       }
     },
     {
@@ -7726,7 +7726,7 @@
         "iiifUrl" : " ",
         "label" : "Audruicq",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Audruicq",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -7774,7 +7774,7 @@
         "iiifUrl" : " ",
         "label" : "Calais",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Calais",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -7818,7 +7818,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:39726437?buttons=y",
         "label" : "Guines",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Guines",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:39726437?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:39726437?width=200"
       }
     },
     {
@@ -7866,7 +7866,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42611578?buttons=y",
         "label" : "Mardick",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Mardick",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42611578?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42611578?width=200"
       }
     },
     {
@@ -7910,7 +7910,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42403654?buttons=y",
         "label" : "Watten",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Watten",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42403654?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42403654?width=200"
       }
     },
     {
@@ -7954,7 +7954,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:41563622?buttons=y",
         "label" : "Dunkerque",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Dunkerque",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:41563622?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:41563622?width=200"
       }
     },
     {
@@ -7998,7 +7998,7 @@
         "iiifUrl" : " ",
         "label" : "Cassel",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Cassel",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -8046,7 +8046,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:39726443?buttons=y",
         "label" : "Hondschoote",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Hondschoote",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:39726443?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:39726443?width=200"
       }
     },
     {
@@ -8090,7 +8090,7 @@
         "iiifUrl" : " ",
         "label" : "Steenvoorde",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Steenvoorde",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -8134,7 +8134,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:39726413?buttons=y",
         "label" : "Dixmude",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Dixmude",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:39726413?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:39726413?width=200"
       }
     },
     {
@@ -8178,7 +8178,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:41563633?buttons=y",
         "label" : "Elverdinghe",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Elverdinghe",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:41563633?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:41563633?width=200"
       }
     },
     {
@@ -8226,7 +8226,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:100488609?buttons=y",
         "label" : "Ostende",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Ostende",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:100488609?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:100488609?width=200"
       }
     },
     {
@@ -8270,7 +8270,7 @@
         "iiifUrl" : " ",
         "label" : "Couckeladre",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Couckeladre",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -8314,7 +8314,7 @@
         "iiifUrl" : " ",
         "label" : "Oostburg",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -8358,7 +8358,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:41016499?buttons=y",
         "label" : "Zeebrugge",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Zeebrugge",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:41016499?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:41016499?width=200"
       }
     },
     {
@@ -8402,7 +8402,7 @@
         "iiifUrl" : " ",
         "label" : "L'Ecluse",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -8450,7 +8450,7 @@
         "iiifUrl" : " ",
         "label" : "Aardenburg",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -8494,7 +8494,7 @@
         "iiifUrl" : " ",
         "label" : "Ecloo",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -8542,7 +8542,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:41401353?buttons=y",
         "label" : "Guise",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Guise",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:41401353?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:41401353?width=200"
       }
     },
     {
@@ -8594,7 +8594,7 @@
         "iiifUrl" : " ",
         "label" : "Gand",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -8642,7 +8642,7 @@
         "iiifUrl" : " ",
         "label" : "Termonde",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -8690,7 +8690,7 @@
         "iiifUrl" : " ",
         "label" : "Dour",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -8742,7 +8742,7 @@
         "iiifUrl" : " ",
         "label" : "Ath",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -8794,7 +8794,7 @@
         "iiifUrl" : " ",
         "label" : "Nederbrakel",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -8838,7 +8838,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:38596424?buttons=y",
         "label" : "Avesnes",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Avesnes",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:38596424?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:38596424?width=200"
       }
     },
     {
@@ -8882,7 +8882,7 @@
         "iiifUrl" : " ",
         "label" : "Trelon",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Trelon",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -8926,7 +8926,7 @@
         "iiifUrl" : " ",
         "label" : "Bievene",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -8970,7 +8970,7 @@
         "iiifUrl" : " ",
         "label" : "Soignies",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -9018,7 +9018,7 @@
         "iiifUrl" : " ",
         "label" : "Tournai",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -9066,7 +9066,7 @@
         "iiifUrl" : " ",
         "label" : "Courtrai",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -9114,7 +9114,7 @@
         "iiifUrl" : " ",
         "label" : "Thielt",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -9158,7 +9158,7 @@
         "iiifUrl" : " ",
         "label" : "Deynze",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -9202,7 +9202,7 @@
         "iiifUrl" : " ",
         "label" : "Audenande",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -9250,7 +9250,7 @@
         "iiifUrl" : " ",
         "label" : "Crayshaulem",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -9298,7 +9298,7 @@
         "iiifUrl" : " ",
         "label" : "Renaix",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -9342,7 +9342,7 @@
         "iiifUrl" : " ",
         "label" : "Leuze",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -9394,7 +9394,7 @@
         "iiifUrl" : " ",
         "label" : "Peruwelz",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -9438,7 +9438,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:38596420?buttons=y",
         "label" : "Attigny",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Attigny",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:38596420?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:38596420?width=200"
       }
     },
     {
@@ -9490,7 +9490,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:100488627?buttons=y",
         "label" : "Reims",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Reims",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:100488627?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:100488627?width=200"
       }
     },
     {
@@ -9534,7 +9534,7 @@
         "iiifUrl" : " ",
         "label" : "St. Nicholas",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -9582,7 +9582,7 @@
         "iiifUrl" : " ",
         "label" : "Namur",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -9634,7 +9634,7 @@
         "iiifUrl" : " ",
         "label" : "Everghem",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -9678,7 +9678,7 @@
         "iiifUrl" : " ",
         "label" : "Combles",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Combles",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -9722,7 +9722,7 @@
         "iiifUrl" : " ",
         "label" : "Bertincourt",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Bertincourt",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -9766,7 +9766,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:41016487?buttons=y",
         "label" : "Vitry-en-Artois",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Vitry-en-Artois",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:41016487?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:41016487?width=200"
       }
     },
     {
@@ -9810,7 +9810,7 @@
         "iiifUrl" : " ",
         "label" : "Carvin",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Carvin",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -9854,7 +9854,7 @@
         "iiifUrl" : " ",
         "label" : "Armentieres",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Armentieres",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -9898,7 +9898,7 @@
         "iiifUrl" : " ",
         "label" : "Lille",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -9942,7 +9942,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:41016497?buttons=y",
         "label" : "Ypres",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Ypres",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:41016497?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:41016497?width=200"
       }
     },
     {
@@ -9986,7 +9986,7 @@
         "iiifUrl" : " ",
         "label" : "Menin",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -10030,7 +10030,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:100488647?buttons=y",
         "label" : "Roulers",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Roulers",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:100488647?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:100488647?width=200"
       }
     },
     {
@@ -10074,7 +10074,7 @@
         "iiifUrl" : " ",
         "label" : "Bruges",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Bruges",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -10122,7 +10122,7 @@
         "iiifUrl" : " ",
         "label" : "Oedelem",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -10170,7 +10170,7 @@
         "iiifUrl" : " ",
         "label" : "Aeltre",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -10214,7 +10214,7 @@
         "iiifUrl" : " ",
         "label" : "Cappellen",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -10258,7 +10258,7 @@
         "iiifUrl" : " ",
         "label" : "Gray",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -10310,7 +10310,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:39726423?buttons=y",
         "label" : "Faulquemont",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Faulquemont",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:39726423?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:39726423?width=200"
       }
     },
     {
@@ -10358,7 +10358,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:41245995?buttons=y",
         "label" : "Liart",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Liart",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:41245995?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:41245995?width=200"
       }
     },
     {
@@ -10402,7 +10402,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42611590?buttons=y",
         "label" : "Maubert-Fontaine",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Maubert-Fontaine",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42611590?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42611590?width=200"
       }
     },
     {
@@ -10446,7 +10446,7 @@
         "iiifUrl" : " ",
         "label" : "Thuin",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -10490,7 +10490,7 @@
         "iiifUrl" : " ",
         "label" : "Fountaine l'Eveque",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -10534,7 +10534,7 @@
         "iiifUrl" : " ",
         "label" : "Bruxelles",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -10582,7 +10582,7 @@
         "iiifUrl" : " ",
         "label" : "Wilebroeck",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -10626,7 +10626,7 @@
         "iiifUrl" : " ",
         "label" : "Bevere Waes",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -10670,7 +10670,7 @@
         "iiifUrl" : " ",
         "label" : "Berendrecht",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -10714,7 +10714,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:100488629?buttons=y",
         "label" : "Renwez",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Renwez",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:100488629?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:100488629?width=200"
       }
     },
     {
@@ -10758,7 +10758,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:100488643?buttons=y",
         "label" : "Rocroi",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Rocroi",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:100488643?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:100488643?width=200"
       }
     },
     {
@@ -10802,7 +10802,7 @@
         "iiifUrl" : " ",
         "label" : "Charleroi",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -10846,7 +10846,7 @@
         "iiifUrl" : " ",
         "label" : "Overyssche",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -10890,7 +10890,7 @@
         "iiifUrl" : " ",
         "label" : "Malines",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -10934,7 +10934,7 @@
         "iiifUrl" : " ",
         "label" : "Lierre",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -10978,7 +10978,7 @@
         "iiifUrl" : " ",
         "label" : "Anvers",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -11026,7 +11026,7 @@
         "iiifUrl" : " ",
         "label" : "Brecht",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -11070,7 +11070,7 @@
         "iiifUrl" : " ",
         "label" : "Merxplas",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -11114,7 +11114,7 @@
         "iiifUrl" : " ",
         "label" : "Herenthals",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -11162,7 +11162,7 @@
         "iiifUrl" : " ",
         "label" : "Dinant",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -11206,7 +11206,7 @@
         "iiifUrl" : " ",
         "label" : "Chimay",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -11250,7 +11250,7 @@
         "iiifUrl" : " ",
         "label" : "Nivelles",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -11298,7 +11298,7 @@
         "iiifUrl" : " ",
         "label" : "Vireux-Molhain",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -11342,7 +11342,7 @@
         "iiifUrl" : " ",
         "label" : "Couvin",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -11390,7 +11390,7 @@
         "iiifUrl" : " ",
         "label" : "Mettet",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -11434,7 +11434,7 @@
         "iiifUrl" : " ",
         "label" : "Florennes",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -11482,7 +11482,7 @@
         "iiifUrl" : " ",
         "label" : "Gembloux",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -11530,7 +11530,7 @@
         "iiifUrl" : " ",
         "label" : "Wavre",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -11574,7 +11574,7 @@
         "iiifUrl" : " ",
         "label" : "Genappe",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -11622,7 +11622,7 @@
         "iiifUrl" : " ",
         "label" : "Louvain",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -11670,7 +11670,7 @@
         "iiifUrl" : " ",
         "label" : "Putte",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -11718,7 +11718,7 @@
         "iiifUrl" : " ",
         "label" : "Aerschot",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -11766,7 +11766,7 @@
         "iiifUrl" : " ",
         "label" : "Lubbeek",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -11814,7 +11814,7 @@
         "iiifUrl" : " ",
         "label" : "Perwez",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -11862,7 +11862,7 @@
         "iiifUrl" : "http://nrs/harvard.edu/urn-3:FHCL:41401343?buttons=y",
         "label" : "Givet",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Givet",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:41401343?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:41401343?width=200"
       }
     },
     {
@@ -11910,7 +11910,7 @@
         "iiifUrl" : " ",
         "label" : "Fumay",
         "note" : " ",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -11958,7 +11958,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:41401361?buttons=y",
         "label" : "Hautes-Riviires",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Hautes-Riviires",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:41401361?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:41401361?width=200"
       }
     },
     {
@@ -12006,7 +12006,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42403494?buttons=y",
         "label" : "Mezieres",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Mezieres",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42403494?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:42403494?width=200"
       }
     },
     {
@@ -12054,7 +12054,7 @@
         "iiifUrl" : "https://nrs.harvard.edu/urn-3:FHCL:101323824?buttons=y",
         "label" : "Sedan",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Sedan",
-        "thumbnailUrlnailUrl" : "https://nrs.harvard.edu/urn-3:FHCL:101323824?width=200"
+        "thumbnailUrl" : "https://nrs.harvard.edu/urn-3:FHCL:101323824?width=200"
       }
     },
     {
@@ -12106,7 +12106,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:100488623?buttons=y",
         "label" : "Raucourt",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Raucourt",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:100488623?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:100488623?width=200"
       }
     },
     {
@@ -12162,7 +12162,7 @@
         "iiifUrl" : " ",
         "label" : "Buzancy",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Buzancy",
-        "thumbnailUrlnailUrl" : " "
+        "thumbnailUrl" : " "
       }
     },
     {
@@ -12206,7 +12206,7 @@
         "iiifUrl" : "https://nrs.harvard.edu/urn-3:FHCL:101323850?buttons=y",
         "label" : "Ste. Menehould",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Ste. Menehould",
-        "thumbnailUrlnailUrl" : "https://nrs.harvard.edu/urn-3:FHCL:101323850?width=200"
+        "thumbnailUrl" : "https://nrs.harvard.edu/urn-3:FHCL:101323850?width=200"
       }
     },
     {
@@ -12258,7 +12258,7 @@
         "iiifUrl" : "http://nrs.harvard.edu/urn-3:FHCL:39726431?buttons=y",
         "label" : "Foret d'Argonne",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Foret d'Argonne",
-        "thumbnailUrlnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:39726431?width=200"
+        "thumbnailUrl" : "http://nrs.harvard.edu/urn-3:FHCL:39726431?width=200"
       }
     },
     {
@@ -12302,7 +12302,7 @@
         "iiifUrl" : "https://nrs.harvard.edu/urn-3:FHCL:101323846?buttons=y",
         "label" : "Ste. Marie-a-Py",
         "note" : "View in Library: https://aeon.hul.harvard.edu/logon?action=10&form=30&sid=Via%20AEON&hollisnum=990139462880203941&sublib=MAP&collection=LC&callnum=G7820+s100+J36&description=sheet+Ste. Marie-a-Py",
-        "thumbnailUrlnailUrl" : "https://nrs.harvard.edu/urn-3:FHCL:101323846?width=200"
+        "thumbnailUrl" : "https://nrs.harvard.edu/urn-3:FHCL:101323846?width=200"
       }
     },
     {
