@@ -30,7 +30,7 @@
   "dct_spatial_sm": [
     "Ghana"
   ],
-  "solr_geom": "ENVELOPE(-3.25, 1,25, 11.25, 4.75)",
+  "solr_geom": "ENVELOPE(-3.25, 1.25, 11.25, 4.75)",
   "solr_year_i": 1851,
   "geoblacklight_version": "1.0",
   "harvard_collectionID_sm": [
