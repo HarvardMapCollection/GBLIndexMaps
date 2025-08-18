@@ -4,7 +4,7 @@
     "dc_description_s": "This polygon is an index to 1:250,000 scale maps of China (AMS Series L500), titled 'China 1:250,000.' This map series was originally produced by the United States Army Map Service, 1954-. This series is part of a large collection of paper series maps held by the Harvard Map Collection. To request access to paper materials at the Harvard Map Collection: \u003ca href='https://id.lib.harvard.edu/alma/990094028280203941/catalog/'\u003ehttps://id.lib.harvard.edu/alma/990094028280203941/catalog/\u003ca\u003e. This layer provides an index map that can be used to locate individual paper map sheets, scanned map images, and georeferenced scanned maps, when available. Polygon data derived from openindexmaps.org data found in ArcGIS Online and updated to represent Harvard Map Collection resources.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "Harvard",
-    "dct_references_s": "{\"https://openindexmaps.org\": \"https://raw.githubusercontent.com/HarvardMapCollection/GBLIndexMaps/master/HARVARD_AMS7810_S250_U54_INDEX_GR.geojson\"}",
+    "dct_references_s": "{\"https://openindexmaps.org\": \"https://raw.githubusercontent.com/HarvardMapCollection/GBLIndexMaps/refs/heads/master/GeoJSON/HARVARD_AMS7810_S250_U54_INDEX_GR.geojson\"}",
     "layer_slug_s": "harvard-ams7810-s250-index-gr",
     "layer_geom_type_s": "Polygon",
     "layer_modified_dt": "2025-08-15T00:00:00Z",
